@@ -40,13 +40,16 @@ jobs:
           KEYWORDS: ${{ vars.KEYWORDS }}
           POST_LATEST: ${{ inputs.post_latest }}
           POST_INTERVAL_MIN: ${{ vars.POST_INTERVAL_MIN }}
+          QUIET_START: ${{ vars.QUIET_START }}
+          QUIET_END: ${{ vars.QUIET_END }}
+          DIGEST_TIME: ${{ vars.DIGEST_TIME }}
           PYTHONUNBUFFERED: "1"
         run: python bot.py
 
-      - name: Save list of posted news
+      - name: Save bot state
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add seen.json
+          git add seen.json state.json
           git diff --cached --quiet || git commit -m "update seen.json"
           git push
