@@ -336,13 +336,25 @@ def rewrite_with_claude(item: dict, source: str) -> str | None:
     return ask_claude(prompt, 400)
 
 
+class RewriteFailed(Exception):
+    """Claude key is set but the rewrite didn't work — don't post Portuguese text."""
+
+
 def build_post(item: dict, source: str, important: bool) -> tuple[str, str]:
     """Returns (post html, plain headline for the digest)."""
     text = None
-    try:
-        text = rewrite_with_claude(item, source)
-    except Exception as exc:  # noqa: BLE001
-        print(f"  ! Claude rewrite failed: {exc}")
+    if os.getenv("ANTHROPIC_API_KEY"):
+        try:
+            text = rewrite_with_claude(item, source)
+        except requests.HTTPError as exc:
+            detail = exc.response.text[:300] if exc.response is not None else ""
+            raise RewriteFailed(f"{exc} {detail}") from exc
+        except Exception as exc:  # noqa: BLE001
+            raise RewriteFailed(str(exc)) from exc
+        if not text:
+            raise RewriteFailed("empty answer")
+    else:
+        print("  ! ANTHROPIC_API_KEY is not set — posting the original Portuguese text")
 
     if text:
         head, _, body = text.partition("\n")
@@ -556,6 +568,12 @@ def main() -> None:
             state["posted"].append({"date": current.date().isoformat(), "title": headline,
                                     "important": p["important"], "source": name})
             print(f"  ✓ {item['title'][:70]}", flush=True)
+        except RewriteFailed as exc:
+            print(f"  ! Claude rewrite failed, news kept in the queue: {exc}")
+            leftover = [x for x in to_post[n:] if x is not p] + leftover
+            leftover.insert(0, p)
+            print("  Stopping this run, will retry next time.")
+            break
         except Exception as exc:  # noqa: BLE001
             print(f"  ! send failed: {exc}")
 
