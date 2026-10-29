@@ -1,5 +1,116 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-guerra-traduzida/ataque-fecho-temporario-de-aeroportos-em-moscovo/",
+    "title": "Ataque fecho temporário de aeroportos em Moscovo",
+    "summary": "A capital russa foi alvo de um ataque noturno com centenas de drones ucranianos, que levou à suspensão temporária de voos em Moscovo. Presidente da câmara confirma que defesas abateram vários drones",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
+   },
+   "important": true,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/mais-casas-significam-mais-futuro-olhao-investe-40-milhoes-em-habitacao-para-reter-jovens/",
+    "title": "Habitação. Olhão aprova investimento de 40 milhões de euros",
+    "summary": "O empréstimo de 49 milhões de euros, aprovado pelo executivo municipal, vai ser submetido à Assembleia Municipal para aprovação final",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1190:nowe:0:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/23175950/istock-2204074095.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/vichyssoise/assis-esta-claramente-errado/",
+    "title": "“Assis está claramente errado”",
+    "summary": "Luís Testa, vice-presidente da bancada parlamentar do PS, diz que o eurodeputado socialista não tem razão quando critica os deputados do partido que se juntaram às manifestações.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/cgtp-convoca-manifestacao-para-21-de-novembro-e-promete-luta-em-crescendo/",
+    "title": "CGTP convoca \"grande manifestação\" para 21 de novembro",
+    "summary": "Tiago Oliveira criticou o Governo por não dar resposta aos \"problemas concretos da vida de quem trabalha\"",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29184524/48032312.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/portugal-e-mais-11-paises-da-ue-vao-libertar-426-milhoes-de-barris-de-petroleo-para-travar-subida-dos-precos/",
+    "title": "Portugal entre 12 países que vão libertar barris de petróleo",
+    "summary": "Os preços da energia dispararam desde o início da guerra no Irão, com o litro de gasóleo a ultrapassar os 2,30 euros em vários países da UE",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/17121024/46888748.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/centenas-de-policias-e-guardas-protestam-em-lisboa-por-melhores-salarios/",
+    "title": "Lisboa. Centenas de polícias protestam por melhores salários",
+    "summary": "O desfile com destino a São Bento começa a partir das 19h30 para, segundo os organizadores, ser cumprida a lei da manifestação, que apenas permite desfiles a partir daquela hora durante os dias úteis",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29193038/48032563.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/agencia-para-o-clima-tem-ate-fim-do-ano-para-redefinir-areas-de-financiamento-europeu-para-descarbonizacao-ate-2030/",
+    "title": "Portugal redefine prioridades do Fundo de Modernização da UE",
+    "summary": "A orientação dada à Agência para o Clima, que assumirá a coordenação nacional desde fundo europeu, do qual Portugal beneficia desde 2024",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1711:966:nowe:0:368/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/27203939/47005316.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/ventura-diz-que-flavio-bolsonaro-nao-devia-ter-fugido-do-brasil-e-admite-que-nao-lhe-teria-dado-asilo-em-portugal-se-estivesse-no-governo/",
+    "title": "Ventura admite que não daria asilo a Flávio Bolsonaro",
+    "summary": "\"Aconselhá-lo-ia a voltar ao Brasil e a enfrentar a justiça e a conseguir vencer no seu país\", assumiu Ventura",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15171958/47758558.jpg"
+   },
+   "important": true,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/venezuela-quatro-portugueses-continuam-presos-por-razoes-politicas-no-pais-diz-o-ministro-dos-negocios-estrangeiros/",
+    "title": "Quatro portugueses presos por motivos políticos na Venezuela",
+    "summary": "Dados do Foro Penal indicam que, a 05 de outubro, havia 322 pessoas presas por motivos políticos na Venezuela",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29195755/47955284.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/29/ordem-dos-medicos-preocupada-com-listas-da-espera-nos-acores/",
+    "title": "Açores. Ordem dos Médicos preocupada com listas da espera",
+    "summary": "O bastonário destacou a \"perspetiva de futuro\", com a reconstrução do HDES, mas salientou que \"também há que olhar para o presente, porque as pessoas, hoje, precisam desses cuidados de saúde\"",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/30162456/hospital-divino-espirito-santo-acores.jpg"
+   },
+   "important": false,
+   "added": "2026-10-29T21:13:42.883604+00:00"
+  }
+ ],
  "posted": [
   {
    "date": "2026-10-29",
@@ -14,5 +125,5 @@
    "source": "Público"
   }
  ],
- "digest_date": ""
+ "digest_date": "2026-10-29"
 }
