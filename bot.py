@@ -57,6 +57,10 @@ MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN") or "5")
 POST_LANGUAGE = os.getenv("POST_LANGUAGE") or "русский"
 KEYWORDS = [k.strip().lower() for k in os.getenv("KEYWORDS", "").split(",") if k.strip()]
 DRY_RUN = os.getenv("DRY_RUN") == "1"
+# manual run: post the N latest news right now, even if already seen
+POST_LATEST = int(os.getenv("POST_LATEST") or "0")
+# pause between posts in one run, minutes
+POST_INTERVAL_MIN = float(os.getenv("POST_INTERVAL_MIN") or "5")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL") or "claude-haiku-5-5"
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; NewsToTelegramBot/1.0)"}
@@ -75,6 +79,18 @@ def save_seen(seen: dict) -> None:
     # keep the last 500 links per source so the file doesn't grow forever
     trimmed = {k: v[-500:] for k, v in seen.items()}
     STATE_FILE.write_text(json.dumps(trimmed, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def clean(text: str) -> str:
+    """Decode HTML entities (even double-encoded ones), strip tags, tidy spaces."""
+    text = text or ""
+    for _ in range(3):
+        decoded = html.unescape(text)
+        if decoded == text:
+            break
+        text = decoded
+    text = BeautifulSoup(text, "html.parser").get_text(" ", strip=True)
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
 
 
 def norm(url: str) -> str:
@@ -106,8 +122,8 @@ def from_rss(feed_url: str) -> list[dict]:
                 if enc.get("type", "").startswith("image"):
                     image = enc.get("href")
                     break
-        summary = BeautifulSoup(e.get("summary", ""), "html.parser").get_text(" ", strip=True)
-        items.append({"url": e.link, "title": e.get("title", ""), "summary": summary, "image": image})
+        items.append({"url": e.link, "title": clean(e.get("title", "")),
+                      "summary": clean(e.get("summary", "")), "image": image})
     return items
 
 
@@ -141,8 +157,8 @@ def read_article_meta(url: str) -> dict:
 
     return {
         "url": url,
-        "title": meta("og:title") or (soup.title.string.strip() if soup.title else ""),
-        "summary": meta("og:description") or meta("description"),
+        "title": clean(meta("og:title") or (soup.title.string if soup.title else "")),
+        "summary": clean(meta("og:description") or meta("description")),
         "image": meta("og:image") or None,
     }
 
@@ -247,15 +263,16 @@ def main() -> None:
             print(f"  ! failed: {exc}")
             continue
         known = set(seen.get(src["name"], []))
-        fresh = [i for i in items if norm(i["url"]) not in known]
-        print(f"  {len(items)} found, {len(fresh)} new")
-        seen.setdefault(src["name"], []).extend(norm(i["url"]) for i in fresh)
+        new = [i for i in items if norm(i["url"]) not in known]
+        print(f"  {len(items)} found, {len(new)} new")
+        seen.setdefault(src["name"], []).extend(norm(i["url"]) for i in new)
+        fresh = items[:POST_LATEST] if POST_LATEST else new
         if KEYWORDS:
             fresh = [i for i in fresh if any(k in (i["title"] + " " + i["summary"]).lower() for k in KEYWORDS)]
         # oldest first, so the channel reads chronologically
         queue += [(src["name"], i) for i in reversed(fresh)]
 
-    if first_run and not DRY_RUN:
+    if first_run and not DRY_RUN and not POST_LATEST:
         # first launch: remember what's already on the sites, post nothing (no flood)
         print("First run: saved current news as already seen, nothing posted.")
         save_seen(seen)
@@ -265,17 +282,26 @@ def main() -> None:
     by_src: dict[str, list] = {}
     for name, item in queue:
         by_src.setdefault(name, []).append(item)
+    limit = POST_LATEST or MAX_POSTS_PER_RUN
     ordered = []
-    while any(by_src.values()) and len(ordered) < MAX_POSTS_PER_RUN:
+    while any(by_src.values()) and len(ordered) < limit:
         for name in list(by_src):
-            if by_src[name] and len(ordered) < MAX_POSTS_PER_RUN:
+            if by_src[name] and len(ordered) < limit:
                 ordered.append((name, by_src[name].pop(0)))
 
-    for name, item in ordered:
+    for n, (name, item) in enumerate(ordered):
+        if n > 0:
+            print(f"  … waiting {POST_INTERVAL_MIN:g} min before next post", flush=True)
+            time.sleep(POST_INTERVAL_MIN * 60)
+        if not item.get("image"):
+            # feed has no picture (e.g. CNN Portugal) — take it from the article page
+            try:
+                item["image"] = read_article_meta(item["url"])["image"]
+            except Exception:  # noqa: BLE001
+                pass
         try:
             send(build_post(item, name), item.get("image"))
-            print(f"  ✓ {item['title'][:70]}")
-            time.sleep(3)
+            print(f"  ✓ {item['title'][:70]}", flush=True)
         except Exception as exc:  # noqa: BLE001
             print(f"  ! send failed: {exc}")
 
