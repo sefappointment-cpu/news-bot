@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # каждые 30 минут (время UTC)
   workflow_dispatch:          # кнопка ручного запуска
+    inputs:
+      post_latest:
+        description: "Опубликовать N последних новостей прямо сейчас (0 — только новые)"
+        default: "0"
 
 permissions:
   contents: write
@@ -15,6 +19,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -33,6 +38,9 @@ jobs:
           POST_LANGUAGE: ${{ vars.POST_LANGUAGE }}
           MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN }}
           KEYWORDS: ${{ vars.KEYWORDS }}
+          POST_LATEST: ${{ inputs.post_latest }}
+          POST_INTERVAL_MIN: ${{ vars.POST_INTERVAL_MIN }}
+          PYTHONUNBUFFERED: "1"
         run: python bot.py
 
       - name: Save list of posted news
