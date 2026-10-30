@@ -3,17 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/a-guerra-traduzida/ataque-fecho-temporario-de-aeroportos-em-moscovo/",
-    "title": "Ataque fecho temporário de aeroportos em Moscovo",
-    "summary": "A capital russa foi alvo de um ataque noturno com centenas de drones ucranianos, que levou à suspensão temporária de voos em Moscovo. Presidente da câmara confirma que defesas abateram vários drones",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg"
-   },
-   "important": true,
-   "added": "2026-10-29T21:13:42.883604+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/10/29/ventura-diz-que-flavio-bolsonaro-nao-devia-ter-fugido-do-brasil-e-admite-que-nao-lhe-teria-dado-asilo-em-portugal-se-estivesse-no-governo/",
     "title": "Ventura admite que não daria asilo a Flávio Bolsonaro",
     "summary": "\"Aconselhá-lo-ia a voltar ao Brasil e a enfrentar a justiça e a conseguir vencer no seu país\", assumiu Ventura",
@@ -34,81 +23,92 @@
    "added": "2026-10-30T00:02:15.912245+00:00"
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/30/uniao-europeia-e-canada-defendem-alianca-perante-deriva-protecionista-dos-eua/",
-    "title": "UE e Canadá defendem aliança perante protecionismo dos EUA",
-    "summary": "Kallas concordou que a nova aliança \"não é contra ninguém\" e explica que o contexto geopolítico obriga o Canadá e a Europa a identificarem parceiros confiáveis",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30034006/47974845.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/ps-e-ad-preparam-terreno-para-acordos/",
-    "title": "PS e AD preparam terreno para acordos?",
-    "summary": "PS e AD não fecham portas a (inesperadas) negociações. E ainda, os rankings (tão esperados) de escolas.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/14100301/770-podcast-ainda-bem-que-faz-essa-pergunta-com-bruno-vieira-amaral.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/30/ilha-nas-filipinas-troca-betao-pela-natureza-para-combater-subida-do-nivel-do-mar/",
-    "title": "Ilha nas Filipinas troca betão pela natureza",
-    "summary": "Os habitantes disseram que as barreiras suavizaram as ondas e ajudaram a manter a água afastada durante os tufões e as chuvas das monções",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/10/29103042/39742096.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/30/natacao-em-criancas-pequenas-reforca-aprendizagem-academica-e-social/",
-    "title": "Natação em crianças pequenas reforça aprendizagem académica",
-    "summary": "As crianças que participam em aulas de natação obtêm vantagens no desenvolvimento cognitivo, nas competências linguísticas e na regulação emocional",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:190/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30010155/13558164.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/bce/taxas-de-juro/prestacao-da-casa-volta-a-subir-em-novembro-apesar-do-ritmo-de-subida-das-euribor-estar-a-abrandar/20261030/6ae32e85d34e53c759c78815",
-    "title": "Prestação da casa volta a subir em novembro apesar do ritmo de subida das Euribor estar a abrandar",
-    "summary": "A subida das taxas Euribor parece estar a dar sinais de que o pior já poderá ter passado para quem tem crédito à habitação. Mas apesar da desaceleração da subida das taxas, quem tiver o crédito a ser revisto em novembro não vai escapar a uma nova subida na prestação a pagar ao banco. Confira o seu caso",
+    "url": "https://cnnportugal.iol.pt/russia/jornal-russo-da-oposicao/mataram-nos-jornal-russo-da-oposicao-novaya-gazeta-anuncia-o-fim-da-sua-existencia/20261030/6ae45716d34e53c759c78a64",
+    "title": "\"Mataram-nos\": jornal russo da oposição Nóvaya Gazeta anuncia o fim da sua existência",
+    "summary": "Além de expulsarem o Nóvaya Gazeta das suas instalações, as autoridades russas \"inutilizaram o sistema de donativos que nos permitia receber contribuições dos nossos leitores\"",
     "image": null
    },
-   "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
+   "important": true,
+   "added": "2026-10-30T08:46:54.414777+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/das-mexidas-nos-precos-dos-combustiveis-ao-encontro-dos-ministros-dos-negocios-estrangeiros-do-g20-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6ae43b720cf299bc29543e83",
-    "title": "Das mexidas nos preços dos combustíveis ao encontro dos ministros dos Negócios Estrangeiros do G20: estas são \"as 5 notícias\" que vão marcar o dia",
-    "summary": "Em apenas 2 minutos, a jornalista Cláudia Valente de Oliveira apresenta as cinco principais notícias que vão marcar esta sexta-feira.",
-    "image": null
+    "url": "https://observador.pt/programas/no-se-fala-de-outra-coisa/andrea-bocelli-alvo-de-criticas-apos-apoiar-israel/",
+    "title": "Andrea Bocelli alvo de críticas após apoiar Israel",
+    "summary": "Depois de mostrar apoio a Israel, Andrea Bocelli sofre contestação da mais alta autoridade religiosa muçulmana. E ainda, a história do maquinista que morreu em Toledo.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/14120208/770-podcast-nao-se-fala-de-outra-coisa-1.jpg"
    },
    "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
+   "added": "2026-10-30T08:46:54.414777+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/porta-avioes/china/china-podera-lancar-em-2027-o-seu-primeiro-porta-avioes-nuclear-que-promete-reforcar-o-poder-militar-de-pequim-no-pacifico-e-no-indico/20261030/6ae44af8d34e9a786e75e7ae",
-    "title": "China poderá lançar em 2027 o seu primeiro porta-aviões nuclear, que promete reforçar o poder militar de Pequim no Pacífico e no Índico",
-    "summary": "O novo porta-aviões está a ser construído nos estaleiros de Dalian, no nordeste da China",
-    "image": null
+    "url": "https://observador.pt/programas/tres-toques/ruben-amorim-ganha-asas-ceo-do-milan-chama-lhe-top-gun/",
+    "title": "Rúben Amorim ganha asas: CEO do Milan chama-lhe Top Gun",
+    "summary": "O CEO do Milan delira ao comparar Rúben Amorim ao destemido Tom Cruise no filme Top Gun. E ainda, Cristiano Ronaldo lembrou-se finalmente de como assinar um hat-trick dois anos e meio depois.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg"
    },
    "important": false,
-   "added": "2026-10-30T07:54:37.869611+00:00"
+   "added": "2026-10-30T08:46:54.414777+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2562/",
+    "title": "8h. Habitação. PSP atenta a novos protestos em Lisboa",
+    "summary": "O Movimento Acampada promove nova manifestação amanhã, em Lisboa. Também neste jornal, o ranking das escolas, os resultados das eleições em Israel e novos dados sobre o acidente em Espanha.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-30T08:46:54.414777+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/rali-dakar-2027-vai-decorrer-em-portugal-e-marrocos/",
+    "title": "Rali Dakar 2027 vai decorrer em Portugal e Marrocos",
+    "summary": "“A primeira etapa será composta por um prólogo seguido de 12 etapas, ocorrendo de 9 a 23 de janeiro\", anunciou a organização",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/01/06111315/35138990.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T08:46:54.414777+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/momentos-de-glria/entre-revolucoes-e-barracos-na-tv-a-receita-e-dar-carga/",
+    "title": "Entre revoluções e barracos na TV, a receita é dar carga",
+    "summary": "Priscila e Rodrigo esbarram na TV, o Chega manda dar carga e a Reconquista tenta invadir Coimbra. Da revolução em frente ao Parlamento aos protestos nas aulas, os extremos afinal até fazem conchinha",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T08:46:54.414777+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/contra-corrente/o-acidente-ferroviario-que-atropelou-a-campanha-de-sanchez/",
+    "title": "O acidente ferroviário que atropelou a campanha de Sanchéz",
+    "summary": "A catástrofe de Urda, segundo acidente na alta-velocidade espanhola em nove meses, suscita questões sobre a conservação da ferrovia e fez descarrilar a estratégia de Sanchéz para as eleições de dia 29",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T08:46:54.414777+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/newsletters/360/o-ranking-das-escolas-o-rosto-da-psp-na-acampada-do-rossio-e-o-no-nas-eleicoes-de-israel/",
+    "title": "O ranking das escolas e o rosto da PSP no Rossio",
+    "summary": "Dados revelados com meses de atraso têm várias curiosidades sobre desempenho das escolas. Falámos com Iúri Rodrigues, o comandante da PSP nos protestos de Lisboa. Não há maioria nas eleições em Israel",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+   },
+   "important": false,
+   "added": "2026-10-30T08:46:54.414777+00:00"
   }
  ],
  "posted": [
@@ -123,6 +123,12 @@
    "title": "Полицейские ждут 19:30, чтобы начать протест",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Атака на Москву и временное закрытие аэропортов",
+   "important": true,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-10-29"
