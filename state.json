@@ -36,17 +36,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/especiais/o-dia-em-que-a-descampada-recuou-para-tomar-balanco/",
-    "title": "O dia em que a descampada recuou para tomar balanço",
-    "summary": "No fim da Assembleia Popular em que tentaram definir estratégias para a luta, os manifestantes jogam xadrez",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:242/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30001623/ilacerda-acampada-noite-13-16-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T01:33:50.132269+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2431/",
     "title": "1h. Benfica vence Gil Vicente e chega à final four da Taça",
     "summary": "O Benfica junta-se a Sporting, FC Porto e Famalicão na final four da Taça da Liga. Ainda, polícias prometem voltar aos protestos se o Governo não apresentar propostas de valorização salarial.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-10-30T01:33:50.132269+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2455/",
+    "title": "As notícias das 2h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-30T02:42:20.025554+00:00"
   }
  ],
  "posted": [
