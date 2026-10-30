@@ -3,18 +3,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/russia/jornal-russo-da-oposicao/mataram-nos-jornal-russo-da-oposicao-novaya-gazeta-anuncia-o-fim-da-sua-existencia/20261030/6ae45716d34e53c759c78a64",
-    "title": "\"Mataram-nos\": jornal russo da oposição Nóvaya Gazeta anuncia o fim da sua existência",
-    "summary": "Além de expulsarem o Nóvaya Gazeta das suas instalações, as autoridades russas \"inutilizaram o sistema de donativos que nos permitia receber contribuições dos nossos leitores\"",
-    "image": "https://img.iol.pt/preset/61defa100cf2cc58e7dcb191/og/cnn"
-   },
-   "important": true,
-   "added": "2026-10-30T08:46:54.414777+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/videos/putin-diz-que-ninguem-ganha-com-prolongar-o-conflito/6ae457d20cf23b0ed4fdfede",
     "title": "\"Putin diz que ninguém ganha com prolongar o conflito\"",
     "summary": "A análise de Tiago André Lopes, comentador da CNN Portugal, aos últimos desenvolvimentos da guerra na Ucrânia.",
@@ -25,92 +13,103 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/pergaminhoflash-impugna-adjudicacao-de-distribuicao-de-jornais-a-vasp/",
+    "title": "PergaminhoFlash impugna concurso ganho pela VASP",
+    "summary": "A VASP ganhou o concurso público de distribuição de imprensa em todos os concelhos de Portugal continental, incluindo os territórios de baixa a densidade",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/10190040/28490695.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T23:04:39.380338+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/relat-rio-de-jogo/cp-x-scp-um-sporting-melhor-fora-do-que-em-casa/",
+    "title": "CP X SCP. \"Um Sporting melhor fora do que em casa\"",
+    "summary": "João Castro considera positiva a exibição de Rui Borges. Destaca como homem do jogo o Fresneda e elogia as defesas do guarda-redes do Casa Pia, Sequeira. Também critica a exibição de Irankunda.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28160020/770-podcast-relatorio-de-jogo-joao-castro.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T23:04:39.380338+00:00"
+  },
+  {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/crise-na-habitacao-queremos-passar-das-palavras-aos-atos/6ae4ee110cf22b9f89053453",
-    "title": "Crise na habitação. \"Queremos passar das palavras aos atos\"",
-    "summary": "Rui Cardoso, deputado do Chega, afirma que o partido está disponível para discutir propostas no sentido de mitigar a crise na habitação.",
+    "url": "https://cnnportugal.iol.pt/videos/um-homem-que-vem-pedir-aos-manifestantes-aquilo-que-nao-tem-para-dar-que-e-legalidade-faz-uma-figura-comica/6ae5121e0cf22b9f8905347a",
+    "title": "\"Um homem que vem pedir aos manifestantes aquilo que não tem para dar, que é legalidade, faz uma figura cómica\"",
+    "summary": "Felícia Cabrita, jornalista do Nascer do Sol, analisa as declarações do ministro da Administração Interna sobre a atuação policial junto dos manifestantes no Rossio.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T21:30:06.758798+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/sporting/paulo-fonseca/paulo-fonseca-no-topo-da-lista-do-sporting",
-    "title": "Paulo Fonseca no topo da lista do Sporting",
-    "summary": "Há conversações entre Sporting, Lyon e o representante do treinador para o negócio se concretizar numa altura em que a saída de Rui Borges é vista cada vez mais como uma inevitabilidade",
+    "url": "https://cnnportugal.iol.pt/videos/houve-uma-tentativa-de-que-as-pessoas-tivessem-medo-de-sair-a-rua-e-isso-e-inaceitavel/6ae5166c0cf299bc2954403c",
+    "title": "\"Houve uma tentativa de que as pessoas tivessem medo de sair à rua e isso é inaceitável\"",
+    "summary": "Joana Mortágua, ex-deputada do Bloco de Esquerda, diz não ter dúvidas de que \"houve uma ordem direta do Governo para as cargas policiais\", que classifica como \"completamente injustificadas\".",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T21:30:06.758798+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/acidente-espanha/comboio-espanha/e-mais-seguro-viajar-nas-carruagens-do-meio-do-comboio-nao-necessariamente-e-a-engenharia-explica-porque/20261030/6ae4d224d34e53c759c78bc9",
-    "title": "É mais seguro viajar nas carruagens do meio do comboio? Não necessariamente - e a engenharia explica porquê",
-    "summary": "O sobrevivente português do acidente ferroviário em Espanha disse que, se voltasse a viajar, escolheria uma carruagem do meio. Há estudos que dão fundamento a essa escolha. Mas a evidência disponível não permite dizer que o centro de um comboio é sempre o lugar mais seguro",
+    "url": "https://cnnportugal.iol.pt/videos/rui-borges-na-parte-final-defendemos-muito-bem-a-baliza/6ae51cdb0cf22b9f8905348b",
+    "title": "Rui Borges: «Na parte final defendemos muito bem a baliza»",
+    "summary": "Treinador do Sporting elogia exibição em Rio Maior, no triunfo por 2-0, frente ao Casa Pia, para a 10.ª jornada da Liga, considerando o desfecho do jogo «mais do que justo».",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T21:30:06.758798+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/camara-do-porto-diz-que-nao-recebeu-pedido-de-prorrogacao-de-obras-da-lello-que-quer-a-mesquita-fora-ate-segunda-feira/",
-    "title": "Obras: impasse entre Lello, mesquita e Câmara",
-    "summary": "A fiscalização dos serviços municipais ocorreu a 2 de maio de 2025, seis meses após a Lello ter adquirido o imóvel",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1905:1072:nowe:0:175/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/08/14133243/porto_covid-19_14_03_37-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/psp/bordalo-ii/tenda-da-psp-equipamento-de-intervencao-e-pedras-instalacao-de-bordalo-ii-no-rossio-ja-foi-retirada/20261030/6ae51bd4d34e9a786e75e9a3",
+    "title": "Tenda da PSP, equipamento de intervenção e pedras: instalação de Bordalo II no Rossio já foi retirada",
+    "summary": "Intervenção faz referência à polémica em torno da atuação da PSP nas acampadas pelo direito à habitação, com uma mensagem crítica do artista dirigida ao Estado e às forças de segurança",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T22:11:59.651893+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/eurodeputados-portugueses-preocupados-com-ameaca-da-extrema-direita-a-democracia-da-ue/",
-    "title": "Eurodeputados portugueses preocupados com a extrema-direita",
-    "summary": "Numa altura em que os cinco maiores países europeus se preparam para eleições, a ascensão clara dos partidos de direita radical é uma preocupação assumida pelos eurodeputados portugueses",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/29171554/jporfirio-tomada-posse-antonio-costa-conselho-europeu-01-34-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/estou-muito-mais-preocupada-com-a-vida-dos-agentes-da-autoridade-do-que-propriamente-com-a-dos-manifestantes/6ae518c80cf23b0ed4fe0083",
+    "title": "\"Estou muito mais preocupada com a vida dos agentes da autoridade do que propriamente com a dos manifestantes\"",
+    "summary": "Rute Sousa, empresária, faz a análise à resposta policial perante os protestos pela habitação.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T22:11:59.651893+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/governo-avanca-com-172-milhoes-para-cobertura-total-do-territorio-em-5g-e-promete-balcao-unico-das-empresas-para-2027/",
-    "title": "5G: Anacom atribui 172 milhões para cobertura total",
-    "summary": "De facto, \"temos um território [com] 98% da população coberta com 5G\", referiu o governante",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/06133957/dventura-tomada-posse-secretarios-de-estado-25-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/rui-borges-era-importante-voltar-as-vitorias-o-resto-e-ruido/6ae51f470cf23b0ed4fe0085",
+    "title": "Rui Borges: «Era importante voltar às vitórias, o resto é ruído»",
+    "summary": "Técnico diz sentir-se seguro no Sporting e garante ter o apoio diário do presidente Frederico Varandas, apesar dos rumores crescentes em torno de uma eventual saída de Alvalade.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T22:11:59.651893+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/psp-volta-atras-e-diz-que-os-drones-devidamente-autorizados-serao-permitidos-durante-manifestacao-no-rossio/",
-    "title": "PSP reverte decisão e afinal drones podem voar no Rossio",
-    "summary": "Autoridades proibiram uso de drones durante manifestação no Rossio, mas reverteram a decisão após \"mal-entendido\" admitido pela PSP. Comunicação social denunciou o caso e vai poder filmar protestos.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/27003037/ilacerda-manif-noite-10-rossio-76-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/rui-borges-balao-de-oxigenio-felizmente-estou-bem-de-saude-nao-preciso/6ae520f20cf22b9f8905348e",
+    "title": "Rui Borges: «Balão de oxigénio? Felizmente, estou bem de saúde, não preciso»",
+    "summary": "Treinador do Sporting responde com ironia a questão sobre a importância do triunfo frente ao Casa Pia para o seu futuro em Alvalade.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T22:11:59.651893+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/newsletters/observadores-premium/como-um-pensamento-a-macgyver-assegurou-uma-parte-importante-do-novo-podcast-plus/",
-    "title": "O pensamento “MacGyver” que reforçou um Podcast Plus",
-    "summary": "Quando algumas das entrevistas mais importantes para o podcast “As Sombras de Duarte Lima” ficaram reféns de um aparelho antigo, foi preciso engenho para recuperar os registos.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png"
-   },
-   "important": false,
-   "added": "2026-10-30T22:11:59.651893+00:00"
+   "added": "2026-10-30T23:04:39.380338+00:00"
   }
  ],
  "posted": [
