@@ -36,17 +36,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2431/",
-    "title": "1h. Benfica vence Gil Vicente e chega à final four da Taça",
-    "summary": "O Benfica junta-se a Sporting, FC Porto e Famalicão na final four da Taça da Liga. Ainda, polícias prometem voltar aos protestos se o Governo não apresentar propostas de valorização salarial.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-30T01:33:50.132269+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/10/30/antiga-fabrica-da-tupperware-em-constancia-vendida-por-4-milhoes-de-euros/",
     "title": "Fábrica da Tupperware em Constância vendida por 4 milhões",
     "summary": "A fábrica foi colocada à venda por 10 milhões, mas foi vendida por apenas 4 milhões.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-10-30T02:42:20.025554+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2482/",
+    "title": "3h. Escolas privadas continuam a liderar rankings do ensino",
+    "summary": "Os rankings de 2025 confirmam o domínio das escolas privadas, sobretudo no ensino secundário. No futebol, o Famalicão vence o Braga nos penáltis e garante um lugar na final four da Taça da Liga.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-30T03:41:36.076229+00:00"
   }
  ],
  "posted": [
