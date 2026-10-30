@@ -92,6 +92,7 @@ PENDING_MAX = int(os.getenv("PENDING_MAX") or "10")
 PENDING_MAX_HOURS = float(os.getenv("PENDING_MAX_HOURS") or "14")
 
 IMPORTANT_TAG = "#важно"
+MAX_REWRITE_FAILS = 2  # a news Claude can't rewrite this many times is dropped
 # used only when there is no Claude key (or Claude fails)
 IMPORTANT_RE = re.compile(
     r"\b(aima|sef|imigra\w*|imigrant\w*|migra\w*|autoriza\w* de resid\w*|vistos?|"
@@ -480,7 +481,9 @@ def order_for_posting(pool: list[dict]) -> list[dict]:
         for name in list(by_src):
             if by_src[name]:
                 rest.append(by_src[name].pop(0))
-    return important + rest
+    ordered = important + rest
+    # news Claude couldn't rewrite before go last, so they never block the others
+    return [p for p in ordered if not p.get("fails")] + [p for p in ordered if p.get("fails")]
 
 
 # ---------------------------------------------------------------- main
@@ -546,8 +549,9 @@ def main() -> None:
             ordered = order_for_posting(pool)
             to_post, leftover = ordered[:MAX_POSTS_PER_RUN], ordered[MAX_POSTS_PER_RUN:]
 
+    fails, retry, posted_in_run = 0, [], False
     for n, p in enumerate(to_post):
-        if n > 0:
+        if posted_in_run:
             print(f"  … waiting {POST_INTERVAL_MIN:g} min before next post", flush=True)
             time.sleep(POST_INTERVAL_MIN * 60)
         current = datetime.now(TZ)
@@ -565,20 +569,30 @@ def main() -> None:
         try:
             post, headline = build_post(item, name, p["important"])
             send(post, item.get("image"))
+            fails, posted_in_run = 0, True
             state["posted"].append({"date": current.date().isoformat(), "title": headline,
                                     "important": p["important"], "source": name})
             print(f"  ✓ {item['title'][:70]}", flush=True)
         except RewriteFailed as exc:
-            print(f"  ! Claude rewrite failed, news kept in the queue: {exc}")
-            leftover = [x for x in to_post[n:] if x is not p] + leftover
-            leftover.insert(0, p)
-            print("  Stopping this run, will retry next time.")
-            break
+            fails += 1
+            p["fails"] = p.get("fails", 0) + 1
+            if p["fails"] >= MAX_REWRITE_FAILS:
+                print(f"  ! Claude rewrite failed {p['fails']}x, news dropped: {exc}")
+            else:
+                print(f"  ! Claude rewrite failed, news kept for retry: {exc}")
+                retry.append(p)
+            if fails >= 3:
+                # three different news failed in a row — probably the API itself is down
+                print("  Stopping this run, will retry next time.")
+                leftover = to_post[n + 1:] + leftover
+                break
+            continue
         except Exception as exc:  # noqa: BLE001
             print(f"  ! send failed: {exc}")
 
     if not manual:
-        state["pending"] = trim_pending(leftover, datetime.now(TZ))
+        # failed news go to the end of the queue so they don't block the others
+        state["pending"] = trim_pending(leftover + retry, datetime.now(TZ))
     maybe_post_digest(state, datetime.now(TZ))
     save_seen(seen)
     save_state(state, datetime.now(TZ))
