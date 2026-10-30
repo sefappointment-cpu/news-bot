@@ -3,68 +3,46 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/explicador/a-autonomia-dos-colegios-explica-a-lideranca-nos-exames/",
-    "title": "A autonomia dos colégios explica a liderança no ranking?",
-    "summary": "João Trigo, diretor do Colégio Efanor, defende que o contexto e a autonomia fazem a diferença no privado. Já Rui Paiva, diretor da Santa Cecília, afirma que os rankings são o reflexo do trabalho.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2078/",
+    "title": "As notícias das 20h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
+   "added": "2026-10-30T20:30:33.852992+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/se-o-primeiro-ministro-criticasse-a-intervencao-policial-a-policia-perdia-o-pe/6ae4e7010cf2e5e7f37cb887",
+    "title": "\"Se o primeiro-ministro criticasse a intervenção policial, a polícia perdia o pé\"",
+    "summary": "Rui Calafate, comentador da CNN Portugal, analisa as declarações do governo sobre a atuação policial junto dos manifestantes na praça do Rossio, em Lisboa.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-30T20:30:33.852992+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/liveblogs/casa-pia-sporting-leoes-procuram-regresso-aos-triunfos-na-liga-em-novo-exame-a-rui-borges/",
-    "title": "Casa Pia-Sporting. Rui Borges faz oito mexidas com surpresas",
-    "summary": "Depois das derrotas com LASK Linz e Ac. Viseu, a que se seguiu um triunfo com o Marítimo, Sporting desloca-se a Rio Maior para defrontar Casa Pia proibido de perder mais pontos. Siga aqui em direto.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29143234/48008659.jpg"
+    "url": "https://observador.pt/programas/capitaes-na-america/frank-fontes-de-sousa-eu-emigrei-da-idade-media/",
+    "title": "Frank Fontes de Sousa: \"Eu emigrei da Idade Média\"",
+    "summary": "De São Jorge para os EUA aos 9 anos, Frank Fontes de Sousa, hoje professor catedrático de português na Universidade de Massachusetts, recorda o sacrifício da mãe e o amor à língua portuguesa.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22095234/770-capitaes-na-america-v2-1.jpg"
    },
    "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
+   "added": "2026-10-30T20:30:33.852992+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/estaremos-la-para-voltar-a-negociar-psp-sem-linhas-vermelhas-para-manifestacao-no-dia-31-mas-descarta-dialogo-infinito-no-rossio/",
-    "title": "PSP sem \"linhas vermelhas\", mas descarta \"diálogo infinito\"",
-    "summary": "Ao Observador, o Superintendente-Chefe José Elias assegura que a polícia privilegiará sempre \"o diálogo e a comunicação permanente\" e procurará \"que seja cumprida a lei\"",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03050144/47701645.jpg"
+    "url": "https://cnnportugal.iol.pt/oe2027/inem/governo-preve-que-financiamento-do-inem-aumente-117-me/20261030/6ae4fd38d34e9a786e75e954",
+    "title": "Governo prevê que financiamento do INEM aumente 117 ME",
+    "summary": "Os números constam da nota explicativa do Ministério da Saúde sobre a proposta do Orçamento do Estado para 2027",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/30/fatura-da-luz-tem-resistido-ao-preco-estratosferico-do-gas-natural-mas-ate-quando/",
-    "title": "Até quando irá a luz resistir ao preço estratosférico do gás",
-    "summary": "Gás natural ultrapassou os 100 dólares por MWh e está a contaminar os preços grossistas da eletricidade. Fatura final tem sido poupada, mas se estes valores se mantiverem, impacto vai chegar em 2027.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30180124/gettyimages-2294997515-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/ps-vai-tentar-obrigar-governo-a-canalizar-receitas-extaordinarias-da-inflacao-para-resposta-a-crise-governo-preocupado/",
-    "title": "PS tenta obrigar Governo a canalizar receitas da inflação",
-    "summary": "Socialistas estudam mecanismos para financiar medidas para custo de vida, incluindo canalizar a receita extra de IVA gerada pela inflação. Governo acompanha estratégia do PS com muita preocupação.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28175906/dventura-votacao-oe2027-28out-43-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/e-o-vencedor-e/psd-em-queda-e-o-milagre-do-eletrico-de-borla/",
-    "title": "PSD em queda e o milagre do elétrico de borla",
-    "summary": "Enquanto o PSD derrapa nas sondagens e a habitação paralisa, surge a medida perfeita. Apoiar a 80% viaturas de 15 mil euros para famílias que sobrevivem com 500 euros por mês.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00"
+   "added": "2026-10-30T20:30:33.852992+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -112,6 +90,30 @@
    },
    "important": false,
    "added": "2026-10-30T13:53:55.568718+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/liveblogs/casa-pia-sporting-leoes-procuram-regresso-aos-triunfos-na-liga-em-novo-exame-a-rui-borges/",
+    "title": "Casa Pia-Sporting. Rui Borges faz oito mexidas com surpresas",
+    "summary": "Depois das derrotas com LASK Linz e Ac. Viseu, a que se seguiu um triunfo com o Marítimo, Sporting desloca-se a Rio Maior para defrontar Casa Pia proibido de perder mais pontos. Siga aqui em direto.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29143234/48008659.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T19:40:46.835210+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/estaremos-la-para-voltar-a-negociar-psp-sem-linhas-vermelhas-para-manifestacao-no-dia-31-mas-descarta-dialogo-infinito-no-rossio/",
+    "title": "PSP sem \"linhas vermelhas\", mas descarta \"diálogo infinito\"",
+    "summary": "Ao Observador, o Superintendente-Chefe José Elias assegura que a polícia privilegiará sempre \"o diálogo e a comunicação permanente\" e procurará \"que seja cumprida a lei\"",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03050144/47701645.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T19:40:46.835210+00:00",
    "fails": 1
   }
  ],
@@ -397,6 +399,27 @@
    "orig": "estado conclui compra de 5,3% da ren à fidelidade por 138,8 milhões",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Частные школы снова возглавили рейтинг по результатам экзаменов",
+   "orig": "a autonomia dos colégios explica a liderança no ranking?",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Спортинг встретили аплодисментами в Риу-Майор",
+   "orig": "sporting recebido com palmas em rio maior",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Президент «Спортинга» Фредерику Варандаш приехал позже других, но уже находится в Риу-Майор",
+   "orig": "frederico varandas chegou mais tarde, mas já está em rio maior",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-10-29"
