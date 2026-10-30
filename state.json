@@ -36,28 +36,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/escolas/rankings/rankings-notas-do-9-ano-pioram-litoral-domina-o-topo-da-tabela-e-escolas-publicas-ficam-para-tras/20261030/6ae35f6ed34e9a786e75e66a",
-    "title": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás",
-    "summary": "De acordo com os dados do Ministério da Educação analisados de acordo com os critérios da agência Lusa, as notas nas provas finais de Português e Matemática pioraram no ano letivo de 2024/2025. Os melhores resultados estão nas grandes cidades do Litoral",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-30T01:33:50.132269+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/escolas/escola/duas-escolas-publicas-do-norte-entre-as-melhores-nas-provas-moda-do-6-ano/20261030/6ae3aabad34e9a786e75e715",
-    "title": "Duas escolas públicas do norte entre as melhores nas provas MOdA do 6.º ano",
-    "summary": "Os dados do Ministério da Educação analisados pela agência Lusa mostram, ainda assim, que a tabela é liderada pelos colégios privados",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-30T01:33:50.132269+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/escolas/escola-basica-de-covao-do-coelho/rankings-escola-que-quase-fechou-e-a-que-tem-melhores-resultados-nas-provas-moda/20261030/6ae39e40d34e53c759c7899b",
     "title": "Rankings: escola que quase fechou é a que tem melhores resultados nas provas ModA",
     "summary": "Segundo os dados do Ministério da Educação analisados pela agência Lusa, a Escola Básica de Covão do Coelho, em Alcanena, está entre as melhores tanto a Português como a Matemática e a Inglês",
@@ -109,6 +87,28 @@
    },
    "important": false,
    "added": "2026-10-30T04:41:17.463751+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/30/opiniao/opiniao/cartas-director-2193100",
+    "title": "Cartas ao director",
+    "summary": "",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-30T05:39:12.399029+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-hist-ria-do-dia/espanha-uma-tragedia-a-beira-das-eleicoes/",
+    "title": "Espanha. Uma tragédia à beira das eleições",
+    "summary": "Um acidente ferroviário matou mais de 60 pessoas e interrompeu a pré-campanha em Espanha. Neste episódio explicamos como a tragédia pode afetar Pedro Sánchez a um mês das eleições.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T05:39:12.399029+00:00"
   }
  ],
  "posted": [
