@@ -1,92 +1,70 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/imagens-impressionantes-ucrania-ataca-refinaria-russa/6ae48c040cf22b9f89053396",
-    "title": "Imagens impressionantes: Ucrânia ataca refinaria russa",
-    "summary": "A Ucrânia atacou uma refinaria de petróleo russa durante a madrugada. Veja as imagens.",
-    "image": null
+    "url": "https://observador.pt/2026/10/30/caso-bes-juiza-rejeita-pela-terceira-vez-extinguir-processo-a-salgado-e-diz-que-doenca-de-alzheimer-nao-serve-para-parar-o-julgamento/",
+    "title": "BES. Juíza volta a negar extinção do processo contra Salgado",
+    "summary": "Helena Susano desmontou argumentos da defesa do ex-banqueiro, avisou que extinção do processo violaria a presunção de inocência e que Alzheimer não é causa legal para acabar o julgamento do arguido.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/15114208/43730625.jpg"
    },
-   "important": true,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "important": false,
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/ucrania-esta-numa-situacao-de-imbroglio-em-termos-financeiros-e-de-defesa-aerea/6ae486da0cf2e5e7f37cb7e4",
-    "title": "Ucrânia está numa situação de \"imbróglio em termos financeiros e de defesa aérea\"",
-    "summary": "Agostinho Costa, especialista em assuntos de segurança e defesa, debruça-se sobre os últimos desenvolvimentos dos conflitos na Ucrânia e no Médio Oriente.",
-    "image": null
-   },
-   "important": true,
-   "added": "2026-10-30T13:53:55.568718+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/paises-europeus-fecharam-os-olhos-as-violacoes-de-direitos-humanos-no-irao/6ae4877f0cf22b9f89053392",
-    "title": "\"Países europeus fecharam os olhos às violações de direitos humanos no Irão\"",
-    "summary": "A Nobel da Paz e ativista iraniana Shirin Ebadi considera que a Europa não fez o que devia desde o primeiro momento, com os protestos de jovens iranianos que escalaram a tensão no país. Entrevista a Sérgio Furtado da CNN Portugal.",
+    "url": "https://cnnportugal.iol.pt/criancas-retiradas-aos-pais/paulo-guerra/ha-criancas-retiradas-aos-pais-que-esperam-anos-por-uma-decisao-juiz-quer-prazos-na-lei/20261030/6ae4a288d34e9a786e75e8a6",
+    "title": "Há crianças retiradas aos pais que esperam anos por uma decisão. Juiz quer prazos na lei",
+    "summary": "Paulo Guerra defende que as famílias tenham um prazo para se reorganizarem",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/10/30/peca-a-20-de-novembro-do-teatro-giria-nomeada-para-premio-no-uruguai/",
-    "title": "Peça do Teatro Gíria nomeada para prémio no Uruguai",
-    "summary": "A peça de teatro estará em cena, em setembro de 2027, no Teatro da Comuna, em Lisboa",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:121/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/28231539/jporfirio-bastidores-eunice-munoz-59-scaled.jpg"
+    "url": "https://observador.pt/2026/10/30/paris-jackson-acusa-gestor-da-heranca-do-pai-de-falta-de-transparencia-e-quer-reduzir-comissao-de-15-para-10/",
+    "title": "Filha de Michael Jackson processa gestor da herança",
+    "summary": "Filha de Michael Jackson quer reduzir comissão anual de John Branca de 15% para 10%, alegando atrasos e \"incompetência\" na gestão do espólio. Gestor nega acusações e diz que caso é \"absurdo\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3520:1972:nowe:295:15/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30120021/gettyimages-2298447596-scaled.jpg"
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/fuga-de-flavio-bolsonaro-esta-a-cair-para-segundo-plano-no-brasil/6ae487040cf22b9f89053391",
-    "title": "Fuga de Flávio Bolsonaro está a cair para segundo plano no Brasil",
-    "summary": "Nelson Garrone, correspondente da CNN Portugal no Brasil, dá novos detalhes sobre a fuga de Flávio Bolsonaro para o Brasil.",
+    "url": "https://cnnportugal.iol.pt/papa-leao-xiv/eleicoes-intercalares-dos-eua/papa-leao-xiv-faz-historia-ao-votar-nas-eleicoes-intercalares-dos-eua/20261030/6ae4a5fbd34e53c759c78b50",
+    "title": "Papa Leão XIV faz história ao votar nas eleições intercalares dos EUA",
+    "summary": "Leão XIV será o primeiro Papa a votar numa eleição democrática e secular, diz Michael Walsh, historiador britânico e autor de vários livros sobre o papado",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/10/30/cornell-publicacoes-nas-redes-sociais-podem-afastar-procuradora-da-investigacao-sobre-alegada-violacao-em-grupo/",
-    "title": "Cornell. Procuradora pode ser afastada da investigação",
-    "summary": "Caso remonta a 2024, quando uma aluna acusou um grupo de a ter violado",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/07104810/gettyimages-2297900421-scaled.jpg"
+    "url": "https://observador.pt/programas/reportagem-observador/seguro-acusa-partidos-de-inacao-e-recusa-fracasso/",
+    "title": "Seguro acusa partidos de inação e recusa fracasso",
+    "summary": "Presidente da República lamenta insistência da classe política na \"trica política\" e exige que partidos e Governo cumpram \"as suas funções\". Garante que não vai parar de exigir um entendimento.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:800:322/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30132109/48036658.jpg"
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/em-israel-ja-se-trabalha-para-uma-coligacao-de-governo-eis-os-cenarios/6ae481780cf299bc29543f56",
-    "title": "Em Israel já se trabalha para uma coligação de governo. Eis os cenários",
-    "summary": "Henry Galsky, correspondente da CNN Portugal em Israel, traça os cenários para o futuro governativo do país.",
+    "url": "https://cnnportugal.iol.pt/roubo-e-violacao/policia-judiciaria/agencia-lusa-suspeito-de-violar-idosa-durante-assalto-em-anadia-detido-em-espanha-apos-mais-de-dois-anos-em-fuga/20261030/6ae4ad690cf299bc29543fa6",
+    "title": "Suspeito de violar idosa durante assalto em Anadia detido em Espanha após mais de dois anos em fuga",
+    "summary": "Jovem de 19 anos foi extraditado para Portugal",
     "image": null
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/antonio-jose-seguro/presidente-da-republica/seguro-avisa-que-portugal-nao-avanca-sem-garantir-acesso-a-saude-e-a-habitacao/20261030/6ae49fcfd34e53c759c78b45",
-    "title": "Seguro avisa que Portugal não avança sem garantir acesso à saúde e à habitação",
-    "summary": "Presidente da República alerta para o risco de divisão social quando nem todos beneficiam do progresso do país",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00"
+   "added": "2026-10-30T14:50:04.567342+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -110,6 +88,30 @@
    },
    "important": true,
    "added": "2026-10-30T10:54:22.217494+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/peca-a-20-de-novembro-do-teatro-giria-nomeada-para-premio-no-uruguai/",
+    "title": "Peça do Teatro Gíria nomeada para prémio no Uruguai",
+    "summary": "A peça de teatro estará em cena, em setembro de 2027, no Teatro da Comuna, em Lisboa",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:121/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/28231539/jporfirio-bastidores-eunice-munoz-59-scaled.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T13:53:55.568718+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/fuga-de-flavio-bolsonaro-esta-a-cair-para-segundo-plano-no-brasil/6ae487040cf22b9f89053391",
+    "title": "Fuga de Flávio Bolsonaro está a cair para segundo plano no Brasil",
+    "summary": "Nelson Garrone, correspondente da CNN Portugal no Brasil, dá novos detalhes sobre a fuga de Flávio Bolsonaro para o Brasil.",
+    "image": "https://img.iol.pt/preset/6ae49bc4d34e9a786e75e88e/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-30T13:53:55.568718+00:00",
    "fails": 1
   }
  ],
@@ -213,6 +215,27 @@
    "orig": "\"mau gosto\". embaixada do montenegro divide bairro londrino",
    "important": true,
    "source": "Observador"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Украина атаковала российский НПЗ",
+   "orig": "imagens impressionantes: ucrânia ataca refinaria russa",
+   "important": true,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Эксперт: Украина оказалась в сложном положении с финансами и ПВО",
+   "orig": "ucrânia está numa situação de \"imbróglio em termos financeiros e de defesa aérea\"",
+   "important": true,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "Нобелевская laureate... Заголовок: Шуринь Эбади: Европа не сделала должного в ответ на протесты в Иране",
+   "orig": "\"países europeus fecharam os olhos às violações de direitos humanos no irão\"",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-10-29"
