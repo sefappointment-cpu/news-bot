@@ -1,50 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2078/",
-    "title": "As notícias das 20h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-30T20:30:33.852992+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/se-o-primeiro-ministro-criticasse-a-intervencao-policial-a-policia-perdia-o-pe/6ae4e7010cf2e5e7f37cb887",
-    "title": "\"Se o primeiro-ministro criticasse a intervenção policial, a polícia perdia o pé\"",
-    "summary": "Rui Calafate, comentador da CNN Portugal, analisa as declarações do governo sobre a atuação policial junto dos manifestantes na praça do Rossio, em Lisboa.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-30T20:30:33.852992+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/capitaes-na-america/frank-fontes-de-sousa-eu-emigrei-da-idade-media/",
-    "title": "Frank Fontes de Sousa: \"Eu emigrei da Idade Média\"",
-    "summary": "De São Jorge para os EUA aos 9 anos, Frank Fontes de Sousa, hoje professor catedrático de português na Universidade de Massachusetts, recorda o sacrifício da mãe e o amor à língua portuguesa.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22095234/770-capitaes-na-america-v2-1.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T20:30:33.852992+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/oe2027/inem/governo-preve-que-financiamento-do-inem-aumente-117-me/20261030/6ae4fd38d34e9a786e75e954",
-    "title": "Governo prevê que financiamento do INEM aumente 117 ME",
-    "summary": "Os números constam da nota explicativa do Ministério da Saúde sobre a proposta do Orçamento do Estado para 2027",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-30T20:30:33.852992+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/russia/jornal-russo-da-oposicao/mataram-nos-jornal-russo-da-oposicao-novaya-gazeta-anuncia-o-fim-da-sua-existencia/20261030/6ae45716d34e53c759c78a64",
@@ -69,52 +25,92 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/habitacao-azambuja-pede-transferencia-de-158-casas-do-estado-para-recuperar-imoveis/",
+    "title": "Azambuja pede transferência de 158 casas do Estado",
+    "summary": "\"Até ao momento não foi nada concretizado, nem apresentada uma resposta conclusiva sobre o processo\", lamentou o presidente da Câmara de Azambuja",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1477:828:nowe:0:57/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/27225708/obras-edificio-cma-02.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T21:30:06.758798+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/30/oe2027-modelo-de-ia-portugues-amalia-e-instrumento-de-soberania-digital-diz-goncalo-matias/",
+    "title": "IA. Amália é instrumento de soberania digital, diz ministro",
+    "summary": "\"Estamos a trazer inteligência artificial para a Administração pública\", salientou Gonçalo Matias Ministro Adjunto e da Reforma do Estado",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:69/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01171741/ts154a6291.jpg"
+   },
+   "important": false,
+   "added": "2026-10-30T21:30:06.758798+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1802/",
+    "title": "As notícias das 21h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-30T21:30:06.758798+00:00"
+  },
+  {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/fuga-de-flavio-bolsonaro-esta-a-cair-para-segundo-plano-no-brasil/6ae487040cf22b9f89053391",
-    "title": "Fuga de Flávio Bolsonaro está a cair para segundo plano no Brasil",
-    "summary": "Nelson Garrone, correspondente da CNN Portugal no Brasil, dá novos detalhes sobre a fuga de Flávio Bolsonaro para o Brasil.",
-    "image": "https://img.iol.pt/preset/6ae49bc4d34e9a786e75e88e/og/cnn"
+    "url": "https://cnnportugal.iol.pt/antonio-jose-seguro/iva/seguro-promulga-alteracoes-ao-codigo-do-iva-e-dos-impostos-especiais-de-consumo/20261030/6ae4ffafd34e53c759c78c26",
+    "title": "Seguro promulga alterações ao código do IVA e dos Impostos Especiais de Consumo",
+    "summary": "António José Seguro ressalvou que decidiu promulgar o diploma tendo em conta o compromisso assumido pelo Governo e transmitido ao parlamento",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00",
-   "fails": 1
+   "added": "2026-10-30T21:30:06.758798+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/peca-a-20-de-novembro-do-teatro-giria-nomeada-para-premio-no-uruguai/",
-    "title": "Peça do Teatro Gíria nomeada para prémio no Uruguai",
-    "summary": "A peça de teatro estará em cena, em setembro de 2027, no Teatro da Comuna, em Lisboa",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:121/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/28231539/jporfirio-bastidores-eunice-munoz-59-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-sexta-feira/euromilhoes-conheca-a-chave-desta-sexta-feira/20261030/6ae4e32fd34e9a786e75e92a",
+    "title": "Euromilhões: conheça a chave desta sexta-feira",
+    "summary": "Em jogo está um prémio de 89 milhões de euros",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T13:53:55.568718+00:00",
-   "fails": 1
+   "added": "2026-10-30T21:30:06.758798+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/liveblogs/casa-pia-sporting-leoes-procuram-regresso-aos-triunfos-na-liga-em-novo-exame-a-rui-borges/",
-    "title": "Casa Pia-Sporting. Rui Borges faz oito mexidas com surpresas",
-    "summary": "Depois das derrotas com LASK Linz e Ac. Viseu, a que se seguiu um triunfo com o Marítimo, Sporting desloca-se a Rio Maior para defrontar Casa Pia proibido de perder mais pontos. Siga aqui em direto.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29143234/48008659.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/crise-na-habitacao-queremos-passar-das-palavras-aos-atos/6ae4ee110cf22b9f89053453",
+    "title": "Crise na habitação. \"Queremos passar das palavras aos atos\"",
+    "summary": "Rui Cardoso, deputado do Chega, afirma que o partido está disponível para discutir propostas no sentido de mitigar a crise na habitação.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00",
-   "fails": 1
+   "added": "2026-10-30T21:30:06.758798+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/10/30/estaremos-la-para-voltar-a-negociar-psp-sem-linhas-vermelhas-para-manifestacao-no-dia-31-mas-descarta-dialogo-infinito-no-rossio/",
-    "title": "PSP sem \"linhas vermelhas\", mas descarta \"diálogo infinito\"",
-    "summary": "Ao Observador, o Superintendente-Chefe José Elias assegura que a polícia privilegiará sempre \"o diálogo e a comunicação permanente\" e procurará \"que seja cumprida a lei\"",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03050144/47701645.jpg"
+    "url": "https://cnnportugal.iol.pt/sporting/paulo-fonseca/paulo-fonseca-no-topo-da-lista-do-sporting",
+    "title": "Paulo Fonseca no topo da lista do Sporting",
+    "summary": "Há conversações entre Sporting, Lyon e o representante do treinador para o negócio se concretizar numa altura em que a saída de Rui Borges é vista cada vez mais como uma inevitabilidade",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-30T19:40:46.835210+00:00",
-   "fails": 1
+   "added": "2026-10-30T21:30:06.758798+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/acidente-espanha/comboio-espanha/e-mais-seguro-viajar-nas-carruagens-do-meio-do-comboio-nao-necessariamente-e-a-engenharia-explica-porque/20261030/6ae4d224d34e53c759c78bc9",
+    "title": "É mais seguro viajar nas carruagens do meio do comboio? Não necessariamente - e a engenharia explica porquê",
+    "summary": "O sobrevivente português do acidente ferroviário em Espanha disse que, se voltasse a viajar, escolheria uma carruagem do meio. Há estudos que dão fundamento a essa escolha. Mas a evidência disponível não permite dizer que o centro de um comboio é sempre o lugar mais seguro",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-30T21:30:06.758798+00:00"
   }
  ],
  "posted": [
@@ -422,5 +418,5 @@
    "source": "CNN Portugal"
   }
  ],
- "digest_date": "2026-10-29"
+ "digest_date": "2026-10-30"
 }
