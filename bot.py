@@ -80,6 +80,8 @@ POST_LATEST = int(os.getenv("POST_LATEST") or "0")
 # pause between posts in one run, minutes
 POST_INTERVAL_MIN = float(os.getenv("POST_INTERVAL_MIN") or "5")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL") or "claude-haiku-5-5"
+# second try for posts the main model cut off or refused
+CLAUDE_FALLBACK_MODEL = os.getenv("CLAUDE_FALLBACK_MODEL") or "claude-sonnet-5-5"
 
 TZ = ZoneInfo(os.getenv("TIMEZONE") or "Europe/Lisbon")
 QUIET_START = _hm(os.getenv("QUIET_START") or "21:00")
@@ -254,19 +256,25 @@ def collect(src: dict) -> list[dict]:
 # ---------------------------------------------------------------- claude
 
 
-def ask_claude(prompt: str, max_tokens: int) -> str | None:
+def ask_claude(prompt: str, max_tokens: int, model: str | None = None) -> str | None:
     key = os.getenv("ANTHROPIC_API_KEY")
     if not key:
         return None
     r = requests.post(
         "https://api.anthropic.com/v1/messages",
         headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-        json={"model": CLAUDE_MODEL, "max_tokens": max_tokens,
+        json={"model": model or CLAUDE_MODEL, "max_tokens": max_tokens,
               "messages": [{"role": "user", "content": prompt}]},
         timeout=90,
     )
     r.raise_for_status()
-    return "".join(b.get("text", "") for b in r.json()["content"]).strip()
+    data = r.json()
+    text = "".join(b.get("text", "") for b in data.get("content", [])).strip()
+    stop = data.get("stop_reason")
+    if stop not in ("end_turn", "stop_sequence"):
+        # e.g. "refusal" or "max_tokens": the answer is cut off mid-sentence
+        raise RuntimeError(f"answer cut off (stop_reason={stop}): {text[:80]!r}")
+    return text
 
 
 def _json_list(text: str) -> list:
@@ -281,7 +289,11 @@ CLASSIFY_PROMPT = """Ты редактор русскоязычного Telegram
 
 Для КАЖДОЙ новости реши два вопроса:
 1. "pt" — касается ли она Португалии: событие в Португалии; португальская политика, власти, экономика, цены, налоги, транспорт, погода, происшествия, общество, культура, спорт (португальские клубы и сборная); или решение/событие за рубежом, которое напрямую влияет на жизнь людей в Португалии (например, правила ЕС, применяемые здесь, рейсы в/из Португалии, участие Португалии или португальцев). Мировые новости без португальской связи — false, даже если о них пишут португальские СМИ.
-2. "imp" — важная для аудитории канала: связана с иммиграцией и эмиграцией, AIMA (бывший SEF), видами на жительство, визами, гражданством, беженцами, легализацией иностранцев; или касается русских, украинцев, белорусов (в том числе отношений Португалии с Россией, Украиной, Беларусью). "imp" может быть true только если "pt" true.
+2. "imp" — важная для аудитории канала (иностранцы, живущие в Португалии):
+   - иммиграция В ПОРТУГАЛИЮ: AIMA (бывший SEF), виды на жительство, визы, гражданство Португалии, легализация, беженцы в Португалии, законы об иностранцах в Португалии или правила ЕС, которые здесь применяются;
+   - русские, украинцы, белорусы В ПОРТУГАЛИИ (общины, беженцы, документы, события с ними здесь) или решения Португалии по России, Украине, Беларуси (санкции, помощь, визы, рейсы).
+   НЕ важные: иммиграция в других странах (США, Франция и т.д.); спорт, даже если игрок русский или украинец; ход войны и заявления Путина, если нет прямой связи с Португалией.
+   "imp" может быть true только если "pt" true.
 
 Ответь только JSON-списком без пояснений, по одному объекту на каждую новость:
 [{"i": 0, "pt": true, "imp": false}, ...]
@@ -332,9 +344,21 @@ def rewrite_with_claude(item: dict, source: str) -> str | None:
         f"Напиши пост для Telegram-канала на языке: {POST_LANGUAGE}. "
         "Первая строка — короткий заголовок (без кавычек и эмодзи). "
         "Дальше 2–3 предложения своими словами, только факты из текста выше, "
-        "ничего не додумывай. Без хэштегов, без ссылки, без markdown."
+        "ничего не додумывай. Без хэштегов, без ссылки, без markdown. "
+        "Это обычная новостная заметка для информирования читателей."
     )
-    return ask_claude(prompt, 400)
+    last_exc = None
+    for model in dict.fromkeys([CLAUDE_MODEL, CLAUDE_FALLBACK_MODEL]):
+        try:
+            text = ask_claude(prompt, 400, model)
+            head, _, body = (text or "").strip().partition("\n")
+            if len(head.strip()) >= 15 and len(body.strip()) >= 40:
+                return text
+            last_exc = RuntimeError(f"answer too short: {text[:80]!r}")
+        except Exception as exc:  # noqa: BLE001
+            last_exc = exc
+        print(f"  ! {model}: {last_exc}")
+    raise last_exc
 
 
 class RewriteFailed(Exception):
@@ -535,10 +559,12 @@ def main() -> None:
         to_post, leftover = candidates, []
     else:
         seen_urls, pool = set(), []
+        posted_titles = {x.get("orig", "") for x in state["posted"]}
         for p in state["pending"] + candidates:
             u = norm(p["item"]["url"])
-            if u not in seen_urls:
-                seen_urls.add(u)
+            t = p["item"]["title"].strip().lower()
+            if u not in seen_urls and t not in seen_urls and t not in posted_titles:
+                seen_urls.update({u, t})
                 pool.append(p)
         pool = trim_pending(pool, now, cap=False)
         if is_quiet(now):
@@ -571,6 +597,7 @@ def main() -> None:
             send(post, item.get("image"))
             fails, posted_in_run = 0, True
             state["posted"].append({"date": current.date().isoformat(), "title": headline,
+                                    "orig": item["title"].strip().lower(),
                                     "important": p["important"], "source": name})
             print(f"  ✓ {item['title'][:70]}", flush=True)
         except RewriteFailed as exc:
