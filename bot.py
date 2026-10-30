@@ -307,33 +307,51 @@ def _fallback_flags(batch: list[tuple[str, dict]]) -> list[tuple[bool, bool]]:
     return [(True, bool(IMPORTANT_RE.search(f"{i['title']} {i['summary']}"))) for _, i in batch]
 
 
+def _classify_chunk(chunk: list[tuple[str, dict]], model: str) -> list[tuple[bool, bool]]:
+    lines = "\n".join(f"{n}. [{src}] {it['title']} — {it['summary'][:300]}"
+                      for n, (src, it) in enumerate(chunk))
+    data = _json_list(ask_claude(CLASSIFY_PROMPT + lines, 150 + 40 * len(chunk), model))
+    by_i = {int(d["i"]): d for d in data if isinstance(d, dict) and "i" in d}
+    if len(by_i) < len(chunk):
+        raise ValueError(f"answer covers {len(by_i)} of {len(chunk)} news")
+    out = []
+    for n in range(len(chunk)):
+        pt = bool(by_i[n].get("pt", False))
+        out.append((pt, pt and bool(by_i[n].get("imp", False))))
+    return out
+
+
 def classify(batch: list[tuple[str, dict]]) -> list[tuple[bool, bool]]:
-    """Returns (concerns_portugal, important) for every (source, item)."""
+    """Returns (concerns_portugal, important) for every (source, item).
+    With a Claude key, a news that can't be checked is skipped, never posted blindly."""
     if not batch:
         return []
     if not os.getenv("ANTHROPIC_API_KEY"):
         return _fallback_flags(batch)
+    models = list(dict.fromkeys([CLAUDE_MODEL, CLAUDE_FALLBACK_MODEL]))
     flags: list[tuple[bool, bool]] = []
-    for start in range(0, len(batch), 25):
-        chunk = batch[start:start + 25]
-        lines = "\n".join(f"{n}. [{src}] {it['title']} — {it['summary'][:300]}"
-                          for n, (src, it) in enumerate(chunk))
+    for start in range(0, len(batch), 15):
+        chunk = batch[start:start + 15]
         result = None
-        for attempt in range(2):
+        for model in models:
             try:
-                data = _json_list(ask_claude(CLASSIFY_PROMPT + lines, 60 + 30 * len(chunk)))
-                by_i = {int(d["i"]): d for d in data if isinstance(d, dict) and "i" in d}
-                result = []
-                for n in range(len(chunk)):
-                    d = by_i.get(n, {})
-                    pt = bool(d.get("pt", False))
-                    result.append((pt, pt and bool(d.get("imp", False))))
+                result = _classify_chunk(chunk, model)
                 break
             except Exception as exc:  # noqa: BLE001
-                print(f"  ! classification failed (attempt {attempt + 1}): {exc}")
+                print(f"  ! classification failed ({model}): {exc}")
         if result is None:
-            print("  ! using keyword fallback for this batch (no Portugal filter)")
-            result = _fallback_flags(chunk)
+            # check one by one, so a single "difficult" news doesn't spoil the batch
+            print("  ! checking these news one by one")
+            result = []
+            for one in chunk:
+                flag = (False, False)
+                for model in models:
+                    try:
+                        flag = _classify_chunk([one], model)[0]
+                        break
+                    except Exception as exc:  # noqa: BLE001
+                        print(f"  ! {model} on «{one[1]['title'][:50]}»: {exc}")
+                result.append(flag)
         flags += result
     return flags
 
@@ -374,21 +392,36 @@ def rewrite_with_claude(item: dict, source: str) -> str | None:
         "не используй расплывчатых отсылок вроде «этот элемент», «это», «данный аспект» — "
         "называй прямо, о чём речь. Если смысл цитаты из текста неясен, не упоминай её. "
         "Без хэштегов, без ссылки, без markdown. "
-        "Это обычная новостная заметка для информирования читателей."
+        "Это обычная новостная заметка для информирования читателей.\n\n"
+        "ВАЖНО: канал только о Португалии. Если новость не касается Португалии напрямую "
+        "(событие в другой стране без участия Португалии или португальцев, мировая политика, "
+        "война, зарубежные знаменитости, иммиграция в других странах), "
+        "ответь одним словом SKIP и больше ничего."
     )
     last_exc = None
     for model in dict.fromkeys([CLAUDE_MODEL, CLAUDE_FALLBACK_MODEL]):
         try:
             text = ask_claude(prompt, 500, model)
+            if (text or "").strip().upper().startswith("SKIP"):
+                raise NotAboutPortugal()
+            # drop labels like "Заголовок:" the model sometimes adds
+            text = re.sub(r"^(заголовок|текст|пост)\s*:\s*", "", (text or "").strip(), flags=re.I)
+            text = re.sub(r"\n(заголовок|текст|пост)\s*:\s*", "\n", text, flags=re.I)
             head, _, body = (text or "").strip().partition("\n")
             body = body.strip()
             if len(head.strip()) >= 15 and len(body) >= 40 and body[-1] in ".!?…»\")":
                 return text
             last_exc = RuntimeError(f"answer too short or unfinished: {text[-80:]!r}")
+        except NotAboutPortugal:
+            raise
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
         print(f"  ! {model}: {last_exc}")
     raise last_exc
+
+
+class NotAboutPortugal(Exception):
+    """Claude saw the article text and says it isn't about Portugal."""
 
 
 class RewriteFailed(Exception):
@@ -401,6 +434,8 @@ def build_post(item: dict, source: str, important: bool) -> tuple[str, str]:
     if os.getenv("ANTHROPIC_API_KEY"):
         try:
             text = rewrite_with_claude(item, source)
+        except NotAboutPortugal:
+            raise
         except requests.HTTPError as exc:
             detail = exc.response.text[:300] if exc.response is not None else ""
             raise RewriteFailed(f"{exc} {detail}") from exc
@@ -630,6 +665,9 @@ def main() -> None:
                                     "orig": item["title"].strip().lower(),
                                     "important": p["important"], "source": name})
             print(f"  ✓ {item['title'][:70]}", flush=True)
+        except NotAboutPortugal:
+            print(f"  – skipped after reading the article (not about Portugal): {item['title'][:70]}")
+            continue
         except RewriteFailed as exc:
             fails += 1
             p["fails"] = p.get("fails", 0) + 1
