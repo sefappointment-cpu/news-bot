@@ -338,20 +338,48 @@ def classify(batch: list[tuple[str, dict]]) -> list[tuple[bool, bool]]:
     return flags
 
 
+def article_text(url: str, limit: int = 2500) -> str:
+    """First paragraphs of the article itself, so Claude knows what it's really about."""
+    try:
+        soup = BeautifulSoup(get(url).text, "html.parser")
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ! couldn't read article text: {exc}")
+        return ""
+    for tag in soup(["script", "style", "nav", "header", "footer", "aside", "form"]):
+        tag.decompose()
+    root = soup.find("article") or soup
+    parts, total = [], 0
+    for para in root.find_all("p"):
+        t = re.sub(r"\s+", " ", para.get_text(" ", strip=True))
+        if len(t) < 60:  # skip captions, bylines, buttons
+            continue
+        parts.append(t)
+        total += len(t)
+        if total >= limit:
+            break
+    return "\n".join(parts)[:limit]
+
+
 def rewrite_with_claude(item: dict, source: str) -> str | None:
+    body = article_text(item["url"])
     prompt = (
         f"Перед тобой новость с португальского сайта {source}.\n"
-        f"Заголовок: {item['title']}\nКратко: {item['summary']}\n\n"
-        f"Напиши пост для Telegram-канала на языке: {POST_LANGUAGE}. "
-        "Первая строка — короткий заголовок (без кавычек и эмодзи). "
-        "Дальше 2–3 предложения своими словами, только факты из текста выше, "
-        "ничего не додумывай. Без хэштегов, без ссылки, без markdown. "
+        f"Заголовок: {item['title']}\nАнонс: {item['summary']}\n"
+        + (f"Текст статьи (начало):\n{body}\n" if body else "")
+        + f"\nНапиши пост для Telegram-канала на языке: {POST_LANGUAGE}. "
+        "Первая строка — короткий понятный заголовок (без кавычек и эмодзи). "
+        "Дальше 2–3 предложения своими словами, только факты из текста выше, ничего не додумывай. "
+        "Пиши естественным живым языком, как редактор русскоязычного СМИ, а не дословным переводом. "
+        "Каждое предложение должно быть понятно читателю, который не видел оригинал: "
+        "не используй расплывчатых отсылок вроде «этот элемент», «это», «данный аспект» — "
+        "называй прямо, о чём речь. Если смысл цитаты из текста неясен, не упоминай её. "
+        "Без хэштегов, без ссылки, без markdown. "
         "Это обычная новостная заметка для информирования читателей."
     )
     last_exc = None
     for model in dict.fromkeys([CLAUDE_MODEL, CLAUDE_FALLBACK_MODEL]):
         try:
-            text = ask_claude(prompt, 400, model)
+            text = ask_claude(prompt, 500, model)
             head, _, body = (text or "").strip().partition("\n")
             body = body.strip()
             if len(head.strip()) >= 15 and len(body) >= 40 and body[-1] in ".!?…»\")":
