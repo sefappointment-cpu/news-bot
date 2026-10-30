@@ -34,17 +34,6 @@
    "added": "2026-10-30T00:02:15.912245+00:00"
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/30/antiga-fabrica-da-tupperware-em-constancia-vendida-por-4-milhoes-de-euros/",
-    "title": "Fábrica da Tupperware em Constância vendida por 4 milhões",
-    "summary": "A fábrica foi colocada à venda por 10 milhões, mas foi vendida por apenas 4 milhões.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/11105943/44176882.jpg"
-   },
-   "important": false,
-   "added": "2026-10-30T01:33:50.132269+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/escolas/rankings/rankings-notas-do-9-ano-pioram-litoral-domina-o-topo-da-tabela-e-escolas-publicas-ficam-para-tras/20261030/6ae35f6ed34e9a786e75e66a",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-10-30T03:41:36.076229+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2446/",
+    "title": "As notícias das 4h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-30T04:41:17.463751+00:00"
   }
  ],
  "posted": [
