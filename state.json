@@ -1,70 +1,48 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1333/",
-    "title": "11h. Acampada pela Habitação. Porta-Voz critica PSP e MAI",
-    "summary": "Luís Neves garante articulação com a PSP durante carga policial do último domingo, posição criticada por João Veloso. Ainda, na Ucrânia e na Rússia, registaram-se novos ataques a infraestruturas.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://www.publico.pt/2026/10/31/fugas/noticia/legumes-vicios-coimbra-pais-2193113",
+    "title": "Legumes e Outros Vícios: de Coimbra para todo o país",
+    "summary": "Tudo começou na marquise da avó de um dos proprietários, dez anos depois, a marca de marmitas vende para todo o território continental do país e abriu também um restaurante na Cidade dos Estudantes.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00"
+   "added": "2026-10-31T13:22:19.218587+00:00"
   },
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
-    "title": "Fazer ginástica com os olhos e exercitar a memória",
-    "summary": "Um livro que põe o leitor a ver com olhos de ver. Andamos a olhar para onde? O que vemos? São algumas perguntas de Olhos Abertos, Olhos Fechados.",
+    "url": "https://www.publico.pt/2026/10/31/fugas/noticia/bite-my-lunch-marmitas-atletas-alta-competicao-dentro-campo-2193189",
+    "title": "Bite My Lunch: marmitas para atletas de alta competição, dentro e fora de campo",
+    "summary": "A Bite My Lunch trabalha sobretudo com clientes empresariais e clubes desportivos, mas não em exclusivo. E no Verão abriu uma loja-cafetaria em Matosinhos, o sip.club.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T11:07:36.625206+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/gastronomia/menus/imagens-de-comida-geradas-por-ia-continuam-a-tornar-se-virais-mas-porque-provocam-tanta-repulsa/20261031/6aaeab6dd34e9a786e758b01",
-    "title": "Imagens de comida geradas por IA continuam a tornar-se virais. Mas porque provocam tanta repulsa?",
-    "summary": "Parecem fotografias de comida, mas há qualquer coisa nelas que não bate certo: texturas de borracha, formas impossíveis e cores demasiado perfeitas. As imagens geradas por inteligência artificial estão a invadir os menus de restaurantes e a provocar uma reação inesperada nos clientes",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/e-o-vencedor-e/o-estado-comprou-5-da-ren-so-para-provar-que-esta-tudo-bem/",
-    "title": "O Estado comprou 5% da REN só para provar que está tudo bem?",
-    "summary": "Enquanto a habitação paralisa e as escolas públicas perdem professores, surge a solução perfeita: gastar 500 milhões de euros a comprar ações da REN só para garantir que tudo fica exatamente na mesma.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00"
+   "added": "2026-10-31T13:22:19.218587+00:00"
   },
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/10/31/fugas/reportagem/partilha-veio-abrir-leque-possibilidades-cabem-marmita-2192400",
-    "title": "A partilha delas veio abrir “o leque de possibilidades” que cabem numa marmita",
-    "summary": "Preparar as refeições para a semana é sinónimo de comer sempre a mesma coisa? Sofia Magalhães e Joana Barrios são exemplos claro de que essa ideia é errada. Além disso, poupa-se tempo e dinheiro.",
+    "url": "https://www.publico.pt/2026/10/31/fugas/noticia/marmita-prato-dia-2193150",
+    "title": "A marmita é o prato do dia",
+    "summary": "Marmitas para a semana: dicas de nutricionistas e outros especialistas para poupar tempo e dinheiro e seis negócios que entregam em casa.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T11:07:36.625206+00:00"
+   "added": "2026-10-31T13:22:19.218587+00:00"
   },
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/10/31/fugas/noticia/marmitas-eat-fit-seguem-regra-ninguem-feliz-comer-nao-gosta-2193179",
-    "title": "As marmitas da Eat Fit seguem uma regra: “Ninguém é feliz a comer uma coisa de que não gosta”",
-    "summary": "Diana jogava futebol federado quando começou a cozinhar para si. Queria comer com mais equilíbrio e as amigas repararam nas suas marmitas. Foi então que teve a ideia do negócio a que chamou Eat Fit.",
+    "url": "https://www.publico.pt/2026/10/31/culturaipsilon/noticia/jerry-seinfeld-ja-nao-jerry-seinfeld-sobe-coliseu-meo-arena-2193305",
+    "title": "Jerry Seinfeld, que já não é o mesmo Jerry Seinfeld, sobe ao Coliseu e à Meo Arena",
+    "summary": "O Meo Commedia a La Carte Fest ficou marcado pela desistência de vários nomes pelo apoio do cómico a Israel. Sobe ao palco do Coliseu este sábado e do Meo Arena este domingo. Mas.. que Jerry é este?",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T11:07:36.625206+00:00"
+   "added": "2026-10-31T13:22:19.218587+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -91,6 +69,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/o-meu-filho-faz-muitas-birras-isto-e-normal-devo-ficar-preocupado-e-o-que-podemos-fazer/",
+    "title": "O meu filho faz muitas birras. Devo ficar preocupado?",
+    "summary": "Uma criança que grita, chora e se atira para o chão não está necessariamente a ser mal-educada: as birras infantis são normais. Apesar disso, há sinais que merecem atenção.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30114738/770.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T12:03:28.200537+00:00",
+   "fails": 1
+  },
+  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/casas-nao-sao-laranjas-2193076",
@@ -103,12 +93,24 @@
    "fails": 1
   },
   {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
+    "title": "Fazer ginástica com os olhos e exercitar a memória",
+    "summary": "Um livro que põe o leitor a ver com olhos de ver. Andamos a olhar para onde? O que vemos? São algumas perguntas de Olhos Abertos, Olhos Fechados.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T11:07:36.625206+00:00",
+   "fails": 1
+  },
+  {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/especiais/o-meu-filho-faz-muitas-birras-isto-e-normal-devo-ficar-preocupado-e-o-que-podemos-fazer/",
-    "title": "O meu filho faz muitas birras. Devo ficar preocupado?",
-    "summary": "Uma criança que grita, chora e se atira para o chão não está necessariamente a ser mal-educada: as birras infantis são normais. Apesar disso, há sinais que merecem atenção.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30114738/770.jpg"
+    "url": "https://observador.pt/programas/e-o-vencedor-e/o-estado-comprou-5-da-ren-so-para-provar-que-esta-tudo-bem/",
+    "title": "O Estado comprou 5% da REN só para provar que está tudo bem?",
+    "summary": "Enquanto a habitação paralisa e as escolas públicas perdem professores, surge a solução perfeita: gastar 500 milhões de euros a comprar ações da REN só para garantir que tudo fica exatamente na mesma.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
    },
    "important": false,
    "added": "2026-10-31T12:03:28.200537+00:00",
@@ -539,6 +541,20 @@
    "orig": "protestos pela habitação regressam a várias cidades. em lisboa, está prevista nova acampada no rossio",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Лиссабоне полиция не допустит новый палаточный лагерь на площади Россиу",
+   "orig": "11h. acampada pela habitação. porta-voz critica psp e mai",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Готовить еду на неделю вперёд можно без однообразия",
+   "orig": "a partilha delas veio abrir “o leque de possibilidades” que cabem numa marmita",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-10-30"
