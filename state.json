@@ -3,17 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/10/31/conselho-de-redacao-da-lusa-pede-a-regulador-parecer-urgente-sobre-nomeacao-de-nova-diretora/",
-    "title": "CR da Lusa pede parecer urgente à ERC sobre nova diretora",
-    "summary": "Em comunicado, os membros eleitos do CR detalham que pediram à ERC que se pronunciasse sobre dois pontos",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/07/31175652/26397625.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T01:30:34.873802+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/10/31/exposicao-retrospetiva-de-miguel-gomes-inaugura-em-serralves-com-documentos-do-novo-filme-cantiga/",
     "title": "Retrospetiva de Miguel Gomes abre em Serralves",
     "summary": "A exposição que é inaugurada esta sexta-feira na Casa do Cinema Manoel Oliveira é uma retrospetiva integral do percurso do realizador português",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-10-31T02:41:32.798495+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2483/",
+    "title": "3h. Ministra da Saúde diz que privados não foram regulados",
+    "summary": "Com a mira nos governos PS, Ana Paula Martins diz que \"os privados abriram clínicas e hospitais onde quiseram\". Ainda, o Sporting venceu o Casa Pia por 2-0, na 10ª jornada da Liga Portugal.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-31T03:38:15.895631+00:00"
   }
  ],
  "posted": [
