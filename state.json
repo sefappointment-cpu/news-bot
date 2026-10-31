@@ -1,103 +1,15 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/a-hist-ria-do-dia/portugal-precisa-de-acordos-ou-de-novas-eleicoes/",
-    "title": "Portugal precisa de acordos ou de novas eleições?",
-    "summary": "Seguro insiste no diálogo entre os partidos e teme que novas eleições agravem o bloqueio político. Neste episódio falamos sobre o que preocupa o Presidente e até onde pode ele ir.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T05:33:48.718562+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-outubro-3/",
-    "title": "Canções que descobrimos em outubro",
-    "summary": "O que não nos saiu dos auscultadores este mês? Juntámos o regresso dos Mesa, a fusão de Fontaines DC com Rosalía e os sons de Greg Freeman, Sensible Soccers e Olivia Rodrigo num guia essencial.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T06:41:09.784656+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2538/",
-    "title": "6h. Ventura vai hoje a votos para presidência do Chega",
-    "summary": "As eleições ocorrem durante a 1ª convenção do Chega desde que o partido subiu a 2ª maior força no parlamento. Ainda, os protestos pela habitação continuam hoje com manifestações em Lisboa e no Porto.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-31T06:41:09.784656+00:00"
-  },
-  {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/casas-nao-sao-laranjas-2193076",
-    "title": "As casas não são laranjas",
-    "summary": "Não será fácil, mas o que é absolutamente óbvio é que a crise não se resolverá com facilitação de despejos ou reduções fiscais. Há outros caminhos, outras políticas urgentes a lançar. Opinião de Ana Drago",
+    "url": "https://www.publico.pt/2026/10/31/sociedade/reportagem/crise-habitacao-empurra-idosos-casas-sociais-nao-podiamos-meter-casa-pagar-mil-euros-2193000",
+    "title": "Crise da habitação empurra idosos para casas sociais. “Não nos podíamos meter numa casa a pagar mil euros”",
+    "summary": "Reformas baixas e rendas altas levam idosos que toda a vida conseguiram suportar o preço de mercado a recorrer à habitação social. Câmaras começam a criar medidas específicas.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/economia/noticia/conta-investimento-proposta-cmvm-gestao-pessoal-profissional-2191586",
-    "title": "Conta de investimento proposta pela CMVM pode ter gestão pessoal ou profissional",
-    "summary": "Modelo pressupõe isenção em IRS dos rendimentos de instrumentos financeiros detidos na Conta Individual de Poupança e Investimento, desde que mantidos durante três anos.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/politica/noticia/ps-quer-tirar-governo-passar-parlamento-decisao-mexer-isp-2193281",
-    "title": "PS quer tirar ao Governo e passar para o Parlamento decisão de mexer no ISP",
-    "summary": "Socialistas vão propor redução dos limites máximo e mínimo do imposto, e também um mecanismo para redistribuir receita fiscal decorrente do excesso da inflação prevista.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/sociedade/noticia/sns-gastar-resposta-assistencial-nao-melhorar-2193288",
-    "title": "SNS está a gastar cada vez mais, mas a resposta assistencial não está a melhorar",
-    "summary": "Despesa dispara em 2026 apesar do discurso de contenção adoptado no ano passado. Cirurgias diminuíram 4,2% no primeiro semestre face ao mesmo período de 2025. Primeiras consultas hospitalares baixam.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/o-rossio-e-o-corta-relvas/",
-    "title": "O Rossio e o corta-relvas",
-    "summary": "O que se passa no Rossio e na Praça D. João I é apenas mais uma descida nessa rampa deslizante, promovida, conscientemente, por grupos que perdem eleições e pretendem prevalecer ocupando a rua.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2015%2F10%2Ffoto_hpsantos.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/conversas-do-fim-do-mundo/a-volta-ao-mundo-do-figas/",
-    "title": "A volta ao mundo do \"figas\"",
-    "summary": "A empresa onde Miguel Figueira trabalhava faliu e isso empurrou-o para uma aventura há muito desejada: uma volta ao mundo de bicicleta. Chegou agora depois de 17 meses de muita pedalada.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105241/770-podcast-conversas-do-fim-do-mundo.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00"
+   "added": "2026-10-31T08:37:44.677995+00:00"
   },
   {
    "source": "Observador",
@@ -109,6 +21,96 @@
    },
    "important": false,
    "added": "2026-10-31T07:46:46.210577+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/ciencia/investigacao/lojas-trafico-peptidos-online-escapam-autoridades-portuguesas-2192932",
+    "title": "Como as lojas de tráfico de péptidos online escapam às autoridades portuguesas",
+    "summary": "Redes internacionais criam marcas fictícias, apresentam análises laboratoriais e verificam identidade de traficantes. O PÚBLICO investigou 16 lojas online que traficam péptidos ilegais para Portugal.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2563/",
+    "title": "8h. Brasil. Flávio Bolsonaro contesta resultados eleitorais",
+    "summary": "Numa transmissão em direto, ontem, na rede social Instagram, Flávio Bolsonaro diz que os resultados são “matematicamente impossíveis”. Ainda, PSP vai permitir uso de drones na manifestação em Lisboa.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/politica/opiniao/deriva-autoritaria-montenegro-choca-busca-consensos-seguro-2193208",
+    "title": "A deriva autoritária de Montenegro choca com a busca de consensos de Seguro",
+    "summary": "O perfil autoritário do primeiro-ministro expressou-se, durante o primeiro dia de debate orçamental, quer em relação à rua e às manifestações, quer em relação às instituições. Opinião de São José Almeida",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/liveblogs/dia-de-manifestacoes-pela-habitacao-e-de-votos-no-chega-para-resultado-pre-anunciado/",
+    "title": "Dia de manifestações pela habitação e de votos no Chega",
+    "summary": "As manifestações vão voltar em várias cidades do país, com promessas de montagem de tendas em Lisboa. É também dia de diretas no Chega, com resultado pré-anunciado. Ventura será reeleito presidente.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29040120/obs28102026davidoliveira00020.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/culturaipsilon/noticia/novos-rostos-centro-cultural-vila-flor-guidance-guimaraes-2193187",
+    "title": "Os novos rostos do Centro Cultural Vila Flor e do GUIdance, em Guimarães",
+    "summary": "Em entrevista ao PÚBLICO, Bruno dos Reis e Cristina Planas Leitão apontam caminhos para os cargos com que sucedem a Rui Torrinha: na direcção do Vila Flor e do festival GUIdance, respectivamente.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/azul/opiniao/lei-omnibus-ue-alimentos-consumo-humano-animal-lobi-pesticidas-rejeitada-2193172",
+    "title": "Lei Omnibus da UE sobre alimentos para consumo humano e animal foi feita com o lóbi dos pesticidas. Por que deve ser rejeitada",
+    "summary": "Os cientistas apelam à suspensão das negociações sobre a lei, uma vez que esta permitiria que pesticidas nocivos continuassem a ser utilizados por mais tempo. Opinião de Nina Holland",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T08:37:44.677995+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/casas-nao-sao-laranjas-2193076",
+    "title": "As casas não são laranjas",
+    "summary": "Não será fácil, mas o que é absolutamente óbvio é que a crise não se resolverá com facilitação de despejos ou reduções fiscais. Há outros caminhos, outras políticas urgentes a lançar. Opinião de Ana Drago",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T07:46:46.210577+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-outubro-3/",
+    "title": "Canções que descobrimos em outubro",
+    "summary": "O que não nos saiu dos auscultadores este mês? Juntámos o regresso dos Mesa, a fusão de Fontaines DC com Rosalía e os sons de Greg Freeman, Sensible Soccers e Olivia Rodrigo num guia essencial.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T06:41:09.784656+00:00",
+   "fails": 1
   }
  ],
  "posted": [
@@ -400,6 +402,27 @@
    "date": "2026-10-30",
    "title": "Президент «Спортинга» Фредерику Варандаш приехал позже других, но уже находится в Риу-Майор",
    "orig": "frederico varandas chegou mais tarde, mas já está em rio maior",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Воссоединение семьи снова пропало с сайта AIMA",
+   "orig": "reagrupamento familiar some novamente do site da aima sem explicação",
+   "important": true,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Президент Сегуро призывает партии к диалогу, а не к новым выборам",
+   "orig": "portugal precisa de acordos ou de novas eleições?",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Исследовательница объяснила, что стоит за протестами о жилье в Португалии",
+   "orig": "\"há jovens que levam pancadas por defenderem o que a ciência diz\". guya accornero, especialista em movimentos sociais, sobre protestos que chegam ao poder e a repressão que os pode fortalecer",
    "important": false,
    "source": "CNN Portugal"
   }
