@@ -1,37 +1,48 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/2026/10/31/farmacias-comecam-a-disponibilizar-tratamento-com-metadona-a-partir-de-domingo/",
-    "title": "Farmácias começam a disponibilizar tratamento com metadona",
-    "summary": "O programa começa no domingo nos concelhos de Albufeira, Loulé, Portalegre, Portimão, São Brás de Alportel, Santiago do Cacém e Vila do Bispo, e será progressivamente alargado a todo o país.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/06/20225447/gi08042022igormartins00012-scaled.jpg"
+    "url": "https://www.publico.pt/2026/10/31/culturaipsilon/noticia/lei-sabe-ignacio-garcia-nao-igual-2193315",
+    "title": "Quando a lei, sabe Ignacio García, não é igual para todos",
+    "summary": "O encenador espanhol lança-se a Medida por Medida , texto shakespeariano que questiona a aplicação da justiça consoante quem quebra a lei. Até 29 de Novembro no Teatro Joaquim Benite.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-31T14:07:06.887160+00:00"
+   "added": "2026-10-31T15:04:00.078143+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/10/31/fenprof-apresenta-queixa-a-provedora-de-justica-apos-desrespeito-do-governo/",
-    "title": "Fenprof faz queixa do Governo à Provedora de Justiça",
-    "summary": "A Fenprof considera que houve \"atropelos às regras da negociação coletiva\" por parte do Governo PSD/CDS-PP, pondo em causa o regular funcionamento das instituições democráticas.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/25204141/47793345.jpg"
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2520/",
+    "title": "14h. Manifestações. Luís Neves apela à tranquilidade",
+    "summary": "MAI reconhece legitimidade dos protestos, mas lembra que não podem prejudicar direitos de terceiros. Ainda, líder do PS diz que Governo já devia ter destacado delegação para falar com manifestantes.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
-   "added": "2026-10-31T14:07:06.887160+00:00"
+   "added": "2026-10-31T15:04:00.078143+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/especiais/o-lugar-da-mulher-e-na-cozinha-da-economia-domestica-a-identidade-nacional-uma-historia-das-pioneiras-dos-livros-de-culinaria/",
-    "title": "Do século XIX à TV: as pioneiras dos livros de culinária",
-    "summary": "De 1894 a 1967, de Amélia de Lobão a Maria de Lourdes Modesto, Guida Cândido investiga o perfil e papel das primeiras autoras de livros de culinária - e reproduziu receitas que perduram até hoje.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28120030/770-livros-culinaria-1.jpg"
+    "url": "https://observador.pt/2026/10/31/nove-detidos-no-distrito-de-setubal-em-operacao-especial-da-gnr/",
+    "title": "9 detidos no distrito de Setúbal em operação especial da GNR",
+    "summary": "A Operação Especial de Prevenção Criminal (OEPC) realizou-se nos concelhos de Almada, Palmela e Sines, no distrito de Setúbal. A GNR registou ainda 39 autos de contraordenação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1798:1005:nowe:1281:1440/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/20221551/ilacerda-criancas-abandonadas-alcacer49-scaled.jpg"
    },
    "important": false,
-   "added": "2026-10-31T14:07:06.887160+00:00"
+   "added": "2026-10-31T15:04:00.078143+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/nao-foi-um-voto-de-confianca-foi-um-presente-envenenado-que-deixou-tudo-na-mesma-united-perde-e-leva-nove-jogos-sem-ganhar/",
+    "title": "O presente envenenado que deixou tudo na mesma: United perde",
+    "summary": "Bruno Fernandes voltou ao onze inicial depois de ter ficado no banco contra o Bournemouth",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3880:2176:nowe:0:359/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31140517/gettyimages-2302843347.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T15:04:00.078143+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -43,6 +54,30 @@
    },
    "important": false,
    "added": "2026-10-31T10:29:13.517385+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/casas-nao-sao-laranjas-2193076",
+    "title": "As casas não são laranjas",
+    "summary": "Não será fácil, mas o que é absolutamente óbvio é que a crise não se resolverá com facilitação de despejos ou reduções fiscais. Há outros caminhos, outras políticas urgentes a lançar. Opinião de Ana Drago",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T07:46:46.210577+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
+    "title": "Fazer ginástica com os olhos e exercitar a memória",
+    "summary": "Um livro que põe o leitor a ver com olhos de ver. Andamos a olhar para onde? O que vemos? São algumas perguntas de Olhos Abertos, Olhos Fechados.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T11:07:36.625206+00:00",
    "fails": 1
   },
   {
@@ -79,30 +114,6 @@
    },
    "important": false,
    "added": "2026-10-31T12:03:28.200537+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/casas-nao-sao-laranjas-2193076",
-    "title": "As casas não são laranjas",
-    "summary": "Não será fácil, mas o que é absolutamente óbvio é que a crise não se resolverá com facilitação de despejos ou reduções fiscais. Há outros caminhos, outras políticas urgentes a lançar. Opinião de Ana Drago",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T07:46:46.210577+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
-    "title": "Fazer ginástica com os olhos e exercitar a memória",
-    "summary": "Um livro que põe o leitor a ver com olhos de ver. Andamos a olhar para onde? O que vemos? São algumas perguntas de Olhos Abertos, Olhos Fechados.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T11:07:36.625206+00:00",
    "fails": 1
   }
  ],
@@ -577,6 +588,41 @@
    "date": "2026-10-31",
    "title": "Джерри Сайнфелд выступит на фестивале в Португалии",
    "orig": "jerry seinfeld, que já não é o mesmo jerry seinfeld, sobe ao coliseu e à meo arena",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Португалии аптеки начнут выдавать метадон для лечения опиоидной зависимости",
+   "orig": "farmácias começam a disponibilizar tratamento com metadona",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Профсоюз учителей пожаловался на правительство омбудсмену",
+   "orig": "fenprof faz queixa do governo à provedora de justiça",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Португалия вышла на протесты из-за дороговизны жизни",
+   "orig": "contra o aumento do custo de vida, europa sai à rua com segurança reforçada",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Первые португальские авторы кулинарных книг",
+   "orig": "do século xix à tv: as pioneiras dos livros de culinária",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Португалии снова начнут выдавать метадон через аптеки",
+   "orig": "depois de 14 anos, dispensa de metadona regressa às farmácias — mas para já só em três regiões",
    "important": false,
    "source": "Público"
   }
