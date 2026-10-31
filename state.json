@@ -1,66 +1,6 @@
 {
  "pending": [
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
-    "title": "Fazer ginástica com os olhos e exercitar a memória",
-    "summary": "Um livro que põe o leitor a ver com olhos de ver. Andamos a olhar para onde? O que vemos? São algumas perguntas de Olhos Abertos, Olhos Fechados.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T11:07:36.625206+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/o-meu-filho-faz-muitas-birras-isto-e-normal-devo-ficar-preocupado-e-o-que-podemos-fazer/",
-    "title": "O meu filho faz muitas birras. Devo ficar preocupado?",
-    "summary": "Uma criança que grita, chora e se atira para o chão não está necessariamente a ser mal-educada: as birras infantis são normais. Apesar disso, há sinais que merecem atenção.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30114738/770.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/jose-mourinho-da-as-condolencias-as-familias-das-vitimas-da-tragedia-em-espanha/6ae634810cf22b9f89053552",
-    "title": "José Mourinho dá as condolências às famílias das vítimas da tragédia em Espanha",
-    "summary": "No início da conferência de imprensa de antevisão do jogo com o Racing Santander, para a Liga Espanhola, José Mourinho fez questão de endereçar as condolências às famílias das vítimas do acidente ferroviário que esta semana causou dezenas de vítimas mortais.",
-    "image": "https://img.iol.pt/preset/6ae639d5d34e53c759c78d3d/og/cnn"
-   },
-   "important": false,
-   "added": "2026-10-31T19:32:45.427008+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/culturaipsilon/noticia/lei-sabe-ignacio-garcia-nao-igual-2193315",
-    "title": "Quando a lei, sabe Ignacio García, não é igual para todos",
-    "summary": "O encenador espanhol lança-se a Medida por Medida , texto shakespeariano que questiona a aplicação da justiça consoante quem quebra a lei. Até 29 de Novembro no Teatro Joaquim Benite.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T15:04:00.078143+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/e-o-vencedor-e/o-estado-comprou-5-da-ren-so-para-provar-que-esta-tudo-bem/",
-    "title": "O Estado comprou 5% da REN só para provar que está tudo bem?",
-    "summary": "Enquanto a habitação paralisa e as escolas públicas perdem professores, surge a solução perfeita: gastar 500 milhões de euros a comprar ações da REN só para garantir que tudo fica exatamente na mesma.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/bola-de-ouro-feliz-pelo-harry-kane-ele-merece/6ae635c10cf2e5e7f37cb97b",
@@ -119,6 +59,61 @@
    "important": false,
    "added": "2026-10-31T20:28:11.684121+00:00",
    "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/fabio-silva-salva-dortmund-da-derrota-no-der-klassiker-com-o-bayern/",
+    "title": "Fábio Silva salva Dortmund da derrota com o Bayern",
+    "summary": "O avançado foi lançado no 'Der Klassiker' aos 76 minutos, com o resultado em 2-1 para os bávaros, e empatou a partida, aos 89, assinando o terceiro golo na Bundesliga.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1097:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31202722/48043291.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T21:06:34.039397+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/paul-lawrie-segura-a-lideranca-do-portugal-legends-championship-em-golfe/",
+    "title": "Paul Lawrie segura a liderança do Portugal Legends",
+    "summary": "O campeão do The Open de 1999 concluiu a segunda volta com 67 'shots', isolando-se no comando à partida para a derradeira corrida ao título do torneio para maiores de 50 anos.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31201952/22983548.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T21:06:34.039397+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/luis-neves-tera-ameacado-destruir-e-esmagar-gouveia-e-melo-diz-investigador-que-apresentou-queixa-na-pj-contra-o-ministro/",
+    "title": "Luís Neves terá ameaçado \"destruir e esmagar\" Gouveia e Melo",
+    "summary": "Luís Neves (à esquerda), Henrique Gouveia e Melo (à direita)",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3149:1764:nowe:60:181/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31202625/befunky-collage-56.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T21:06:34.039397+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/andre-ventura-reeleito-presidente-do-chega-com-98-dos-votos-como-candidato-unico/",
+    "title": "André Ventura é reeleito presidente do Chega com 98%",
+    "summary": "Sendo o candidato único à liderança do Chega, André Ventura foi eleito este sábado com 98% dos votos, havendo ainda \"1,5% dos votos em branco e 0,5% votos nulos\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:303/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19215556/dventura-rentree-chega-34-scaled.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T21:06:34.039397+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/andre-ventura/votos/andre-ventura-reeleito-presidente-com-98-dos-votos/20261031/6ae65416d34e9a786e75eadc",
+    "title": "André Ventura reeleito presidente com 98% dos votos",
+    "summary": "As eleições diretas para eleger o presidente do Chega e os delegados à 7.ª Convenção decorreram entre as 10:00 e as 19:00",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T21:06:34.039397+00:00"
   }
  ],
  "posted": [
@@ -771,5 +766,5 @@
    "source": "Observador"
   }
  ],
- "digest_date": "2026-10-30"
+ "digest_date": "2026-10-31"
 }
