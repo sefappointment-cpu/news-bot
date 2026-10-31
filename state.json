@@ -1,70 +1,15 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2563/",
-    "title": "8h. Brasil. Flávio Bolsonaro contesta resultados eleitorais",
-    "summary": "Numa transmissão em direto, ontem, na rede social Instagram, Flávio Bolsonaro diz que os resultados são “matematicamente impossíveis”. Ainda, PSP vai permitir uso de drones na manifestação em Lisboa.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-31T08:37:44.677995+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/politica/opiniao/deriva-autoritaria-montenegro-choca-busca-consensos-seguro-2193208",
-    "title": "A deriva autoritária de Montenegro choca com a busca de consensos de Seguro",
-    "summary": "O perfil autoritário do primeiro-ministro expressou-se, durante o primeiro dia de debate orçamental, quer em relação à rua e às manifestações, quer em relação às instituições. Opinião de São José Almeida",
+    "url": "https://cnnportugal.iol.pt/tendas/rossio/grupo-de-cidadaos-pede-intervencao-urgente-de-mecanismo-de-prevencao-da-tortura-em-detencoes-nas-manifestacoes-pela-habitacao/20261031/6ae5baa3d34e53c759c78c97",
+    "title": "Grupo de cidadãos pede intervenção urgente de mecanismo de prevenção da tortura em detenções nas manifestações pela habitação",
+    "summary": "Movimento acampada de Lisboa vai este sábado voltar a montar tendas e pernoitar na praça do Rossio",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T08:37:44.677995+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/liveblogs/dia-de-manifestacoes-pela-habitacao-e-de-votos-no-chega-para-resultado-pre-anunciado/",
-    "title": "Dia de manifestações pela habitação e de votos no Chega",
-    "summary": "As manifestações vão voltar em várias cidades do país, com promessas de montagem de tendas em Lisboa. É também dia de diretas no Chega, com resultado pré-anunciado. Ventura será reeleito presidente.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29040120/obs28102026davidoliveira00020.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T08:37:44.677995+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/culturaipsilon/noticia/novos-rostos-centro-cultural-vila-flor-guidance-guimaraes-2193187",
-    "title": "Os novos rostos do Centro Cultural Vila Flor e do GUIdance, em Guimarães",
-    "summary": "Em entrevista ao PÚBLICO, Bruno dos Reis e Cristina Planas Leitão apontam caminhos para os cargos com que sucedem a Rui Torrinha: na direcção do Vila Flor e do festival GUIdance, respectivamente.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T08:37:44.677995+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/azul/opiniao/lei-omnibus-ue-alimentos-consumo-humano-animal-lobi-pesticidas-rejeitada-2193172",
-    "title": "Lei Omnibus da UE sobre alimentos para consumo humano e animal foi feita com o lóbi dos pesticidas. Por que deve ser rejeitada",
-    "summary": "Os cientistas apelam à suspensão das negociações sobre a lei, uma vez que esta permitiria que pesticidas nocivos continuassem a ser utilizados por mais tempo. Opinião de Nina Holland",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T08:37:44.677995+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2518/",
-    "title": "9h. SNS. Governo quer criar novas parcerias público-privadas",
-    "summary": "A informação é avançada pela ministra da Saúde, Ana Paula Martins. Ainda, no desporto, o Sporting regressou às vitórias no campeonato, ao vencer o Casa Pia.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-31T09:32:39.271113+00:00"
+   "added": "2026-10-31T10:29:13.517385+00:00"
   },
   {
    "source": "Público",
@@ -78,6 +23,28 @@
    "added": "2026-10-31T09:32:39.271113+00:00"
   },
   {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/o-melhor-quiz-de-politica/quiz-de-politica/o-melhor-quiz-de-politica-e-voce-gosta-do-que-ve/20261031/6ae4aa3dd34e53c759c78b64",
+    "title": "O Melhor Quiz de Política | E você? Gosta do que vê?",
+    "summary": "Finalmente parece haver um consenso nacional. Aconteceu algo que ninguém gostou de ver. Só não há consenso sobre as razões porque ninguém gostou de ver isso",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T10:29:13.517385+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/suspeito-de-quatro-incendios-em-coimbra-detido-pela-policia-judiciaria/",
+    "title": "Suspeito de quatro incêndios em Coimbra detido pela PJ",
+    "summary": "A PJ revelou ainda estarem em curso \"seis inquéritos por crime de incêndio, nos quais o suspeito é fortemente indiciado da respetiva autoria\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22191953/47799545.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T10:29:13.517385+00:00"
+  },
+  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/10/31/local/noticia/casas-renda-acessivel-diocese-lisboa-disponiveis-partir-final-2027-2192920",
@@ -87,6 +54,39 @@
    },
    "important": false,
    "added": "2026-10-31T09:32:39.271113+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/novas-descobertas-arqueologicas-mostram-presenca-humana-no-vale-do-coa-alem-dos-27-mil-anos/",
+    "title": "Novas descobertas arqueológicas no Vale do Côa",
+    "summary": "\"Estas descobertas podem mudar a nossa narrativa sobre a arte paleolítica no Vale do Côa\", garantem os investigadores. As escavações vão continuar na primavera, no sítio da Penascosa.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31091236/48031221.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T10:29:13.517385+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/detido-em-olhao-homem-condenado-por-tentativa-de-homicidio-no-brasil/",
+    "title": "Detido condenado por tentativa de homicídio no Brasil",
+    "summary": "O homem tinha pendente um mandado de detenção para cumprimento de uma pena de prisão efetiva por homicídio qualificado, na forma tentada.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:585/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/08181627/gnr-simbolo.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T10:29:13.517385+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2511/",
+    "title": "As notícias das 10h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-10-31T10:29:13.517385+00:00"
   },
   {
    "source": "Observador",
@@ -458,6 +458,34 @@
    "date": "2026-10-31",
    "title": "Как онлайн-магазины пептидов обходят португальские власти",
    "orig": "como as lojas de tráfico de péptidos online escapam às autoridades portuguesas",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Авторитарный курс Монтенегру и поиск консенсуса Сегуро",
+   "orig": "a deriva autoritária de montenegro choca com a busca de consensos de seguro",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Вооружённое ограбление в Матозиньюше: связали троих, украли 21 телефон",
+   "orig": "amarram três pessoas durante assalto à mão armada em matosinhos e fogem com 21 telemóveis",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Протесты за право на жилье вновь пройдут в Португалии",
+   "orig": "dia de manifestações pela habitação e de votos no chega",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Новые руководители культурных институций Гимарайнша",
+   "orig": "os novos rostos do centro cultural vila flor e do guidance, em guimarães",
    "important": false,
    "source": "Público"
   }
