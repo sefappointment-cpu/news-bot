@@ -83,6 +83,42 @@
    "important": false,
    "added": "2026-10-31T17:05:15.466714+00:00",
    "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/jose-mourinho-da-as-condolencias-as-familias-das-vitimas-da-tragedia-em-espanha/6ae634810cf22b9f89053552",
+    "title": "José Mourinho dá as condolências às famílias das vítimas da tragédia em Espanha",
+    "summary": "No início da conferência de imprensa de antevisão do jogo com o Racing Santander, para a Liga Espanhola, José Mourinho fez questão de endereçar as condolências às famílias das vítimas do acidente ferroviário que esta semana causou dezenas de vítimas mortais.",
+    "image": "https://img.iol.pt/preset/6ae639d5d34e53c759c78d3d/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/bola-de-ouro-feliz-pelo-harry-kane-ele-merece/6ae635c10cf2e5e7f37cb97b",
+    "title": "Bola de Ouro? «Feliz pelo Harry Kane, ele merece»",
+    "summary": "José Mourinho comentou a entrega da Bola de Ouro deste ano a Harry Kane. Apesar de lamentar o facto de Kylian Mbappé não ter sido o vencedor - já que o francês do Real Madrid ficou no segundo lugar - Mourinho deu os parabéns a Kane e lembrou os tempos em que trabalharam juntos no Tottenham.",
+    "image": "https://img.iol.pt/preset/6ae63ab1d34e9a786e75ea93/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/fotos/manifestacao-pela-habitacao-volta-as-ruas-de-lisboa-e-do-porto/6ae63cdbd34e9a786e75eab7",
+    "title": "Manifestação pela habitação volta às ruas de Lisboa e do Porto",
+    "summary": "",
+    "image": "https://img.iol.pt/preset/6ae63cd6d34e9a786e75eaaf/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
+   "fails": 1
   }
  ],
  "posted": [
@@ -691,6 +727,20 @@
    "orig": "as casas não são laranjas",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Лиссабоне полиция выявила группу из 10 человек в ТЦ Colombo",
+   "orig": "apelo à rebelião: polícia identifica grupo de 10 pessoas no centro comercial colombo",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Лиссабоне и Порту прошли массовые демонстрации",
+   "orig": "fotogaleria. as imagens das manifs em lisboa e no porto",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-10-30"
