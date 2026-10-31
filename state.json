@@ -1,114 +1,114 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/2026/10/31/andre-ventura-reeleito-presidente-do-chega-com-98-dos-votos-como-candidato-unico/",
-    "title": "André Ventura é reeleito presidente do Chega com 98%",
-    "summary": "Sendo o candidato único à liderança do Chega, André Ventura foi eleito este sábado com 98% dos votos, havendo ainda \"1,5% dos votos em branco e 0,5% votos nulos\".",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:303/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19215556/dventura-rentree-chega-34-scaled.jpg"
+    "url": "https://www.publico.pt/2026/10/31/desporto/cronica_de_jogo/fc-porto-goleia-estoril-continua-intocavel-campeonato-2193334",
+    "title": "FC Porto goleia Estoril e continua intocável no campeonato",
+    "summary": "Francesco Farioli chamou Samu ao “onze”, mas os golos saíram dos pés de Froholdt, Borja Sainz, André Silva e Gabri Veiga.",
+    "image": null
    },
    "important": false,
-   "added": "2026-10-31T21:06:34.039397+00:00"
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/10/31/quando-gabri-pega-na-batuta-a-musica-torna-se-mesmo-classica-a-cronica-do-fc-porto-estoril/",
+    "title": "Quando Gabri pega na batuta a música torna-se mesmo clássica",
+    "summary": "O espanhol teve influência em três dos quatro golos dos dragões",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31221944/gettyimages-2302433997-scaled.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/andre-ventura/votos/andre-ventura-reeleito-presidente-com-98-dos-votos/20261031/6ae65416d34e9a786e75eadc",
-    "title": "André Ventura reeleito presidente com 98% dos votos",
-    "summary": "As eleições diretas para eleger o presidente do Chega e os delegados à 7.ª Convenção decorreram entre as 10:00 e as 19:00",
+    "url": "https://cnnportugal.iol.pt/videos/europa-esta-triturada-pelos-conflitos-internacionais-e-por-isso-que-vemos-acessos-de-violencia-descontrolada/6ae65bd50cf2e5e7f37cb98f",
+    "title": "Europa está \"triturada\" pelos conflitos internacionais. É por isso que vemos \"acessos de violência descontrolada\"",
+    "summary": "José Azeredo Lopes, comentador da CNN Portugal, considera que \"há cada vez mais um grupo violento que procura aproveitar as manifestações para desencadear uma violência muito grande\", mas que as forças policiais estão agora \"mais preparadas\".",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T21:06:34.039397+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/politica/noticia/reeleito-lider-98-votos-andre-ventura-quer-chega-mostrar-maturidade-2193326",
-    "title": "Reeleito líder com 98% dos votos, André Ventura quer Chega a mostrar “maturidade”",
-    "summary": "Líder do partido insiste na importância de o Chega mostrar que está pronto para governar e defende “equilíbrio” na habitação. VII convenção decorre entre 20 e 22 de Novembro, no Entroncamento.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/desporto/noticia/socios-benfica-aprovam-contas-202526-7368-votos-2193335",
-    "title": "Sócios do Benfica aprovam contas de 2025/26 com 73,68% dos votos",
-    "summary": "Grupo Benfica registou no período em questão um resultado líquido consolidado positivo de 23,9 milhões de euros.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/10/31/p3/cronica/nao-ha-lado-certo-amizade-2193205",
-    "title": "Não há um lado certo na amizade",
-    "summary": "Aos que amamos temos de cuidar, e cuidar é, às vezes, calar aquilo que eles próprios já sabem. Crónica de Cláudia Lucas Chéu",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1803/",
-    "title": "As notícias das 21h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/31/diego-e-o-rei-de-milao-diego-pos-a-coroa-em-ruben-ac-milan-vence-inter-no-primeiro-derbi-do-treinador-portugues/",
-    "title": "Diego é o rei de Milão, Diego pôs a coroa em Ruben",
-    "summary": "O internacional belga foi a grande figura da vitória da equipa de Ruben Amorim",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:68/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31214000/gettyimages-2302895394.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/31/rebeliao-para-saquear-o-colombo-tres-jovens-levados-para-a-esquadra-enquanto-filmavam-video-em-loja/",
-    "title": "\"Rebelião\" no Colombo? Três jovens identificados em loja",
-    "summary": "Grupo de dez jovens entrou em loja a gravar vídeo, numa altura em que circulavam apelos nas redes sociais para saquear Centro Comercial Colombo. PSP reforçou presença nas imediações do shopping.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/05/13184240/13357964_1280x720_acf_cropped.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
+   "added": "2026-10-31T23:00:26.431870+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/adepto-sente-se-mal-durante-o-fc-porto-estoril/6ae656b20cf299bc2954411d",
-    "title": "Adepto sente-se mal durante o FC Porto-Estoril",
-    "summary": "O jogo entre os dragões e os estorilistas teve de ser interrompido por volta dos 21 minutos, após um adepto nas bancadas se sentir mal. Bednarek foi o primeiro a aperceber-se do acontecimento, alertando o árbitro do encontro. As equipas médicas presentes no Estádio do Dragão digiram-se de imediato ao local.",
+    "url": "https://cnnportugal.iol.pt/videos/maior-parte-dos-governos-europeus-estao-limitados-na-sua-capacidade-de-acao/6ae65c2a0cf23b0ed4fe0160",
+    "title": "\"Maior parte dos governos europeus estão limitados na sua capacidade de ação\"",
+    "summary": "Rui Henrique Santos, comentador da CNN Portugal, analisa as manifestações que decorrem este sábado em vários países europeus.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
+   "added": "2026-10-31T23:00:26.431870+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/destruir-e-esmagar-gouveia-e-melo-ministro-luis-neves-acusado-de-ameacas-em-queixa-na-pj/6ae637fe0cf23b0ed4fe014e",
-    "title": "\"Destruir\" e \"esmagar\" Gouveia e Melo: ministro Luís Neves acusado de ameaças em queixa na PJ",
-    "summary": "O ministro da Administração Interna, Luís Neves, é alvo de uma queixa-crime apresentada na Polícia Judiciária pelo especialista em Segurança Paulo Dias, que o acusa de ameaças, difamação e perseguição ao longo dos últimos três anos. O denunciante alega que o ministro afirmou ter um \"dossiê\" sobre si e garante que terá também ameaçado \"destruir\" e \"esmagar\" o almirante Henrique Gouveia e Melo. O antigo Chefe do Estado-Maior da Armada confirma ter tido conhecimento da alegada animosidade.",
+    "url": "https://cnnportugal.iol.pt/videos/quando-antonio-jose-seguro-nao-fala-custa-mas-quando-fala-custa-um-bocadinho-mais/6ae660780cf23b0ed4fe0164",
+    "title": "\"Quando António José Seguro não fala, custa. Mas, quando fala, custa um bocadinho mais\"",
+    "summary": "Francisco Rodrigues dos Santos, comentador da CNN Portugal, considera que o Presidente da República \"optou por formulações muito vagas\" e por \"um discurso redondo e autojustificativo\" quando se pronunciou sobre a carga policial contra os manifestantes pela habitação.",
     "image": null
    },
    "important": false,
-   "added": "2026-10-31T22:02:26.266016+00:00"
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/e-impensavel-que-tenha-havido-uma-carga-policial-como-a-do-rossio-sem-que-tenha-sido-comunicada-previamente-a-luis-neves/6ae660dc0cf299bc29544127",
+    "title": "\"É impensável que tenha havido uma carga policial\" como a do Rossio \"sem que tenha sido comunicada previamente\" a Luís Neves",
+    "summary": "Pedro Costa, comentador da CNN Portugal, considera que \"o silêncio previsível\" de António José Seguro \"é um problema\".",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/caso-duarte-lima-primeira-testemunha-convocada-pelo-tribunal-tem-95-anos-se-ainda-estiver-viva-nao-tem-condicoes-de-falar/6ae66c290cf2e5e7f37cb99e",
+    "title": "Caso Duarte Lima: primeira testemunha convocada pelo tribunal tem 95 anos. \"Se ainda estiver viva não tem condições de falar\"",
+    "summary": "Aurílio Nascimento, comissário que investigou o homicídio de Rosalina Ribeiro, perspetiva o que pode vir a acontecer no julgamento do ex-deputado do PSD.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/duarte-lima-veio-a-contrair-uma-doenca-oncologica-que-tera-fingido-ter-anos-antes/6ae66d770cf22b9f89053576",
+    "title": "Duarte Lima veio a contrair \"uma doença oncológica\" que terá fingido ter anos antes",
+    "summary": "Carlos Diogo Santos, jornalista do Observador, investigou e criou um podcast sobre o assassinato de Rosalina Ribeiro.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/julgamento-de-duarte-lima-justica-convoca-testemunhas-que-ja-morreram-16-anos-depois-do-crime/6ae665d80cf22b9f89053570",
+    "title": "Julgamento de Duarte Lima: Justiça convoca testemunhas que já morreram, 16 anos depois do crime",
+    "summary": "Dezasseis anos depois da morte de Rosalina Ribeiro, o julgamento de Duarte Lima tem início marcado para a próxima quinta-feira. Mas a lista de testemunhas inclui pessoas que já morreram e outras cuja localização continua por esclarecer. Ao todo, o Tribunal de Sintra deverá ouvir apenas oito testemunhas. No centro do caso estão os mais de cinco milhões de euros da herança Feteira que, segundo a acusação, Duarte Lima se terá apropriado indevidamente e que Rosalina queria recuperar.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/exclusivo-o-que-revela-a-gravacao-que-pode-ajudar-a-reconstituir-os-ultimos-momentos-de-rosalina-ribeiro/6ae6678b0cf2e5e7f37cb998",
+    "title": "Exclusivo: O que revela a gravação que pode ajudar a reconstituir os últimos momentos de Rosalina Ribeiro?",
+    "summary": "Dezasseis anos depois do homicídio de Rosalina Ribeiro, a TVI (do mesmo grupo da CNN Portugal) viajou até ao Rio de Janeiro para recuperar pistas, documentos e imagens inéditas sobre um dos crimes mais mediáticos da história recente. Há uma gravação feita logo após o homicídio, guardada pelo comissário brasileiro que investigou o caso, que pode ajudar a reconstituir os últimos contactos entre Rosalina e o então advogado, Domingos Duarte Lima.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-10-31T23:00:26.431870+00:00"
   }
  ],
  "posted": [
