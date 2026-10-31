@@ -1,18 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/as-medidas-que-propoem-acabam-por-dinamitar-completamente-os-objetivos-il-critica-limites-as-rendas-defendidos-pelos-manifestantes/6ae6117d0cf299bc295440f1",
-    "title": "\"As medidas que propõem acabam por dinamitar completamente os objetivos\". IL critica limites às rendas defendidos pelos manifestantes",
-    "summary": "Gonçalo Ley Cordeiro, dirigente da Iniciativa Liberal, reconhece que os protestos deram mais destaque à crise da habitação, mas considera que limitar as rendas pode agravar o problema.",
-    "image": "https://img.iol.pt/preset/6ae6157cd34e9a786e75ea45/og/cnn"
-   },
-   "important": false,
-   "added": "2026-10-31T17:05:15.466714+00:00",
-   "fails": 1
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
@@ -34,6 +22,18 @@
    },
    "important": false,
    "added": "2026-10-31T12:03:28.200537+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/jose-mourinho-da-as-condolencias-as-familias-das-vitimas-da-tragedia-em-espanha/6ae634810cf22b9f89053552",
+    "title": "José Mourinho dá as condolências às famílias das vítimas da tragédia em Espanha",
+    "summary": "No início da conferência de imprensa de antevisão do jogo com o Racing Santander, para a Liga Espanhola, José Mourinho fez questão de endereçar as condolências às famílias das vítimas do acidente ferroviário que esta semana causou dezenas de vítimas mortais.",
+    "image": "https://img.iol.pt/preset/6ae639d5d34e53c759c78d3d/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
    "fails": 1
   },
   {
@@ -61,6 +61,18 @@
    "fails": 1
   },
   {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/bola-de-ouro-feliz-pelo-harry-kane-ele-merece/6ae635c10cf2e5e7f37cb97b",
+    "title": "Bola de Ouro? «Feliz pelo Harry Kane, ele merece»",
+    "summary": "José Mourinho comentou a entrega da Bola de Ouro deste ano a Harry Kane. Apesar de lamentar o facto de Kylian Mbappé não ter sido o vencedor - já que o francês do Real Madrid ficou no segundo lugar - Mourinho deu os parabéns a Kane e lembrou os tempos em que trabalharam juntos no Tottenham.",
+    "image": "https://img.iol.pt/preset/6ae63ab1d34e9a786e75ea93/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
+   "fails": 1
+  },
+  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/2026/10/31/nao-foi-um-voto-de-confianca-foi-um-presente-envenenado-que-deixou-tudo-na-mesma-united-perde-e-leva-nove-jogos-sem-ganhar/",
@@ -70,6 +82,18 @@
    },
    "important": false,
    "added": "2026-10-31T15:04:00.078143+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/fotos/manifestacao-pela-habitacao-volta-as-ruas-de-lisboa-e-do-porto/6ae63cdbd34e9a786e75eab7",
+    "title": "Manifestação pela habitação volta às ruas de Lisboa e do Porto",
+    "summary": "",
+    "image": "https://img.iol.pt/preset/6ae63cd6d34e9a786e75eaaf/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T19:32:45.427008+00:00",
    "fails": 1
   },
   {
@@ -87,37 +111,13 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/jose-mourinho-da-as-condolencias-as-familias-das-vitimas-da-tragedia-em-espanha/6ae634810cf22b9f89053552",
-    "title": "José Mourinho dá as condolências às famílias das vítimas da tragédia em Espanha",
-    "summary": "No início da conferência de imprensa de antevisão do jogo com o Racing Santander, para a Liga Espanhola, José Mourinho fez questão de endereçar as condolências às famílias das vítimas do acidente ferroviário que esta semana causou dezenas de vítimas mortais.",
-    "image": "https://img.iol.pt/preset/6ae639d5d34e53c759c78d3d/og/cnn"
+    "url": "https://cnnportugal.iol.pt/videos/a-partir-da-manifestacao-parece-que-todos-os-partidos-descobriram-que-tinham-boas-propostas-para-a-manifestacao/6ae6408d0cf299bc29544111",
+    "title": "\"A partir da manifestação, parece que todos os partidos descobriram que tinham boas propostas para a manifestação\"",
+    "summary": "Rui Calafate, comentador da CNN Portugal, analisa as manifestações que decorrem este sábado no país.",
+    "image": "https://img.iol.pt/preset/61f3e98e0cf2cc58e7dfb90d/og/cnn"
    },
    "important": false,
-   "added": "2026-10-31T19:32:45.427008+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/bola-de-ouro-feliz-pelo-harry-kane-ele-merece/6ae635c10cf2e5e7f37cb97b",
-    "title": "Bola de Ouro? «Feliz pelo Harry Kane, ele merece»",
-    "summary": "José Mourinho comentou a entrega da Bola de Ouro deste ano a Harry Kane. Apesar de lamentar o facto de Kylian Mbappé não ter sido o vencedor - já que o francês do Real Madrid ficou no segundo lugar - Mourinho deu os parabéns a Kane e lembrou os tempos em que trabalharam juntos no Tottenham.",
-    "image": "https://img.iol.pt/preset/6ae63ab1d34e9a786e75ea93/og/cnn"
-   },
-   "important": false,
-   "added": "2026-10-31T19:32:45.427008+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/fotos/manifestacao-pela-habitacao-volta-as-ruas-de-lisboa-e-do-porto/6ae63cdbd34e9a786e75eab7",
-    "title": "Manifestação pela habitação volta às ruas de Lisboa e do Porto",
-    "summary": "",
-    "image": "https://img.iol.pt/preset/6ae63cd6d34e9a786e75eaaf/og/cnn"
-   },
-   "important": false,
-   "added": "2026-10-31T19:32:45.427008+00:00",
+   "added": "2026-10-31T20:28:11.684121+00:00",
    "fails": 1
   }
  ],
@@ -739,6 +739,34 @@
    "date": "2026-10-31",
    "title": "В Лиссабоне и Порту прошли массовые демонстрации",
    "orig": "fotogaleria. as imagens das manifs em lisboa e no porto",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "В Лиссабоне и Порту тысячи людей вышли на улицы за право на жилье",
+   "orig": "“tanta gente sem casa, tanta casa sem gente”: milhares saem à rua pelo direito à habitação",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Бенфика представила обновлённый клубный символ",
+   "orig": "contas aprovadas, novo símbolo, queixa contra sócio proença",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Эксперт по безопасности подал жалобу на министра внутренних дел Португалии",
+   "orig": "luís neves alvo de queixa na pj por alegadas ameaças. perito em segurança diz que ministro terá também ameaçado “destruir” e “esmagar” gouveia e melo",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Омбудсмен следит за полицией на жилищном протесте в Лиссабоне",
+   "orig": "o mecanismo da provedoria nos protestos a monitorizar a psp",
    "important": false,
    "source": "Observador"
   }
