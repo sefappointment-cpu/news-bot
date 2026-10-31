@@ -1,17 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/10/31/polemica-na-votacao-para-delegados-do-chega-jurisdicao-contraria-decisao-de-lisboa-e-aceita-lista-de-mascarenhas-a-horas-das-eleicoes/",
-    "title": "CJ contraria Lisboa e aceita lista a horas das eleições",
-    "summary": "Mesa Distrital de Lisboa não admitiu lista, com concordância da Mesa Nacional, por haver assinaturas e dados \"imperceptíveis\". Conselho de Jurisdição diz que houve \"insuficiência de fundamentação\".",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3558:2005:nowe:0:290/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/14151415/jporfirio-tomada-posse-cpi-luis-neves-14-10-2026-01.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T17:05:15.466714+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/tendas/rossio/grupo-de-cidadaos-pede-intervencao-urgente-de-mecanismo-de-prevencao-da-tortura-em-detencoes-nas-manifestacoes-pela-habitacao/20261031/6ae5baa3d34e53c759c78c97",
@@ -36,6 +25,30 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-outubro-3/",
+    "title": "Canções que descobrimos em outubro",
+    "summary": "O que não nos saiu dos auscultadores este mês? Juntámos o regresso dos Mesa, a fusão de Fontaines DC com Rosalía e os sons de Greg Freeman, Sensible Soccers e Olivia Rodrigo num guia essencial.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T06:41:09.784656+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/as-medidas-que-propoem-acabam-por-dinamitar-completamente-os-objetivos-il-critica-limites-as-rendas-defendidos-pelos-manifestantes/6ae6117d0cf299bc295440f1",
+    "title": "\"As medidas que propõem acabam por dinamitar completamente os objetivos\". IL critica limites às rendas defendidos pelos manifestantes",
+    "summary": "Gonçalo Ley Cordeiro, dirigente da Iniciativa Liberal, reconhece que os protestos deram mais destaque à crise da habitação, mas considera que limitar as rendas pode agravar o problema.",
+    "image": "https://img.iol.pt/preset/6ae6157cd34e9a786e75ea45/og/cnn"
+   },
+   "important": false,
+   "added": "2026-10-31T17:05:15.466714+00:00",
+   "fails": 1
+  },
+  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/10/31/impar/noticia/ginastica-olhos-exercitar-memoria-2193143",
@@ -50,13 +63,13 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-que-descobrimos-em-outubro-3/",
-    "title": "Canções que descobrimos em outubro",
-    "summary": "O que não nos saiu dos auscultadores este mês? Juntámos o regresso dos Mesa, a fusão de Fontaines DC com Rosalía e os sons de Greg Freeman, Sensible Soccers e Olivia Rodrigo num guia essencial.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+    "url": "https://observador.pt/especiais/o-meu-filho-faz-muitas-birras-isto-e-normal-devo-ficar-preocupado-e-o-que-podemos-fazer/",
+    "title": "O meu filho faz muitas birras. Devo ficar preocupado?",
+    "summary": "Uma criança que grita, chora e se atira para o chão não está necessariamente a ser mal-educada: as birras infantis são normais. Apesar disso, há sinais que merecem atenção.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30114738/770.jpg"
    },
    "important": false,
-   "added": "2026-10-31T06:41:09.784656+00:00",
+   "added": "2026-10-31T12:03:28.200537+00:00",
    "fails": 1
   },
   {
@@ -69,18 +82,6 @@
    },
    "important": false,
    "added": "2026-10-31T15:04:00.078143+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/o-meu-filho-faz-muitas-birras-isto-e-normal-devo-ficar-preocupado-e-o-que-podemos-fazer/",
-    "title": "O meu filho faz muitas birras. Devo ficar preocupado?",
-    "summary": "Uma criança que grita, chora e se atira para o chão não está necessariamente a ser mal-educada: as birras infantis são normais. Apesar disso, há sinais que merecem atenção.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30114738/770.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T12:03:28.200537+00:00",
    "fails": 1
   },
   {
@@ -108,12 +109,12 @@
    "fails": 1
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/as-medidas-que-propoem-acabam-por-dinamitar-completamente-os-objetivos-il-critica-limites-as-rendas-defendidos-pelos-manifestantes/6ae6117d0cf299bc295440f1",
-    "title": "\"As medidas que propõem acabam por dinamitar completamente os objetivos\". IL critica limites às rendas defendidos pelos manifestantes",
-    "summary": "Gonçalo Ley Cordeiro, dirigente da Iniciativa Liberal, reconhece que os protestos deram mais destaque à crise da habitação, mas considera que limitar as rendas pode agravar o problema.",
-    "image": "https://img.iol.pt/preset/6ae6157cd34e9a786e75ea45/og/cnn"
+    "url": "https://observador.pt/2026/10/31/polemica-na-votacao-para-delegados-do-chega-jurisdicao-contraria-decisao-de-lisboa-e-aceita-lista-de-mascarenhas-a-horas-das-eleicoes/",
+    "title": "CJ contraria Lisboa e aceita lista a horas das eleições",
+    "summary": "Mesa Distrital de Lisboa não admitiu lista, com concordância da Mesa Nacional, por haver assinaturas e dados \"imperceptíveis\". Conselho de Jurisdição diz que houve \"insuficiência de fundamentação\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3558:2005:nowe:0:290/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/14151415/jporfirio-tomada-posse-cpi-luis-neves-14-10-2026-01.jpg"
    },
    "important": false,
    "added": "2026-10-31T17:05:15.466714+00:00",
@@ -675,6 +676,34 @@
    "date": "2026-10-31",
    "title": "98-летний Алфредо вышел на площадь Росиу в Лиссабоне",
    "orig": "alfredo tem 98 anos. hoje está no rossio para \"lutar pelos jovens\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Утечка газа в Лиссабоне: эвакуированы несколько зданий",
+   "orig": "fuga de gás obriga a evacuar vários edifícios em lisboa",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Андре Вентура раскритиковал позицию парламента по жилищному кризису",
+   "orig": "andré ventura não compreende a atitude do parlamento \"de não querer discutir\". \"se estivesse tudo bem não havia manifestações\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Бразильцы стали чаще искать недвижимость в Португалии после выборов",
+   "orig": "como a reeleição de lula e a polarização podem impulsionar busca por imóveis em portugal",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Нил Джон принёс Морейренсе три очка",
+   "orig": "nile john enche o pé e carimba os três pontos para o moreirense",
    "important": false,
    "source": "CNN Portugal"
   }
