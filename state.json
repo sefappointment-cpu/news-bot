@@ -3,17 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/10/31/exposicao-retrospetiva-de-miguel-gomes-inaugura-em-serralves-com-documentos-do-novo-filme-cantiga/",
-    "title": "Retrospetiva de Miguel Gomes abre em Serralves",
-    "summary": "A exposição que é inaugurada esta sexta-feira na Casa do Cinema Manoel Oliveira é uma retrospetiva integral do percurso do realizador português",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/14105753/dventura-miguel-gomes-8.jpg"
-   },
-   "important": false,
-   "added": "2026-10-31T01:30:34.873802+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/10/31/policia-ordena-retirada-de-tenda-de-brincar-para-criancas-no-rossio/",
     "title": "Polícia ordena retirada de \"tenda\" de brincar para crianças",
     "summary": "Poucos minutos após as 18h, a PSP referiu que a \"tendinha de brincar para crianças”, como descreveram os manifestantes, era ilegal e deveria ser retirada. Obedeceram, mas denunciaram o caso online.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-10-31T03:38:15.895631+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-hist-ria-do-dia/portugal-precisa-de-acordos-ou-de-novas-eleicoes/",
+    "title": "Portugal precisa de acordos ou de novas eleições?",
+    "summary": "Seguro insiste no diálogo entre os partidos e teme que novas eleições agravem o bloqueio político. Neste episódio falamos sobre o que preocupa o Presidente e até onde pode ele ir.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+   },
+   "important": false,
+   "added": "2026-10-31T05:33:48.718562+00:00"
   }
  ],
  "posted": [
