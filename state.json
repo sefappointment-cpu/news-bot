@@ -12,50 +12,6 @@
    "added": "2026-11-01T00:59:53.347711+00:00"
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/chega-e-psd-a-relacao-entre-a-criatura-e-o-criador/",
-    "title": "CHEGA e PSD: criatura e criador",
-    "summary": "Com a subida do CHEGA, a AD vê-se encurralada. Para não ser destruída pelo Frankenstein que criou, a direita moderada tem de agir com realismo e coragem.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A970%3A970%3Anowe%3A0%3A315%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F30185740%2Fimagem_2026-10-30_185024085.png"
-   },
-   "important": false,
-   "added": "2026-11-01T05:39:50.200523+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/chega-de-acampar-na-autoridade-do-estado-2/",
-    "title": "A casa constrói-se, não se ocupa",
-    "summary": "A crise da habitação merece soluções, não acampadas. Quando a causa é usada para tudo, deixa de servir a quem precisa de casa.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1665%3A1665%3Anowe%3A0%3A447%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F26114247%2Fe9476f57-8641-4105-80ad-9cbbaad203e9-scaled.jpeg"
-   },
-   "important": false,
-   "added": "2026-11-01T05:39:50.200523+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/a-acampada-venceu-o-big-brother-o-activista-ofuscou-o-trabalhador/",
-    "title": "A acampada venceu o Big Brother",
-    "summary": "Quem quer saber duma mulher que morreu presa num tear quando estão assegurados directos 24h por dia das acampadas no centro de Lisboa e Porto? A tenda no Rossio é a versão ISCTE da casa do Big Brother",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg"
-   },
-   "important": false,
-   "added": "2026-11-01T05:39:50.200523+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/cartas-director-2193250",
-    "title": "Cartas ao director",
-    "summary": "",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T06:47:16.259575+00:00"
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/portugal-extremadireita-entendimento-democratico-ps-ad-2193140",
@@ -109,6 +65,50 @@
    },
    "important": false,
    "added": "2026-11-01T06:47:16.259575+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/em-40-minutos/joao-van-zeller-gerir-uma-empresa-de-media-maior-dor-de-cabeca-e-dificil/",
+    "title": "João Van Zeller: “Gerir uma empresa de media? Maior dor d...",
+    "summary": "O gestor fez carreira na banca internacional e foi um dos pioneiros da televisão privada em Portugal. Nesta entrevista recorda o \"chumbo\" que lhe ditou o rumo da vida e uma ameaça de morte na Argentina.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16191004/770-podcast-em-40-minutosainda-bem.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T07:52:14.251602+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2550/",
+    "title": "As notícias das 7h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-01T07:52:14.251602+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/acampada-de-lisboa/carga-policial/carga-policial-em-protesto-pela-habitacao-no-rossio-manifestantes-apontam-10-detidos-e-seis-feridos/20261101/6ae6ededd34e53c759c78de1",
+    "title": "Carga policial em protesto pela habitação no Rossio: manifestantes apontam 10 detidos e seis feridos",
+    "summary": "O Corpo de Intervenção da PSP avançou em simultâneo pelas 04:30 sobre os manifestantes concentrados nas acampadas em Lisboa e no Porto",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T07:52:14.251602+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/acampada-porto/protestos-habitacao/protesto-pela-habitacao-no-porto-38-feridos-e-sete-detidos-apos-carga-policial-diz-organizacao/20261101/6ae6ef75d34e53c759c78de2",
+    "title": "Protesto pela habitação no Porto: 38 feridos e sete detidos após carga policial, diz organização",
+    "summary": "Dezenas de manifestantes concentraram-se junto à esquadra do Heroísmo para exigir a libertação dos detidos",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T07:52:14.251602+00:00"
   }
  ],
  "posted": [
