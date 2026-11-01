@@ -245,12 +245,6 @@
   "https://www.publico.pt/2026/11/01/video/nao-batam-filhos-cargas-policiais-deixam-58-feridos-lisboa-porto-20261101-113940"
  ],
  "Observador": [
-  "https://observador.pt/especiais/bce-lagarde-sai-antes-do-tempo-para-poder-usar-a-sua-voz-em-defesa-do-valor-da-verdade-que-todos-os-dias-ve-ser-danificado",
-  "https://observador.pt/newsletters/lifestyle/sao-colheres-de-cha-ou-brincos-em-prata-a-nova-vida-da-marca-kukas-60-anos-de-joias-depois",
-  "https://observador.pt/programas/onde-para-o-caso/deputado-atropela-crianca-investigacao-ainda-em-aberto",
-  "https://observador.pt/2026/10/29/trump-classifica-eleicoes-brasileiras-como-vergonha-mas-promete-falar-com-lula",
-  "https://observador.pt/2026/10/29/casal-acusado-de-matar-idoso-de-80-anos-e-atirar-corpo-a-um-poco-em-aljustrel-comeca-a-ser-julgado-na-terca-feira",
-  "https://observador.pt/2026/10/29/jhon-duran-tem-processo-disciplinar-e-pode-defrontar-o-gil-vicente-esta-quinta-feira",
   "https://observador.pt/programas/porque-sim-nao-e-resposta/morreu-a-avo-como-ajudar-as-filhas-a-viver-o-luto",
   "https://observador.pt/2026/10/29/comissao-liquidataria-do-bpp-avanca-com-primeiro-pagamento-a-credores-comuns",
   "https://observador.pt/2026/10/29/von-der-leyen-agradece-a-lagarde-por-ter-reforcado-a-soberania-da-ue-e-do-euro",
@@ -744,7 +738,13 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-12h-2484",
   "https://observador.pt/programas/dooutrolado/do-outro-lado-a-historia-da-jovem-de-29-anos-que-preparou-a-familia-para-a-sua-morte",
   "https://observador.pt/2026/11/01/china-investiga-por-corrupcao-ex-presidente-de-duas-das-maiores-petroliferas-estatais",
-  "https://observador.pt/especiais/a-carga-demorada-o-policia-a-paisana-de-pistola-na-mao-e-as-maes-detidas-a-cronologia-de-uma-longa-noite-de-protestos-no-porto"
+  "https://observador.pt/especiais/a-carga-demorada-o-policia-a-paisana-de-pistola-na-mao-e-as-maes-detidas-a-cronologia-de-uma-longa-noite-de-protestos-no-porto",
+  "https://observador.pt/2026/11/01/bombeiros-de-leiria-alertam-para-falta-de-apoio-as-corporacoes-os-bombeiros-nao-pedem-privilegios-nao-pedem-favores-pedem-justica",
+  "https://observador.pt/2026/11/01/chefe-da-policia-criminal-servia-detido-na-sequencia-das-legislativas",
+  "https://observador.pt/2026/11/01/mai-defende-cargas-policiais-nas-acampadas-e-reitera-cargo-a-disponibilidade-de-montenegro",
+  "https://observador.pt/2026/11/01/ps-chama-luis-neves-ao-parlamento-e-pede-a-montenegro-que-convoque-sistema-de-seguranca-interna-padrao-de-resposta-tem-de-ser-alterado",
+  "https://observador.pt/2026/11/01/palavras-de-mulheres-urgentes",
+  "https://observador.pt/programas/noticiario/as-noticias-das-14h-2521"
  ],
  "CNN Portugal": [
   "https://cnnportugal.iol.pt/franca/divida-de-franca/lagarde-evita-falar-sobre-franca-mas-deixa-um-alerta-aos-paises-que-tem-um-elevado-nivel-de-divida/20261029/6ae369c8d34e9a786e75e691",
@@ -1162,6 +1162,15 @@
   "https://cnnportugal.iol.pt/videos/estou-aqui-com-um-sentimento-de-profunda-tristeza-luis-neves-reage-aos-acontecimentos-em-lisboa-e-no-porto/6ae72e1c0cf299bc29544186",
   "https://cnnportugal.iol.pt/videos/onde-e-que-podemos-encontrar-um-compromisso-o-apelo-apos-os-confrontos-entre-policia-e-manifestantes/6ae721b20cf299bc29544175",
   "https://cnnportugal.iol.pt/brasil/flavio-bolsonaro/operacao-alba-a-fuga-de-flavio-bolsonaro-comecou-a-ser-preparada-antes-das-eleicoes-um-ex-espiao-da-mossad-e-um-aliado-de-trump-terao-ajudado/20261101/6ae68dbbd34e53c759c78de0",
-  "https://cnnportugal.iol.pt/videos/nao-e-o-cumprimento-da-lei-que-move-a-psp-acusa-advogada-dos-manifestantes/6ae7351b0cf22b9f890535cf"
+  "https://cnnportugal.iol.pt/videos/nao-e-o-cumprimento-da-lei-que-move-a-psp-acusa-advogada-dos-manifestantes/6ae7351b0cf22b9f890535cf",
+  "https://cnnportugal.iol.pt/fazer-amigos/manter-amigos/como-fazer-e-manter-amigos-na-idade-adulta-segundo-a-ciencia/20261101/6abcfb7dd34e9a786e75a498",
+  "https://cnnportugal.iol.pt/fotos/imagens-da-violencia-nos-protestos-de-sabado-em-franca/6ae74fccd34e53c759c78e51",
+  "https://cnnportugal.iol.pt/vanuatu/sismo/sismo-de-magnitude-6-0-abala-vanuatu/20261101/6ae74d43d34e9a786e75ebb1",
+  "https://cnnportugal.iol.pt/mai/luis-neves/luis-neves-ninguem-fica-satisfeito-com-imagens-destas/20261101/6ae748bdd34e53c759c78e39",
+  "https://cnnportugal.iol.pt/videos/melhor-plantel-com-que-trabalhei-e-dificil-avaliar/6ae745010cf299bc295441a4",
+  "https://cnnportugal.iol.pt/videos/o-enzo-esta-muito-perto-de-estar-de-volta/6ae7446b0cf23b0ed4fe01d1",
+  "https://cnnportugal.iol.pt/videos/nao-vou-comentar-as-declaracoes-de-rui-costa/6ae744160cf299bc295441a3",
+  "https://cnnportugal.iol.pt/videos/lukebakio-um-passo-a-frente-do-rafa-nao-vou-estabelecer-hierarquias/6ae744320cf2e5e7f37cb9f9",
+  "https://cnnportugal.iol.pt/videos/arbitragem-e-dificil-dizer-como-vou-reagir-sou-emocional/6ae743fe0cf2e5e7f37cb9f7"
  ]
 }
