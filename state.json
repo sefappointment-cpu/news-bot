@@ -3,61 +3,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/manifestacao/protesto/so-quem-nao-quiser-ver-e-que-acha-que-aquela-manifestacao-ate-as-04-30-nao-foi-uma-manifestacao-pacifica/20261101/6ae728cad34e53c759c78e21",
-    "title": "“Só quem não quiser ver é que acha que aquela manifestação até às 04:30 não foi uma manifestação pacífica”",
-    "summary": "O jornalista João Porfírio acompanhou, durante a madrugada deste domingo, a acampada no Rossio, em Lisboa, que culminou com a polícia a avançar sobre os manifestantes, com vários feridos e detidos",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T12:04:14.580723+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2493/",
-    "title": "As notícias das 13h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-01T13:23:02.721210+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/melhores-restaurantes/viagens/para-ir-a-estes-restaurantes-vale-a-pena-fazer-a-viagem/20261101/6aded0b9d34e53c759c77f6e",
-    "title": "Para ir a estes restaurantes vale a pena fazer a viagem",
-    "summary": "Esta lista contém nove restaurantes que justificam toda uma viagem",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T12:04:14.580723+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/onde-e-que-podemos-encontrar-um-compromisso-o-apelo-apos-os-confrontos-entre-policia-e-manifestantes/6ae721b20cf299bc29544175",
-    "title": "\"Onde é que podemos encontrar um compromisso?\" O apelo após os confrontos entre polícia e manifestantes",
-    "summary": "Para Gustavo Silva, a polícia dificilmente poderia ter agido de outra forma perante a resistência dos manifestantes. Ainda assim, considera que os confrontos poderiam ter sido evitados com bom senso e um acordo entre as partes.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T13:23:02.721210+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/estou-aqui-com-um-sentimento-de-profunda-tristeza-luis-neves-reage-aos-acontecimentos-em-lisboa-e-no-porto/6ae72e1c0cf299bc29544186",
-    "title": "\"Estou aqui com um sentimento de profunda tristeza\": Luís Neves reage aos acontecimentos em Lisboa e no Porto",
-    "summary": "Depois de mais uma noite de tensão entre a polícia e os manifestantes, o ministro da Administração Interna diz que ninguém tem prazer em ver o que aconteceu em Lisboa e no Porto.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T13:23:02.721210+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/videos/tem-faltado-uma-intervencao-e-uma-lideranca-politica-do-primeiro-ministro-montenegro-deixa-luis-neves-na-linha-da-frente-dos-protestos/6ae72e000cf299bc29544185",
     "title": "\"Tem faltado uma intervenção e uma liderança política do primeiro-ministro\": Montenegro deixa Luís Neves na linha da frente dos protestos",
     "summary": "João Marcelino critica Montenegro por deixar Luís Neves assumir a resposta aos protestos. O comentador da CNN Portugal aponta que o ministro da Administração Interna está politicamente fragilizado e que o primeiro-ministro devia assumir essa responsabilidade.",
@@ -65,6 +10,17 @@
    },
    "important": false,
    "added": "2026-11-01T13:23:02.721210+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/culturaipsilon/critica/desobediencia-carmen-exige-2193354",
+    "title": "A desobediência que Carmen exige",
+    "summary": "A ópera de Bizet, inevitavelmente política, está para durar. Apresentou-se em Lisboa com um bom elenco e com uma encenação com ideias fortes, mas que só chegam tarde, no acto final.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T14:10:20.992012+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -78,6 +34,17 @@
    "added": "2026-11-01T13:23:02.721210+00:00"
   },
   {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/mucho-flow-noites-fizeramse-dancar-2193352",
+    "title": "No Mucho Flow as noites fizeram-se para dançar",
+    "summary": "Nas últimas noites da 13º edição do Mucho Flow, uma miríade de géneros formou-se, solene e furiosa, pelas mãos de vários grupos e projectos. Para prestar culto à música e expulsar o desespero.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T14:10:20.992012+00:00"
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/mal-seria-que-tivesse-de-haver-uma-decisao-politica-para-que-uma-policia-cumprisse-a-lei/6ae737980cf299bc29544196",
@@ -87,6 +54,39 @@
    },
    "important": false,
    "added": "2026-11-01T13:23:02.721210+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/fugas/noticia/bruxas-supersticoes-montalegre-prepara-ultima-sextafeira-13-ano-2192218",
+    "title": "Entre bruxas e superstições, Montalegre prepara a última sexta-feira 13 do ano",
+    "summary": "A Sexta 13 - Noite das Bruxas é um ritual que atrai milhares de visitantes e volta a cumprir-se a 13 de Novembro. Depois, só para o ano.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T14:10:20.992012+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/sociedade/noticia/inem-confirma-25-feridos-apos-cargas-policiais-acampadas-lisboa-porto-2193358",
+    "title": "INEM confirma 25 feridos após cargas policiais nas acampadas de Lisboa e Porto",
+    "summary": "Polícia voltou a carregar esta madrugada sobre manifestantes que recusaram desmontar tendas e abandonar locais dos protestos. Movimentos contam pelo menos 69 feridos, PSP fala em 13 polícias feridos.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T14:10:20.992012+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/nao-e-o-cumprimento-da-lei-que-move-a-psp-acusa-advogada-dos-manifestantes/6ae7351b0cf22b9f890535cf",
+    "title": "\"Não é o cumprimento da lei\" que move a PSP, acusa advogada dos manifestantes",
+    "summary": "Carmo Afonso, advogada que tem prestado apoio jurídico aos manifestantes do movimento da acampada, questiona a legalidade da atuação da PSP. Considera que a exigência de retirar as tendas não justifica o uso da força contra os manifestantes.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T14:10:20.992012+00:00"
   },
   {
    "source": "Observador",
@@ -659,6 +659,34 @@
    "orig": "a jovem de 29 anos que preparou a família para a sua morte",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Полиция разогнала лагерь протестующих в центре Лиссабона",
+   "orig": "“só quem não quiser ver é que acha que aquela manifestação até às 04:30 não foi uma manifestação pacífica”",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Министр внутренних дел Португалии отреагировал на полицейский разгон протестующих в Лиссабоне и Порту",
+   "orig": "as notícias das 13h",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Полиция снова разогнала лагеря в защиту права на жильё в Лиссабоне и Порту",
+   "orig": "“não batam nos nossos filhos!”: cargas policiais deixam dezenas de feridos em lisboa e porto",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Полиция разогнала лагерь протеста за право на жильё в Порту",
+   "orig": "no porto, à terceira carga sobre a acampada, um polícia sacou da arma entre a multidão",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-10-31"
