@@ -252,10 +252,6 @@
   "https://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902"
  ],
  "Observador": [
-  "https://observador.pt/2026/10/29/repeticao-do-julgamento-de-doping-na-w52-fc-porto-arranca-em-15-de-dezembro",
-  "https://observador.pt/programas/noticiario/as-noticias-das-15h-2500",
-  "https://observador.pt/2026/10/29/empresario-mario-ferreira-absolvido-do-crime-de-fraude-fiscal-em-venda-de-navio",
-  "https://observador.pt/2026/10/29/noventa-expositores-na-feira-da-castanha-e-paladares-de-outono-em-trancoso",
   "https://observador.pt/2026/10/29/portugal-tinha-6-120-criancas-e-jovens-em-acolhimento-em-2025",
   "https://observador.pt/2026/10/29/eleicoes-em-israel-lider-arabe-israelita-rejeita-acusacoes-de-fraude",
   "https://observador.pt/factchecks/fact-check-claques-dos-dois-maiores-clubes-brasileiros-protestam-contra-lula-e-pt-apos-proibicao-de-apostas",
@@ -751,7 +747,11 @@
   "https://observador.pt/2026/11/01/halloween-heidi-klum-transforma-se-em-mao-esquerda-gigante-andante-e-ensanguentada",
   "https://observador.pt/2026/11/01/mais-um-jejum-que-tambem-kai-arsenal-bate-liverpool-vence-em-anfield-14-anos-depois-e-assume-lideranca-isolada",
   "https://observador.pt/programas/noticiario/as-noticias-das-18h-2176",
-  "https://observador.pt/opiniao/o-ranking-das-melhores-escolas"
+  "https://observador.pt/opiniao/o-ranking-das-melhores-escolas",
+  "https://observador.pt/2026/11/01/trinta-e-uma-pessoas-continuam-hospitalizadas-apos-acidente-de-comboio-em-espanha",
+  "https://observador.pt/programas/noticiario/as-noticias-das-19h-2211",
+  "https://observador.pt/programas/manual-de-instrues-para-humanos/intestino-microbioma-e-saude-mental-o-que-comer-para-estar-bem",
+  "https://observador.pt/especiais/homicidio-de-rosalina-radares-telemoveis-e-chamada-para-uma-loja-de-armas-como-a-policia-descobriu-o-que-duarte-lima-nao-contou"
  ],
  "CNN Portugal": [
   "https://cnnportugal.iol.pt/franca/divida-de-franca/lagarde-evita-falar-sobre-franca-mas-deixa-um-alerta-aos-paises-que-tem-um-elevado-nivel-de-divida/20261029/6ae369c8d34e9a786e75e691",
@@ -1200,6 +1200,13 @@
   "https://cnnportugal.iol.pt/tecnologia/espaco/astronomos-descobrem-a-primeira-estrela-verde-e-nao-e-a-unica-a-surpreender-pela-cor/20261101/6ade4497d34e9a786e75dba7",
   "https://cnnportugal.iol.pt/camara-do-porto/manifestantes/camara-do-porto-convida-manifestantes-para-reuniao-e-propoe-discutir-acampamentos-ocasionais/20261101/6ae77e83d34e53c759c78ec2",
   "https://cnnportugal.iol.pt/videos/a-partir-do-momento-em-que-fazem-a-acampada-depois-da-00-30-manifestantes-estao-obviamente-a-provocar-uma-atuacao-da-policia/6ae7779f0cf299bc295441c1",
-  "https://cnnportugal.iol.pt/videos/luis-montenegro-nao-sabe-o-pais-onde-vive-acusa-andre-ventura/6ae77a810cf299bc295441c8"
+  "https://cnnportugal.iol.pt/videos/luis-montenegro-nao-sabe-o-pais-onde-vive-acusa-andre-ventura/6ae77a810cf299bc295441c8",
+  "https://cnnportugal.iol.pt/videos/os-rostos-que-agitam-estes-protestos-sao-aqueles-que-menos-fizeram-pela-habitacao-em-portugal/6ae78ef40cf23b0ed4fe020f",
+  "https://cnnportugal.iol.pt/transferencias/mercado/sporting-paulo-fonseca-a-caminho-rui-borges-negoceia-rescisao",
+  "https://cnnportugal.iol.pt/videos/acho-muito-injusto-que-se-aponte-ao-governo-nao-houve-nenhuma-instrucao-para-que-a-acao-fosse-aquela/6ae78b750cf23b0ed4fe020d",
+  "https://cnnportugal.iol.pt/videos/a-juventude-europeia-esta-a-viver-momentos-de-ansiedade/6ae789ab0cf299bc295441dd",
+  "https://cnnportugal.iol.pt/ponte/china/umas-ferias-entre-as-nuvens-como-a-ponte-mais-alta-do-mundo-se-tornou-um-ponto-turistico-de-referencia-na-china/20261101/6ae08bf9d34e53c759c78269",
+  "https://cnnportugal.iol.pt/videos/estamos-hoje-a-viver-quase-numa-plena-anarquia-ha-regras-para-cumprir-no-estado-de-direito/6ae787020cf22b9f8905360b",
+  "https://cnnportugal.iol.pt/videos/quem-tem-responsabilidade-devia-assumi-la-mais-uma-vez-tem-de-ser-a-policia-a-encabecar-todo-este-palco-de-responsabilidade/6ae7850e0cf23b0ed4fe0207"
  ]
 }
