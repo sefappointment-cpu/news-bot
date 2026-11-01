@@ -1,66 +1,6 @@
 {
  "pending": [
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/editorial/alguem-gostou-policia-sacar-arma-2193366",
-    "title": "Alguém gostou de ver o polícia a sacar da arma?",
-    "summary": "O impasse em que nos encontramos é ingerível e a possibilidade de algo correr realmente mal aumenta a cada repetição destas coreografias violentas. Editorial dePedro Candeias",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T17:59:26.841596+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/fotos/as-imagens-da-carga-policial-sobre-os-manifestantes-no-rossio/6ae71ba5d34e9a786e75eb77",
-    "title": "As imagens da carga policial sobre os manifestantes no Rossio",
-    "summary": "",
-    "image": "https://img.iol.pt/preset/6ae6fb6cd34e9a786e75eb43/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/homicidio-de-rosalina-radares-telemoveis-e-chamada-para-uma-loja-de-armas-como-a-policia-descobriu-o-que-duarte-lima-nao-contou/",
-    "title": "Como a polícia descobriu o que Duarte Lima não contou",
-    "summary": "Polícia brasileira só descobriu as movimentações de Duarte Lima após pedir registos de radares e de telemóveis. Ex-deputado começa a ser julgado esta semana pelo homicídio de Rosalina Ribeiro.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30183317/770especial1.jpg"
-   },
-   "important": false,
-   "added": "2026-11-01T19:33:39.507454+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/tem-faltado-uma-intervencao-e-uma-lideranca-politica-do-primeiro-ministro-montenegro-deixa-luis-neves-na-linha-da-frente-dos-protestos/6ae72e000cf299bc29544185",
-    "title": "\"Tem faltado uma intervenção e uma liderança política do primeiro-ministro\": Montenegro deixa Luís Neves na linha da frente dos protestos",
-    "summary": "João Marcelino critica Montenegro por deixar Luís Neves assumir a resposta aos protestos. O comentador da CNN Portugal aponta que o ministro da Administração Interna está politicamente fragilizado e que o primeiro-ministro devia assumir essa responsabilidade.",
-    "image": "https://img.iol.pt/preset/67f94540d34ef72ee444a20d/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-01T13:23:02.721210+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/nao-vou-comentar-as-declaracoes-de-rui-costa/6ae744160cf299bc295441a3",
-    "title": "«Não vou comentar as declarações de Rui Costa»",
-    "summary": "Questionado sobre as palavras de Rui Costa na última Assembleia Geral, nas quais admitiu que a época passada ficou aquém das expectativas, o treinador do Benfica esquivou-se a comentar as declarações do presidente e preferiu focar as atenções no compromisso do grupo de trabalho e no objetivo comum de vencer.",
-    "image": "https://img.iol.pt/preset/6ae74c2dd34e53c759c78e3f/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-01T15:05:15.835635+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/o-enzo-esta-muito-perto-de-estar-de-volta/6ae7446b0cf23b0ed4fe01d1",
@@ -118,6 +58,61 @@
    },
    "important": false,
    "added": "2026-11-01T21:08:27.010611+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1804/",
+    "title": "As notícias das 21h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-01T22:03:51.073258+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/sete-das-nove-grandes-tempestades-de-janeiro-e-fevereiro-foram-alimentadas-por-rios-atmosfericos-influenciaram-81-dias-do-ultimo-inverno/",
+    "title": "Houve 84 dias com rios atmosféricos no último inverno",
+    "summary": "O rio atmosférico de 4 de fevereiro que alimentou a tempestade Leonardo, que se seguiu à Kristin (imagem Copernicus)",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1315:740:nowe:90:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23193630/captura-de-ecra-2026-10-23-as-192920.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T22:03:51.073258+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/policia-esta-a-multar-condutores-que-buzinam-em-apoio-a-manifestacao-no-rossio/6ae7aa960cf2e5e7f37cba56",
+    "title": "Polícia está a multar condutores que buzinam em apoio à manifestação no Rossio",
+    "summary": "O repórter da CNN Portugal António Oliveira e Silva está no lugar e dá conta dos últimos desenvolvimentos.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T22:03:51.073258+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/manifestacao/habitacao/henrique-machado-a-farsa-das-tendas-sagradas-sem-bastoes-nao-ha-televisoes/20261101/6ae7ac69d34e9a786e75ec8e",
+    "title": "A farsa das tendas “sagradas”: sem bastões não há televisões",
+    "summary": "",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T22:03:51.073258+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/aqueles-escudos-das-policias-estao-cheios-de-cuspidelas-e-as-viseiras-riscadas/6ae7b3410cf23b0ed4fe0240",
+    "title": "\"Aqueles escudos das polícias estão cheios de cuspidelas e as viseiras riscadas\"",
+    "summary": "O coronel Carlos Mendes Dias analisa a madrugada de confrontos entre polícia e manifestantes em Lisboa e no Porto.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T22:03:51.073258+00:00"
   }
  ],
  "posted": [
