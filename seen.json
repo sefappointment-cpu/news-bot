@@ -252,10 +252,6 @@
   "https://www.publico.pt/2026/11/01/local/noticia/exposicao-revela-foco-oculto-encontra-beleza-ruina-2192902"
  ],
  "Observador": [
-  "https://observador.pt/2026/10/29/elevador-da-gloria-comissao-eventual-da-assembleia-municipal-lisboa-arranca-com-audicoes-da-camara-e-carris",
-  "https://observador.pt/2026/10/29/filho-e-neto-de-ferroviarios-fotografo-e-militante-o-maquinista-que-morreu-no-acidente-de-toledo",
-  "https://observador.pt/2026/10/29/ministro-dos-negocios-estrangeiros-garante-que-portugal-vai-continuar-a-defender-liberdade-de-navegacao",
-  "https://observador.pt/programas/conversas-lidl/o-impacto-de-um-saco-que-faz-a-diferenca",
   "https://observador.pt/2026/10/29/repeticao-do-julgamento-de-doping-na-w52-fc-porto-arranca-em-15-de-dezembro",
   "https://observador.pt/programas/noticiario/as-noticias-das-15h-2500",
   "https://observador.pt/2026/10/29/empresario-mario-ferreira-absolvido-do-crime-de-fraude-fiscal-em-venda-de-navio",
@@ -751,7 +747,11 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-16h-2404",
   "https://observador.pt/especiais/diadema-de-d-estefania-perdido-ha-seculos-diamantes-de-d-maria-i-na-coroa-sueca-e-os-brincos-do-colar-de-maria-antonieta-as-descobertas-do-investigador-das-joias-reais-portuguesas",
   "https://observador.pt/2026/11/01/mbappe-passou-a-semana-a-defender-se-mas-nasceu-para-atacar-real-madrid-volta-a-vencer",
-  "https://observador.pt/programas/noticiario/as-noticias-das-17h-2324"
+  "https://observador.pt/programas/noticiario/as-noticias-das-17h-2324",
+  "https://observador.pt/2026/11/01/halloween-heidi-klum-transforma-se-em-mao-esquerda-gigante-andante-e-ensanguentada",
+  "https://observador.pt/2026/11/01/mais-um-jejum-que-tambem-kai-arsenal-bate-liverpool-vence-em-anfield-14-anos-depois-e-assume-lideranca-isolada",
+  "https://observador.pt/programas/noticiario/as-noticias-das-18h-2176",
+  "https://observador.pt/opiniao/o-ranking-das-melhores-escolas"
  ],
  "CNN Portugal": [
   "https://cnnportugal.iol.pt/franca/divida-de-franca/lagarde-evita-falar-sobre-franca-mas-deixa-um-alerta-aos-paises-que-tem-um-elevado-nivel-de-divida/20261029/6ae369c8d34e9a786e75e691",
@@ -1193,6 +1193,13 @@
   "https://cnnportugal.iol.pt/videos/mais-do-que-tristeza-luis-neves-deve-sentir-culpa-se-estamos-como-estamos-hoje-em-muito-se-deve-ao-mai/6ae7764a0cf299bc295441c0",
   "https://cnnportugal.iol.pt/manifestacao/cocktail-molotov/noticia-cnn-manifestacao-do-rossio-psp-encontra-quatro-cocktails-molotov/20261101/6ae7783fd34e53c759c78eb5",
   "https://cnnportugal.iol.pt/videos/dos-mais-novos-aos-mais-velhos-dezenas-de-pessoas-estao-reunidas-na-praca-do-giraldo-em-evora-tocam-e-cantam-musicas-que-fazem-lembrar-o-25-de-abril/6ae776220cf299bc295441bf",
-  "https://cnnportugal.iol.pt/livre/partidos/livre-exige-demissao-de-luis-neves-por-desproporcional-e-injustificada-carga-policial/20261101/6ae7765fd34e53c759c78eb2"
+  "https://cnnportugal.iol.pt/livre/partidos/livre-exige-demissao-de-luis-neves-por-desproporcional-e-injustificada-carga-policial/20261101/6ae7765fd34e53c759c78eb2",
+  "https://cnnportugal.iol.pt/videos/catarina-martins-esta-profundamente-preocupada-temos-de-saber-porque-e-que-o-governo-quer-violencia-no-nosso-pais/6ae784c00cf2e5e7f37cba30",
+  "https://cnnportugal.iol.pt/videos/assembleia-popular-vai-votar-resposta-ao-convite-de-pedro-duarte-estamos-a-tentar-gerir-emocoes/6ae781310cf23b0ed4fe0201",
+  "https://cnnportugal.iol.pt/videos/antonio-filipe-exige-responsabilidades-politicas-pela-violacao-grosseira-de-direitos-fundamentais/6ae77d9a0cf22b9f89053601",
+  "https://cnnportugal.iol.pt/tecnologia/espaco/astronomos-descobrem-a-primeira-estrela-verde-e-nao-e-a-unica-a-surpreender-pela-cor/20261101/6ade4497d34e9a786e75dba7",
+  "https://cnnportugal.iol.pt/camara-do-porto/manifestantes/camara-do-porto-convida-manifestantes-para-reuniao-e-propoe-discutir-acampamentos-ocasionais/20261101/6ae77e83d34e53c759c78ec2",
+  "https://cnnportugal.iol.pt/videos/a-partir-do-momento-em-que-fazem-a-acampada-depois-da-00-30-manifestantes-estao-obviamente-a-provocar-uma-atuacao-da-policia/6ae7779f0cf299bc295441c1",
+  "https://cnnportugal.iol.pt/videos/luis-montenegro-nao-sabe-o-pais-onde-vive-acusa-andre-ventura/6ae77a810cf299bc295441c8"
  ]
 }

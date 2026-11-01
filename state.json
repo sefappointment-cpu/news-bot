@@ -3,24 +3,24 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/manifestacao/cocktail-molotov/noticia-cnn-manifestacao-do-rossio-psp-encontra-quatro-cocktails-molotov/20261101/6ae7783fd34e53c759c78eb5",
-    "title": "Notícia CNN. Manifestação do Rossio: PSP encontra quatro cocktails molotov",
-    "summary": "Quatro engenhos incendiários terão sido abandonados durante a fuga dos manifestantes na sequência da carga policial",
+    "url": "https://cnnportugal.iol.pt/videos/assembleia-popular-vai-votar-resposta-ao-convite-de-pedro-duarte-estamos-a-tentar-gerir-emocoes/6ae781310cf23b0ed4fe0201",
+    "title": "Assembleia Popular vai votar resposta ao convite de Pedro Duarte. \"Estamos a tentar gerir emoções\"",
+    "summary": "Em conversa com uma das porta-vozes da acampada do Porto, António José Leite, repórter da CNN Portugal, dá conta do convite do presidente da Câmara Municipal do Porto à acampada para uma reunião.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-01T17:59:26.841596+00:00"
+   "added": "2026-11-01T18:41:20.455001+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/mais-do-que-tristeza-luis-neves-deve-sentir-culpa-se-estamos-como-estamos-hoje-em-muito-se-deve-ao-mai/6ae7764a0cf299bc295441c0",
-    "title": "Mais do que \"tristeza\", Luís Neves deve sentir \"culpa\": \"se estamos como estamos hoje, em muito se deve ao MAI\"",
-    "summary": "Mafalda Anjos, comentadora da CNN Portugal, analisa a reação dos vários quadrantes políticos à nova carga policial sobre os manifestantes.",
+    "url": "https://cnnportugal.iol.pt/videos/catarina-martins-esta-profundamente-preocupada-temos-de-saber-porque-e-que-o-governo-quer-violencia-no-nosso-pais/6ae784c00cf2e5e7f37cba30",
+    "title": "Catarina Martins está \"profundamente preocupada\". \"Temos de saber porque é que o Governo quer violência no nosso país\"",
+    "summary": "A eurodeputada defende que o Executivo liderado por Luís Montenegro \"serve a especulação imobiliária\", em vez \"do povo português\".",
     "image": null
    },
    "important": false,
-   "added": "2026-11-01T17:59:26.841596+00:00"
+   "added": "2026-11-01T18:41:20.455001+00:00"
   },
   {
    "source": "Observador",
@@ -32,6 +32,18 @@
    },
    "important": false,
    "added": "2026-11-01T11:27:54.574757+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/editorial/alguem-gostou-policia-sacar-arma-2193366",
+    "title": "Alguém gostou de ver o polícia a sacar da arma?",
+    "summary": "O impasse em que nos encontramos é ingerível e a possibilidade de algo correr realmente mal aumenta a cada repetição destas coreografias violentas. Editorial dePedro Candeias",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T17:59:26.841596+00:00",
    "fails": 1
   },
   {
@@ -104,18 +116,6 @@
    },
    "important": false,
    "added": "2026-11-01T17:04:32.644525+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/editorial/alguem-gostou-policia-sacar-arma-2193366",
-    "title": "Alguém gostou de ver o polícia a sacar da arma?",
-    "summary": "O impasse em que nos encontramos é ingerível e a possibilidade de algo correr realmente mal aumenta a cada repetição destas coreografias violentas. Editorial dePedro Candeias",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T17:59:26.841596+00:00",
    "fails": 1
   }
  ],
@@ -791,6 +791,41 @@
    "orig": "as notícias das 17h",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Полиция нашла четыре коктейля Молотова после разгона лагеря в Лиссабоне",
+   "orig": "notícia cnn. manifestação do rossio: psp encontra quatro cocktails molotov",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Комментаторка о реакции политиков на новый разгон протестующих",
+   "orig": "mais do que \"tristeza\", luís neves deve sentir \"culpa\": \"se estamos como estamos hoje, em muito se deve ao mai\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Рейтинг лучших школ Португалии — не повод судить о качестве обучения",
+   "orig": "o ranking das melhores escolas",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Вентура обвинил Монтенегру в незнании страны",
+   "orig": "\"luís montenegro não sabe o país onde vive\", acusa andré ventura",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Реакция политиков на новые действия полиции против демонстрантов",
+   "orig": "\"a partir do momento em que fazem a acampada depois da 00:30\", manifestantes \"estão obviamente a provocar uma atuação da polícia\"",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-10-31"
