@@ -37,6 +37,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/homicidio-de-rosalina-radares-telemoveis-e-chamada-para-uma-loja-de-armas-como-a-policia-descobriu-o-que-duarte-lima-nao-contou/",
+    "title": "Como a polícia descobriu o que Duarte Lima não contou",
+    "summary": "Polícia brasileira só descobriu as movimentações de Duarte Lima após pedir registos de radares e de telemóveis. Ex-deputado começa a ser julgado esta semana pelo homicídio de Rosalina Ribeiro.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30183317/770especial1.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T19:33:39.507454+00:00",
+   "fails": 1
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/tem-faltado-uma-intervencao-e-uma-lideranca-politica-do-primeiro-ministro-montenegro-deixa-luis-neves-na-linha-da-frente-dos-protestos/6ae72e000cf299bc29544185",
@@ -94,18 +106,6 @@
    },
    "important": false,
    "added": "2026-11-01T17:04:32.644525+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/homicidio-de-rosalina-radares-telemoveis-e-chamada-para-uma-loja-de-armas-como-a-policia-descobriu-o-que-duarte-lima-nao-contou/",
-    "title": "Como a polícia descobriu o que Duarte Lima não contou",
-    "summary": "Polícia brasileira só descobriu as movimentações de Duarte Lima após pedir registos de radares e de telemóveis. Ex-deputado começa a ser julgado esta semana pelo homicídio de Rosalina Ribeiro.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30183317/770especial1.jpg"
-   },
-   "important": false,
-   "added": "2026-11-01T19:33:39.507454+00:00",
    "fails": 1
   },
   {
@@ -849,6 +849,41 @@
    "orig": "as notícias das 19h",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Ночью в Лиссабоне и Порту полиция снова разогнала лагеря протестующих",
+   "orig": "madrugada de violência em lisboa e no porto: nova carga policial nas acampadas faz dezenas de feridos",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "В Лиссабоне полиция нашла три коктейля Молотова на площади Росиу",
+   "orig": "protestos. psp encontrou três cocktails molotov no rossio",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Луиш Невеш вновь защитил действия полиции",
+   "orig": "luís neves volta a defender a actuação da polícia: “está em causa a soberania do estado”",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Вентура обвинил премьера в бездействии из-за жилищного кризиса",
+   "orig": "habitação. ventura culpa \"inércia\" do pm e esquerda",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Протестующие за доступное жильё в Порту и Лиссабоне не отступят из-за полицейского насилия",
+   "orig": "tanto no porto como em lisboa, a violência policial “não vai fazer arredar” manifestantes pela habitação",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-10-31"
