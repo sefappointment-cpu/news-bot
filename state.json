@@ -3,83 +3,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/luta-pela-manutencao-a-urgencia-de-momento-e-ganhar-pontos/6ae6746b0cf22b9f8905357a",
-    "title": "«Luta pela manutenção? A urgência, de momento, é ganhar pontos»",
-    "summary": "Sérgio Raimundo, treinador interino do Estoril, confessa a pressa e importância de conquistar pontos.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/espero-que-o-adepto-do-fc-porto-esteja-bem-porque-a-vida-humana-e-sempre-mais-importante/6ae674930cf22b9f8905357b",
-    "title": "«Espero que o adepto do FC Porto esteja bem, porque a vida humana é sempre mais importante»",
-    "summary": "No final do jogo frente ao FC Porto, Sérgio Raimundo, treinador interino do Estoril, desejou as melhoras ao adepto azul e branco, que se sentiu mal durante o jogo, obrigando a sua paragem. O técnico explicou, ainda, a ausência de João Carvalho do onze.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/duarte-lima-o-homem-tao-poderoso-que-de-repente-cai/6ae670c40cf2e5e7f37cb9a5",
-    "title": "Duarte Lima, \"o homem tão poderoso que, de repente, cai\"",
-    "summary": "Anabela Neves, comentadora da CNN Portugal, lembra as polémicas em que o ex-PSD esteve envolvido.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/tivemos-varias-oportunidades-para-fechar-o-jogo-mais-cedo/6ae6778a0cf22b9f8905357c",
-    "title": "«Tivemos várias oportunidades para fechar o jogo mais cedo»",
-    "summary": "Francesco Farioli, treinador do FC Porto, analisou a vitória frente ao Estoril.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/quantidade-de-golos-ainda-nao-tivemos-os-avancados-todos-disponiveis/6ae677d90cf299bc29544136",
-    "title": "«Quantidade de golos? Ainda não tivemos os avançados todos disponíveis...»",
-    "summary": "Questionado sobre a produção ofensiva da equipa, que o ano passado teve, por vezes, dois avançados lesionados, Francesco Farioli recorda que ainda não teve todos os jogadores da frente disponíveis ao mesmo tempo.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/julgamento-de-duarte-lima-a-inexistencia-de-quatro-testemunhas-vivas-e-de-uma-arma-a-fumegar-nao-evitam-qualquer-condenacao/6ae671e60cf2e5e7f37cb9a7",
-    "title": "Julgamento de Duarte Lima: \"A inexistência de quatro testemunhas vivas e de uma arma a fumegar não evitam qualquer condenação\"",
-    "summary": "O advogado Paulo Saragoça da Matta explica que esta é uma investigação que \"pode ter muitos problemas\", nomeadamente porque Portugal \"pode ver-se impedido de aceitar algumas provas\".",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/gabri-veiga-quando-joga-assim-tudo-fica-mais-facil/6ae678010cf23b0ed4fe016f",
-    "title": "«Gabri Veiga? Quando joga assim tudo fica mais fácil»",
-    "summary": "Francesco Farioli explicou a importância de Froholdt e Gabri Veiga na manobra ofensiva da equipa, deixando rasgados elogios ao médio espanhol.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/videos/zaidu-temos-de-ver-amanha-mas-a-substituicao-foi-por-precaucao/6ae678040cf23b0ed4fe0170",
     "title": "«Zaidu? Temos de ver amanhã, mas a substituição foi por precaução»",
     "summary": "Francesco Farioli abordou a ausência de Martim Fernandes e explicou a lesão de Zaidu, que saiu ao intervalo com queixas no joelho esquerdo.",
@@ -109,300 +32,86 @@
    },
    "important": false,
    "added": "2026-10-31T23:59:11.763879+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/cronica/nao-dia-estacao-2193307",
+    "title": "Não é um dia, é uma estação",
+    "summary": "A Estação de Todos os Santos é, à maneira da Páscoa e do Natal, uma festa de três dias. É o feriado triplo que faz falta ao nosso calendário. Crónica de Miguel Esteves Cardoso",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/eletrotecnicos-passarem-designers-nova-iluminacao-camara-lisboa-2193052",
+    "title": "Eletrotécnicos a passarem por designers: a nova iluminação da Câmara de Lisboa",
+    "summary": "Onde é que já vimos isto? Nos anos 70, quando a iluminação pública e monumental se resolvia por catálogo. Lisboa merece uma câmara bem iluminada, não apenas iluminada. Opinião de José Albuquerque Fonseca",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/paga-solidariedade-querem-direitos-deveres-2193107",
+    "title": "Quem paga a solidariedade? Todos querem direitos. E os deveres?",
+    "summary": "Quando falamos em nome dos mais desfavorecidos, estamos verdadeiramente a pensar neles e, ao mesmo tempo, no que cada um de nós deve aos outros, ou continuamos a falar de nós próprios? Opinião de João Nuno Tavares",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/imigracao-salvou-construcao-2192907",
+    "title": "A imigração salvou a construção",
+    "summary": "Num setor que perdeu dezenas de milhares de trabalhadores nacionais, envelheceu e deixou de atrair jovens em número suficiente, a imigração tornou-se um dos principais suportes da recuperação. Opinião de Carlos Pereira",
+    "image": null
+   },
+   "important": true,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/medo-protesto-2192465",
+    "title": "Quem tem medo do protesto?",
+    "summary": "Se a democracia precisa de cidadãos mais participativos, por que razão inquieta tanto quem nos governa quando eles se fazem ouvir? Opinião de Sofia Serra-Silva",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/sociedade/noticia/acampada-lisboa-decide-voltar-passar-noite-rossio-tendas-montadas-2193336",
+    "title": "Acampada de Lisboa decide voltar a passar noite no Rossio com tendas montadas",
+    "summary": "A Acampada de Lisboa mantém-se há duas semanas e vai voltar a passar a noite no Rossio, com as tendas montadas.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2462/",
+    "title": "00h. Acampandas não abdicam do protesto",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-01T00:59:53.347711+00:00"
   }
  ],
  "posted": [
-  {
-   "date": "2026-10-30",
-   "title": "Атака на Москву и временное закрытие аэропортов",
-   "important": true,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Марко Силва доволен голом Судакова",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Правительство Трампа задержало более 4100 мигрантов за 10 дней",
-   "important": true,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Путин проверяет Трампа на прочность",
-   "orig": "putin está a testar o presidente dos eua: \"ucrânia não é o calcanhar de aquiles de trump\"",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Новая газета прекратит выход 9 ноября",
-   "orig": "novaia gazeta , um dos últimos bastiões da liberdade de imprensa na rússia, vai fechar",
-   "important": true,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Украина вновь атаковала НПЗ в Самарской области",
-   "orig": "ucrânia ignora trump e volta a atacar refinaria na rússia",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Диана Соллер: Путину удалось разделить США и Европу",
-   "orig": "\"putin sempre quis separar os eua e a europa. desta vez, conseguiu\"",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Министр внутренних дел Португалии: полиция в Росиу действовала законно",
-   "orig": "luís neves volta à carga: \"comigo não haverá território onde as polícias não entrem\"",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Болгария выбирает президента: между Россией и Европой",
-   "orig": "bulgária vai a eleições no domigo: escolha é entre a aproximação à rússia e o reforço dos laços com a europa",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Выборы президента Болгарии: пророссийский экс-журналист против про-европейского экономиста",
-   "orig": "uma antiga jornalista pró-russa ou um economista pró-europeu: bulgária escolhe no domingo o seu próximo presidente",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Гуманитарная помощь начала поступать в Олешки",
-   "orig": "ajuda humanitária começou a chegar a oleshki e residentes podem abandonar a cidade",
-   "important": true,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "В лиссабонском монастыре Грасa пройдёт выставка «Anunciação»",
-   "orig": "anunciação : cristo negro e arte indígena brasileira ocupam o convento da graça",
-   "important": true,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Посольство Черногории раскололо лондонский район",
-   "orig": "\"mau gosto\". embaixada do montenegro divide bairro londrino",
-   "important": true,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Украина атаковала российский НПЗ",
-   "orig": "imagens impressionantes: ucrânia ataca refinaria russa",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Эксперт: Украина оказалась в сложном положении с финансами и ПВО",
-   "orig": "ucrânia está numa situação de \"imbróglio em termos financeiros e de defesa aérea\"",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Нобелевская laureate... Заголовок: Шуринь Эбади: Европа не сделала должного в ответ на протесты в Иране",
-   "orig": "\"países europeus fecharam os olhos às violações de direitos humanos no irão\"",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Судья отказала в прекращении дела Рикардо Салгаду из-за болезни Альцгеймера",
-   "orig": "bes. juíza volta a negar extinção do processo contra salgado",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Судья предлагает установить в законе сроки для родителей, у которых забрали детей",
-   "orig": "há crianças retiradas aos pais que esperam anos por uma decisão. juiz quer prazos na lei",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Дочь Майкла Джексона подала в суд на управляющего наследством",
-   "orig": "filha de michael jackson processa gestor da herança",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Папа Лев XIV проголосовал на промежуточных выборах в США",
-   "orig": "papa leão xiv faz história ao votar nas eleições intercalares dos eua",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Сеграно упрекает партии в бездействии и отказывается считать ситуацию безнадёжной",
-   "orig": "seguro acusa partidos de inação e recusa fracasso",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Заголовок: В Гвинея-Бисау задержали 143 африканца по подозрению в причастности к нелегальной миграции в Европу",
-   "orig": "143 africanos detidos na guiné-bissau por suspeitas de integrarem rede de imigração ilegal com destino à europa",
-   "important": true,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Сотрудница тюремной кухни помогала проносить наркотики и телефоны в тюрьму",
-   "orig": "psp detém pessoas que usavam cozinha de prisão para tráfico",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Министр образования хочет, чтобы школьники не отказывались от университета из-за нехватки денег",
-   "orig": "ministro quer evitar que alunos desistam da universidade por falta de dinheiro",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Под Бежей автобус съехал с дороги, один человек погиб",
-   "orig": "as notícias das 15h",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Женщины в гольфе: как спорт ломает старые стереотипы",
-   "orig": "as mulheres entram no tee",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "В Португалии петиция о гражданстве дошла до парламента",
-   "orig": "nacionalidade: petição admitida no parlamento quer proteger netos, bebês e imigrantes",
-   "important": true,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Незаконные выселения — главная жалоба на жильё в Порту",
-   "orig": "despejos ilegais lideram queixas de habitação no porto",
-   "important": true,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "В Португалию вернутся дожди, а затем возможен шторм",
-   "orig": "chuva volta no próximo fim de semana. depois, uma tempestade",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Петиция о регулировании аренды в Португалии дойдёт до парламента",
-   "orig": "petição sobre rendas chega ao parlamento",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Педро Нуну Сантуш не бросает вызов Жозе Луишу Карнейру",
-   "orig": "pedro nuno santos \"não afronta\" josé luís carneiro",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Taste & Toast вернётся с восемью шефами",
-   "orig": "oito chefs de renome, vinhos a condizer e sabores do outono. vem aí o taste & toast",
-   "important": false,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Сегуро обвинил партии в бездействии из-за жилищного кризиса",
-   "orig": "17h. pr acusa partidos políticos de inação",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Педро Нуну Сантуш вернулся в политику и \"преследует\" Жозе Луиса Карнейру",
-   "orig": "\"pedro nuno santos é o pedro passos coelho de josé luís carneiro: voltou para o assombrar\"",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "В Португалии более 90% детей остаются в детских учреждениях",
-   "orig": "mais de 90% das crianças acolhidas continuam em instituições",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Диана Рамуш возглавит информационную службу Lusa",
-   "orig": "diana ramos será a nova directora de informação da lusa",
-   "important": false,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Португальские эмигранты впервые смогут проголосовать онлайн",
-   "orig": "comunidades. voto eletrónico testado nas elieções do ccp",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Государство довело долю в REN до 19%",
-   "orig": "estado conclui compra de 5,3% da ren à fidelidade por 138,8 me",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Государство выкупило 5,3% REN у Fidelidade",
-   "orig": "estado conclui compra de 5,3% da ren à fidelidade por 138,8 milhões",
-   "important": false,
-   "source": "Público"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Частные школы снова возглавили рейтинг по результатам экзаменов",
-   "orig": "a autonomia dos colégios explica a liderança no ranking?",
-   "important": false,
-   "source": "Observador"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Спортинг встретили аплодисментами в Риу-Майор",
-   "orig": "sporting recebido com palmas em rio maior",
-   "important": false,
-   "source": "CNN Portugal"
-  },
-  {
-   "date": "2026-10-30",
-   "title": "Президент «Спортинга» Фредерику Варандаш приехал позже других, но уже находится в Риу-Майор",
-   "orig": "frederico varandas chegou mais tarde, mas já está em rio maior",
-   "important": false,
-   "source": "CNN Portugal"
-  },
   {
    "date": "2026-10-31",
    "title": "Воссоединение семьи снова пропало с сайта AIMA",
