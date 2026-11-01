@@ -1,92 +1,15 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1334/",
-    "title": "11h. Acampada. PSP garante que força usada foi proporcional",
-    "summary": "O subintendente Sérgio Soares assegura que intervenção se justificou, perante resistência dos manifestantes. Ainda, Ministro da Economia e da Coesão Territorial começa hoje visita oficial à Venezuela.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/detidos/centro-comercial/detidos-dois-jovens-e-identificados-tres-menores-por-roubo-junto-a-centro-comercial-de-lisboa/20261101/6ae710f5d34e53c759c78dfe",
-    "title": "Detidos dois jovens e identificados três menores por roubo junto a centro comercial de Lisboa",
-    "summary": "PSP levou a cabo uma ação preventiva, na sequência de apelas nas redes sociais a uma alegada rebelião",
+    "url": "https://www.publico.pt/2026/11/01/fugas/noticia/quinta-levadas-aproveitar-natureza-abdicar-requinte-2193267",
+    "title": "Quinta das Levadas: aproveitar a natureza, sem abdicar do requinte",
+    "summary": "A unidade de alojamento, que vai buscar o nome às três levadas que a atravessam, nasceu da vontade de Raquel Campos Alves em dar uma nova vida à quinta que tinha pertencido aos seus avós maternos.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-01T10:32:48.201085+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/you-can-see-everything-tudo-o-que-ja-sabemos-sobre-o-documentario-mais-esperado-do-ano/",
-    "title": "Tudo o que já sabemos sobre \"You Can See Everything\"",
-    "summary": "Esta mulher é sincera ou manipuladora? Será que conseguimos perceber quando alguém está a mentir? Porquê permitir o acesso de câmaras num momento tão delicado?",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2243:1261:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29170004/you-can-see-everything-filme.jpg"
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/policia-a-civil-exibiu-arma-perante-manifestantes-no-porto-psp-explica-o-que-aconteceu/6ae711510cf23b0ed4fe01a5",
-    "title": "Polícia à civil exibiu arma perante manifestantes no Porto. PSP explica o que aconteceu",
-    "summary": "O agente integrava uma equipa de quatro polícias à civil na Avenida dos Aliados. Segundo a PSP, exibiu a arma para se defender, depois de três colegas terem sido agredidos.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T10:32:48.201085+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/chuva/madeira/chuva-forte-provoca-30-ocorrencias-na-madeira/20261101/6ae713fad34e9a786e75eb68",
-    "title": "Chuva forte provoca 30 ocorrências na Madeira",
-    "summary": "Funchal foi o concelho mais afetado, com 12 situações notificadas",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T10:32:48.201085+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/e-porque-caiu-foi-detido-mulher-conta-como-marido-e-filha-foram-detidos-no-porto/6ae711f20cf23b0ed4fe01a6",
-    "title": "\"E porque caiu foi detido\". Mulher conta como marido e filha foram detidos no Porto",
-    "summary": "A mulher contesta a atuação da polícia. Os dois familiares já saíram da esquadra, mas continuam sem explicações.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/em-boa-verdade-nem-e-uma-carga-policial-a-explicacao-sobre-a-atuacao-da-psp/6ae6ff080cf299bc29544156",
-    "title": "\"Em boa verdade, nem é uma carga policial\". A explicação sobre a atuação da PSP",
-    "summary": "Hugo Costeira defende que os manifestantes tinham de obedecer às ordens da polícia. O especialista em segurança considera que os agentes só recorreram à força depois de esgotadas as negociações e perante a resistência dos manifestantes.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/impediu-a-prestacao-de-socorro-equipa-de-cuidados-acusa-psp-de-impedir-assistencia-a-manifestantes/6ae71a470cf22b9f890535ac",
-    "title": "\"Impediu a prestação de socorro\". Equipa de cuidados acusa PSP de impedir assistência a manifestantes",
-    "summary": "Médicos, enfermeiros e psicólogos estiveram no local para prestar assistência aos manifestantes. Denunciam que a polícia lhes barrou o acesso e que foram empurrados contra uma parede.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T11:27:54.574757+00:00"
+   "added": "2026-11-01T12:04:14.580723+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -100,6 +23,17 @@
    "added": "2026-11-01T11:27:54.574757+00:00"
   },
   {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/01/publico-brasil/noticia/colchao-noiva-bolo-rolo-engenho-pernambucano-reencontra-portugal-2193328",
+    "title": "Do Colchão de Noiva ao Bolo de Rolo: o engenho pernambucano que reencontra Portugal",
+    "summary": "Marcos Monteiro empreende em Portugal com receita de doce que virou patrimônio imaterial de Pernambuco ,tem gostinho de saudade para muitos imigrantes e o conquista o paladar luso.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/e-so-para-provocar-a-psp-antigo-inspetor-da-pj-questiona-protestos-pela-madrugada/6ae719b10cf22b9f890535ab",
@@ -109,6 +43,73 @@
    },
    "important": false,
    "added": "2026-11-01T11:27:54.574757+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/que-tipo-de-interpretacao-criativa-da-lei-e-esta-que-a-policia-faz-as-criticas-a-psp-por-tratar-acampadas-de-forma-diferente/6ae71fe10cf299bc29544172",
+    "title": "\"Que tipo de interpretação criativa da lei é esta que a polícia faz?\" As críticas à PSP por tratar acampadas de forma diferente",
+    "summary": "Mafalda Anjos critica a diferença de tratamento da polícia nas várias acampadas. A comentadora da CNN POrtugal recorda que já houve protestos com tendas sem uma intervenção policial semelhante.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/o-objetivo-destas-pessoas-e-a-noticia-houve-quem-provocasse-a-policia-de-proposito/6ae7205b0cf23b0ed4fe01b2",
+    "title": "\"O objetivo destas pessoas é a notícia\". Houve quem provocasse a polícia de propósito?",
+    "summary": "Suzana Garcia diz que a maioria dos manifestantes saiu sem incidentes. A advogada acusa os que ficaram de tentar provocar a polícia para aparecer nas notícias.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/ha-uma-orientacao-por-parte-do-governo-de-cada-vez-que-ha-uma-acampada-destrui-la-a-bastonada/6ae720aa0cf22b9f890535ba",
+    "title": "\"Há uma orientação por parte do Governo de, cada vez que há uma acampada, destruí-la à bastonada\"",
+    "summary": "Pedro Tadeu defende que a decisão de acabar com as acampadas parte do Governo e que a polícia segue essas orientações. O comentador da CNN Portugal questiona os argumentos usados para justificar as intervenções.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/manifestacao/protesto/so-quem-nao-quiser-ver-e-que-acha-que-aquela-manifestacao-ate-as-04-30-nao-foi-uma-manifestacao-pacifica/20261101/6ae728cad34e53c759c78e21",
+    "title": "“Só quem não quiser ver é que acha que aquela manifestação até às 04:30 não foi uma manifestação pacífica”",
+    "summary": "O jornalista João Porfírio acompanhou, durante a madrugada deste domingo, a acampada no Rossio, em Lisboa, que culminou com a polícia a avançar sobre os manifestantes, com vários feridos e detidos",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/melhores-restaurantes/viagens/para-ir-a-estes-restaurantes-vale-a-pena-fazer-a-viagem/20261101/6aded0b9d34e53c759c77f6e",
+    "title": "Para ir a estes restaurantes vale a pena fazer a viagem",
+    "summary": "Esta lista contém nove restaurantes que justificam toda uma viagem",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-01T12:04:14.580723+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/you-can-see-everything-tudo-o-que-ja-sabemos-sobre-o-documentario-mais-esperado-do-ano/",
+    "title": "Tudo o que já sabemos sobre \"You Can See Everything\"",
+    "summary": "Esta mulher é sincera ou manipuladora? Será que conseguimos perceber quando alguém está a mentir? Porquê permitir o acesso de câmaras num momento tão delicado?",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2243:1261:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29170004/you-can-see-everything-filme.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T11:27:54.574757+00:00",
+   "fails": 1
   }
  ],
  "posted": [
@@ -599,6 +600,34 @@
    "date": "2026-11-01",
    "title": "Адвокат обвинил главу МВД и директора полиции в преступлениях",
    "orig": "\"quem cometeu crimes aqui foram o ministro da administração interna e o diretor nacional da psp\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Президент требует объяснений после разгона лагерей протеста в Лиссабоне и Порту",
+   "orig": "11h. acampada. psp garante que força usada foi proporcional",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "В Лиссабоне задержали двух подростков за ограбление у торгового центра",
+   "orig": "detidos dois jovens e identificados três menores por roubo junto a centro comercial de lisboa",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Бразильский комик Маурисиу Мейрелles покажет в Португалии шоу «Surto Coletivo»",
+   "orig": "maurício meirelles põe a plateia no comando do humor em novo show em portugal",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-01",
+   "title": "Полицейский в штатском достал оружие перед демонстрантами в Порту",
+   "orig": "polícia à civil exibiu arma perante manifestantes no porto. psp explica o que aconteceu",
    "important": false,
    "source": "CNN Portugal"
   }
