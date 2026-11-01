@@ -3,17 +3,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/zaidu-temos-de-ver-amanha-mas-a-substituicao-foi-por-precaucao/6ae678040cf23b0ed4fe0170",
-    "title": "«Zaidu? Temos de ver amanhã, mas a substituição foi por precaução»",
-    "summary": "Francesco Farioli abordou a ausência de Martim Fernandes e explicou a lesão de Zaidu, que saiu ao intervalo com queixas no joelho esquerdo.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/videos/napoles-ainda-nao-tive-tempo-para-ver-muita-coisa/6ae678660cf299bc29544137",
     "title": "«Nápoles? Ainda não tive tempo para ver muita coisa»",
     "summary": "Francesco Farioli revelou que ainda não teve tempo suficiente para estudar o Nápoles, próximo adversário do FC Porto na fase de liga da Liga dos Campeões.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-01T00:59:53.347711+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2457/",
+    "title": "2h. Acampada. PSP faz avisos, mas a tendas mantêm-se",
+    "summary": "São dezenas de tendas e centenas de pessoas que ocupam as praças da capital e da Invicta. Ainda, o secretário-geral do PSD diz que os partidos “devem deixar os interesses egoísticos\" sobre a habitação",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-01T02:48:45.494280+00:00"
   }
  ],
  "posted": [
