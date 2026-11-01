@@ -226,10 +226,6 @@
   "https://www.publico.pt/2026/11/01/culturaipsilon/noticia/palcos-semana-pantonio-pedra-dura-animacao-museu-2193337"
  ],
  "Observador": [
-  "https://observador.pt/programas/noticiario/as-noticias-das-18h-2173",
-  "https://observador.pt/2026/10/29/sebastiao-bugalho-acusa-prata-roque-de-colocar-em-perigo-a-integridade-fisica-de-ministro",
-  "https://observador.pt/2026/10/29/parlamento-abre-portas-este-sabado-a-tarde-para-visitas-gratuitas-e-as-visitas-guiadas-ja-estao-esgotadas",
-  "https://observador.pt/2026/10/29/braga-abre-candidaturas-para-apoios-de-ate-2-500e-a-familias-com-dificuldades-energeticas-fundo-tem-500-mil-euros",
   "https://observador.pt/2026/10/29/decisao-do-tribunal-constitucional-abre-a-porta-a-reinscricao-de-9-mil-trabalhadores-na-caixa-geral-de-aposentacoes-avancou-a-fesap",
   "https://observador.pt/2026/10/29/ministro-dos-negocios-estrangeiros-anuncia-que-pretende-reestruturar-instituto-camoes-em-2027",
   "https://observador.pt/2026/10/29/atividade-sismica-de-sao-miguel-em-zona-onde-ocorrem-periodicamente-crises-revela-ipma",
@@ -723,7 +719,13 @@
   "https://observador.pt/programas/manual-de-instrues-para-humanos/fome-emocional-porque-so-nos-apetece-pizza-e-nao-brocolos",
   "https://observador.pt/liveblogs/depois-de-intervencao-policial-em-lisboa-e-porto-seguro-pede-esclarecimentos",
   "https://observador.pt/programas/noticiario/as-noticias-das-10h-2512",
-  "https://observador.pt/liveblogs/zelensky-denuncia-novos-ataques-russos-a-infraestrutura-energetica-da-ucrania"
+  "https://observador.pt/liveblogs/zelensky-denuncia-novos-ataques-russos-a-infraestrutura-energetica-da-ucrania",
+  "https://observador.pt/especiais/you-can-see-everything-tudo-o-que-ja-sabemos-sobre-o-documentario-mais-esperado-do-ano",
+  "https://observador.pt/programas/noticiario/as-noticias-das-11h-1334",
+  "https://observador.pt/programas/e-o-vencedor-e/dormir-numa-tenda-na-rua-e-a-nova-politica-para-a-habitacao",
+  "https://observador.pt/programas/gabinete-de-guerra/a-europa-tem-que-construir-a-sua-autonomia",
+  "https://observador.pt/especiais/negociar-com-a-psp-nao-evitou-segunda-noite-de-carga-policial-no-rossio-tendas-e-manifestantes-foram-varridos-da-praca-lisboeta",
+  "https://observador.pt/2026/11/01/defesa-dos-manifestantes-vai-participar-criminalmente-contra-luis-neves-e-diretor-da-psp"
  ],
  "CNN Portugal": [
   "https://cnnportugal.iol.pt/franca/divida-de-franca/lagarde-evita-falar-sobre-franca-mas-deixa-um-alerta-aos-paises-que-tem-um-elevado-nivel-de-divida/20261029/6ae369c8d34e9a786e75e691",
@@ -1121,6 +1123,14 @@
   "https://cnnportugal.iol.pt/o-psicologo-responde/divorcio/ana-nunes-silva-o-psicologo-responde-como-explicar-a-uma-crianca-que-os-pais-se-vao-divorciar/20261101/6ae4b00bd34e53c759c78b84",
   "https://cnnportugal.iol.pt/videos/montenegro-esta-a-usar-luis-neves-como-bode-expiatorio-das-cargas-policiais/6ae70b230cf23b0ed4fe01a0",
   "https://cnnportugal.iol.pt/videos/quem-cometeu-crimes-aqui-foram-o-ministro-da-administracao-interna-e-o-diretor-nacional-da-psp/6ae6fbdd0cf299bc29544152",
-  "https://cnnportugal.iol.pt/videos/policia-avanca-sobre-manifestantes-no-rossio-as-imagens-da-intervencao-em-lisboa/6ae706b90cf23b0ed4fe0199"
+  "https://cnnportugal.iol.pt/videos/policia-avanca-sobre-manifestantes-no-rossio-as-imagens-da-intervencao-em-lisboa/6ae706b90cf23b0ed4fe0199",
+  "https://cnnportugal.iol.pt/videos/e-so-para-provocar-a-psp-antigo-inspetor-da-pj-questiona-protestos-pela-madrugada/6ae719b10cf22b9f890535ab",
+  "https://cnnportugal.iol.pt/geracao-z/millennials/como-reagir-ao-olhar-da-geracao-z-sem-parecer-um-verdadeiro-boomer/20261101/6adfb967d34e53c759c78154",
+  "https://cnnportugal.iol.pt/fotos/as-imagens-da-carga-policial-sobre-os-manifestantes-no-rossio/6ae71ba5d34e9a786e75eb77",
+  "https://cnnportugal.iol.pt/videos/impediu-a-prestacao-de-socorro-equipa-de-cuidados-acusa-psp-de-impedir-assistencia-a-manifestantes/6ae71a470cf22b9f890535ac",
+  "https://cnnportugal.iol.pt/videos/em-boa-verdade-nem-e-uma-carga-policial-a-explicacao-sobre-a-atuacao-da-psp/6ae6ff080cf299bc29544156",
+  "https://cnnportugal.iol.pt/geral/bombardeamento-de-campo-da-guerrilha-colombiana-na-venezuela-faz-varios-mortos/20261101/6ae71583d34e9a786e75eb6d",
+  "https://cnnportugal.iol.pt/bolivia/super-el-nino/presidente-da-bolivia-decreta-estado-de-emergencia-devido-a-um-super-el-nino/20261101/6ae714d7d34e53c759c78e05",
+  "https://cnnportugal.iol.pt/videos/e-porque-caiu-foi-detido-mulher-conta-como-marido-e-filha-foram-detidos-no-porto/6ae711f20cf23b0ed4fe01a6"
  ]
 }
