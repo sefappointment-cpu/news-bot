@@ -1,61 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/napoles-ainda-nao-tive-tempo-para-ver-muita-coisa/6ae678660cf299bc29544137",
-    "title": "«Nápoles? Ainda não tive tempo para ver muita coisa»",
-    "summary": "Francesco Farioli revelou que ainda não teve tempo suficiente para estudar o Nápoles, próximo adversário do FC Porto na fase de liga da Liga dos Campeões.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/o-mec-esta-a-trabalhar-muito-bem/6ae6786d0cf2e5e7f37cb9aa",
-    "title": "«O Mec está a trabalhar muito bem»",
-    "summary": "Francesco Farioli abordou a adaptação que Gabriel Mec tem tido no FC Porto.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-10-31T23:59:11.763879+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/cronica/nao-dia-estacao-2193307",
-    "title": "Não é um dia, é uma estação",
-    "summary": "A Estação de Todos os Santos é, à maneira da Páscoa e do Natal, uma festa de três dias. É o feriado triplo que faz falta ao nosso calendário. Crónica de Miguel Esteves Cardoso",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/eletrotecnicos-passarem-designers-nova-iluminacao-camara-lisboa-2193052",
-    "title": "Eletrotécnicos a passarem por designers: a nova iluminação da Câmara de Lisboa",
-    "summary": "Onde é que já vimos isto? Nos anos 70, quando a iluminação pública e monumental se resolvia por catálogo. Lisboa merece uma câmara bem iluminada, não apenas iluminada. Opinião de José Albuquerque Fonseca",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/paga-solidariedade-querem-direitos-deveres-2193107",
-    "title": "Quem paga a solidariedade? Todos querem direitos. E os deveres?",
-    "summary": "Quando falamos em nome dos mais desfavorecidos, estamos verdadeiramente a pensar neles e, ao mesmo tempo, no que cada um de nós deve aos outros, ou continuamos a falar de nós próprios? Opinião de João Nuno Tavares",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/imigracao-salvou-construcao-2192907",
@@ -67,48 +12,103 @@
    "added": "2026-11-01T00:59:53.347711+00:00"
   },
   {
-   "source": "Público",
+   "source": "Observador",
    "item": {
-    "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/medo-protesto-2192465",
-    "title": "Quem tem medo do protesto?",
-    "summary": "Se a democracia precisa de cidadãos mais participativos, por que razão inquieta tanto quem nos governa quando eles se fazem ouvir? Opinião de Sofia Serra-Silva",
-    "image": null
+    "url": "https://observador.pt/opiniao/saude-tecnologia-digital-ou-pagar-a-dobrar/",
+    "title": "Saúde: Tecnologia digital ou pagar a dobrar?",
+    "summary": "A pretexto da modernização tecnológica, o Estado paga milhões a terceiros para fazerem aquilo que as USF já fazem com qualidade e proximidade, e ignora os 1,5 milhões de utentes sem médico de família.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F09%2F03172532%2Fmm-805-2_467x467_acf_cropped.jpg"
    },
    "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/01/sociedade/noticia/acampada-lisboa-decide-voltar-passar-noite-rossio-tendas-montadas-2193336",
-    "title": "Acampada de Lisboa decide voltar a passar noite no Rossio com tendas montadas",
-    "summary": "A Acampada de Lisboa mantém-se há duas semanas e vai voltar a passar a noite no Rossio, com as tendas montadas.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
+   "added": "2026-11-01T05:39:50.200523+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2462/",
-    "title": "00h. Acampandas não abdicam do protesto",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/opiniao/num-mundo-fragmentado-portugal-escolhe-cooperar-2/",
+    "title": "Num mundo fragmentado, Portugal escolhe cooperar!",
+    "summary": "A próxima década da cooperação triangular não pode ser uma década de ambição adiada. A 10.ª Reunião Internacional de Lisboa deve marcar essa viragem decisiva.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F26182951%2Fwhatsapp-image-2026-10-23-at-170731.jpeg"
    },
    "important": false,
-   "added": "2026-11-01T00:59:53.347711+00:00"
+   "added": "2026-11-01T05:39:50.200523+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2457/",
-    "title": "2h. Acampada. PSP faz avisos, mas a tendas mantêm-se",
-    "summary": "São dezenas de tendas e centenas de pessoas que ocupam as praças da capital e da Invicta. Ainda, o secretário-geral do PSD diz que os partidos “devem deixar os interesses egoísticos\" sobre a habitação",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/opiniao/enquanto-nao-sabemos/",
+    "title": "Enquanto não sabemos",
+    "summary": "Há uma espécie de responsabilidade invisível na Medicina: a sensação de que, enquanto existir uma hipótese em que ainda não pensámos, não temos autorização para descansar.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A144%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F06%2F12195522%2F14128.jpg"
    },
    "important": false,
-   "added": "2026-11-01T02:48:45.494280+00:00"
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/quando-trabalhar-deixa-de-compensar/",
+    "title": "Quando trabalhar deixa de compensar",
+    "summary": "Um país onde trabalhar não chega para pagar uma casa é um país que precisa de rever as suas prioridades.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A468%3Anowe%3A140%3A12%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F02%2F02111146%2Ff195e6e2-0214-4b7a-b3f5-88c07507b351-1.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/dumping-social-o-estado-financia-a-concorrencia-desleal/",
+    "title": "Dumping social: o Estado financia a concorrência desleal",
+    "summary": "Dumping Social. Uma prática que penaliza os trabalhadores, distorce a concorrência entre empresas e permite que o incumprimento dos direitos laborais se transforme numa vantagem competitiva.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1230%3A1230%3Anowe%3A0%3A24%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F28145555%2F498.png"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/a-crise-da-habitacao-pode-redesenhar-portugal/",
+    "title": "A crise da habitação pode redesenhar Portugal",
+    "summary": "Portugal não tem apenas falta de casas onde estão as oportunidades; tem falta de oportunidades onde ainda existem casas",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1080%3A1080%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F30113910%2FWhatsApp-Image-2026-10-30-at-11.37.13.jpeg"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/chega-e-psd-a-relacao-entre-a-criatura-e-o-criador/",
+    "title": "CHEGA e PSD: criatura e criador",
+    "summary": "Com a subida do CHEGA, a AD vê-se encurralada. Para não ser destruída pelo Frankenstein que criou, a direita moderada tem de agir com realismo e coragem.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A970%3A970%3Anowe%3A0%3A315%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F30185740%2Fimagem_2026-10-30_185024085.png"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/chega-de-acampar-na-autoridade-do-estado-2/",
+    "title": "A casa constrói-se, não se ocupa",
+    "summary": "A crise da habitação merece soluções, não acampadas. Quando a causa é usada para tudo, deixa de servir a quem precisa de casa.",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1665%3A1665%3Anowe%3A0%3A447%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F26114247%2Fe9476f57-8641-4105-80ad-9cbbaad203e9-scaled.jpeg"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/opiniao/a-acampada-venceu-o-big-brother-o-activista-ofuscou-o-trabalhador/",
+    "title": "A acampada venceu o Big Brother",
+    "summary": "Quem quer saber duma mulher que morreu presa num tear quando estão assegurados directos 24h por dia das acampadas no centro de Lisboa e Porto? A tenda no Rossio é a versão ISCTE da casa do Big Brother",
+    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg"
+   },
+   "important": false,
+   "added": "2026-11-01T05:39:50.200523+00:00"
   }
  ],
  "posted": [
