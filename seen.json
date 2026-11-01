@@ -235,12 +235,6 @@
   "https://www.publico.pt/2026/11/01/publico-brasil/opiniao/mortos-voltam-casa-visao-mexicana-memoria-morte-2193349"
  ],
  "Observador": [
-  "https://observador.pt/2026/10/29/carrick-garante-que-bruno-fernandes-continua-a-ser-capitao-do-united-esta-totalmente-comprometido-com-o-clube",
-  "https://observador.pt/2026/10/29/nasa-espera-que-missao-artemis-a-lua-inspire-criancas-como-a-apollo-ha-50-anos",
-  "https://observador.pt/2026/10/29/andrea-bocelli-vai-atuar-na-indonesia-apesar-de-criticado-por-apoiar-a-israel",
-  "https://observador.pt/programas/big-investor-week/etf-e-analise-de-mercados-investir-com-mais-informacao",
-  "https://observador.pt/2026/10/29/camara-da-amadora-aprova-protocolo-para-estudos-do-metrobus-entre-oeiras-e-lisboa",
-  "https://observador.pt/2026/10/29/governo-quer-rever-acolhimento-familiar-de-idosos-e-pessoas-com-deficiencia-proposta-ja-em-circuito-legislativo",
   "https://observador.pt/programas/noticiario/as-noticias-das-17h-2321",
   "https://observador.pt/especiais/bce-lagarde-sai-antes-do-tempo-para-poder-usar-a-sua-voz-em-defesa-do-valor-da-verdade-que-todos-os-dias-ve-ser-danificado",
   "https://observador.pt/newsletters/lifestyle/sao-colheres-de-cha-ou-brincos-em-prata-a-nova-vida-da-marca-kukas-60-anos-de-joias-depois",
@@ -734,7 +728,13 @@
   "https://observador.pt/2026/11/01/defesa-dos-manifestantes-vai-participar-criminalmente-contra-luis-neves-e-diretor-da-psp",
   "https://observador.pt/2026/11/01/biblioteca-nacional-de-espanha-celebra-obra-e-influencia-de-camoes-com-exposicao-inedita",
   "https://observador.pt/2026/11/01/policia-maritima-resgata-42-migrantes-ao-largo-da-ilha-grega-de-gavdos",
-  "https://observador.pt/2026/11/01/carneiro-lanca-aviso-a-montenegro-e-afasta-bloco-central-com-psd-ja-nao-sei-se-uma-remodelacao-sera-suficiente"
+  "https://observador.pt/2026/11/01/carneiro-lanca-aviso-a-montenegro-e-afasta-bloco-central-com-psd-ja-nao-sei-se-uma-remodelacao-sera-suficiente",
+  "https://observador.pt/programas/noticiario/as-noticias-das-13h-2493",
+  "https://observador.pt/programas/e-o-campeao-e/fc-porto-faz-10-em-10-no-campeonato-e-na-champions",
+  "https://observador.pt/2026/11/01/governo-admite-reforcar-posicao-publica-na-galp-castro-almeida-assume-se-disser-que-esta-fora-de-causa-estou-a-mentir",
+  "https://observador.pt/programas/noticiario/as-noticias-das-12h-2484",
+  "https://observador.pt/programas/dooutrolado/do-outro-lado-a-historia-da-jovem-de-29-anos-que-preparou-a-familia-para-a-sua-morte",
+  "https://observador.pt/2026/11/01/china-investiga-por-corrupcao-ex-presidente-de-duas-das-maiores-petroliferas-estatais"
  ],
  "CNN Portugal": [
   "https://cnnportugal.iol.pt/franca/divida-de-franca/lagarde-evita-falar-sobre-franca-mas-deixa-um-alerta-aos-paises-que-tem-um-elevado-nivel-de-divida/20261029/6ae369c8d34e9a786e75e691",
@@ -1145,6 +1145,12 @@
   "https://cnnportugal.iol.pt/manifestacao/protesto/so-quem-nao-quiser-ver-e-que-acha-que-aquela-manifestacao-ate-as-04-30-nao-foi-uma-manifestacao-pacifica/20261101/6ae728cad34e53c759c78e21",
   "https://cnnportugal.iol.pt/videos/ha-uma-orientacao-por-parte-do-governo-de-cada-vez-que-ha-uma-acampada-destrui-la-a-bastonada/6ae720aa0cf22b9f890535ba",
   "https://cnnportugal.iol.pt/videos/o-objetivo-destas-pessoas-e-a-noticia-houve-quem-provocasse-a-policia-de-proposito/6ae7205b0cf23b0ed4fe01b2",
-  "https://cnnportugal.iol.pt/videos/que-tipo-de-interpretacao-criativa-da-lei-e-esta-que-a-policia-faz-as-criticas-a-psp-por-tratar-acampadas-de-forma-diferente/6ae71fe10cf299bc29544172"
+  "https://cnnportugal.iol.pt/videos/que-tipo-de-interpretacao-criativa-da-lei-e-esta-que-a-policia-faz-as-criticas-a-psp-por-tratar-acampadas-de-forma-diferente/6ae71fe10cf299bc29544172",
+  "https://cnnportugal.iol.pt/videos/mal-seria-que-tivesse-de-haver-uma-decisao-politica-para-que-uma-policia-cumprisse-a-lei/6ae737980cf299bc29544196",
+  "https://cnnportugal.iol.pt/videos/violencia-traz-violencia-carneiro-alerta-para-os-riscos-da-resposta-policial-aos-protestos/6ae733e30cf2e5e7f37cb9ea",
+  "https://cnnportugal.iol.pt/videos/tem-faltado-uma-intervencao-e-uma-lideranca-politica-do-primeiro-ministro-montenegro-deixa-luis-neves-na-linha-da-frente-dos-protestos/6ae72e000cf299bc29544185",
+  "https://cnnportugal.iol.pt/videos/estou-aqui-com-um-sentimento-de-profunda-tristeza-luis-neves-reage-aos-acontecimentos-em-lisboa-e-no-porto/6ae72e1c0cf299bc29544186",
+  "https://cnnportugal.iol.pt/videos/onde-e-que-podemos-encontrar-um-compromisso-o-apelo-apos-os-confrontos-entre-policia-e-manifestantes/6ae721b20cf299bc29544175",
+  "https://cnnportugal.iol.pt/brasil/flavio-bolsonaro/operacao-alba-a-fuga-de-flavio-bolsonaro-comecou-a-ser-preparada-antes-das-eleicoes-um-ex-espiao-da-mossad-e-um-aliado-de-trump-terao-ajudado/20261101/6ae68dbbd34e53c759c78de0"
  ]
 }
