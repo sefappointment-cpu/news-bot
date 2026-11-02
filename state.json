@@ -1,17 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/a-coesao-social/",
-    "title": "A coesão social",
-    "summary": "As sociedades cosmopolitas, as fronteiras porosas e a imigração em massa destroem a coesão social e o sentido de pertença que permitem pessoas bem formadas e projetos coletivos efetivos.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T00:59:23.966899+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/um-policia-que-atira-petardos-esta-a-convidar-o-resto-da-policia-a-cair-em-cima-dos-manifestantes/6ae7d0ea0cf299bc29544241",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-02T03:19:52.280136+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/02/acampada-do-porto-pernoitou-com-tendas-montadas-com-pouca-vigilancia-policial/",
+    "title": "Pouca polícia na Acampada do Porto que pernoitou com tendas",
+    "summary": "A PSP deixou os manifestantes na Praça D. João I ficarem com as tendas montadas além da meia noite e meia na madrugada desta segunda-feira, um dia depois da intervenção policial.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1667:936:nowe:0:1564/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01211538/obs01112026davidoliveira00129.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T04:29:15.603277+00:00"
   }
  ],
  "posted": [
