@@ -1,70 +1,59 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2513/",
-    "title": "10h. Superintendente da PSP questiona comunicação do Governo",
-    "summary": "No Explicador, Carlos Bastos Leitão diz que a PSP não pode ficar à espera de \"taticismos\". Ainda nesta edição, o impacto da greve dos trabalhadores da Administração Pública.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://cnnportugal.iol.pt/videos/ninguem-pacifico-vai-para-uma-manifestacao-municiado-com-cocktails-molotov/6ae85b3b0cf235b99ef4f598",
+    "title": "\"Ninguém pacífico vai para uma manifestação municiado com cocktails molotov\"",
+    "summary": "Suzana Garcia, vereadora do PSD da Câmara Municipal da Amadora, analisa os acontecimentos das últimas noites nas manifestações pela habitação no Porto e em Lisboa.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
+   "added": "2026-11-02T11:47:17.090138+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/02/greve-na-administracao-publica-com-adesao-de-60-na-educacao-e-saude/",
-    "title": "Greve na administração pública com adesão de 60%",
-    "summary": "A greve começou pelas 0h00 desta segunda-feira e prolonga-se até às 23h59, abrangendo a administração central, regional e local",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/06/23174243/16832066.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/novembro-arranca-com-nova-semana-de-calor-e-sem-chuva/6ae851950cf235b99ef4f58c",
+    "title": "Novembro arranca com nova semana de calor e sem chuva",
+    "summary": "Em termos de meteorologia, novembro chega a Portugal com nova semana de temperaturas altas para esta altura do ano e sem chuva.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
+   "added": "2026-11-02T11:47:17.090138+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/programas/comissao-de-inquerito/miguel-prata-roque-a-politica-portuguesa-precisa-de-pedro-nuno-santos/",
-    "title": "\"A política portuguesa precisa de Pedro Nuno Santos\"",
-    "summary": "O antigo secretário de Estado, Miguel Prata Roque, considera que Pedro Nuno Santos é indispensável à democracia, valorizando a sua determinação para dinamizar e unir o espaço da esquerda.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+    "url": "https://cnnportugal.iol.pt/banco-de-portugal/divida/divida-publica-desce-para-88-4-do-pib-no-3-trimestre/20261102/6ae8776ed34e5a653d73274e",
+    "title": "Dívida pública desce para 88,4% do PIB no 3.º trimestre",
+    "summary": "Este é o valor mais baixo da dívida pública em percentagem do PIB desde o quarto trimestre de 2009, quando tinha atingido os 87,6%, divulga o Banco de Portugal",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
+   "added": "2026-11-02T11:47:17.090138+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/02/sismo-de-magnitude-34-na-escala-de-richter-sentido-na-ilha-terceira-2/",
-    "title": "Sismo de magnitude 3,4 na escala de Richter na ilha Terceira",
-    "summary": "Segundo o Centro de Informação e Vigilância Sismovulcânica dos Açores o abalo \"insere-se na crise sismovulcânica em curso na ilha Terceira desde junho de 2022\"",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/02/20183401/gettyimages-1239514146-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/bpi/lucro/lucro-do-bpi-cai-7-para-363-milhoes-de-euros-ate-setembro/20261102/6ae87552d34e9ce6f1b42a21",
+    "title": "Lucro do BPI cai 7% para 363 milhões de euros até setembro",
+    "summary": "Segundo explica o banco, em comunicado, esta redução é explicada por dois efeitos não recorrentes",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
+   "added": "2026-11-02T11:47:17.090138+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/02/tribunal-da-razao-a-renata-cambra-e-permite-que-acampe-no-rossio-ate-ao-dia-24-de-novembro/",
-    "title": "Tribunal permite que Cambra acampe no Rossio até dia 24",
-    "summary": "Tribunal autoriza a instalação de uma tenda, recusa aplicar a restrição horária após as 00h30 e obriga PSP a não interromper manifestação. Contudo, manifestantes têm de respeitar várias regras.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:273/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25075633/ilacerda-manif-noite-8-intervencao-policial-46-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/saude/sns/quase-metade-das-primeiras-consultas-de-especialidade-fora-do-tempo-recomendado/20261102/6ae874e1d34e9ce6f1b42a20",
+    "title": "Quase metade das primeiras consultas de especialidade fora do tempo recomendado",
+    "summary": "Do total de utentes que aguardam a primeira consulta, 59,8% já tinham ultrapassado o tempo de espera recomendado",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/explicador/atuacao-da-psp-nos-protestos-governo-falha-na-comunicacao/",
-    "title": "Atuação da PSP nos protestos. Governo falha na comunicação?",
-    "summary": "Pedro Delgado Alves (PS) aponta o dedo ao Governo por \"usar\" a PSP nos protestos. Já Carlos Bastos Leitão (PSP) diz que a comunicação instável do Executivo leva a PSP a agir no momento.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
-   },
-   "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00"
+   "added": "2026-11-02T11:47:17.090138+00:00"
   },
   {
    "source": "Público",
@@ -112,6 +101,18 @@
    },
    "important": false,
    "added": "2026-11-02T09:55:18.259353+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/comissao-de-inquerito/miguel-prata-roque-a-politica-portuguesa-precisa-de-pedro-nuno-santos/",
+    "title": "\"A política portuguesa precisa de Pedro Nuno Santos\"",
+    "summary": "O antigo secretário de Estado, Miguel Prata Roque, considera que Pedro Nuno Santos é indispensável à democracia, valorizando a sua determinação para dinamizar e unir o espaço da esquerda.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T10:53:27.084873+00:00",
    "fails": 1
   }
  ],
@@ -591,6 +592,34 @@
    "orig": "tradição que é tradição, reinventa-se",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Спикер парламента дал партиям 24 часа на решение по дебатам о действиях полиции",
+   "orig": "10h. superintendente da psp questiona comunicação do governo",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "В Португалии бастуют работники госсектора",
+   "orig": "greve na administração pública com adesão de 60%",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Спикер парламента даёт партиям сутки на решение о дебатах по действиям полиции",
+   "orig": "debate sobre actuação policial pedido pelo pcp: aguiar-branco dá 24 horas aos partidos para consenso",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "В Португалии проходит забастовка госслужащих: охвачена education и health",
+   "orig": "greve na administração pública com adesão de 60% na educação e saúde",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-01"
