@@ -1,124 +1,114 @@
 {
  "pending": [
   {
-   "source": "Público",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://www.publico.pt/2026/11/02/politica/noticia/buzinar-eder-habitacao-be-pergunta-luis-neves-onde-diferenca-2193481",
-    "title": "Buzinar por Éder ou pela habitação: BE pergunta a Luís Neves onde está a diferença",
-    "summary": "Bloco de Esquerda questiona ministério da Administração Interna sobre critérios aplicados para autuar buzinadelas nos protestos pela habitação do Rossio. Em 2013, aconteceu episódio semelhante.",
+    "url": "https://cnnportugal.iol.pt/videos/tiago-fernandes-e-o-regresso-ao-cargo-de-interino-tenho-mais-maturidade-e-experiencia/6ae8ebc50cf2aafa0453d11b",
+    "title": "Tiago Fernandes e o regresso ao cargo de interino: «Tenho mais maturidade e experiência»",
+    "summary": "Tiago Fernandes comentou o regresso ao cargo de treinador interino do Sporting, oito anos depois de ter orientado a equipa nas mesmas circunstâncias, precisamente em Londres.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-02T17:27:17.828881+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/portagens/oe2027/governo-diz-que-fim-de-portagens-nas-ex-scut-impede-milhares-de-milhoes-de-euros-de-obra/20261102/6ae8b09fd34e5a653d7327e0",
-    "title": "Governo diz que fim de portagens nas ex-Scut impede \"milhares de milhões de euros de obra\"",
-    "summary": "\"Os portugueses e as portuguesas, todos estão a pagar portagens, todos estão a pagar 400 milhões de portagens\", afirmou Miguel Pinto Luz",
-    "image": "https://img.iol.pt/preset/5fbee01d0cf203abc5b36dac/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-02T16:29:32.872683+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/comissao-de-inquerito/miguel-prata-roque-a-politica-portuguesa-precisa-de-pedro-nuno-santos/",
-    "title": "\"A política portuguesa precisa de Pedro Nuno Santos\"",
-    "summary": "O antigo secretário de Estado, Miguel Prata Roque, considera que Pedro Nuno Santos é indispensável à democracia, valorizando a sua determinação para dinamizar e unir o espaço da esquerda.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T10:53:27.084873+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/02/local/noticia/governo-admite-conciliar-linha-circular-metro-lisboa-linha-laco-2193493",
-    "title": "Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
-    "summary": "Sececretária de Estado da Mobilidade diz que transformação da Linha Circular em Linha em Laço iria exigir mais 18 meses de trabalho. E significará custo acidional de 18 milhões de euros.",
+    "url": "https://cnnportugal.iol.pt/acampada/rossio/a-partir-de-agora-estamos-perante-um-absurdo-em-que-a-psp-pode-intervir-sobre-todos-os-manifestantes-menos-renata-cambra/20261102/6ae8e28cd34e5a653d732836",
+    "title": "A partir de agora estamos perante um \"absurdo\" em que a PSP pode intervir sobre todos os manifestantes menos Renata Cambra",
+    "summary": "Sentença do Tribunal Administrativo de Lisboa não reuniu o consenso dos especialistas contactados pela CNN Portugal. Do ponto de vista forense, diz respeito apenas à autora da intimação e isso pode desencadear um \"absurdo\" na resposta policial",
     "image": null
    },
    "important": false,
-   "added": "2026-11-02T18:23:32.559960+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/e-muito-problematico-quando-nem-sequer-chegamos-ao-natal-e-estamos-a-nove-pontos-do-lider-e-a-jogar-mal/6ae8c2290cf235b99ef4f77a",
-    "title": "\"É muito problemático quando nem sequer chegámos ao Natal e estamos a nove pontos do líder e a jogar mal\"",
-    "summary": "O humorista e adepto do Sporting Diogo Faro esteve na Central CNN para falar da saída de Rui Borges do clube leonino.",
-    "image": "https://img.iol.pt/preset/6ae8c6b0d34e9ce6f1b42ae3/og/cnn"
+    "url": "https://cnnportugal.iol.pt/videos/esta-na-altura-de-dar-um-murro-na-mesa-miguel-relvas-revela-questao-habitacional-que-esta-a-dividir-lisboa/6ae8e2250cf2aafa0453d0f3",
+    "title": "\"Está na altura de dar um murro na mesa\": Miguel Relvas revela questão habitacional que está a dividir Lisboa",
+    "summary": "O comentador da CNN Portugal Miguel Relvas lamenta que Portugal continue a apresentar \"soluções do passado\" para o problema da habitação.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T17:27:17.828881+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/governo-diz-que-nao-ve-razoes-para-chega-chumbar-lei-das-rendas-mas-convida-livre-a-negociar-de-forma-seria/",
-    "title": "Lei de rendas. Pinto Luz chama Livre para \"negociação séria\"",
-    "summary": "Ministro das Infraestruturas e Habitação não vê \"razões\" para Chega chumbar a lei das rendas na especialidade, depois de passar na generalidade, mas pede à esquerda para negociar \"de forma séria\".",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02115404/48050220.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T14:07:15.418239+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/rui-borges-sai-agora-nao-fosse-ele-ganhar-os-proximos-tres-jogos/6ae8c8150cf2051820fb02d9",
-    "title": "\"Rui Borges sai agora não fosse ele ganhar os próximos três jogos\"",
-    "summary": "Jorge Baptista, comentador da CNN Portugal, considera que a decisão de despedir Rui Borges \"já estava tomada há bastante tempo\" no seio do Sporting.",
-    "image": "https://img.iol.pt/preset/6ae8c8ecd34e9ce6f1b42aeb/og/cnn"
+    "url": "https://cnnportugal.iol.pt/videos/o-que-sobra-ao-governo-em-repressao-policial-falta-lhe-em-politica-para-garantir-a-habitacao/6ae8e3640cf2051820fb0341",
+    "title": "\"O que sobra ao Governo em repressão policial falta-lhe em política para garantir a habitação\"",
+    "summary": "O comentador da CNN Portugal Bernardino Soares afirma que o executivo de Luís Montenegro se está a esconder \"com esta manobra de fazer cargas policiais sobre manifestações pacíficas\".",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T18:23:32.559960+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/brecht-pommerat-e-estreias-nacionais-a-30-a-mostra-de-almada-tem-18-pecas-ate-29-de-novembro/",
-    "title": "Dezoito peças de teatro fazem 30ª Mostra de Almada",
-    "summary": "\"A caverna\", de Luís Menezes, encerrará a 30ª Mostra de Almada com duas representações, nos dias 28 e 29, no Casino da Trafaria",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01013251/ilacerda-festival-teatro-almada-19-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T18:23:32.559960+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/sempre-que-o-benfica-ganha-um-campeonato-vou-para-a-rua-a-noite-e-apito-de-uma-forma-desalmada-tenho-a-felicidade-de-nunca-ter-sido-multado/6ae8e0f80cf2051820fb033f",
-    "title": "\"Sempre que o Benfica ganha um campeonato, vou para a rua à noite e apito de uma forma desalmada. Tenho a felicidade de nunca ter sido multado\"",
-    "summary": "O comentador da CNN Portugal Adalberto Campos Fernandes afirma também que a PSP \"está numa embrulhada\" que tanto agentes como comandantes \"não desejariam\".",
-    "image": "https://img.iol.pt/preset/6190fd7c0cf2c7ea0f08944d/og/cnn"
+    "url": "https://cnnportugal.iol.pt/videos/secretas-tem-alertado-para-infiltracoes-de-terroristas-jihadistas-comunistas-brasileiros-e-do-pcc-nas-manifestacoes-pela-habitacao/6ae8e3e00cf235b99ef4f7e3",
+    "title": "Secretas têm \"alertado para infiltrações de terroristas jihadistas, comunistas brasileiros e do PCC\" nas manifestações pela habitação",
+    "summary": "O comentador da CNN Portugal Pedro Frazão defendeu ainda a legitimidade das ações da PSP durante as acampadas em Lisboa e Porto.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T20:15:31.547781+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/02/novo-banco-ultrapassa-requisitos-minimos-impostos-pelo-bce-para-2027/",
-    "title": "Novo Banco ultrapassa requisitos mínimos impostos pelo BCE",
-    "summary": "Os requisitos de fundos próprios e gestão de risco são definidos para garantir a solidez financeira dos bancos",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/10/25170634/34616202.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/temos-de-colocar-aqui-varias-questoes-que-tendas-de-que-tamanho-ate-dia-25-de-novembro/6ae8eb170cf2051820fb037c",
+    "title": "\"Temos de colocar aqui várias questões: que tendas? De que tamanho? Até dia 25 de novembro?\"",
+    "summary": "O subintendente Bruno Pereira, presidente do Sindicato Nacional de Oficiais da PSP, analisou a decisão do Tribunal Administrativo de Lisboa acerca da ação movida pela ativista Renata Cambra.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-02T20:15:31.547781+00:00",
-   "fails": 1
+   "added": "2026-11-02T21:14:20.043887+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/conselho-de-estado/seguro/habitacao-discutida-no-conselho-de-estado-seguro-valorizou-os-contributos-dos-conselheiros/20261102/6ae8f4cfd34e9ce6f1b42b3d",
+    "title": "Habitação discutida no Conselho de Estado. Seguro \"valorizou os contributos\" dos conselheiros",
+    "summary": "Reunião decorre numa altura em que a vaga de manifestações pelo direito à habitação marca a atualidade",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T21:14:20.043887+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/as-imagens-de-dois-agentes-da-psp-com-cravos-em-pleno-rossio/6ae8f5cd0cf2df4c3882cb11",
+    "title": "As imagens de dois agentes da PSP com cravos em pleno Rossio",
+    "summary": "Pelo menos dois agentes da PSP foram vistos com cravos na praça D. Pedro IV, em pleno Rossio, Lisboa.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T21:14:20.043887+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/renata-cambra/perfil/renata-cambra-e-feita-de-muitos-nos-a-professora-que-prefere-a-rua-ao-parlamento-e-levou-o-direito-de-protestar-ate-ao-tribunal/20261102/6ae8997cd34e5a653d7327ba",
+    "title": "Renata Cambra é feita de muitos nós: a professora que prefere a rua ao Parlamento e levou o direito de protestar até ao tribunal",
+    "summary": "PERFIL || Tornou-se conhecida em dez minutos de televisão, viveu quase três anos com medo e nunca conseguiu eleger-se deputada. Aos 35 anos, a professora de Português e ativista anticapitalista acaba de vencer uma batalha judicial pelo direito de manter uma tenda no Rossio. “Eu prefiro ser professora”, garante. Entre a emigração, a precariedade, as manifestações e os tribunais, a história de Renata Cambra começou muito antes de chegar à praça onde agora desafia a interpretação do Ministério da Administração Interna",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T21:14:20.043887+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/pcc/brasil/um-milhao-roubado-em-15-bancos-atraso-judicial-liberta-celula-do-primeiro-comando-da-capital-em-portugal/20261102/6ae8e96ad34e9ce6f1b42b24",
+    "title": "Um milhão roubado em 15 bancos: atraso judicial liberta célula do Primeiro Comando da Capital em Portugal",
+    "summary": "Membros do gangue foram acusados em junho, um ano depois de terem sido presos",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T21:14:20.043887+00:00"
   }
  ],
  "posted": [
@@ -823,5 +813,5 @@
    "source": "Público"
   }
  ],
- "digest_date": "2026-11-01"
+ "digest_date": "2026-11-02"
 }
