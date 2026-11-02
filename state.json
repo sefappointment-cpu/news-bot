@@ -1,48 +1,48 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/ecco/calcado/fabrica-da-ecco-fecha-em-portugal-e-deixa-632-trabalhadores-no-desemprego/20261102/6ae87e94d34e5a653d73276b",
-    "title": "Fábrica da Ecco fecha em Portugal e deixa 632 trabalhadores no desemprego",
-    "summary": "Encerramento da fábrica foi revelado a grande parte dos funcionários durante uma reunião realizada esta manhã",
-    "image": null
+    "url": "https://observador.pt/2026/11/02/moonspell-vao-celebrar-35-anos-em-2027-com-moonfest-em-lisboa/",
+    "title": "Moonspell vão celebrar 35 anos em 2027 com Moonfest",
+    "summary": "A banda portuguesa quer apostar na qualidade e originalidade das bandas em cartaz, como também no preço justo e conforto do público",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/10/24123607/21892787.jpg"
    },
    "important": false,
-   "added": "2026-11-02T12:54:50.236262+00:00"
+   "added": "2026-11-02T14:07:15.418239+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/mundo-ia/ia-pode-ajudar-na-crise-da-habitacao-governo-acha-que-sim-e-quer-reduzir-tempo-de-licenciamentos/",
-    "title": "IA pode ajudar na crise da Habitação? Governo acha que sim",
-    "summary": "Gonçalo Matias apresentou a licencIA - a nova plataforma que promete agilizar processos de licenciamento (urbanístico, industrial e ambiental). Ainda, conheça a app \"Universo Zé Traquina\".",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27142941/770-mundoia.jpg"
+    "url": "https://observador.pt/2026/11/02/governo-diz-que-nao-ve-razoes-para-chega-chumbar-lei-das-rendas-mas-convida-livre-a-negociar-de-forma-seria/",
+    "title": "Lei de rendas. Pinto Luz chama Livre para \"negociação séria\"",
+    "summary": "Ministro das Infraestruturas e Habitação não vê \"razões\" para Chega chumbar a lei das rendas na especialidade, depois de passar na generalidade, mas pede à esquerda para negociar \"de forma séria\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02115404/48050220.jpg"
    },
    "important": false,
-   "added": "2026-11-02T12:54:50.236262+00:00"
+   "added": "2026-11-02T14:07:15.418239+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/02/fecho-da-fabrica-de-calcado-ecco-em-portugal-deixa-632-trabalhadores-no-desemprego/",
-    "title": "632 trabalhadores no desemprego com fecho da fábrica da Ecco",
-    "summary": "Como indemnização, cada funcionário terá depois direito a um salário por cada ano de serviço",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/12679175.jpg"
+    "url": "https://observador.pt/2026/11/02/governo-diz-que-obras-da-expansao-da-linha-vermelha-ja-podem-avancar-apos-novo-ajuste-no-calendario/",
+    "title": "Obra da Linha Vermelha pode avançar com novo calendário",
+    "summary": "Reprogramação da expansão da linha do Metro foi aprovada e permitirá obter o visto prévio ao contrato de fiscalização que estava a impedir o avanço da obra, disse secretária de Estado dos Transportes.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2014/07/2621026.jpg"
    },
    "important": false,
-   "added": "2026-11-02T12:54:50.236262+00:00"
+   "added": "2026-11-02T14:07:15.418239+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/resposta-pronta/se-bastonadas-continuarem-vamos-a-intimacao-mais-alargada/",
-    "title": "\"Se bastonadas continuarem, vamos a intimação mais alargada\"",
-    "summary": "Leonor Caldeira refere que decisão do Tribunal passa responsabilidade para PSP e decisores políticos. Diz que decisão tem muito peso para próximos passos das manifestações.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02024426/ts154a3219.jpg"
+    "url": "https://observador.pt/programas/e-o-campeao-e/perder-a-taca-para-um-pequeno-e-caminho-direto-para-a-rua/",
+    "title": "Perder a taça para um pequeno é caminho direto para a rua?",
+    "summary": "A derrota dos leões na final contra o Torreense e a descida na liderança minaram a confiança no treinador. Sem o apoio nas bancadas de Alvalade, a demissão a meio da época tornou-se inevitável.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
    },
    "important": false,
-   "added": "2026-11-02T12:54:50.236262+00:00"
+   "added": "2026-11-02T14:07:15.418239+00:00"
   },
   {
    "source": "Público",
@@ -54,6 +54,30 @@
    },
    "important": false,
    "added": "2026-11-02T08:39:34.396089+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/a-psp-esta-a-fazer-tudo-para-salvar-a-face-do-ministro-que-declarou-as-acampadas-acabaram/6ae843390cf2df4c3882c85b",
+    "title": "\"A PSP está a fazer tudo para salvar a face do ministro que declarou: as acampadas acabaram\"",
+    "summary": "Filipe Santos Costa, comentador da CNN Portugal, analisa a atuação da PSP nas manifestações pela habitação no Porto e em Lisboa.",
+    "image": "https://img.iol.pt/preset/613b15400cf246344ebaa219/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-02T09:55:18.259353+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/banco-de-portugal/divida/divida-publica-desce-para-88-4-do-pib-no-3-trimestre/20261102/6ae8776ed34e5a653d73274e",
+    "title": "Dívida pública desce para 88,4% do PIB no 3.º trimestre",
+    "summary": "Este é o valor mais baixo da dívida pública em percentagem do PIB desde o quarto trimestre de 2009, quando tinha atingido os 87,6%, divulga o Banco de Portugal",
+    "image": "https://img.iol.pt/preset/69ccf071d34edcee7c628c36/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-02T11:47:17.090138+00:00",
    "fails": 1
   },
   {
@@ -90,30 +114,6 @@
    },
    "important": false,
    "added": "2026-11-02T10:53:27.084873+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/a-psp-esta-a-fazer-tudo-para-salvar-a-face-do-ministro-que-declarou-as-acampadas-acabaram/6ae843390cf2df4c3882c85b",
-    "title": "\"A PSP está a fazer tudo para salvar a face do ministro que declarou: as acampadas acabaram\"",
-    "summary": "Filipe Santos Costa, comentador da CNN Portugal, analisa a atuação da PSP nas manifestações pela habitação no Porto e em Lisboa.",
-    "image": "https://img.iol.pt/preset/613b15400cf246344ebaa219/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-02T09:55:18.259353+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/banco-de-portugal/divida/divida-publica-desce-para-88-4-do-pib-no-3-trimestre/20261102/6ae8776ed34e5a653d73274e",
-    "title": "Dívida pública desce para 88,4% do PIB no 3.º trimestre",
-    "summary": "Este é o valor mais baixo da dívida pública em percentagem do PIB desde o quarto trimestre de 2009, quando tinha atingido os 87,6%, divulga o Banco de Portugal",
-    "image": "https://img.iol.pt/preset/69ccf071d34edcee7c628c36/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-02T11:47:17.090138+00:00",
    "fails": 1
   }
  ],
@@ -647,6 +647,41 @@
    "date": "2026-11-02",
    "title": "Приговор по делу «Вортекс» огласят 21 декабря",
    "orig": "leitura do acórdão do processo vórtex marcada para dezembro",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Ecco закрывает фабрику в Португалии, 632 человека потеряют работу",
+   "orig": "fábrica da ecco fecha em portugal e deixa 632 trabalhadores no desemprego",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Португалия запускает ИИ-платформу для ускорения лицензирования",
+   "orig": "ia pode ajudar na crise da habitação? governo acha que sim",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Португальский завод Ecco закрывают, 632 человека остаются без работы",
+   "orig": "632 trabalhadores no desemprego com fecho da fábrica da ecco",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Сегуро подтвердил право на демонстрации и не отказывается от диалога",
+   "orig": "seguro realça direito de manifestação e promete não desistir de “diálogo e bom senso”",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Суд разрешил протестные палатки в Лиссабоне",
+   "orig": "\"se bastonadas continuarem, vamos a intimação mais alargada\"",
    "important": false,
    "source": "Observador"
   }
