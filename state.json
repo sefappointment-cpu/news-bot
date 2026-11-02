@@ -61,6 +61,18 @@
    "fails": 1
   },
   {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/02/local/noticia/governo-admite-conciliar-linha-circular-metro-lisboa-linha-laco-2193493",
+    "title": "Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
+    "summary": "Sececretária de Estado da Mobilidade diz que transformação da Linha Circular em Linha em Laço iria exigir mais 18 meses de trabalho. E significará custo acidional de 18 milhões de euros.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T18:23:32.559960+00:00",
+   "fails": 1
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/e-muito-problematico-quando-nem-sequer-chegamos-ao-natal-e-estamos-a-nove-pontos-do-lider-e-a-jogar-mal/6ae8c2290cf235b99ef4f77a",
@@ -82,18 +94,6 @@
    },
    "important": false,
    "added": "2026-11-02T14:07:15.418239+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/02/local/noticia/governo-admite-conciliar-linha-circular-metro-lisboa-linha-laco-2193493",
-    "title": "Governo admite conciliar Linha Circular do Metro de Lisboa com Linha em Laço",
-    "summary": "Sececretária de Estado da Mobilidade diz que transformação da Linha Circular em Linha em Laço iria exigir mais 18 meses de trabalho. E significará custo acidional de 18 milhões de euros.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T18:23:32.559960+00:00",
    "fails": 1
   },
   {
@@ -765,6 +765,41 @@
    "orig": "banco montepio melhora lucros, mas retorno continua aquém da concorrência",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Полиция объяснила, почему разгоняет палаточный лагерь на Россиу",
+   "orig": "livre circulação e descanso: psp justifica intervenções no rossio para preservar \"direitos fundamentais\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Шесть спектаклей ноября в Португалии",
+   "orig": "seis espetáculos para ver em novembro",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Полиция Португалии признала перегиб при штрафах за сигналы в поддержку лагеря протестующих",
+   "orig": "psp admite excesso ao multar quem buzinou em apoio às acampadas: \"presumo que não vá voltar a acontecer\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Паулo Фонсека возвращается в Португалию и возглавит «Спортинг»",
+   "orig": "jj, fc porto, a fuga de kiev: fonseca, o zorro do sporting",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Суд в Лиссабоне частично поддержал активистку Ренату Камбру",
+   "orig": "renata cambra reclama \"vitória\" com a autorização à tenda - mas garante que não é \"individual\"",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-01"
