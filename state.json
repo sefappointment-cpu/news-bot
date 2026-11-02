@@ -3,24 +3,13 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/02/acidez-dos-tumores-pode-dificultar-a-eficacia-de-tratamentos-contra-o-cancro/",
-    "title": "Acidez dos tumores pode dificultar a eficácia de tratamentos",
-    "summary": "Para continuar a investigação, a equipa conta já com parceiros científicos e procura garantir o financiamento necessário para realizar testes",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/06/07173800/GettyImages-1398798060-scaled.jpg"
+    "url": "https://observador.pt/2026/11/02/governo-reforca-apoio-aos-agricultores-com-mais-15-milhoes-para-compensar-aumento-dos-combustiveis/",
+    "title": "Governo reforça apoio a agricultores em 15 milhões de euros",
+    "summary": "\"Não vamos deixar os agricultores sozinhos perante o aumento dos custos\", assegurou o ministro da Agricultura",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02135720/48051130.jpg"
    },
    "important": false,
-   "added": "2026-11-02T15:22:30.082951+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2505/",
-    "title": "As notícias das 15h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-02T15:22:30.082951+00:00"
+   "added": "2026-11-02T16:29:32.872683+00:00"
   },
   {
    "source": "Público",
@@ -44,6 +33,18 @@
    },
    "important": false,
    "added": "2026-11-02T09:55:18.259353+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/02/publico-brasil/noticia/juliana-linhares-disputa-grammy-carminho-torco-lingua-2193422",
+    "title": "Juliana Linhares disputa Grammy com Carminho: “Torço pela nossa língua”",
+    "summary": "Indicada ao Grammy Latino por Até Cansar o Cansaço , a cantora potiguar, que encerra a turnê em Portugal, fala do cansaço coletivo, do Nordeste insubmisso e de uma tarde de estúdio com Ney Matogrosso.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T15:22:30.082951+00:00",
    "fails": 1
   },
   {
@@ -107,15 +108,15 @@
    "fails": 1
   },
   {
-   "source": "Público",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://www.publico.pt/2026/11/02/publico-brasil/noticia/juliana-linhares-disputa-grammy-carminho-torco-lingua-2193422",
-    "title": "Juliana Linhares disputa Grammy com Carminho: “Torço pela nossa língua”",
-    "summary": "Indicada ao Grammy Latino por Até Cansar o Cansaço , a cantora potiguar, que encerra a turnê em Portugal, fala do cansaço coletivo, do Nordeste insubmisso e de uma tarde de estúdio com Ney Matogrosso.",
-    "image": null
+    "url": "https://cnnportugal.iol.pt/portagens/oe2027/governo-diz-que-fim-de-portagens-nas-ex-scut-impede-milhares-de-milhoes-de-euros-de-obra/20261102/6ae8b09fd34e5a653d7327e0",
+    "title": "Governo diz que fim de portagens nas ex-Scut impede \"milhares de milhões de euros de obra\"",
+    "summary": "\"Os portugueses e as portuguesas, todos estão a pagar portagens, todos estão a pagar 400 milhões de portagens\", afirmou Miguel Pinto Luz",
+    "image": "https://img.iol.pt/preset/5fbee01d0cf203abc5b36dac/og/cnn"
    },
    "important": false,
-   "added": "2026-11-02T15:22:30.082951+00:00",
+   "added": "2026-11-02T16:29:32.872683+00:00",
    "fails": 1
   }
  ],
@@ -707,6 +708,27 @@
    "orig": "carga policial: passos coelho nunca faria isto",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Кислотность опухолей может мешать действию лекарств от рака",
+   "orig": "acidez dos tumores pode dificultar a eficácia de tratamentos",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Госсовет Португалии собрался на заседание о социальной сплоченности",
+   "orig": "as notícias das 15h",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Полиция PJ провела следственные действия у памятника дону Педру IV на площади Росиу",
+   "orig": "pj realiza diligências na estátua de d. pedro iv no rossio",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-01"
