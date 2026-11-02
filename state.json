@@ -3,17 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/opiniao/psicologia-do-protesto/",
-    "title": "Psicologia do protesto",
-    "summary": "Manifestações com polícia e violência são, assim, uma luz e uma esperança para esta esquerda: um sinal de que surge alguém capaz de abdicar do conforto que a destruiu.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2644%3A2644%3Anowe%3A661%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23150527%2Fjporfirio-retratos-redacao-2026-01-16.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T00:59:23.966899+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/opiniao/a-coesao-social/",
     "title": "A coesão social",
     "summary": "As sociedades cosmopolitas, as fronteiras porosas e a imigração em massa destroem a coesão social e o sentido de pertença que permitem pessoas bem formadas e projetos coletivos efetivos.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-02T02:02:16.736367+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2458/",
+    "title": "2h. Acampada Porto. Incerteza na Praça D. João I",
+    "summary": "Um dos carros da polícia abandonou a praça. No local, estão poucas dezenas de manifestantes com cerca de dez tendas. Ainda, momentos de tensão na praça do Rossio com petardos e buzinadelas.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-02T03:19:52.280136+00:00"
   }
  ],
  "posted": [
