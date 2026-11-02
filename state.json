@@ -1,83 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/especiais/sem-cheque-em-branco-mas-com-tenda-como-simbolo-a-decisao-do-tribunal-sobre-renata-cambra/",
-    "title": "Sem \"cheque em branco\", com tenda: a decisão do tribunal",
-    "summary": "Da tenda como \"símbolo\" à manifestação depois das 00h30: a decisão que dá razão a Cambra impõe a \"lei das burcas\", não contempla a acampada, exige noites sem ruído e convívio com o Mercado de Natal.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02174037/770acampadas.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/as-sombras-de-duarte-lima/episodio-3-as-45-horas-antes-do-crime/",
-    "title": "Episódio 3. As 45 horas antes do crime",
-    "summary": "45 horas antes do crime. Duarte Lima chega ao Brasil sem telemóvel pessoal mas a polícia sabe que usou outros números para contatar Rosalina Ribeiro. E através deles reconstitui os passos do advogado.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21165521/epis-3-v2.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/livre-pede-a-onu-e-ao-conselho-da-europa-que-se-pronunciem-sobre-cargas-policiais-nos-protestos-pela-habitacao-em-portugal/",
-    "title": "Livre leva protestos da habitação à ONU",
-    "summary": "Este apelo consta de duas cartas: uma dirigida ao Alto Comissário das Nações Unidas para os Direitos Humanos, Volker Türk, e a segunda ao Comissário para os Direitos Humanos do Conselho da Europa, Michael O'Flaherty",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/12205202/47763752.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/consumo-de-eletricidade-sobe-3-ate-outubro-e-renovaveis-abastecem-62/",
-    "title": "Eletricidade sobe 3% até outubro, renováveis abastecem 62%",
-    "summary": "No mês de outubro, o consumo de energia elétrica registou uma quebra de 0,2%",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/15064433/34835063.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/provedora-de-justica-vai-elaborar-relatorio-sobre-atuacao-policial-contra-manifestantes-em-lisboa/",
-    "title": "Lisboa. Provedora elabora relatório sobre atuação policial",
-    "summary": "Segundo a Provedoria, a presença do MNP no local, no sábado à noite, foi determinada pela Provedora de Justiça",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01071831/jporfirio-acampada-rossio-carga-policial-01-11-2026-01-1-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/suarez-anda-ca-man-sporting-recebido-por-adepto-com-muita-moral/6ae901710cf2aafa0453d134",
-    "title": "«Suárez, anda cá, man»: Sporting recebido por adepto com muita moral",
-    "summary": "A chegada do Sporting a Londres ficou marcada por muitos sorrisos, fotografias e autógrafos. Maxi Araújo foi um dos jogadores que mais tempo dedicou aos adeptos que esperaram pela equipa.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/tendas-decisao-do-tribunal-tem-muitas-fragilidades-para-nao-dizer-algumas-inconsistencias/6ae8f8690cf2aafa0453d131",
-    "title": "Tendas: \"Decisão do tribunal tem muitas fragilidades, para não dizer algumas inconsistências\"",
-    "summary": "O constitucionalista Jorge Bacelar Gouveia criticou novamente a decisão do Tribunal Administrativo de Lisboa sobre a ação colocada por Renata Cambra.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T22:13:34.459173+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/comecamos-este-protesto-pelo-direito-a-habitacao-o-governo-tem-se-esforcado-para-tornar-isto-num-debate-sobre-questoes-juridicas/6ae8f8ff0cf2aafa0453d132",
@@ -109,6 +32,83 @@
    },
    "important": false,
    "added": "2026-11-02T22:13:34.459173+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/brainstorming/chicco-da-vida-20-anos-de-compromisso-com-os-mais-novos/",
+    "title": "Chicco Dá Vida: 20 anos de compromisso com os mais novos",
+    "summary": "Há 20 anos que o projeto Chicco Dá Vida apoia os cuidados neonatais em Portugal. Nádia Torquato faz uma viagem por este percurso, os desafios da prematuridade e a importância de cuidar dos bebés mais frágeis.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/10/19112406/770-podcast-brainstorming-obsainda-bem.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/02/marco-so-teve-de-andar-45-anos-para-tras-para-ver-chalana-em-echeverri-a-cronica-do-benfica-alverca/",
+    "title": "Marco voltou 45 anos atrás para ver Chalana em Echeverri",
+    "summary": "O jovem argentino entrou ao intervalo e sofreu a grande penalidade decisiva",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3717:2092:nowe:0:643/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02221715/gettyimages-2302773341.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/02/foi-muito-de-coracao-uma-noite-desinspirada-da-nossa-parte-marco-silva-reconhece-intranquilidade-mas-sublinha-tres-pontos/",
+    "title": "\"Foi muito de coração, noite desinspirada da nossa parte\"",
+    "summary": "O treinador encarnado manteve Lukebakio no onze inicial depois de o ter lançado na Taça da Liga",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3918:2199:nowe:0:36/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02223929/gettyimages-2302759109.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/02/santos-silva-critica-governo-estrambelhado-apos-manifestacoes-mas-rejeita-eleicoes-o-pais-nao-pode-andar-a-fazer-eleicoes-todos-os-anos/",
+    "title": "Santos Silva critica Governo \"estrambelhado\"",
+    "summary": "O antigo Presidente da Assembleia da República deu esta segunda-feira a sua última lição na Faculdade de Economia e Gestão do Porto (FEP)",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/22164054/43773978.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/se-conseguimos-ter-o-telemovel-do-ministro-da-defesa-debaixo-de-fogo-como-e-que-estarao-os-equipamentos-centrais/6ae909280cf2df4c3882cb1c",
+    "title": "\"Se conseguimos ter o telemóvel do ministro da Defesa debaixo de fogo, como é que estarão os equipamentos centrais?\"",
+    "summary": "Nuno Mateus-Coelho, especialista em cibersegurança, analisou os recentes ciberataques a frigoríficos de supermercados em vários países europeus.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/espanha/acidente/ja-foram-identificadas-todas-as-vitimas-mortais-da-tragedia-em-toledo-entre-elas-esta-um-portugues/20261102/6ae9090ed34e9ce6f1b42b76",
+    "title": "Já foram identificadas todas as vítimas mortais da tragédia em Toledo. Entre elas está um português",
+    "summary": "No total, 69 pessoas morreram após a colisão entre dois comboios",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/seguro/presidenciais/acampada-de-lisboa-aceita-convite-para-reuniao-com-seguro/20261102/6ae911b2d34e9ce6f1b42b89",
+    "title": "Acampada de Lisboa aceita convite para reunião com Seguro",
+    "summary": "Assembleia popular votou proposta esta segunda-feira no Rossio",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T23:11:04.445325+00:00"
   }
  ],
  "posted": [
