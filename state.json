@@ -1,28 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/um-policia-que-atira-petardos-esta-a-convidar-o-resto-da-policia-a-cair-em-cima-dos-manifestantes/6ae7d0ea0cf299bc29544241",
-    "title": "\"Um polícia que atira petardos está a convidar o resto da polícia a cair em cima dos manifestantes\"",
-    "summary": "No Princípio da Incerteza deste domingo, José Pacheco Pereira analisa os últimos desenvolvimentos nos protestos pela habitação em Lisboa e no Porto. Comenta, entre outros aspetos, as reações dos vários quadrantes políticos.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T00:59:23.966899+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/02/politica/opiniao/gemeos-montenegro-neves-afrontam-seguro-vergonha-nenhuma-2193379",
-    "title": "Os gémeos Montenegro e Neves afrontam Seguro sem vergonha nenhuma",
-    "summary": "O Estado está capturado por dois homens diminuídos, incapazes, autoritários, com tiques ditatoriais que hoje mandam as polícias carregar sobre os manifestantes e amanhã sobre qualquer um de nós.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T02:02:16.736367+00:00"
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/02/opiniao/cronica/perdidos-lixeira-electronica-2193360",
@@ -109,6 +87,28 @@
    },
    "important": false,
    "added": "2026-11-02T04:29:15.603277+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-guerra-interna-a-volta-de-andre-ventura/",
+    "title": "A guerra interna à volta de André Ventura.",
+    "summary": "Duas fações disputam poder dentro do Chega, mas ambas dizem querer proteger André Ventura. O problema é que, à beira de uma Convenção, esta guerra pode fragilizar o líder.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T05:31:56.862167+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1579/",
+    "title": "5h. Benfica defronta Alverca na Luz esta segunda-feira",
+    "summary": "Benfica entra em campo pressionado pelo Sporting e FC Porto. Marco Silva quer manter sequência de bons resultados. Ainda, Presidente da República reúne Conselho de Estado para debater a coesão social.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-02T05:31:56.862167+00:00"
   }
  ],
  "posted": [
