@@ -1,29 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/02/governo-reforca-apoio-aos-agricultores-com-mais-15-milhoes-para-compensar-aumento-dos-combustiveis/",
-    "title": "Governo reforça apoio a agricultores em 15 milhões de euros",
-    "summary": "\"Não vamos deixar os agricultores sozinhos perante o aumento dos custos\", assegurou o ministro da Agricultura",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02135720/48051130.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T16:29:32.872683+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/02/ciencia/opiniao/cigarra-formiga-nobel-fabula-investigador-portugues-2193298",
-    "title": "A cigarra, a formiga e o Nobel: fábula do investigador português",
-    "summary": "O país nunca teve ciência, teve cientistas, o que é diferente e sai muito mais barato. Opinião de João Conde",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-02T08:39:34.396089+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/a-psp-esta-a-fazer-tudo-para-salvar-a-face-do-ministro-que-declarou-as-acampadas-acabaram/6ae843390cf2df4c3882c85b",
@@ -33,6 +10,18 @@
    },
    "important": false,
    "added": "2026-11-02T09:55:18.259353+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/contra-corrente/alguem-explica-por-que-se-celebra-o-comunismo-nas-acampadas/",
+    "title": "Alguém explica por que se celebra o comunismo nas acampadas?",
+    "summary": "Passam agora exatamente 70 anos sobre um dos grandes crimes do comunismo, o esmagamento sangrento da revolução húngara de 1956. Mesmo assim grita-se pelo comunismo nas acampadas. Estarão todos doidos?",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T08:39:34.396089+00:00",
    "fails": 1
   },
   {
@@ -62,18 +51,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/contra-corrente/alguem-explica-por-que-se-celebra-o-comunismo-nas-acampadas/",
-    "title": "Alguém explica por que se celebra o comunismo nas acampadas?",
-    "summary": "Passam agora exatamente 70 anos sobre um dos grandes crimes do comunismo, o esmagamento sangrento da revolução húngara de 1956. Mesmo assim grita-se pelo comunismo nas acampadas. Estarão todos doidos?",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T08:39:34.396089+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/o-ps-ficou-em-3o-lugar-nas-eleicoes-mas-quer-mandar-na-mesma/",
     "title": "O PS ficou em 3º lugar nas eleições mas quer mandar na mesma",
     "summary": "Os eleitores (que também têm opinião), os partidos de esquerda (que não querem perder o barco das manifestações) e o PS (que quer continuar a governar) são o Bom, o Mau e o Vilão.",
@@ -81,6 +58,18 @@
    },
    "important": false,
    "added": "2026-11-02T09:55:18.259353+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/portagens/oe2027/governo-diz-que-fim-de-portagens-nas-ex-scut-impede-milhares-de-milhoes-de-euros-de-obra/20261102/6ae8b09fd34e5a653d7327e0",
+    "title": "Governo diz que fim de portagens nas ex-Scut impede \"milhares de milhões de euros de obra\"",
+    "summary": "\"Os portugueses e as portuguesas, todos estão a pagar portagens, todos estão a pagar 400 milhões de portagens\", afirmou Miguel Pinto Luz",
+    "image": "https://img.iol.pt/preset/5fbee01d0cf203abc5b36dac/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-02T16:29:32.872683+00:00",
    "fails": 1
   },
   {
@@ -110,13 +99,25 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/portagens/oe2027/governo-diz-que-fim-de-portagens-nas-ex-scut-impede-milhares-de-milhoes-de-euros-de-obra/20261102/6ae8b09fd34e5a653d7327e0",
-    "title": "Governo diz que fim de portagens nas ex-Scut impede \"milhares de milhões de euros de obra\"",
-    "summary": "\"Os portugueses e as portuguesas, todos estão a pagar portagens, todos estão a pagar 400 milhões de portagens\", afirmou Miguel Pinto Luz",
-    "image": "https://img.iol.pt/preset/5fbee01d0cf203abc5b36dac/og/cnn"
+    "url": "https://cnnportugal.iol.pt/videos/e-muito-problematico-quando-nem-sequer-chegamos-ao-natal-e-estamos-a-nove-pontos-do-lider-e-a-jogar-mal/6ae8c2290cf235b99ef4f77a",
+    "title": "\"É muito problemático quando nem sequer chegámos ao Natal e estamos a nove pontos do líder e a jogar mal\"",
+    "summary": "O humorista e adepto do Sporting Diogo Faro esteve na Central CNN para falar da saída de Rui Borges do clube leonino.",
+    "image": "https://img.iol.pt/preset/6ae8c6b0d34e9ce6f1b42ae3/og/cnn"
    },
    "important": false,
-   "added": "2026-11-02T16:29:32.872683+00:00",
+   "added": "2026-11-02T17:27:17.828881+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/02/politica/noticia/buzinar-eder-habitacao-be-pergunta-luis-neves-onde-diferenca-2193481",
+    "title": "Buzinar por Éder ou pela habitação: BE pergunta a Luís Neves onde está a diferença",
+    "summary": "Bloco de Esquerda questiona ministério da Administração Interna sobre critérios aplicados para autuar buzinadelas nos protestos pela habitação do Rossio. Em 2013, aconteceu episódio semelhante.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-02T17:27:17.828881+00:00",
    "fails": 1
   }
  ],
@@ -729,6 +730,27 @@
    "orig": "pj realiza diligências na estátua de d. pedro iv no rossio",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Власти Португалии продлят помощь аграриям из-за подорожания топлива",
+   "orig": "governo reforça apoio a agricultores em 15 milhões de euros",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Министр обороны Португалии стал жертвой кибератаки",
+   "orig": "ministro da defesa alvo de ataque informático que permitiu enviar mensagens em seu nome",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Спортинг поменял игру и расплатился за это",
+   "orig": "borges, varandas e o sporting: muitos cozinheiros estragaram a sopa",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-01"
