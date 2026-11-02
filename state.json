@@ -1,30 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/banco-de-portugal/divida/divida-publica-desce-para-88-4-do-pib-no-3-trimestre/20261102/6ae8776ed34e5a653d73274e",
-    "title": "Dívida pública desce para 88,4% do PIB no 3.º trimestre",
-    "summary": "Este é o valor mais baixo da dívida pública em percentagem do PIB desde o quarto trimestre de 2009, quando tinha atingido os 87,6%, divulga o Banco de Portugal",
-    "image": "https://img.iol.pt/preset/69ccf071d34edcee7c628c36/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-02T11:47:17.090138+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/o-ps-ficou-em-3o-lugar-nas-eleicoes-mas-quer-mandar-na-mesma/",
-    "title": "O PS ficou em 3º lugar nas eleições mas quer mandar na mesma",
-    "summary": "Os eleitores (que também têm opinião), os partidos de esquerda (que não querem perder o barco das manifestações) e o PS (que quer continuar a governar) são o Bom, o Mau e o Vilão.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/29102001/770-podcast-o-bom-o-mau-e-o-vilao-2025.jpg"
-   },
-   "important": false,
-   "added": "2026-11-02T09:55:18.259353+00:00",
-   "fails": 1
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/02/politica/noticia/buzinar-eder-habitacao-be-pergunta-luis-neves-onde-diferenca-2193481",
@@ -118,6 +94,30 @@
    },
    "important": false,
    "added": "2026-11-02T18:23:32.559960+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/sempre-que-o-benfica-ganha-um-campeonato-vou-para-a-rua-a-noite-e-apito-de-uma-forma-desalmada-tenho-a-felicidade-de-nunca-ter-sido-multado/6ae8e0f80cf2051820fb033f",
+    "title": "\"Sempre que o Benfica ganha um campeonato, vou para a rua à noite e apito de uma forma desalmada. Tenho a felicidade de nunca ter sido multado\"",
+    "summary": "O comentador da CNN Portugal Adalberto Campos Fernandes afirma também que a PSP \"está numa embrulhada\" que tanto agentes como comandantes \"não desejariam\".",
+    "image": "https://img.iol.pt/preset/6190fd7c0cf2c7ea0f08944d/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-02T20:15:31.547781+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/02/novo-banco-ultrapassa-requisitos-minimos-impostos-pelo-bce-para-2027/",
+    "title": "Novo Banco ultrapassa requisitos mínimos impostos pelo BCE",
+    "summary": "Os requisitos de fundos próprios e gestão de risco são definidos para garantir a solidez financeira dos bancos",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/10/25170634/34616202.jpg"
+   },
+   "important": false,
+   "added": "2026-11-02T20:15:31.547781+00:00",
    "fails": 1
   }
  ],
@@ -800,6 +800,27 @@
    "orig": "renata cambra reclama \"vitória\" com a autorização à tenda - mas garante que não é \"individual\"",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Лиссабонский дворец Бернай отреставрируют",
+   "orig": "mmp lança concurso de oito milhões para restauro e requalificação do palácio burnay",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "В Паредеше открылся Музей мебели",
+   "orig": "novo museu do mobiliário de paredes conta como as mulheres levavam a mobília às costas",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Бразильянка открыла в Португалии цветочный бизнес с экзотикой",
+   "orig": "paulista se inspira na mãe e mergulha no exotismo da selva em portugal",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-01"
