@@ -1,59 +1,59 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/03/habitacao-profissionais-de-saude-assinam-nota-de-repudio-a-cargas-policiais/",
-    "title": "Protestos. Profissionais de saúde repudiam cargas policiais",
-    "summary": "A missiva tem já mais de 150 assinaturas e repudia \"o uso desproporcionado da força policial contra pessoas cidadãs que exercem o seu direito à manifestação\"",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01071921/jporfirio-acampada-rossio-carga-policial-01-11-2026-01-8-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/oe2027/ces/oe2027-ces-pede-cautela-nas-rendas-de-idosos-e-vulneraveis-em-risco-de-perda-da-habitacao/20261103/6aea4442d34e5a653d732b4b",
+    "title": "OE2027: CES pede cautela nas rendas de idosos e vulneráveis em risco de perda da habitação",
+    "summary": "Conselho Económico e Social exige ainda divulgação de lista de imóveis públicos urbanos devolutos e abandonados",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-03T19:46:01.576605+00:00"
+   "added": "2026-11-03T20:40:43.772883+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2178/",
-    "title": "18h. PM fala ao país às 20h sobre habitação",
-    "summary": "Luís Montenegro anunciou que vai falar ao país sobre Habitação às 20h. O primeiro Ministro promete uma parceria leal e exigente entre TAP e Lufthansa.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/programas/relat-rio-de-jogo/fscd-x-scp-maxi-esta-claramente-muitos-furos-abaixo/",
+    "title": "FSCD x SCP. \"Maxi está claramente muitos furos abaixo\"",
+    "summary": "João Castro destaca a exibição de Silas Andersen e considera crucial a sua intensidade no meio-campo. Sublinha o regresso seguro de Rui Silva às redes e atribui nota 12 ao triunfo sofrido do Sporting.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28160020/770-podcast-relatorio-de-jogo-joao-castro.jpg"
    },
    "important": false,
-   "added": "2026-11-03T19:46:01.576605+00:00"
+   "added": "2026-11-03T20:40:43.772883+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/habitacao/crise-na-habitacao/luis-montenegro-anuncia-reunioes-com-ps-e-chega-para-discutir-solucoes-para-a-habitacao/20261103/6aea44a8d34e5a653d732b4c",
+    "title": "Luís Montenegro anuncia reuniões com Chega e PS para discutir soluções para a habitação",
+    "summary": "Anúncio surge depois de uma conversa entre o primeiro-ministro e os líderes dos dois partidos da oposição",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-03T20:40:43.772883+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/03/morais-pires-nunca-fui-corrompido-por-ricardo-salgado-fiz-o-meu-trabalho-ate-ao-final/",
-    "title": "BES. Morais Pires diz que \"nunca\" foi corrompido por Salgado",
-    "summary": "Amílcar Morais Pires está a ser julgado no caso Universo Espírito Santo pela alegada prática de 25 ilícitos criminais",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/15112534/jporfirio-inicio-bes-ges-processo-dia1-28-scaled.jpg"
+    "url": "https://observador.pt/programas/relat-rio-de-jogo/fscd-x-scp-a-mediocridade-pisou-o-relvado/",
+    "title": "FSCD x SCP. \"A mediocridade pisou o relvado\"",
+    "summary": "Gabriel Alves considera medíocre a exibição do Sporting, apesar dos três pontos conquistados. Destaca Silas Andersen como o melhor em campo e critica a tática inventada pelo treinador Tiago Fernandes",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03175158/770-podcast-relatorio-de-jogo-gabriel-alves.jpg"
    },
    "important": false,
-   "added": "2026-11-03T19:46:01.576605+00:00"
+   "added": "2026-11-03T20:40:43.772883+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/03/lucros-do-novo-banco-caem-4-ate-setembro-para-5856-milhoes-de-euros/",
-    "title": "Lucros do Novo Banco caem 4% até setembro para 585,6 milhões",
-    "summary": "Os custos operativos avançaram 11,1% para 426,9 milhões de euros",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/14143940/34717495.jpg"
+    "url": "https://cnnportugal.iol.pt/intermarche/centro-nacional-de-ciberseguranca/centro-nacional-de-ciberseguranca-esta-a-acompanhar-incidente-que-afetou-intermarche/20261103/6aea45dad34e5a653d732b4f",
+    "title": "Centro Nacional de Cibersegurança está a acompanhar incidente que afetou Intermarché",
+    "summary": "O incidente, que originou um comprometimento dos sistemas de refrigeração dos supermercados Intermarché, \"presume-se ter tido origem num acesso não autorizado ao controlador remoto de temperatura destes sistemas, sob a responsabilidade de um fornecedor da cadeia de supermercados\"",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-03T19:46:01.576605+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/03/cruzeiro-cancelado-regresso-a-casa-incerto-portugueses-entre-os-2-000-passageiros-retidos-em-miami-pela-guarda-costeira-dos-eua/",
-    "title": "MSC cancela cruzeiro em Miami com portugueses a bordo",
-    "summary": "MSC Poesia devia ter partido de Miami no dia 1 de novembro",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:311/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03175547/gettyimages-2175730454-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T19:46:01.576605+00:00"
+   "added": "2026-11-03T20:40:43.772883+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -746,7 +746,35 @@
    "orig": "renata cambra. recurso do mp tem mesmo efeito suspensivo?",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Министр: иммиграция впервые сама оплачивает свои расходы",
+   "orig": "\"pela primeira vez, a imigração paga os custos da imigração\"",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Медики осудили действия полиции на жилищных протестах",
+   "orig": "protestos. profissionais de saúde repudiam cargas policiais",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Монтенегро выступит с обращением по жилью в 20:00",
+   "orig": "18h. pm fala ao país às 20h sobre habitação",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Мораш Пиреш отрицает, что Салгаду удалось его подкупить",
+   "orig": "bes. morais pires diz que \"nunca\" foi corrompido por salgado",
+   "important": false,
+   "source": "Observador"
   }
  ],
- "digest_date": "2026-11-02"
+ "digest_date": "2026-11-03"
 }
