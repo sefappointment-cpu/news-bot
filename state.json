@@ -3,17 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/03/livraria-lello-propoe-a-mesquita-no-porto-ficar-mais-14-meses-sem-pagar-renda/",
-    "title": "Lello propõe a mesquita ficar mais 14 meses sem pagar renda",
-    "summary": "A mesquita Hazrat Hamza no Porto existe desde 2003 e por lá passam centenas de pessoas diariamente para rezar e, às sextas-feiras, o dia mais sagrado da semana para os muçulmanos, rondam as 1.500",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/31013544/20010457_770x433_acf_cropped.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T01:38:18.473235+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2464/",
     "title": "00h. Acampada de Lisboa aceita convite de Seguro",
     "summary": "A proposta foi aprovada pela larga maioria dos manifestantes que participaram na 17.ª assembleia popular, no Rossio. Ainda, o Benfica venceu ao Alverca por 1-0.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-03T04:47:04.574229+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-tribunal-entra-na-acampada-e-instala-se-a-confusao/",
+    "title": "O Tribunal entra na acampada e instala-se a confusão",
+    "summary": "O tribunal autorizou Renata Cambra a manter uma tenda no Rossio. A decisão vale só para ela ou é para todos? Neste episódio, explicamos o que decidiu o tribunal e a confusão que se seguiu.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+   },
+   "important": false,
+   "added": "2026-11-03T05:48:01.665714+00:00"
   }
  ],
  "posted": [
