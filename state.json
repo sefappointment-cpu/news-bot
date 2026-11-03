@@ -1,92 +1,93 @@
 {
  "pending": [
   {
-   "source": "Público",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://www.publico.pt/2026/11/03/culturaipsilon/noticia/premio-gulbenkian-patrimonio-nuno-valentim-reabilitacao-quinta-crasto-2193551",
-    "title": "Prémio Gulbenkian Património para Nuno Valentim e reabilitação da Quinta de Crasto",
-    "summary": "Para o júri, a candidatura destacou-se pela “excepcional qualidade patrimonial dos restauros do edificado”. O Prémio Gulbenkian Património – Maria Tereza e Vasco Vilalva de 2026 é entregue hoje.",
+    "url": "https://cnnportugal.iol.pt/videos/seguro-e-rei-de-espanha-inauguram-exposicao-sobre-camoes-em-madrid/6ae9c19f0cf235b99ef4f8a4",
+    "title": "Seguro e rei de Espanha inauguram exposição sobre Camões em Madrid",
+    "summary": "O Presidente da República inaugura uma exposição sobre Camões, junto do Rei Filipe VI. O enviado especial Pedro Filipe Silva partilha mais detalhes.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-03T11:22:40.416525+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/renata-cambra/rossio/pgr-recorre-de-decisao-e-suspende-autorizacao-para-que-renata-cambra-instale-tenda-no-rossio/20261103/6ae9cf53d34e5a653d73297f",
+    "title": "PGR recorre de decisão e suspende autorização para que Renata Cambra instale tenda no Rossio",
+    "summary": "EM ATUALIZAÇÃO",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/explicador/rossio-ha-legitimidade-na-acao-de-renata-cambra/",
-    "title": "Rossio. Há legitimidade na ação de Renata Cambra?",
-    "summary": "O advogado Miguel Matias levanta dúvidas sobre a legitimidade da ação de Renata Cambra, a quem foi concedida razão pelo Tribunal. O socialista Vitalino Canas diz que a decisão foi tomada sob pressão.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
+    "url": "https://observador.pt/2026/11/03/macau-quer-cooperar-com-pj-no-combate-ao-terrorismo-cibercrime-e-branqueamento/",
+    "title": "Macau quer cooperar com PJ no terrorismo e cibercrime",
+    "summary": "As duas polícias falaram sobre reforçar a troca de informações, a formação conjunta de pessoal e \"as ações de sensibilização e prevenção do crime junto das instituições de ensino em língua portuguesa de Macau\"",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:3/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/05/05120208/23277764.jpg"
    },
    "important": false,
-   "added": "2026-11-03T10:24:42.719128+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/boa-moeda-ma-moeda/carros-electricos-quem-pode-ser-apoiado/",
-    "title": "Carros eléctricos: quem pode ser apoiado?",
-    "summary": "Já estão definidas as condições para os apoios à compra de carros eléctricos por pessoas mais carenciadas. O apoio pode ir até 80% do valor ao automóvel.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
+    "url": "https://observador.pt/2026/11/03/monsaraz-vai-simular-exploracao-humana-de-marte-em-abril/",
+    "title": "Monsaraz vai simular exploração humana de Marte em abril",
+    "summary": "Durante as suas tarefas, que incluem a realização de 17 experiências científicas, os seis elementos vão usar um simulador de fato espacial que pesa 50 quilos",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:52/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/04/01155922/marte.jpg"
    },
    "important": false,
-   "added": "2026-11-03T10:24:42.719128+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/boa-moeda-ma-moeda/financas-para-todos-empresas-podem-ter-literacia-gratuita/",
-    "title": "Finanças para Todos. Empresas podem ter literacia gratuita",
-    "summary": "A Nova SBE está a lançar o programa “Finanças para Todos Empresas”, dirigido a trabalhadores de empresas do setor privado com quatro ou mais trabalhadores.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
+    "url": "https://observador.pt/especiais/escolas-alargam-proibicao-dos-telemoveis-ao-secundario-as-vezes-sentimos-falta-mas-pronto-habituamo-nos/",
+    "title": "Escolas proíbem telemóvel até ao secundário: \"Habituamo-nos\"",
+    "summary": "Governo proíbe uso de telemóveis até ao 3.º ciclo, mas há escolas que o estendem ao secundário. Alunos do 10.º ao 12.º preferiam outras medidas, mas reconhecem os benefícios. \"Não incomoda muito\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16124827/dventura-reportagem-escola-sem-telemoveis-olivais-15-scaled.jpg"
    },
    "important": false,
-   "added": "2026-11-03T10:24:42.719128+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2514/",
-    "title": "As notícias das 10h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/2026/11/03/pj-deteve-jovem-na-guarda-por-tentativa-de-homicidio-do-pai/",
+    "title": "PJ deteve jovem na Guarda por tentativa de homicídio do pai",
+    "summary": "O suspeito foi detido, fora de flagrante delito, por inspetores do Departamento de Investigação Criminal da Guarda",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/21115838/33756898.jpg"
    },
    "important": false,
-   "added": "2026-11-03T10:24:42.719128+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/comissao-de-inquerito/andreia-galvao-exigir-moderacao-e-nao-entender-a-revolta/",
-    "title": "Andreia Galvão: \"Exigir moderação é não entender a revolta\"",
-    "summary": "Andreia Galvão critica a inação perante a violência policial, defendendo que exigir contenção ignora a revolta de quem não tem nada a perder. Defende ainda a reinvenção do espaço político à esquerda.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+    "url": "https://observador.pt/2026/11/03/tecnicos-superiores-de-diagnostico-e-terapeutica-em-greve-a-19-e-20-de-novembro/",
+    "title": "Técnicos superiores de diagnóstico em greve dias 19 e 20",
+    "summary": "Em comunicado, o STSS lembra que \"continuam por resolver matérias essenciais\", como, por exemplo, uma valorização salarial digna",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03103813/47016180.jpg"
    },
    "important": false,
-   "added": "2026-11-03T10:24:42.719128+00:00"
+   "added": "2026-11-03T12:16:09.914370+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/03/sns-fernando-araujo-critica-tempos-de-espera-e-aponta-promessa-nao-cumprida-ao-governo-doentes-a-espera-de-cirurgia-oncologica-sobem-11/",
-    "title": "SNS. Fernando Araújo denuncia aumento de filas de espera",
-    "summary": "Num artigo de opinião no jornal Público, o ex-responsável avisa que a gestão da saúde pública está a deixar centenas de milhares de pessoas sem resposta",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/28121802/44658582.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/acampada-doutrina-igual-para-todos-ou-cheque-em-branco-para-montar-as-tendas-que-quiser-veja-os-argumentos/6ae9abfd0cf2aafa0453d184",
+    "title": "Acampada: \"doutrina igual para todos\" ou \"cheque em branco para montar as tendas que quiser\"? Veja os argumentos",
+    "summary": "António Garcia Pereira, advogado, e Bruno Pereira, do Sindicato dos Oficiais de Polícia, debatem a decisão judicial que permite à acampada manter o protesto após as 00:30, bem a discussão sobre a manutenção das tendas.",
+    "image": "https://img.iol.pt/preset/6ae9b119d34e9ce6f1b42bf3/og/cnn"
    },
    "important": false,
-   "added": "2026-11-03T11:22:40.416525+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/03/portugal-nao-vai-apresentar-candidato-a-sucessor-de-lagarde-no-bce/",
-    "title": "Portugal não vai apresentar candidato a sucessor de Lagarde",
-    "summary": "Christine Lagarde comunicou a sua intenção de abandonar o cargo de presidente do BCE a 7 de fevereiro de 2027",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/05/31100627/40474864.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T11:22:40.416525+00:00"
+   "added": "2026-11-03T11:22:40.416525+00:00",
+   "fails": 1
   },
   {
    "source": "Observador",
@@ -101,15 +102,15 @@
    "fails": 1
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/acampada-doutrina-igual-para-todos-ou-cheque-em-branco-para-montar-as-tendas-que-quiser-veja-os-argumentos/6ae9abfd0cf2aafa0453d184",
-    "title": "Acampada: \"doutrina igual para todos\" ou \"cheque em branco para montar as tendas que quiser\"? Veja os argumentos",
-    "summary": "António Garcia Pereira, advogado, e Bruno Pereira, do Sindicato dos Oficiais de Polícia, debatem a decisão judicial que permite à acampada manter o protesto após as 00:30, bem a discussão sobre a manutenção das tendas.",
-    "image": "https://img.iol.pt/preset/6ae9b119d34e9ce6f1b42bf3/og/cnn"
+    "url": "https://observador.pt/programas/explicador/rossio-ha-legitimidade-na-acao-de-renata-cambra/",
+    "title": "Rossio. Há legitimidade na ação de Renata Cambra?",
+    "summary": "O advogado Miguel Matias levanta dúvidas sobre a legitimidade da ação de Renata Cambra, a quem foi concedida razão pelo Tribunal. O socialista Vitalino Canas diz que a decisão foi tomada sob pressão.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
    },
    "important": false,
-   "added": "2026-11-03T11:22:40.416525+00:00",
+   "added": "2026-11-03T10:24:42.719128+00:00",
    "fails": 1
   }
  ],
@@ -491,6 +492,34 @@
    "orig": "quanto investe portugal na natureza? as ong dizem que o oe2027 não responde",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Премию Гулбенкяна за сохранение наследия достались Нуну Валентиму и Кинта-ду-Крашту",
+   "orig": "prémio gulbenkian património para nuno valentim e reabilitação da quinta de crasto",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Португалия определила, кто получит помощь на покупку электромобилей",
+   "orig": "carros eléctricos: quem pode ser apoiado?",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Полиция Португалии выявила 54 экстремистских адреса в видеоиграх",
+   "orig": "pj sinalizou 54 endereços de videojogos com conteúdos extremistas usados para radicalizar jovens",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Бесплатная финансовая грамотность для сотрудников компаний",
+   "orig": "finanças para todos. empresas podem ter literacia gratuita",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-02"
