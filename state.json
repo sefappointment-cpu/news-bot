@@ -3,39 +3,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/03/habitacao-correio-da-manha-apresenta-queixa-crime-por-agressao-a-reporter-de-imagem/",
-    "title": "Correio da Manhã apresenta queixa por agressão a repórter",
-    "summary": "\"Darei também conhecimento formal do caso à Direção Nacional da PSP e ao ministro da Administração Interna\", diz Carlos Rodrigues",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/27173947/33835759-1.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T14:51:51.899906+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/03/liga-europa-esloveno-martin-matosa-arbitra-benfica-lech-poznan/",
-    "title": "Martin Matosa arbitra Benfica Lech Poznan",
-    "summary": "O esloveno Martin Matosa conta com os auxiliares Matej Zunic e Aleksandar Kasapovic, e Alen Borosak no videoárbitro, assistido pelo neerlandês Jeroen Manschot",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/08232656/45996761.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T14:51:51.899906+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/03/pj-sinalizou-54-enderecos-de-videojogos-usados-para-radicalizar-jovens/",
-    "title": "Videojogos. PJ sinaliza endereços usados para radicalização",
-    "summary": "Em Portugal foram identificadas simulações de ataques terroristas a escolas",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2243:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/07/30183036/gettyimages-1771142942.jpg"
-   },
-   "important": false,
-   "added": "2026-11-03T14:51:51.899906+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/11/03/habitacao-bruxelas-remete-para-autoridades-portuguesas-manutencao-da-ordem-publica/",
     "title": "Bruxelas remete para Lisboa manutenção da ordem pública",
     "summary": "A Comissão Europeia escusou-se esta terça-feira a comentar os protestos relacionados com a crise da habitação em Portugal, nomeadamente no que respeita à atuação policial",
@@ -76,6 +43,28 @@
    },
    "important": false,
    "added": "2026-11-03T14:51:51.899906+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/03/28-mil-familias-que-tinham-sido-deixadas-de-fora-vao-receber-vale-eficiencia/",
+    "title": "28 mil famílias vão mesmo receber Vale Eficiência",
+    "summary": "Processo simplificado vai permitir que cerca de 28 mil famílias que tinham sido consideradas elegíveis, mas tinham ficado de fora, possam, afinal, receber um vale para combater pobreza energética.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:207/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24175158/47751090.jpg"
+   },
+   "important": false,
+   "added": "2026-11-03T15:43:46.059540+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/carros-usados-15-mil-euros-de-ajuda-e-tres-anos-ate-vender-como-vai-funcionar-o-novo-apoio-a-compra-de-eletricos/",
+    "title": "Como vai funcionar o novo apoio à compra de carros elétricos",
+    "summary": "O Governo anunciou um novo apoio à compra de carros elétricos por famílias vulneráveis. O concurso deve ser lançado no início de 2027 e há 1,5 milhões de famílias elegíveis. O que já se sabe?",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/10091227/43768899.jpg"
+   },
+   "important": false,
+   "added": "2026-11-03T15:43:46.059540+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -588,6 +577,41 @@
    "date": "2026-11-03",
    "title": "Уильям Гомес пропустил последнюю тренировку «Порту»",
    "orig": "william gomes falha último treino do fc porto antes do jogo com o nápoles",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Correio da Manhã подаст заявление об избиении своего репортера",
+   "orig": "correio da manhã apresenta queixa por agressão a repórter",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Матч «Бенфики» с польским «Лехом» назначили судить словенцу Мартину Матосе",
+   "orig": "martin matosa arbitra benfica lech poznan",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Марселу Ребелу де Соуза: нынешние школьники более раскрепощены и активны",
+   "orig": "marcelo rebelo de sousa diz que jovens de hoje são \"mais desinibidos, organizam-se mais intensamente”",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Полиция Португалии нашла 54 игровых адреса с экстремистским контентом",
+   "orig": "videojogos. pj sinaliza endereços usados para radicalização",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-03",
+   "title": "Моэдаш: решения суда нужно исполнять, но палатку и рождественский рынок на Росиу совместить трудно",
+   "orig": "acampada no rossio: moedas diz que decisões judiciais “são para cumprir” mas é difícil conciliar com mercado de natal",
    "important": false,
    "source": "CNN Portugal"
   }
