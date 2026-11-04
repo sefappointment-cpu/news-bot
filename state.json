@@ -1,15 +1,15 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/04/pinto-luz-cruzou-manifestacao-e-ouviu-criticas-nao-me-deixaram-falar-eu-tentei/",
-    "title": "Pinto Luz: \"Não me deixaram falar. Eu tentei\"",
-    "summary": "A tentativa do ministro em dialogar com manifestantes não teve resultado. \"Passou sem dirigir uma única palavra\", critica representante de Acampada no Porto, que entregou carta a Pinto Luz.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04160211/48065078.jpg"
+    "url": "https://cnnportugal.iol.pt/fc-porto/champions/liga-dos-campeoes-fc-porto-napoles-apito-inicial-as-20-00/20261104/6aeb821bd34e9ce6f1b430c7",
+    "title": "Liga dos Campeões: FC Porto - Nápoles (apito inicial às 20:00)",
+    "summary": "Azuis e brancos continuam à procura dos primeiros pontos na Liga dos Campeões, sendo que já contabilizam três derrotas",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-04T18:18:59.209730+00:00"
+   "added": "2026-11-04T19:29:07.411655+00:00"
   },
   {
    "source": "Público",
@@ -48,18 +48,6 @@
    "fails": 1
   },
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/no-inicio-da-epoca-nao-me-sentia-bem/6aeb4c900cf2051820fb06d3",
-    "title": "«No início da época não me sentia bem»",
-    "summary": "Jakub Kaminski recordou o início de época complicado no Benfica e admitiu que a lesão dificultou a adaptação. Em declarações na antevisão ao duelo europeu com o Lech Poznan, o avançado das águias partilhou sentir-se cada vez melhor e estar focado em aproveitar todas as oportunidades que Marco Silva lhe dê.",
-    "image": "https://img.iol.pt/preset/6aeb54f3d34e9ce6f1b43051/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-04T16:24:03.688245+00:00",
-   "fails": 1
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/2026/11/04/defesa-de-duarte-lima-alega-que-homicidio-de-rosalina-ribeiro-ja-prescreveu-segundo-a-lei-brasileira/",
@@ -69,6 +57,18 @@
    },
    "important": false,
    "added": "2026-11-04T10:37:51.953606+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/no-inicio-da-epoca-nao-me-sentia-bem/6aeb4c900cf2051820fb06d3",
+    "title": "«No início da época não me sentia bem»",
+    "summary": "Jakub Kaminski recordou o início de época complicado no Benfica e admitiu que a lesão dificultou a adaptação. Em declarações na antevisão ao duelo europeu com o Lech Poznan, o avançado das águias partilhou sentir-se cada vez melhor e estar focado em aproveitar todas as oportunidades que Marco Silva lhe dê.",
+    "image": "https://img.iol.pt/preset/6aeb54f3d34e9ce6f1b43051/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-04T16:24:03.688245+00:00",
    "fails": 1
   },
   {
@@ -84,18 +84,6 @@
    "fails": 1
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/newsletters/360/trump-perdeu-as-intercalares-luis-montenegro-quer-conversar-sobre-habitacao/",
-    "title": "A derrota de Trump e a convocatória de Montenegro",
-    "summary": "Donald Trump perdeu as eleições intercalares nos EUA. Os democratas conseguiram um grande resultado e controlam o congresso. Por cá, Luís Montenegro chamou PS e Chega para conversar sobre habitação.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
-   },
-   "important": false,
-   "added": "2026-11-04T10:37:51.953606+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/kaminski-sobre-o-reencontro-com-o-lech-poznan-este-clube-deu-me-tudo/6aeb4b570cf235b99ef4fb5f",
@@ -105,6 +93,18 @@
    },
    "important": false,
    "added": "2026-11-04T18:18:59.209730+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/newsletters/360/trump-perdeu-as-intercalares-luis-montenegro-quer-conversar-sobre-habitacao/",
+    "title": "A derrota de Trump e a convocatória de Montenegro",
+    "summary": "Donald Trump perdeu as eleições intercalares nos EUA. Os democratas conseguiram um grande resultado e controlam o congresso. Por cá, Luís Montenegro chamou PS e Chega para conversar sobre habitação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
+   },
+   "important": false,
+   "added": "2026-11-04T10:37:51.953606+00:00",
    "fails": 1
   },
   {
@@ -680,6 +680,41 @@
    "orig": "balneários escolares fechados em gondomar por \"legionella\"",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Иммигрантам в Португалии могут аннулировать вид на жительство за беспорядки на митингах",
+   "orig": "estrangeiros podem perder residência. ps fala em intimidação",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Министр Пинту Луш не смог поговорить с протестующими в Порту",
+   "orig": "pinto luz: \"não me deixaram falar. eu tentei\"",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Маски карнавала и Бумба-меу-бой в Лиссабоне",
+   "orig": "fofão e cazumbá nunca se encontram no maranhão. em lisboa, dividem a mesma galeria",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "EDP ищет нового председателя: Стилуэлл не останется на новый срок",
+   "orig": "edp procura novo presidente, miguel stilwell não fica para mais um mandato",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "О Museu como Performance в Порту: двенадцатый выпуск программы",
+   "orig": "da dança egípcia ao resgate do corpo: eis o museu como performance",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-03"
