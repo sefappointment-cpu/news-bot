@@ -3,35 +3,13 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/resposta-pronta/acampada-mai-induziu-a-psp-para-cenarios-perigosos/",
-    "title": "Acampada. MAI \"induziu\" a PSP para \"cenários perigosos\"",
-    "summary": "À Rádio Observador, Paulo Santos, presidente da Associação Sindical dos Sindicados da Polícia , diz que, aos dias de hoje, é difícil justificar a forma como a policia agiu sobre as Acampadas do Porto e de Lisboa.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
+    "url": "https://observador.pt/2026/11/04/pinto-luz-cruzou-manifestacao-e-ouviu-criticas-nao-me-deixaram-falar-eu-tentei/",
+    "title": "Pinto Luz: \"Não me deixaram falar. Eu tentei\"",
+    "summary": "A tentativa do ministro em dialogar com manifestantes não teve resultado. \"Passou sem dirigir uma única palavra\", critica representante de Acampada no Porto, que entregou carta a Pinto Luz.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04160211/48065078.jpg"
    },
    "important": false,
-   "added": "2026-11-04T17:22:45.679541+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/04/balnearios-fechados-na-escola-secundaria-de-gondomar-devido-a-foco-de-legionella/",
-    "title": "Balneários escolares fechados em Gondomar por \"legionella\"",
-    "summary": "A doença do legionário contrai-se por inalação de gotículas de vapor de água contaminada (aerossóis)",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3574:2009:nowe:0:187/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/11/17172543/GettyImages-1144127582-2.jpg"
-   },
-   "important": false,
-   "added": "2026-11-04T17:22:45.679541+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/04/um-em-cada-quatro-adolescentes-sem-atividade-fisica-em-2025/",
-    "title": "Um em cada quatro adolescentes sem atividade física em 2025",
-    "summary": "A OMS preconiza a necessidade de melhorar a segurança das ruas, dos espaços públicos e dos sistemas de transporte para incentivar o pedestrianismo e o ciclismo",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/01/05205720/istock-626547180.jpg"
-   },
-   "important": false,
-   "added": "2026-11-04T17:22:45.679541+00:00"
+   "added": "2026-11-04T18:18:59.209730+00:00"
   },
   {
    "source": "Público",
@@ -115,6 +93,30 @@
    },
    "important": false,
    "added": "2026-11-04T10:37:51.953606+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/kaminski-sobre-o-reencontro-com-o-lech-poznan-este-clube-deu-me-tudo/6aeb4b570cf235b99ef4fb5f",
+    "title": "Kaminski sobre o reencontro com o Lech Poznan: «Este clube deu-me tudo»",
+    "summary": "O jogo da próxima quinta-feira entre o Benfica e o Lech Poznan, para a Liga Europa, terá um significado especial para Kaminski. O avançado polaco reencontrará o seu clube de formação e, em declarações na conferência de antevisão ao duelo, não escondeu a emoção por defrontar a equipa onde cresceu.",
+    "image": "https://img.iol.pt/preset/6aeb517fd34e5a653d732d19/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-04T18:18:59.209730+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/tres-jogos-em-sete-dias-provoca-um-desgaste-fisico-e-mental-grande/6aeb4e470cf2df4c3882ce6d",
+    "title": "«Três jogos em sete dias provoca um desgaste físico e mental grande»",
+    "summary": "Marco Silva abordou a gestão do plantel e as exigências do calendário, destacando a resposta positiva e a abertura dos jogadores às dinâmicas de rotação.",
+    "image": "https://img.iol.pt/preset/6aeb67f0d34e9ce6f1b43081/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-04T18:18:59.209730+00:00",
    "fails": 1
   }
  ],
@@ -664,6 +666,20 @@
    "orig": "«gestão de palhinha? ele está habituado...»",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Профсоюз полицейских обвинил власти в использовании полиции в политических целях",
+   "orig": "acampada. mai \"induziu\" a psp para \"cenários perigosos\"",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "В школе Гондомара закрыли раздевалки из-за бактерий легионеллы",
+   "orig": "balneários escolares fechados em gondomar por \"legionella\"",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-03"
