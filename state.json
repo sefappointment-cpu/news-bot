@@ -1,114 +1,114 @@
 {
  "pending": [
   {
-   "source": "Público",
+   "source": "Observador",
    "item": {
-    "url": "https://www.publico.pt/2026/11/03/politica/noticia/imigracao-vai-pagar-imigracao-garante-leitao-amaro-2193669",
-    "title": "“Imigração vai pagar a imigração”, garante Leitão Amaro",
-    "summary": "Plano Nacional de Integração será aprovado este mês e será financiado por fundos europeus e taxas pagas por imigrantes, das quais dependerá todo o funcionamento da AIMA.",
+    "url": "https://observador.pt/2026/11/04/defesa-de-duarte-lima-alega-que-homicidio-de-rosalina-ribeiro-ja-prescreveu-segundo-a-lei-brasileira/",
+    "title": "Duarte Lima: homicídio já prescreveu segundo lei brasileira",
+    "summary": "Num requerimento enviado ao tribunal de Sintra, o advogado do ex-deputado defende que, pela lei brasileira, \"a punibilidade encontra-se extinta\". Defende que crime prescreveu há um ano e meio.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1998:1123:nowe:2:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/10/23143815/18549509.jpg"
+   },
+   "important": false,
+   "added": "2026-11-04T10:37:51.953606+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/alvaro-pires/luis-neves/diretor-financeiro-da-pj-afastado-foi-alvaro-pires-que-sugeriu-a-luis-neves-que-o-atrelado-ficasse-na-construbarcelos/20261104/6aeb0025d34e9ce6f1b42f7c",
+    "title": "Diretor financeiro da PJ afastado. Foi Álvaro Pires que sugeriu a Luís Neves que o atrelado ficasse na Construbarcelos",
+    "summary": "Álvaro Pires já tinha assumido internamente que tinha sido sua a decisão",
     "image": null
    },
-   "important": true,
-   "added": "2026-11-03T22:36:15.026787+00:00"
+   "important": false,
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/03/habitacao-governo-avisa-que-estrangeiros-que-perturbem-ordem-publica-podem-ficar-sem-autorizacao-de-residencia/",
-    "title": "Tendas. Governo ameaça estrangeiros com perda de residência",
-    "summary": "Na audição que decorre na Assembleia da República, no âmbito da apreciação na especialidade da Proposta de Orçamento do Estado para 2027 (OE2027), Rui Armindo Freitas explicou que a lei dos estrangeiros é muito clara",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25075423/ilacerda-manif-noite-8-intervencao-policial-19-scaled.jpg"
+    "url": "https://observador.pt/2026/11/04/diretor-financeiro-da-policia-judiciaria-afastado-do-cargo/",
+    "title": "Diretor financeiro da Polícia Judiciária afastado do cargo",
+    "summary": "Diretor nacional da PJ não renovou a comissão de serviço de Álvaro Pires. \"Tive conhecimento, mas não me foram transmitidos os motivos\", diz ao Observador o diretor financeiro.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/21133011/18036986_770x433_acf_cropped.jpg"
    },
-   "important": true,
-   "added": "2026-11-03T22:36:15.026787+00:00"
+   "important": false,
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2553/",
-    "title": "7h. Trump admite que Irão influenciou intercalares",
-    "summary": "No entanto, o presidente dos Estados Unidos admite voltar a atacar Teerão. Ainda neste jornal, Francisco Rodrigues dos Santos anuncia desfiliação do CDS.",
+    "url": "https://observador.pt/programas/noticiario/9h-eleicoes-eua-democratas-garantem-maioria-no-congresso/",
+    "title": "9h. Francisco Rodrigues dos Santos deixa militância do CDS",
+    "summary": "O anúncio é feito numa carta enviada ao atual presidente centrista Nuno Melo. Ainda neste jornal, Paulo Fonseca já está em Lisboa para assinar com o Sporting.",
     "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/04/madeira-identifica-quatro-casos-de-tuberculose-em-camara-de-lobos/",
-    "title": "Quatro casos de tuberculose em Câmara de Lobos na Madeira",
-    "summary": "O serviço de saúde madeirense também ativou o plano de contingência e procedeu ao reforço das medidas de prevenção",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:125/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/24070137/29442498.jpg"
+    "url": "https://observador.pt/programas/e-o-vencedor-e/montenegro-fez-o-pais-esperar-para-chegar-a-resultado-nenhum/",
+    "title": "Montenegro fez o país esperar para chegar a resultado nenhum",
+    "summary": "Luís Montenegro chamou o país às 20h para dar uma novidade bombástica: fez dois telefonemas e vai reunir com a oposição. Enquanto isso, o Rossio virou acampamento vip com deputados a dormir em tendas",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/04/duran-duran-na-meo-arena-se-querem-as-cancoes-aqui-as-tem/",
-    "title": "Duran Duran na MEO Arena: se querem as canções, aqui as têm",
-    "summary": "Simon Le Bon foi vocalista, chefe de sala, guia de multidões, ídolo pop",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03235320/jporfirio-concerto-duran-duran-03-11-2026-03-4-scaled.jpg"
+    "url": "https://observador.pt/programas/boa-moeda-ma-moeda/petroleo-juros-bolsas-as-eleicoes-nos-eua-e-o-nosso-bolso/",
+    "title": "Petróleo, juros, bolsas. As eleições nos EUA e o nosso bolso",
+    "summary": "Trump passa a ter margem de manobra mais estreita com vitória democrata no Senado e no Congresso. Impacto pode-se sentir nos preços dos combustíveis, nas taxas de juro e na rentabilidade de poupanças.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/04/dominado-incendio-de-fornos-de-algodres/",
-    "title": "Dominado incêndio de Fornos de Algodres",
-    "summary": "A frente ativa lavrava junto à povoação de Antas numa zona pedregosa, com declive acentuado, o que dificultava os trabalhos de supressão devido às más acessibilidades",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22191953/47799545.jpg"
+    "url": "https://observador.pt/2026/11/04/a-confirmacao-do-que-ja-todos-sabiam-paulo-fonseca-vai-ser-o-novo-treinador-do-sporting/",
+    "title": "A confirmação do que todos sabiam: Paulo Fonseca no Sporting",
+    "summary": "O português de 53 anos estava no Lyon desde janeiro de 2025",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:288/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03114047/gettyimages-2301753655-scaled.jpg"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/descida-de-temperaturas-e-muita-chuva-a-partir-de-sabado-vem-ai-a-depressao-bruna/6aead7b70cf2df4c3882cd96",
-    "title": "Descida de temperaturas e \"muita chuva a partir de sábado\": vem aí a depressão Bruna",
-    "summary": "O jornalista da CNN Portugal Nuno de Sousa Moreira explica como será o tempo nos próximos dias em Portugal.",
-    "image": null
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2515/",
+    "title": "10h. Diretor financeiro da PJ afastado do cargo",
+    "summary": "A notícia foi avançada pela RTP e entretanto confirmada ao Observador pelo próprio Álvaro Pires. Ainda, primeiro-ministro vai reunir-se amanhã com os líderes de CHEGA e PS em São Bento.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/cavaco-silva/psp/filipe-santos-costa-que-se-lixem-as-eleicoes-cavaco-santo-padroeiro-das-cargas-policiais/20261104/6aeae687d34e5a653d732c14",
-    "title": "Que Se Lixem As Eleições | Cavaco, santo padroeiro das cargas policiais",
-    "summary": "Cavaco voltou, para abençoar os Luíses que mandam bater em manifestantes. Sabe do que fala. Mas talvez não seja o conselheiro de que a AD precisa",
-    "image": null
+    "url": "https://observador.pt/newsletters/360/trump-perdeu-as-intercalares-luis-montenegro-quer-conversar-sobre-habitacao/",
+    "title": "A derrota de Trump e a convocatória de Montenegro",
+    "summary": "Donald Trump perdeu as eleições intercalares nos EUA. Os democratas conseguiram um grande resultado e controlam o congresso. Por cá, Luís Montenegro chamou PS e Chega para conversar sobre habitação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/francisco-rodrigues-dos-santos/cds-pp/deixo-de-ser-militante-do-cds-continuo-a-ser-democrata-cristao-francisco-rodrigues-dos-santos-sai-do-cds-com-criticas-ao-rumo-do-partido/20261104/6aeae790d34e5a653d732c15",
-    "title": "“Deixo de ser militante do CDS. Continuo a ser democrata-cristão”: Francisco Rodrigues dos Santos sai do CDS com críticas ao rumo do partido",
-    "summary": "Antigo presidente s olha para a dinâmica política atual como alimentadora de ressentimentos, classificando as pessoas “antes de as compreender” e dedicando-se a “apontar inimigos”",
-    "image": null
+    "url": "https://observador.pt/programas/o-sof-do-parlamento/primeiro-ministro-tem-que-pedir-desculpa-aos-manifestantes/",
+    "title": "\"Primeiro-ministro tem que pedir desculpa aos manifestantes\"",
+    "summary": "O deputado do Livre, Paulo Muacho, ainda antes da declaração de Luís Montenegro, diz que o primeiro-ministro tem que \"demitir Luis Neves e pedir desculpa aos manifestantes\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22230253/770-podcast-o-sofa-do-parlamento.jpg"
    },
    "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/sismo/tremor-de-terra/protecao-civil-alerta-para-importancia-de-portugueses-estarem-preparados-para-um-sismo/20261104/6aeae8a6d34e5a653d732c16",
-    "title": "Proteção Civil alerta para importância de portugueses estarem preparados para um sismo",
-    "summary": "Carlos Mendes especificou que as zonas de maior intensidade histórica de risco sísmico são a Área Metropolitana de Lisboa, Vale do Tejo, Alentejo e Algarve",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-04T08:20:23.572409+00:00"
+   "added": "2026-11-04T10:37:51.953606+00:00"
   }
  ],
  "posted": [
@@ -475,6 +475,34 @@
    "orig": "bes. morais pires diz que \"nunca\" foi corrompido por salgado",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Иммиграция оплатит иммиграцию: власти Португалии назвали источники финансирования",
+   "orig": "“imigração vai pagar a imigração”, garante leitão amaro",
+   "important": true,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Власти Португалии пригрозили иностранцам лишением вида на жительство",
+   "orig": "tendas. governo ameaça estrangeiros com perda de residência",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "В Португалии отказ в виде на жительство теперь сам по себе обязывает покинуть страну",
+   "orig": "recusa da aima a pedido de residência já vale como ordem para deixar portugal",
+   "important": true,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "В Португалии похолодает и начнутся дожди",
+   "orig": "descida de temperaturas e \"muita chuva a partir de sábado\": vem aí a depressão bruna",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-03"
