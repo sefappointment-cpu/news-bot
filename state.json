@@ -23,28 +23,6 @@
    "added": "2026-11-03T22:36:15.026787+00:00"
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/04/alexandrina-cruz-apresenta-recandidatura-a-presidencia-do-rio-ave-apontando-a-europa/",
-    "title": "Alexandrina Cruz recandidata-se à presidência do Rio Ave",
-    "summary": "A dirigente, que procura um segundo mandato à frente do clube de Vila do Conde, apresentou a candidatura no Centro Municipal da Juventude, perante cerca de 200 pessoas",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:134/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/06/28084209/41103571.jpg"
-   },
-   "important": false,
-   "added": "2026-11-04T00:49:13.606072+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/activistas-anti-mercado-natal-e-mercado-de-natal/",
-    "title": "Activistas anti: mercado, Natal e Mercado de Natal",
-    "summary": "Só faltava a crise da habitação desalojar o Pai Natal. E sobrou para a Câmara lidar com a Cambra: deixar ou tirar a tenda? É fazer moeda ao ar num cara ou coroa e no fim ver se o Moedas foi ao ar",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A640%3A640%3Anowe%3A0%3A175%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F14185443%2Ftiago-dores-15-1.jpeg"
-   },
-   "important": false,
-   "added": "2026-11-04T00:49:13.606072+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/lei-do-arrendamento/lei-das-rendas/ventura-diz-que-lei-das-rendas-deve-ser-aprovada-a-tres-e-pede-a-montenegro-que-mostre-empatia/20261103/6aea70f4d34e9ce6f1b42eb7",
@@ -109,6 +87,28 @@
    },
    "important": false,
    "added": "2026-11-04T01:52:52.384172+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/04/politica/noticia/luis-montenegro-falou-pais-valeu-pena-2193678",
+    "title": "Luís Montenegro falou ao país. E valeu a pena?",
+    "summary": "Numa comunicação ao país, em que recusou falar sobre as cargas policiais ou o acórdão judicial sobre a acampada, Montenegro pediu tempo.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-04T03:45:13.044983+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/04/acampada-do-porto-monta-mais-tendas-assume-vitoria-parcial-e-responde-a-montenegro-unica-coisa-importada-foi-violencia-policial/",
+    "title": "Violência importada? Só pela PSP, responde Acampada do Porto",
+    "summary": "Acampada diz que nem PS nem Chega dão respaldo às reivindicações dos manifestantes, mas saúda encontro da oposição com o Governo. \"Se [Montenegro] teme assim tanto a violência, não nos espanque\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1137:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25165718/gco-manif-habitacao-porto-2026-072-1.jpg"
+   },
+   "important": false,
+   "added": "2026-11-04T03:45:13.044983+00:00"
   }
  ],
  "posted": [
