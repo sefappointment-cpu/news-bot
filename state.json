@@ -1,17 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/fc-porto/champions/liga-dos-campeoes-fc-porto-napoles-apito-inicial-as-20-00/20261104/6aeb821bd34e9ce6f1b430c7",
-    "title": "Liga dos Campeões: FC Porto - Nápoles (apito inicial às 20:00)",
-    "summary": "Azuis e brancos continuam à procura dos primeiros pontos na Liga dos Campeões, sendo que já contabilizam três derrotas",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-04T19:29:07.411655+00:00"
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/04/sociedade/noticia/advogados-sindicato-aima-acusam-governo-intimidar-manifestantes-estrangeiros-2193711",
@@ -21,6 +10,18 @@
    },
    "important": true,
    "added": "2026-11-04T14:06:44.496661+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/04/defesa-de-duarte-lima-alega-que-homicidio-de-rosalina-ribeiro-ja-prescreveu-segundo-a-lei-brasileira/",
+    "title": "Duarte Lima: homicídio já prescreveu segundo lei brasileira",
+    "summary": "Num requerimento enviado ao tribunal de Sintra, o advogado do ex-deputado defende que, pela lei brasileira, \"a punibilidade encontra-se extinta\". Defende que crime prescreveu há um ano e meio.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1998:1123:nowe:2:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/10/23143815/18549509.jpg"
+   },
+   "important": false,
+   "added": "2026-11-04T10:37:51.953606+00:00",
    "fails": 1
   },
   {
@@ -36,24 +37,12 @@
    "fails": 1
   },
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/04/politica/noticia/linhas-vermelhas-negociar-montenegro-ps-quer-acabar-renda-moderada-2193707",
-    "title": "Sem linhas vermelhas para negociar com Montenegro, PS quer acabar com renda moderada",
-    "summary": "Socialistas vão propor isenção de mais-valias na venda de segundas casas até 300 mil euros, destinadas a habitação própria, em zonas de pressão urbanística, e um limite ao aumento das rendas.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-04T15:19:48.664601+00:00",
-   "fails": 1
-  },
-  {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/04/defesa-de-duarte-lima-alega-que-homicidio-de-rosalina-ribeiro-ja-prescreveu-segundo-a-lei-brasileira/",
-    "title": "Duarte Lima: homicídio já prescreveu segundo lei brasileira",
-    "summary": "Num requerimento enviado ao tribunal de Sintra, o advogado do ex-deputado defende que, pela lei brasileira, \"a punibilidade encontra-se extinta\". Defende que crime prescreveu há um ano e meio.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1998:1123:nowe:2:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/10/23143815/18549509.jpg"
+    "url": "https://observador.pt/programas/noticiario/9h-eleicoes-eua-democratas-garantem-maioria-no-congresso/",
+    "title": "9h. Francisco Rodrigues dos Santos deixa militância do CDS",
+    "summary": "O anúncio é feito numa carta enviada ao atual presidente centrista Nuno Melo. Ainda neste jornal, Paulo Fonseca já está em Lisboa para assinar com o Sporting.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
    "added": "2026-11-04T10:37:51.953606+00:00",
@@ -74,10 +63,10 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/9h-eleicoes-eua-democratas-garantem-maioria-no-congresso/",
-    "title": "9h. Francisco Rodrigues dos Santos deixa militância do CDS",
-    "summary": "O anúncio é feito numa carta enviada ao atual presidente centrista Nuno Melo. Ainda neste jornal, Paulo Fonseca já está em Lisboa para assinar com o Sporting.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/newsletters/360/trump-perdeu-as-intercalares-luis-montenegro-quer-conversar-sobre-habitacao/",
+    "title": "A derrota de Trump e a convocatória de Montenegro",
+    "summary": "Donald Trump perdeu as eleições intercalares nos EUA. Os democratas conseguiram um grande resultado e controlam o congresso. Por cá, Luís Montenegro chamou PS e Chega para conversar sobre habitação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
    },
    "important": false,
    "added": "2026-11-04T10:37:51.953606+00:00",
@@ -96,18 +85,6 @@
    "fails": 1
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/newsletters/360/trump-perdeu-as-intercalares-luis-montenegro-quer-conversar-sobre-habitacao/",
-    "title": "A derrota de Trump e a convocatória de Montenegro",
-    "summary": "Donald Trump perdeu as eleições intercalares nos EUA. Os democratas conseguiram um grande resultado e controlam o congresso. Por cá, Luís Montenegro chamou PS e Chega para conversar sobre habitação.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png"
-   },
-   "important": false,
-   "added": "2026-11-04T10:37:51.953606+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/tres-jogos-em-sete-dias-provoca-um-desgaste-fisico-e-mental-grande/6aeb4e470cf2df4c3882ce6d",
@@ -117,6 +94,30 @@
    },
    "important": false,
    "added": "2026-11-04T18:18:59.209730+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/fc-porto/champions/liga-dos-campeoes-fc-porto-napoles-apito-inicial-as-20-00/20261104/6aeb821bd34e9ce6f1b430c7",
+    "title": "Liga dos Campeões: FC Porto - Nápoles (apito inicial às 20:00)",
+    "summary": "Azuis e brancos continuam à procura dos primeiros pontos na Liga dos Campeões, sendo que já contabilizam três derrotas",
+    "image": "https://img.iol.pt/preset/6aeb78c0d34e5a653d732d80/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-04T19:29:07.411655+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/04/oe2027-jovens-convidados-pelo-chega-entram-na-sala-de-sessoes-e-suspendem-audicao-da-ministra-da-justica/",
+    "title": "Jovens do Chega suspendem audição da ministra",
+    "summary": "Na sequência do incidente, a ministra Rita Alarcão Júdice saiu da sala de sessões do Parlamento, juntamente com a sua equipa de secretários de Estado",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162637/48066750.jpg"
+   },
+   "important": false,
+   "added": "2026-11-04T20:24:14.143460+00:00",
    "fails": 1
   }
  ],
@@ -715,6 +716,20 @@
    "orig": "da dança egípcia ao resgate do corpo: eis o museu como performance",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Пинто Луш и диалог с протестующими",
+   "orig": "\"se tivesse sido miguel pinto luz a gerir a relação com os manifestantes, o governo não estaria tão encurralado como está hoje\"",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Фрегезии в Португалии получат доступ к среднесрочным кредитам на жилье",
+   "orig": "freguesias com acesso a crédito para habitação no oe2027",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-03"
