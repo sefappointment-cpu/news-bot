@@ -481,17 +481,6 @@
   "https://www.publico.pt/2026/11/04/mundo/noticia/onda-azul-tsunami-democratas-reconquistam-congresso-noite-repudio-trumpismo-2193679"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/01/palavras-de-mulheres-urgentes",
-  "https://observador.pt/programas/noticiario/as-noticias-das-14h-2521",
-  "https://observador.pt/2026/11/01/pcp-aponta-governo-como-o-maior-fator-de-instabilidade-no-pais-e-quer-debate-de-urgencia-no-parlamento",
-  "https://observador.pt/2026/11/01/antiga-campea-europeia-dos-1-500-metros-morre-aos-34-anos-vitima-de-cancro",
-  "https://observador.pt/2026/11/01/tenista-carlos-alcaraz-domina-de-minaur-para-erguer-trofeu-em-viena",
-  "https://observador.pt/2026/11/01/ipma-agrava-para-laranja-aviso-de-precipitacao-forte-para-a-madeira",
-  "https://observador.pt/2026/11/01/quase-800-detidos-nas-manifestacoes-em-franca",
-  "https://observador.pt/2026/11/01/binance-levantou-o-congelamento-de-contas-e-garante-que-ja-cobriu-90-do-roubo-de-quase-6-mil-milhoes-de-euros",
-  "https://observador.pt/programas/noticiario/as-noticias-das-15h-2503",
-  "https://observador.pt/2026/11/01/rema-parou-a-lei-do-mais-forte-e-contrariou-o-habito-fc-porto-vence-sporting-leoes-perdem-no-campeonato-dois-anos-depois",
-  "https://observador.pt/2026/11/01/nuno-borges-falha-quadro-principal-do-masters-1-000-de-paris-em-tenis",
   "https://observador.pt/programas/noticiario/as-noticias-das-16h-2404",
   "https://observador.pt/especiais/diadema-de-d-estefania-perdido-ha-seculos-diamantes-de-d-maria-i-na-coroa-sueca-e-os-brincos-do-colar-de-maria-antonieta-as-descobertas-do-investigador-das-joias-reais-portuguesas",
   "https://observador.pt/2026/11/01/mbappe-passou-a-semana-a-defender-se-mas-nasceu-para-atacar-real-madrid-volta-a-vencer",
@@ -980,15 +969,20 @@
   "https://observador.pt/especiais/no-pais-pacifico-de-montenegro-a-psp-ficou-a-distancia-e-as-tendas-voltaram-a-encher-o-rossio",
   "https://observador.pt/opiniao/as-contas-da-igreja-antes-de-exigir-e-preciso-saber-ler",
   "https://observador.pt/opiniao/a-casa-que-deixamos-de-poder-pagar",
-  "https://observador.pt/opiniao/a-decathlon-apoia-as-acampadas"
+  "https://observador.pt/opiniao/a-decathlon-apoia-as-acampadas",
+  "https://observador.pt/programas/am-rica-dividida/republicanos-perdem-porque-trump-nao-cumpriu-promessas",
+  "https://observador.pt/opiniao/as-esquerdas-sao-as-suas-piores-inimigas",
+  "https://observador.pt/opiniao/a-espanha-invertebrada",
+  "https://observador.pt/opiniao/combustiveis-impostos-e-concorrencia",
+  "https://observador.pt/opiniao/a-acampada-fica-curta-nas-mangas",
+  "https://observador.pt/opiniao/portugal-vendeu-a-chave-falta-construir-a-porta",
+  "https://observador.pt/opiniao/a-crise-da-habitacao-em-portugal-causas-e-solucoes",
+  "https://observador.pt/opiniao/a-parabola-da-esquerda",
+  "https://observador.pt/opiniao/os-novos-influencers-sao-maduros-e-estao-a-revolucionar-a-ideia-de-idade-sabe-o-que-e-ser-nolt",
+  "https://observador.pt/opiniao/uma-nova-investida-do-imperio-do-mal",
+  "https://observador.pt/opiniao/os-rankings-e-o-ensino-artistico-especializado"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/zelensky-vai-a-turquia-a-procura-de-aliados-indiretos-para-as-proximas-negociacoes-de-paz/6ae5dce00cf2e5e7f37cb922",
-  "https://cnnportugal.iol.pt/videos/a-psp-nao-fez-nada-de-mal-o-que-diz-especialista-sobre-as-cargas-policiais-e-os-novos-protestos/6ae5dbb60cf23b0ed4fe00f7",
-  "https://cnnportugal.iol.pt/farmacias/metadona/farmacias-comecam-a-disponibilizar-tratamento-com-metadona-a-partir-de-domingo/20261031/6ae5d9e1d34e53c759c78cbe",
-  "https://cnnportugal.iol.pt/brasil/flavio-bolsonaro/bolsonaro-diz-que-resultado-das-eleicoes-e-matematicamente-impossivel-e-que-lula-marcou-golo-com-a-mao/20261031/6ae5f1a0d34e9a786e75ea10",
-  "https://cnnportugal.iol.pt/videos/carro-eletrico-de-25-mil-euros-quanto-paga-o-estado-e-quanto-fica-a-cargo-do-comprador/6ae5e6260cf23b0ed4fe0103",
-  "https://cnnportugal.iol.pt/protestos/manifestacoes/contra-o-aumento-do-custo-de-vida-europa-sai-a-rua-com-seguranca-reforcada/20261031/6ae5f703d34e9a786e75ea15",
   "https://cnnportugal.iol.pt/rir/riso/rir-pode-tornar-nos-mais-saudaveis-o-que-diz-a-ciencia/20261031/6aba47b4d34e53c759c7413e",
   "https://cnnportugal.iol.pt/videos/sao-as-mais-violentas-o-que-distingue-estes-protestos-em-franca-dos-ultimos-40-anos/6ae604a90cf2e5e7f37cb951",
   "https://cnnportugal.iol.pt/videos/paris-barricada-com-receio-de-novos-episodios-de-violencia-e-pilhagens/6ae602e10cf23b0ed4fe011d",
@@ -1482,6 +1476,12 @@
   "https://cnnportugal.iol.pt/videos/os-democratas-tem-de-contar-com-jon-ossoff-na-primeira-linha-das-primarias-para-2028/6aea9d9a0cf235b99ef4fa72",
   "https://cnnportugal.iol.pt/videos/republicanos-do-texas-horrorizados-com-resultados-que-dao-vantagem-a-james-talarico/6aea990c0cf2df4c3882cd8a",
   "https://cnnportugal.iol.pt/eleicoes-eua/intercalares-eua/democratas-conquistam-controlo-do-congresso-beneficiando-da-impopularidade-historica-de-trump/20261104/6aeab8a2d34e9ce6f1b42f13",
-  "https://cnnportugal.iol.pt/videos/trump-reconhece-a-derrota-a-sua-maneira-tentou-divergir-daquilo-que-ele-proprio-procurou-fazer-durante-a-campanha/6aeaad160cf2051820fb05f1"
+  "https://cnnportugal.iol.pt/videos/trump-reconhece-a-derrota-a-sua-maneira-tentou-divergir-daquilo-que-ele-proprio-procurou-fazer-durante-a-campanha/6aeaad160cf2051820fb05f1",
+  "https://cnnportugal.iol.pt/videos/o-eleitorado-maga-continua-com-as-mesmas-pretensoes-so-que-muitos-deles-sentiram-se-defraudados-por-trump/6aeac2ea0cf2aafa0453d38c",
+  "https://cnnportugal.iol.pt/videos/quando-trump-diz-que-vai-retirar-o-apoio-financeiro-a-israel-esta-a-culpabilizar-o-parceiro-que-o-arrastou-para-a-guerra-e-roubou-as-intercalares/6aeac1a60cf235b99ef4fa82",
+  "https://cnnportugal.iol.pt/videos/durante-esta-noite-donald-trump-disse-tudo-e-o-seu-contrario-comecando-por-nao-dizer-nada/6aeabf640cf2aafa0453d38b",
+  "https://cnnportugal.iol.pt/donald-trump/trump/da-negacao-a-raiva-a-aceitacao-como-donald-trump-viveu-uma-desastrosa-noite-eleitoral/20261104/6aeab910d34e5a653d732bf0",
+  "https://cnnportugal.iol.pt/elon-musk/donald-trump/democratas-resistem-a-enxurrada-de-dinheiro-de-musk/20261104/6aeabfd8d34e5a653d732bf3",
+  "https://cnnportugal.iol.pt/videos/o-congresso-nao-pos-os-travoes-a-donald-trump-entao-os-eleitores-puseram-os-patins-a-donald-trump-e-aos-republicanos/6aeabc480cf2aafa0453d38a"
  ]
 }
