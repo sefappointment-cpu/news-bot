@@ -3,24 +3,24 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/05/sindicato-dos-medicos-denuncia-falta-de-condicoes-em-usf-de-ponte-da-barca/",
-    "title": "Sindicato dos Médicos denuncia falta de condições em USF",
-    "summary": "\"As obras encontram-se já numa fase final, estando a sua conclusão prevista até ao final do ano\", segundo indica a administração da Unidade Local de Saúde do Alto Minho",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:226/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15133614/ts154a3473.jpg"
+    "url": "https://observador.pt/2026/11/05/ordem-dos-medicos-considera-inadmissivel-morte-de-idoso-apos-espera-nas-urgencias/",
+    "title": "Ordem dos Médicos: inadmissível morte de idoso nas urgencias",
+    "summary": "\"É absolutamente lamentável, é inadmissível. Alguém que procura precisamente o local adequado para ver a sua vida conservada é precisamente nesse local onde perde a vida\", disse à agência Lusa Carlos Cortes",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/26202813/45223813.jpg"
    },
    "important": false,
-   "added": "2026-11-05T14:19:42.012458+00:00"
+   "added": "2026-11-05T15:25:19.318689+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2525/",
-    "title": "As notícias das 14h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://observador.pt/2026/11/05/portugal-vai-perder-14-milhoes-de-trabalhadores-ate-2080-idade-da-reforma-deve-chegar-nesse-ano-aos-697-anos/",
+    "title": "Portugal vai perder 1,4 milhões de trabalhadores até 2080",
+    "summary": "Comissão Europeia antecipa que prolongamento dos mais velhos no mercado de trabalho será \"insuficiente\" para colmatar perda da população ativa",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/02/10375605.jpg"
    },
    "important": false,
-   "added": "2026-11-05T14:19:42.012458+00:00"
+   "added": "2026-11-05T15:25:19.318689+00:00"
   },
   {
    "source": "Público",
@@ -47,18 +47,6 @@
    "fails": 1
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
-    "title": "Sete filmes a não perder no LEFFEST 2026",
-    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T08:34:01.758111+00:00",
-   "fails": 1
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/05/local/noticia/exposicao-baldios-cabem-memorias-cidade-senhora-direito-habitacao-2193249",
@@ -80,6 +68,18 @@
    },
    "important": false,
    "added": "2026-11-05T10:56:14.925813+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
+    "title": "Sete filmes a não perder no LEFFEST 2026",
+    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00",
    "fails": 1
   },
   {
@@ -516,6 +516,41 @@
    "date": "2026-11-05",
    "title": "Криштиану Роналду объявил об уходе из сборной Португалии",
    "orig": "\"fim de uma era\": como o mundo está a reagir à saída de cristiano ronaldo da seleção",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Сегура и Зеленский обсудили возможное совместное производство вооружений",
+   "orig": "seguro e zelensky falaram sobre possibilidade de produção conjunta de armamento",
+   "important": true,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Профсоюз врачей жалуется на условия в поликлинике в Понте-да-Барка",
+   "orig": "sindicato dos médicos denuncia falta de condições em usf",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Роналду прощается со сборной Португалии",
+   "orig": "as notícias das 14h",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Дата-центры в Португалии вызывают вопросы у экологов",
+   "orig": "centros de dados levantam dúvidas ambientais e sobre benefícios para populações",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "FlixBus лишилась судебного решения о немедленном доступе к терминалу Сете-Риуш",
+   "orig": "flixbus perde decisão judicial que lhe dava acesso imediato ao terminal de sete rios",
    "important": false,
    "source": "CNN Portugal"
   }
