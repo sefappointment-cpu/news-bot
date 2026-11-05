@@ -25,17 +25,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/sem-falta/porto-x-napoles-golo-do-porto-e-bem-anulado/",
-    "title": "Porto x Nápoles. \"Golo do Porto é bem anulado\"",
-    "summary": "Nota 8, muito alta, para o árbitro Michael Oliver na vitória do Porto frente ao Nápoles. Golos bem anulados às duas equipas, amarelos e vermelho bem exibidos e penálti bem assinalado.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T01:43:48.970598+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/2026/11/05/conselho-de-redacao-da-lusa-da-parecer-negativo-a-nomeacao-de-diana-ramos-para-diretora/",
     "title": "CR da Lusa rejeita nomeação de Diana Ramos",
     "summary": "Os membros do Conselho mantêm a preocupação sobre \"a tentativa de interferência editorial na contratação de uma jornalista para a delegação de Bruxelas\"",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-05T04:52:52.404420+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/05/opiniao/opiniao/cartas-director-2193790",
+    "title": "Cartas ao director",
+    "summary": "",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-05T05:54:49.491035+00:00"
   }
  ],
  "posted": [
