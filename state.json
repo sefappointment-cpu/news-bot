@@ -1,114 +1,114 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Público",
    "item": {
-    "url": "https://cnnportugal.iol.pt/polemica/estrangeiros-manifestacoes/irresponsavel-e-perigoso-sindicato-dos-tecnicos-de-migracao-condena-intimidacao-do-governo-a-manifestantes-estrangeiros-nos-protestos-pela-habitacao/20261104/6aeb93d2d34e9ce6f1b430f2",
-    "title": "\"Irresponsável e perigoso\". Sindicato dos Técnicos de Migração condena \"intimidação\" do Governo a manifestantes estrangeiros nos protestos pela habitação",
-    "summary": "Em causa estão as declarações do secretário de Estado Adjunto e da Presidência e Imigração, Rui Armindo Freitas, que avisou que aqueles que participam nas manifestações e não respeitem a lei dos estrangeiros podem ter as suas autorizações de residência canceladas, por poderem \"colocar em causa a ordem pública\"",
+    "url": "https://www.publico.pt/2026/11/05/newsletter/despertador",
+    "title": "Despertador: Saíram mais pessoas nos últimos cinco anos do que o estimado, Duarte Lima em tribunal",
+    "summary": "",
     "image": null
    },
-   "important": true,
-   "added": "2026-11-04T21:18:41.036377+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/mistura-entre-imigracao-e-manifestacoes-pretende-ser-perigosa/6aebbac00cf2df4c3882cefd",
-    "title": "\"Mistura entre imigração e manifestações pretende ser perigosa\"",
-    "summary": "João Soares, do PS, considera que o Governo se portou \"muitíssimo mal\" na gestão dos protestos pela habitação e diz-se \"profundamente desiludido\" com Luís Neves.",
-    "image": null
-   },
-   "important": true,
-   "added": "2026-11-05T00:08:59.511911+00:00"
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2543/",
-    "title": "As notícias das 6h",
-    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "url": "https://observador.pt/especiais/david-fonseca-so-somos-adultos-a-partir-dos-40-demoramos-muito-tempo-a-entender-o-mundo/",
+    "title": "David Fonseca: \"Só somos adultos a partir dos 40\"",
+    "summary": "O álbum \"Radiante Estrela Cadete\" está disponível a 5 de novembro",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1964:nowe:0:187/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02045437/3t8a6599.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
+    "title": "Sete filmes a não perder no LEFFEST 2026",
+    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/portugueses-sao-7-a-populacao-da-uniao-europeia-que-mais-sente-aumento-do-custo-de-vida-segundo-inquerito-do-banco-europeu-de-investimento/",
+    "title": "UE. Portugueses entre os que mais sofrem com o custo de vida",
+    "summary": "Além de serem dos que mais sentem o aumento do custo de vida, os portugueses estão também entre os europeus que mais optaram por alterar a utilização do carro",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1430:804:nowe:562:62/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/05/15665536.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/duarte-lima-comeca-esta-quinta-feira-a-ser-julgado-pelo-homicidio-de-rosalina-ribeiro/",
+    "title": "Duarte Lima começa a ser julgado esta quinta-feira",
+    "summary": "A justiça portuguesa pediu várias vezes aos tribunais brasileiros o envio da documentação em falta, que são gravações, tendo chegado a fazer ainda este ano, via Procuradoria-Geral da República, um novo pedido",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/07/185511032.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/problemas-na-habitacao-chegam-hoje-ao-fim/",
+    "title": "Problemas na habitação chegam hoje ao fim?",
+    "summary": "É hoje a conversa entre Montenegro, Carneiro e Ventura, mas será que vão chegar a alguma conclusão? E ainda, acabou-se a fugida à matemática. Ministro quer disciplina para todos até ao 12º ano.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/14100301/770-podcast-ainda-bem-que-faz-essa-pergunta-com-bruno-vieira-amaral.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/mais-de-40-dos-cuidadores-informais-nao-sentem-beneficios-do-estatuto/",
+    "title": "Mais de 40% dos cuidadores informais não sentem benefícios",
+    "summary": "Coordenador científico do estudo lembra que os sistemas de saúde europeus se baseiam muito no cuidado informal, sujeita \"muitas vezes a uma dimensão de género\"",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/11/02170438/cuidadores-dsc01372-1.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/arquipelago-da-madeira-sob-aviso-amarelo-a-partir-desta-quinta-feira-devido-a-chuva/",
+    "title": "Chuva. Madeira sob aviso amarelo a partir desta quinta-feira",
+    "summary": "O IPMA emitiu também aviso amarelo para a costa norte e a ilha do Porto Santo por causa da chuva por vezes forte e persistente",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2014/07/cropped-17289171.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2568/",
+    "title": "8h. Idoso morre após 12 horas de espera nas urgências",
+    "summary": "O homem de 87 anos deu entrada com dores abdominais e vómitos, a ULS garante que nunca esteve sozinho. Ainda, arranca hoje o julgamento de Duarte Lima, acusado de homicídio de Rosalina Ribeiro.",
     "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
    },
    "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
+   "added": "2026-11-05T08:34:01.758111+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/05/a-bola-negra-um-filme-feito-de-excessos/",
-    "title": "\"A Bola Negra\": um filme feito de excessos",
-    "summary": "Uma cena da linha narrativa de \"A Bola Negra\" passada durante a Guerra Civil de Espanha",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:787:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03223823/bolanegra1.jpg"
+    "url": "https://observador.pt/programas/tres-toques/ate-o-guinness-tremeu-com-tanta-expulsao-num-jogo-no-brasil/",
+    "title": "Até o Guinness tremeu com tanta expulsão num jogo no Brasil",
+    "summary": "O graffiter polaco que decidiu invadir o estádio da Luz para homenagear Kaminski e a batalha no Brasil que acabou com 51 expulsões de cair o queixo.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg"
    },
    "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/agenda-cultural-sintrense/dos-taxi-a-joana-almeirante-a-musica-passa-por-sintra/",
-    "title": "Dos TAXI a Joana Almeirante, a música passa por Sintra",
-    "summary": "Os TAXI celebram 45 anos de carreira com um concerto a 6 de novembro. No dia seguinte, Joana Almeirante sobe ao palco, numa semana em que a música volta a marcar a agenda cultural de Sintra.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07172119/00-observador-x-camara-de-sintra-v3-05-podcast-1540x866-1.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/vamos-a-bola/fariolineta-ja-acelera-na-champions-fonseca-ja-fala-a-leao/",
-    "title": "Fariolineta já acelera na Champions. Fonseca já fala à Leão",
-    "summary": "Dragões vencem napolitanos (4-1) com três golos de bola parada e uma segunda parte em que só deu Porto. Primeira vitória de Farioli na Champions. Ainda, Paulo Fonseca fala como treinador do Sporting.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/conferencia-de-imprensa/780-mil-pessoas-sairam-de-portugal-nos-ultimos-cinco-anos/",
-    "title": "780 mil pessoas saíram de Portugal nos últimos cinco anos",
-    "summary": "O Público destaca dados do INE: entre 2021 e 2025, os números subiram de 124 mil para 782 mil. No DN outro estudo: 3 em cada 10 portugueses diz não ter recebido cuidados de saúde no tempo adequado.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/custo-de-vida/aumento-dos-precos/portugueses-sao-a-setima-populacao-da-ue-que-mais-sente-o-aumento-do-custo-de-vida/20261105/6aec1ee2d34e9ce6f1b43198",
-    "title": "Portugueses são a sétima população da UE que mais sente o aumento do custo de vida",
-    "summary": "68% dos inquiridos em Portugal afirmam que o seu poder de compra nos últimos 12 meses caiu de forma significativa",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/duarte-lima/julgamento-de-duarte-lima/julgamento-de-duarte-lima-por-homicidio-de-rosalina-ribeiro-comeca-17-anos-depois-do-crime/20261105/6aec23e9d34e5a653d732e64",
-    "title": "Julgamento de Duarte Lima por homicídio de Rosalina Ribeiro começa 17 anos depois do crime",
-    "summary": "Além de Duarte Lima, o tribunal conta ouvir durante a tarde desta quinta-feira a testemunha Rosemary Espinola, amiga próxima de Rosalina Ribeiro e uma das primeiras pessoas a dar indicação do desaparecimento",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/do-inicio-do-julgamento-de-duarte-lima-por-homicidio-ao-encontro-de-montenegro-com-carneiro-e-ventura-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6aec23620cf2df4c3882cf13",
-    "title": "Do início do julgamento de Duarte Lima por homicídio ao encontro de Montenegro com Carneiro e Ventura: estas são \"as 5 notícias\" que vão marcar o dia",
-    "summary": "Em apenas 2 minutos, a jornalista Cláudia Valente de Oliveira apresenta as cinco principais notícias que vão marcar esta quarta-feira.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T07:03:58.474565+00:00"
+   "added": "2026-11-05T08:34:01.758111+00:00"
   }
  ],
  "posted": [
@@ -356,6 +356,41 @@
    "orig": "freguesias com acesso a crédito para habitação no oe2027",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Профсоюз назвал угрозы мигрантам из-за митингов опасными",
+   "orig": "\"irresponsável e perigoso\". sindicato dos técnicos de migração condena \"intimidação\" do governo a manifestantes estrangeiros nos protestos pela habitação",
+   "important": true,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Жоау Суареш раскритиковал власти за реакцию на протесты по жилью",
+   "orig": "\"mistura entre imigração e manifestações pretende ser perigosa\"",
+   "important": true,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Более 780 тысяч человек покинули Португалию за пять лет",
+   "orig": "ine revê estatísticas e conclui que mais de 780 mil pessoas saíram de portugal em cinco anos",
+   "important": true,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Монтенегро встретится с PS и Chega по жилью",
+   "orig": "as notícias das 6h",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Португальцы — седьмые в ЕС по ощущению роста стоимости жизни",
+   "orig": "portugueses são a sétima população da ue que mais sente o aumento do custo de vida",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-04"
