@@ -1,18 +1,6 @@
 {
  "pending": [
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/04/sociedade/noticia/advogados-sindicato-aima-acusam-governo-intimidar-manifestantes-estrangeiros-2193711",
-    "title": "Advogados e sindicato da AIMA acusam Governo de intimidar manifestantes estrangeiros",
-    "summary": "Secretário de Estado disse que manifestantes pela habitação “que não respeitem a lei dos estrangeiros podem ter as suas autorizações de residência canceladas”, pondo em causa a ordem pública.",
-    "image": null
-   },
-   "important": true,
-   "added": "2026-11-04T14:06:44.496661+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/polemica/estrangeiros-manifestacoes/irresponsavel-e-perigoso-sindicato-dos-tecnicos-de-migracao-condena-intimidacao-do-governo-a-manifestantes-estrangeiros-nos-protestos-pela-habitacao/20261104/6aeb93d2d34e9ce6f1b430f2",
@@ -110,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-05T02:50:30.188076+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2450/",
+    "title": "4h. Chega e PS reúnem com Governo para discutir habitação",
+    "summary": "Partidos foram chamados pelo PM a São Bento depois dos apelos do PR para o diálogo. Luís Montenegro reconhece vitória política de António José Seguro. Ainda, FC Porto vence Nápoles por 4-1.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-05T04:52:52.404420+00:00"
   }
  ],
  "posted": [
