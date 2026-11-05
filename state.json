@@ -3,13 +3,13 @@
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/05/local/noticia/exposicao-baldios-cabem-memorias-cidade-senhora-direito-habitacao-2193249",
-    "title": "Nesta exposição sobre baldios cabem memórias da cidade e a “Nossa Senhora do Direito à Habitação”",
-    "summary": "Exposição de Flora Paim reúne trabalhos criados ao longo de 5 anos de investigação sobre terrenos baldios. A mostra está patente até esta quinta-feira, na ruína da futura Galeria Dínamo, na ESAP.",
+    "url": "https://www.publico.pt/2026/11/05/politica/noticia/cimeira-aprova-rede-iberoamericana-proteccao-civil-seguro-zelensky-querem-produzir-drones-2193912",
+    "title": "Cimeira aprova rede ibero-americana de protecção civil, Seguro e Zelensky querem produzir drones",
+    "summary": "A criação de uma rede ibero-americana de redução do risco de desastres e de protecção civil foi uma proposta originalmente feita por Portugal na última cimeira, em 2024, que decorreu no Equador.",
     "image": null
    },
-   "important": false,
-   "added": "2026-11-05T12:57:33.095180+00:00",
+   "important": true,
+   "added": "2026-11-05T18:46:35.739869+00:00",
    "fails": 1
   },
   {
@@ -37,6 +37,18 @@
    "fails": 1
   },
   {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/elogios-goncalo-byrne-cidade-capital-arquitectura-moderna-2193886",
+    "title": "Todos os elogios para Gonçalo Byrne na cidade capital da arquitectura moderna",
+    "summary": "Brasília está a acolher a 14.ª BIAU, onde a arquitectura portuguesa está representada pelo arquitecto do bairro “Pantera Cor-de-Rosa” em Lisboa, e por Inês Lobo, a debater a questão da habitação.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-05T18:46:35.739869+00:00",
+   "fails": 1
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/ele-sai-porque-e-suplente-de-goncalo-ramos-e-porque-sabe-que-so-iria-jogar-depois-de-portugal-estar-apurado/6aec91b00cf2051820fb0859",
@@ -58,6 +70,18 @@
    },
    "important": false,
    "added": "2026-11-05T10:56:14.925813+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/entrevista/goncalo-byrne-construcao-cidades-fundamental-ouvir-pessoas-2193891",
+    "title": "Gonçalo Byrne: “Na construção das cidades, é fundamental ouvir as pessoas”",
+    "summary": "Um novo prémio, conferências na Embaixada e na Universidade, entrevistas e até selfies . Byrne vive dias intensos na capital mundial da arquitectura moderna.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-05T18:46:35.739869+00:00",
    "fails": 1
   },
   {
@@ -85,39 +109,15 @@
    "fails": 1
   },
   {
-   "source": "Público",
+   "source": "Observador",
    "item": {
-    "url": "https://www.publico.pt/2026/11/05/politica/noticia/cimeira-aprova-rede-iberoamericana-proteccao-civil-seguro-zelensky-querem-produzir-drones-2193912",
-    "title": "Cimeira aprova rede ibero-americana de protecção civil, Seguro e Zelensky querem produzir drones",
-    "summary": "A criação de uma rede ibero-americana de redução do risco de desastres e de protecção civil foi uma proposta originalmente feita por Portugal na última cimeira, em 2024, que decorreu no Equador.",
-    "image": null
-   },
-   "important": true,
-   "added": "2026-11-05T18:46:35.739869+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/elogios-goncalo-byrne-cidade-capital-arquitectura-moderna-2193886",
-    "title": "Todos os elogios para Gonçalo Byrne na cidade capital da arquitectura moderna",
-    "summary": "Brasília está a acolher a 14.ª BIAU, onde a arquitectura portuguesa está representada pelo arquitecto do bairro “Pantera Cor-de-Rosa” em Lisboa, e por Inês Lobo, a debater a questão da habitação.",
-    "image": null
+    "url": "https://observador.pt/2026/11/05/bruna-ipma-confirma-tempestade-e-admite-mais-de-200-mm-de-chuva-modelos-chegam-aos-300-mm-e-o-atlantico-prepara-novas-ameacas/",
+    "title": "Tempestade Bruna chega domingo com vento e chuva intensa",
+    "summary": "A Bruna a chegar no domingo segundo o mapa do site Ventusky",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1660:932:nowe:90:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/05184546/captura-de-ecra-2026-11-05-as-184419.jpg"
    },
    "important": false,
-   "added": "2026-11-05T18:46:35.739869+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/entrevista/goncalo-byrne-construcao-cidades-fundamental-ouvir-pessoas-2193891",
-    "title": "Gonçalo Byrne: “Na construção das cidades, é fundamental ouvir as pessoas”",
-    "summary": "Um novo prémio, conferências na Embaixada e na Universidade, entrevistas e até selfies . Byrne vive dias intensos na capital mundial da arquitectura moderna.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T18:46:35.739869+00:00",
+   "added": "2026-11-05T19:47:55.383610+00:00",
    "fails": 1
   }
  ],
@@ -625,6 +625,34 @@
    "orig": "caixa tem novo lucro recorde de 1,4 mil milhões com menor risco nos créditos",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Госсекретарь: право на митинги не оспаривается",
+   "orig": "sec. estado: \"nunca esteve em causa direito à manifestação\"",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Мэрия Лиссабона предложила оставить в центре города одну палатку протестующих",
+   "orig": "moedas insiste na saída da acampada por causa do mercado de natal e propõe manterem uma tenda no rossio",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Глава CGD: без госгарантии для молодых было бы больше людей без жилья",
+   "orig": "cgd. \"sem garantia pública tínhamos mais gente acampada\"",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Жилищный кризис в Португалии придётся решать годами",
+   "orig": "problema da habitação \"vai demorar anos\" a resolver e não é com uma ou duas medidas, mas \"várias\", avisa paulo macedo",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-04"
