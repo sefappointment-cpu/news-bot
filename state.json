@@ -3,42 +3,6 @@
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/05/newsletter/despertador",
-    "title": "Despertador: Saíram mais pessoas nos últimos cinco anos do que o estimado, Duarte Lima em tribunal",
-    "summary": "",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T08:34:01.758111+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/acidente-de-aviao/europa/ameaca-nao-para-mais-cinco-voos-obrigados-a-aterrar-de-emergencia-na-europa-apos-ameacas-a-bordo/20261105/6aec5257d34e5a653d732e8b",
-    "title": "Ameaça não pára: mais 11 voos obrigados a aterrar de emergência na Europa após ameaças a bordo",
-    "summary": "Continuam a multiplicar-se os casos de ameaças, até aqui todos falsos",
-    "image": "https://img.iol.pt/preset/631082ef0cf26256cd339ca5/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
-    "title": "Sete filmes a não perder no LEFFEST 2026",
-    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T08:34:01.758111+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Público",
-   "item": {
     "url": "https://www.publico.pt/2026/11/05/local/noticia/exposicao-baldios-cabem-memorias-cidade-senhora-direito-habitacao-2193249",
     "title": "Nesta exposição sobre baldios cabem memórias da cidade e a “Nossa Senhora do Direito à Habitação”",
     "summary": "Exposição de Flora Paim reúne trabalhos criados ao longo de 5 anos de investigação sobre terrenos baldios. A mostra está patente até esta quinta-feira, na ruína da futura Galeria Dínamo, na ESAP.",
@@ -97,6 +61,18 @@
    "fails": 1
   },
   {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/paulo-fonseca-orienta-o-segundo-treino-ainda-com-o-equipamento-descaracterizado/6aecb2dd0cf235b99ef4fd7e",
+    "title": "Paulo Fonseca orienta o segundo treino ainda com o equipamento descaracterizado",
+    "summary": "Novo treinador dos leões, que foi apresentado nesta quarta-feira à noite, ainda não tem o nome no equipamento de treino",
+    "image": "https://img.iol.pt/preset/6aecb4bfd34e5a653d7330e4/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-05T17:51:41.118006+00:00",
+   "fails": 1
+  },
+  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/programas/explicador/habitacao-acreditar-na-demagogia-do-chega-e-uma-ilusao/",
@@ -109,15 +85,39 @@
    "fails": 1
   },
   {
-   "source": "CNN Portugal",
+   "source": "Público",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/paulo-fonseca-orienta-o-segundo-treino-ainda-com-o-equipamento-descaracterizado/6aecb2dd0cf235b99ef4fd7e",
-    "title": "Paulo Fonseca orienta o segundo treino ainda com o equipamento descaracterizado",
-    "summary": "Novo treinador dos leões, que foi apresentado nesta quarta-feira à noite, ainda não tem o nome no equipamento de treino",
-    "image": "https://img.iol.pt/preset/6aecb4bfd34e5a653d7330e4/og/cnn"
+    "url": "https://www.publico.pt/2026/11/05/politica/noticia/cimeira-aprova-rede-iberoamericana-proteccao-civil-seguro-zelensky-querem-produzir-drones-2193912",
+    "title": "Cimeira aprova rede ibero-americana de protecção civil, Seguro e Zelensky querem produzir drones",
+    "summary": "A criação de uma rede ibero-americana de redução do risco de desastres e de protecção civil foi uma proposta originalmente feita por Portugal na última cimeira, em 2024, que decorreu no Equador.",
+    "image": null
+   },
+   "important": true,
+   "added": "2026-11-05T18:46:35.739869+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/elogios-goncalo-byrne-cidade-capital-arquitectura-moderna-2193886",
+    "title": "Todos os elogios para Gonçalo Byrne na cidade capital da arquitectura moderna",
+    "summary": "Brasília está a acolher a 14.ª BIAU, onde a arquitectura portuguesa está representada pelo arquitecto do bairro “Pantera Cor-de-Rosa” em Lisboa, e por Inês Lobo, a debater a questão da habitação.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-05T17:51:41.118006+00:00",
+   "added": "2026-11-05T18:46:35.739869+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/05/culturaipsilon/entrevista/goncalo-byrne-construcao-cidades-fundamental-ouvir-pessoas-2193891",
+    "title": "Gonçalo Byrne: “Na construção das cidades, é fundamental ouvir as pessoas”",
+    "summary": "Um novo prémio, conferências na Embaixada e na Universidade, entrevistas e até selfies . Byrne vive dias intensos na capital mundial da arquitectura moderna.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-05T18:46:35.739869+00:00",
    "fails": 1
   }
  ],
@@ -611,6 +611,20 @@
    "orig": "ps quer ouvir ine sobre estatísticas da população",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Сегуру и Зеленский обсудили совместное производство вооружений",
+   "orig": "seguro e zelensky falam sobre produção de armamento conjunta",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Caixa Geral de Depósitos обновила рекорд прибыли",
+   "orig": "caixa tem novo lucro recorde de 1,4 mil milhões com menor risco nos créditos",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-04"
