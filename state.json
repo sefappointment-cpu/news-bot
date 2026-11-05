@@ -37,17 +37,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/opiniao/estamos-doentes/",
-    "title": "Estamos Doentes",
-    "summary": "Para a esquerda, é esta a hora de voltar a ser vírus. E o vírus é o Bloco de Esquerda, mas é também a Renata e a juíza.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A466%3Anowe%3A8%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F08160758%2Fbb-foto.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T01:43:48.970598+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/programas/sem-falta/porto-x-napoles-golo-do-porto-e-bem-anulado/",
     "title": "Porto x Nápoles. \"Golo do Porto é bem anulado\"",
     "summary": "Nota 8, muito alta, para o árbitro Michael Oliver na vitória do Porto frente ao Nápoles. Golos bem anulados às duas equipas, amarelos e vermelho bem exibidos e penálti bem assinalado.",
@@ -110,6 +99,17 @@
    },
    "important": false,
    "added": "2026-11-05T01:43:48.970598+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/matematica-obrigatoria-no-secundario-o-novo-gestor-escolar-e-acao-social-nas-universidades-a-audicao-do-ministro-da-educacao/",
+    "title": "OE2027. A audição do ministro da Educação no Parlamento",
+    "summary": "Fernando Alexandre revelou ainda que há, desde setembro, 255 horários por preencher nas escolas e que, numa semana, os estabelecimentos públicos receberam 400 pedidos de matrícula.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04213534/48069606.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T02:50:30.188076+00:00"
   }
  ],
  "posted": [
