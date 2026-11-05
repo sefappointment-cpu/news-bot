@@ -3,24 +3,13 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/05/ordem-dos-medicos-considera-inadmissivel-morte-de-idoso-apos-espera-nas-urgencias/",
-    "title": "Ordem dos Médicos: inadmissível morte de idoso nas urgencias",
-    "summary": "\"É absolutamente lamentável, é inadmissível. Alguém que procura precisamente o local adequado para ver a sua vida conservada é precisamente nesse local onde perde a vida\", disse à agência Lusa Carlos Cortes",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/26202813/45223813.jpg"
+    "url": "https://observador.pt/2026/11/05/norte-americana-planet-fitness-compra-be-fit-por-1025-milhoes-de-euros-e-entra-em-portugal/",
+    "title": "Planet Fitness compra Be-Fit e entra em Portugal",
+    "summary": "O preço da operação inclui cerca de 100 milhões de euros pagos em dinheiro no fecho da transação e até 2,5 milhões de euros adicionais",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:14/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/05140150/29333853.jpg"
    },
    "important": false,
-   "added": "2026-11-05T15:25:19.318689+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/05/portugal-vai-perder-14-milhoes-de-trabalhadores-ate-2080-idade-da-reforma-deve-chegar-nesse-ano-aos-697-anos/",
-    "title": "Portugal vai perder 1,4 milhões de trabalhadores até 2080",
-    "summary": "Comissão Europeia antecipa que prolongamento dos mais velhos no mercado de trabalho será \"insuficiente\" para colmatar perda da população ativa",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/02/10375605.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T15:25:19.318689+00:00"
+   "added": "2026-11-05T16:33:14.370842+00:00"
   },
   {
    "source": "Público",
@@ -116,6 +105,18 @@
    },
    "important": false,
    "added": "2026-11-05T10:56:14.925813+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/ele-sai-porque-e-suplente-de-goncalo-ramos-e-porque-sabe-que-so-iria-jogar-depois-de-portugal-estar-apurado/6aec91b00cf2051820fb0859",
+    "title": "\"Ele sai porque é suplente de Gonçalo Ramos e porque sabe que só iria jogar depois de Portugal estar apurado\"",
+    "summary": "O comentador Luís Vilar considera que Cristiano Ronaldo sai da Seleção \"pela porta pequena\".",
+    "image": "https://img.iol.pt/preset/6aec95f9d34e5a653d732f9e/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-05T16:33:14.370842+00:00",
    "fails": 1
   }
  ],
@@ -551,6 +552,34 @@
    "date": "2026-11-05",
    "title": "FlixBus лишилась судебного решения о немедленном доступе к терминалу Сете-Риуш",
    "orig": "flixbus perde decisão judicial que lhe dava acesso imediato ao terminal de sete rios",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Глава Ордена врачей назвал недопустимой смерть пациента в больнице Портиман",
+   "orig": "ordem dos médicos: inadmissível morte de idoso nas urgencias",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Португалия потеряет 1,4 млн работников к 2080 году",
+   "orig": "portugal vai perder 1,4 milhões de trabalhadores até 2080",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Сколари поддержал решение Роналду уйти из сборной",
+   "orig": "«ronaldo, fizeste bem, estás tranquilo, tomaste a decisão correta»",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Комментатор о разрыве Жезуша и Роналду",
+   "orig": "\"ficou por explicar o que é que levou ao corte das relações entre jorge jesus e cristiano ronaldo\"",
    "important": false,
    "source": "CNN Portugal"
   }
