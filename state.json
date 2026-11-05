@@ -1,59 +1,37 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2516/",
-    "title": "10h. Habitação. Fernando Negrão duvida de acordo com Chega",
-    "summary": "Fernando Negrão afirma que o Chega aceitou as reuniões com o primeiro-ministro por motivos táticos. Ainda, um voo que ia de Dublin para Roma foi desviado para França, após uma ameaça de bomba.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://cnnportugal.iol.pt/videos/estavamos-todos-a-espera-para-ver-se-cristiano-ronaldo-engolia-o-orgulho/6aec64040cf235b99ef4fc7a",
+    "title": "\"Estávamos todos à espera para ver se Cristiano Ronaldo engolia o orgulho\"",
+    "summary": "O comentador de desporto Luís Vilar assinala os 23 anos do jogador ao serviço da Seleção, mas vinca que a convivência com Jorge Jesus era impossível.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00"
+   "added": "2026-11-05T11:52:39.559678+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/05/o-fim-de-uma-era-cristiano-ronaldo-deixa-a-selecao-nacional/",
-    "title": "O fim de uma era: Cristiano Ronaldo deixa a Seleção",
-    "summary": "O avançado português começou o percurso na Seleção Nacional em 2003",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3514:1972:nowe:0:325/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12135937/jporfirio-jogo-portugal-nigeria-10-06-26-03-45.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/ronaldo-foi-o-capitao-que-comandou-uma-selecao-portuguesa-em-que-praticamente-ninguem-acreditava/6aec64f60cf235b99ef4fc7c",
+    "title": "Ronaldo foi \"o capitão que comandou uma Seleção portuguesa em que praticamente ninguém acreditava\"",
+    "summary": "Pedro Rosmaninho, editor-adjunto, afirma que, no momento da despedida de Cristiano Ronaldo da Seleção, os portugueses vão sobretudo lembrar os seus grandes momentos, os golos e os jogos incríveis que fez.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00"
+   "added": "2026-11-05T11:52:39.559678+00:00"
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/programas/comissao-de-inquerito/ines-castel-branco-vale-a-pena-ir-para-a-rua-e-lutar-pela-habitacao-de-todos/",
-    "title": "\"Vale a pena ir para a rua e lutar pela habitação de todos\"",
-    "summary": "Inês Castel-Branco defende que as mulheres na representação pensam na reforma mais cedo devido à falta de oportunidades. A atriz enaltece manifestações e diz que assim problemas são resolvidos.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+    "url": "https://cnnportugal.iol.pt/combustiveis/precos-dos-combustiveis/precos-dos-combustiveis-vao-sofrer-uma-forte-queda-na-proxima-semana-saiba-o-que-esperar/20261105/6aec6ce9d34e9ce6f1b43238",
+    "title": "Preços dos combustíveis vão sofrer uma forte queda na próxima semana: saiba o que esperar",
+    "summary": "A informação chega no dia em que se ficou a saber que os preços do petróleo registaram uma forte descida",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/explicador/habitacao-acreditar-na-demagogia-do-chega-e-uma-ilusao/",
-    "title": "Habitação.\"Acreditar na demagogia do Chega é uma ilusão\"",
-    "summary": "O antigo ministro da Justiça do PSD, Fernando Negrão, diz que a maioria dos portugueses quer uma aproximação PSD-CHEGA em matéria de habitação. E rejeita por isso entendimentos com o Chega.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
-   },
-   "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/boa-moeda-ma-moeda/lisboa-com-o-maior-defice-de-casas-da-ocde/",
-    "title": "Lisboa com o maior défice de casas da OCDE",
-    "summary": "Lisboa lidera o desequilíbrio entre novos habitantes e novas casas no espaço da OCDE. A organização. Entre 2011 e 2025 a região teve 4,76 novos habitantes por cada nova casa.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg"
-   },
-   "important": false,
-   "added": "2026-11-05T10:56:14.925813+00:00"
+   "added": "2026-11-05T11:52:39.559678+00:00"
   },
   {
    "source": "Público",
@@ -62,18 +40,6 @@
     "title": "Despertador: Saíram mais pessoas nos últimos cinco anos do que o estimado, Duarte Lima em tribunal",
     "summary": "",
     "image": null
-   },
-   "important": false,
-   "added": "2026-11-05T08:34:01.758111+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
-    "title": "Sete filmes a não perder no LEFFEST 2026",
-    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
    },
    "important": false,
    "added": "2026-11-05T08:34:01.758111+00:00",
@@ -92,6 +58,30 @@
    "fails": 1
   },
   {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/a-bola-negra/los-javis/los-javis-queriam-fazer-o-maior-e-o-mais-gay-filme-de-guerra-de-sempre-fizeram-a-bola-negra/20261105/6ae8571ed34e9ce6f1b429cc",
+    "title": "Los Javis queriam fazer \"o maior e o mais gay filme de guerra de sempre\". Fizeram \"A Bola Negra\"",
+    "summary": "Da guerra civil de Espanha à atualidade, \"A Bola Negra\", dos realizadores Javier Calvo e Javier Ambrossi, é um grito contra a homofobia e é já apontado como um dos candidatos aos Óscares. Estreia hoje em Portugal",
+    "image": "https://img.iol.pt/preset/6ae85451d34e5a653d7326ee/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-05T10:56:14.925813+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/05/falsificadores-de-quadros-colaboracionistas-uma-familia-iraniana-e-patricia-highsmith-sete-filmes-a-nao-perder-no-leffest/",
+    "title": "Sete filmes a não perder no LEFFEST 2026",
+    "summary": "Helen Mirren é Patricia Highsmith em \"A Talent for Murder\", de Anton Corbijn, que passa no LEFFEST 2026",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1400:785:nowe:0:80/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04162555/talent.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T08:34:01.758111+00:00",
+   "fails": 1
+  },
+  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/programas/tres-toques/ate-o-guinness-tremeu-com-tanta-expulsao-num-jogo-no-brasil/",
@@ -104,12 +94,24 @@
    "fails": 1
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/a-bola-negra/los-javis/los-javis-queriam-fazer-o-maior-e-o-mais-gay-filme-de-guerra-de-sempre-fizeram-a-bola-negra/20261105/6ae8571ed34e9ce6f1b429cc",
-    "title": "Los Javis queriam fazer \"o maior e o mais gay filme de guerra de sempre\". Fizeram \"A Bola Negra\"",
-    "summary": "Da guerra civil de Espanha à atualidade, \"A Bola Negra\", dos realizadores Javier Calvo e Javier Ambrossi, é um grito contra a homofobia e é já apontado como um dos candidatos aos Óscares. Estreia hoje em Portugal",
-    "image": "https://img.iol.pt/preset/6ae85451d34e5a653d7326ee/og/cnn"
+    "url": "https://observador.pt/programas/comissao-de-inquerito/ines-castel-branco-vale-a-pena-ir-para-a-rua-e-lutar-pela-habitacao-de-todos/",
+    "title": "\"Vale a pena ir para a rua e lutar pela habitação de todos\"",
+    "summary": "Inês Castel-Branco defende que as mulheres na representação pensam na reforma mais cedo devido à falta de oportunidades. A atriz enaltece manifestações e diz que assim problemas são resolvidos.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg"
+   },
+   "important": false,
+   "added": "2026-11-05T10:56:14.925813+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/explicador/habitacao-acreditar-na-demagogia-do-chega-e-uma-ilusao/",
+    "title": "Habitação.\"Acreditar na demagogia do Chega é uma ilusão\"",
+    "summary": "O antigo ministro da Justiça do PSD, Fernando Negrão, diz que a maioria dos portugueses quer uma aproximação PSD-CHEGA em matéria de habitação. E rejeita por isso entendimentos com o Chega.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
    },
    "important": false,
    "added": "2026-11-05T10:56:14.925813+00:00",
@@ -431,6 +433,27 @@
    "orig": "movimento nacional brava quer uma transição energética que “ouça as populações”",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "В Португалии начнут расследование смерти пациента в больнице Портимана",
+   "orig": "10h. habitação. fernando negrão duvida de acordo com chega",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Криштиану Роналду уходит из сборной Португалии",
+   "orig": "o fim de uma era: cristiano ronaldo deixa a seleção",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-05",
+   "title": "Молодые португальцы не могут купить жильё из-за низких доходов",
+   "orig": "\"os jovens não conseguem ter rendimentos suficientes para comprar um imóvel\"",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-04"
