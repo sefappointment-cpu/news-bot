@@ -1,8 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/10/31/opiniao/opiniao/servem-rankings-escolas-2193317",
-  "https://www.publico.pt/2026/10/31/sociedade/noticia/provedoria-justica-manifestacao-acampada-lisboa-monitorizar-psp-2193314",
-  "https://www.publico.pt/2026/10/31/desporto/noticia/judoca-patricia-sampaio-vicecampea-78kg-grand-slam-abu-dhabi-2193325",
   "https://www.publico.pt/2026/10/31/desporto/noticia/man-united-perde-chelsea-fechar-ronda-zona-despromocao-2193321",
   "https://www.publico.pt/2026/10/31/publico-brasil/noticia/reeleicao-lula-polarizacao-podem-impulsionar-busca-imoveis-portugal-2193234",
   "https://www.publico.pt/2026/10/31/fotogaleria/tanta-gente-sem-casa-tanta-casa-sem-gente-milhares-saem-rua-direito-habitacao-416157",
@@ -499,14 +496,12 @@
   "https://www.publico.pt/2026/11/06/opiniao/cronica/entrar-resolver-sair-2193857",
   "https://www.publico.pt/2026/11/06/opiniao/opiniao/plagio-orangotango-habitacao-2193937",
   "https://www.publico.pt/2026/11/06/sociedade/noticia/localizadas-portugal-duas-filhas-mulher-detida-espanha-trafico-menores-2193974",
-  "https://www.publico.pt/2026/11/06/culturaipsilon/critica/carnaval-luz-u2-quiseram-banda-nao-acontecimento-2193536"
+  "https://www.publico.pt/2026/11/06/culturaipsilon/critica/carnaval-luz-u2-quiseram-banda-nao-acontecimento-2193536",
+  "https://www.publico.pt/2026/11/06/economia/noticia/reducao-preco-medicamentos-oncologicos-nao-afastou-privados-adse-2193949",
+  "https://www.publico.pt/2026/11/06/desporto/noticia/ronaldo-melhor-passaporte-qualquer-portugues-2193967",
+  "https://www.publico.pt/2026/11/06/opiniao/opiniao/cartas-director-2193922"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/03/mude-o-que-mudar-venha-quem-vier-silas-ja-decidiu-que-esta-la-para-ser-o-farol-a-cronica-do-shakhtar-sporting",
-  "https://observador.pt/especiais/o-que-disse-montenegro-4-opinioes-rapidas",
-  "https://observador.pt/2026/11/03/espanha-maquinista-ferido-apos-vagoes-desgovernados-colidirem-com-comboio-de-mercadorias-da-renfe",
-  "https://observador.pt/2026/11/03/assembleia-municipal-de-lisboa-rejeita-proposta-do-ps-para-que-moedas-comprove-impacto-do-volta",
-  "https://observador.pt/2026/11/03/pedro-duarte-aguarda-momento-mais-indicado-para-reuniao-com-acampada-do-porto",
   "https://observador.pt/2026/11/03/oe2027-anafre-suspende-protesto-que-previa-encerramento-de-freguesias-na-quarta-feira",
   "https://observador.pt/2026/11/03/umar-condena-violencia-policial-nas-manifestacoes-pela-habitacao-e-pede-arquivamento-dos-processos-por-desobediencia",
   "https://observador.pt/2026/11/03/pcp-acusa-direita-de-opor-se-a-escrutinio-do-governo-sobre-a-atuacao-policial",
@@ -1001,12 +996,14 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-3h-2488",
   "https://observador.pt/programas/noticiario/as-noticias-das-2h-2460",
   "https://observador.pt/programas/noticiario/as-noticias-das-4h-2451",
-  "https://observador.pt/programas/a-hist-ria-do-dia/os-bastidores-da-saida-de-cristiano-ronaldo"
+  "https://observador.pt/programas/a-hist-ria-do-dia/os-bastidores-da-saida-de-cristiano-ronaldo",
+  "https://observador.pt/programas/noticiario/as-noticias-das-6h-2544",
+  "https://observador.pt/programas/a-historia-das-historias/o-couto-do-rio-de-asnos-do-mosteiro-de-lorvao",
+  "https://observador.pt/programas/boa-moeda-ma-moeda/eleicoes-e-mercados-menos-relacao-do-que-se-supoe",
+  "https://observador.pt/programas/a-nossa-cultura/fantasmas-de-vidro-com-166m-invadem-galeria-em-viseu",
+  "https://observador.pt/programas/tratar-da-saude/tosse-persistente-e-se-a-causa-nao-estiver-nos-pulmoes"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/seguro/presidenciais/acampada-de-lisboa-aceita-convite-para-reuniao-com-seguro/20261102/6ae911b2d34e9ce6f1b42b89",
-  "https://cnnportugal.iol.pt/espanha/acidente/ja-foram-identificadas-todas-as-vitimas-mortais-da-tragedia-em-toledo-entre-elas-esta-um-portugues/20261102/6ae9090ed34e9ce6f1b42b76",
-  "https://cnnportugal.iol.pt/videos/se-conseguimos-ter-o-telemovel-do-ministro-da-defesa-debaixo-de-fogo-como-e-que-estarao-os-equipamentos-centrais/6ae909280cf2df4c3882cb1c",
   "https://cnnportugal.iol.pt/videos/e-interessante-verificar-que-os-principais-financiadores-republicanos-reservaram-as-principais-baterias-para-a-red-wall/6ae904310cf235b99ef4f82b",
   "https://cnnportugal.iol.pt/videos/o-que-esta-em-causa-nas-eleicoes-intercalares-dos-eua/6ae922a30cf2051820fb03b3",
   "https://cnnportugal.iol.pt/estados-unidos/eua/supremo-rejeita-tentativa-de-trump-de-invalidar-20-mil-votos-por-correspondencia-na-california/20261102/6ae9203cd34e9ce6f1b42ba3",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/geral/u2-com-mais-uma-data-em-lisboa-apos-enorme-procura-de-bilhetes/20261106/6aed2a7ed34e5a653d733259",
   "https://cnnportugal.iol.pt/acampada-de-lisboa/acampada-rossio/acampada-de-lisboa-reafirma-que-nao-sai-do-rossio-acampada-no-porto-recusa-sair-da-praca-d-joao-i/20261106/6aed28abd34e9ce6f1b4356d",
   "https://cnnportugal.iol.pt/geral/habitacao-ventura-diz-que-ps-nao-se-pode-desresponsabilizar-de-solucoes-e-apela-a-intervencao-de-seguro/20261105/6aed29add34e5a653d733257",
-  "https://cnnportugal.iol.pt/matosinhos/predio-em-risco/determinada-desocupacao-imediata-de-predio-em-risco-de-ruir-em-matosinhos/20261105/6aed2ceed34e9ce6f1b4356e"
+  "https://cnnportugal.iol.pt/matosinhos/predio-em-risco/determinada-desocupacao-imediata-de-predio-em-risco-de-ruir-em-matosinhos/20261105/6aed2ceed34e9ce6f1b4356e",
+  "https://cnnportugal.iol.pt/flavio-bolsonaro/bolsonaro/flavio-bolsonaro-reaparece-em-publico-nos-eua-apos-derrota-eleitoral-e-participa-em-conferencia-conservadora-de-trump/20261106/6aed724dd34e5a653d73325f",
+  "https://cnnportugal.iol.pt/au-kam-san/ativista-pro-democracia/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/20261106/6aed6ef8d34e5a653d73325e",
+  "https://cnnportugal.iol.pt/marco-rubio/eua/rubio-aponta-2027-como-data-ideal-para-eleicoes-na-venezuela-mas-exige-reformas-antes-do-escrutinio/20261106/6aed6dedd34e9ce6f1b43579"
  ]
 }
