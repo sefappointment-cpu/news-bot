@@ -14,17 +14,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-sexta-feira/euromilhoes-conheca-a-chave-desta-sexta-feira/20261106/6aee189bd34e5a653d7333ce",
-    "title": "Euromilhões: conheça a chave desta sexta-feira",
-    "summary": "Em jogo está um prémio de 130 milhões de euros",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/migracao/antonio-leitao-amaro/a-mudanca-de-politica-migratoria-implementada-pelo-governo-esta-no-caminho-certo/20261106/6aee3ed4d34e9ce6f1b4374a",
     "title": "\"A mudança de política migratória implementada pelo Governo está no caminho certo\"",
     "summary": "Dados da CE sobre migrações mostram que mudança de política “produziu resultados”, diz gabinete do ministro da Presidência, António Leitão Amaro",
@@ -34,81 +23,92 @@
    "added": "2026-11-06T21:11:51.859122+00:00"
   },
   {
-   "source": "Público",
+   "source": "Observador",
    "item": {
-    "url": "https://www.publico.pt/2026/11/06/economia/noticia/miranda-sarmento-sinais-abertura-propostas-oposicao-oe-2194117",
-    "title": "Miranda Sarmento sem sinais de abertura a propostas da oposição para o OE",
-    "summary": "Ministro das Finanças criticou todas as propostas de medidas da oposição discutidas durante a audição parlamentar de discussão do Orçamento do Estado para 2027.",
-    "image": null
+    "url": "https://observador.pt/2026/11/06/tc-rejeita-recurso-de-militante-do-ps-que-queria-impugnar-eleicao-dos-orgaos-do-partido/",
+    "title": "TC rejeita impugnação das eleições do Congresso do PS",
+    "summary": "O antigo deputado Ricardo Gonçalves organizou listas alternativas às da direção no último Congresso do PS, mas a Mesa rejeitou alegando não terem candidatos suficientes.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/28194009/46842545.jpg"
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/06/montagem-da-pista-de-gelo-na-praca-d-joao-i-arranca-a-13-de-novembro-e-porto-pede-reuniao-aos-manifestantes/",
-    "title": "Praça D. João I vai ter pista de gelo a partir de dia 13",
-    "summary": "\"A preparação dos diferentes espaços e estruturas que integram a programação natalícia decorrerá de forma progressiva, com o arranque dos trabalhos de montagem a 13 de novembro\", afirmou o presidente da câmara",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01211456/obs01112026davidoliveira00080.jpg"
+    "url": "https://observador.pt/2026/11/06/arquivada-queixa-do-benfica-contra-fc-porto-na-sequencia-do-classico-da-i-liga/",
+    "title": "Arquivada queixa do Benfica contra FC Porto",
+    "summary": "De acordo com o Benfica, o espanhol Gabri Veiga atirou uma garrafa contra o banco dos \"encarnados\" no clássico da sétima jornada da I Liga",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/21173837/47808852.jpg"
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/06/uber-avanca-com-despedimento-coletivo-em-portugal/",
-    "title": "Uber avança com despedimento coletivo em Portugal",
-    "summary": "A empresa tem cerca de 600 trabalhadores em Portugal. O número de afetados ainda não foi divulgado, mas o corte global previsto é de 10% do total de funcionários.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/12071118/45441261.jpg"
+    "url": "https://observador.pt/2026/11/06/da-esquerda-a-direita-miranda-sarmento-distribuiu-naos-aos-partidos-da-oposicao/",
+    "title": "Da esquerda à direita, Miranda Sarmento distribuiu \"nãos\"",
+    "summary": "O ministro das Finanças é o último a ser ouvido nos debates ministeriais da especialidade.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06194220/48082187.jpg"
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/especiais/autoridades-em-alerta-elevado-com-ameacas-de-bomba-e-ciberataques-fbi-avisou-psp-de-risco-em-voos-da-tap/",
-    "title": "FBI avisou PSP de ameaça de bomba em voos da TAP",
-    "summary": "Troca de informações entre serviços e autoridades no universo NATO têm sido intensas. Não há consenso sobre origem de ataques, mas Moscovo e Teerão são suspeitos de tentar provocar o caos.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/25172921/41400798.jpg"
+    "url": "https://observador.pt/2026/11/06/ps-reune-400-pessoas-em-lisboa-para-construir-programa-de-governo-carneiro-quer-mostrar-servico-ao-pais-e-ao-partido/",
+    "title": "PS junta mais de 400 pessoas para construir programa",
+    "summary": "Movimento de Carneiro parte de casos concretos para desenhar políticas e atrair quadros para o PS. Líder quer lançar as bases de um futuro programa de Governo e terá Pedro Abrunhosa no debate.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/29143150/dventura-congresso-ps-dia3-23-scaled.jpg"
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/bolieiro-acusa-estado-de-negligencia-por-adiar-solucao-para-cadeia-de-ponta-delgada-e-apoia-videoconferencia-nos-tribunais/",
-    "title": "Bolieiro critica Estado por cadeia de Ponta Delgada",
-    "summary": "Na intervenção, Jose Manuel Bolieiro preconizou uma Justiça mais próxima dos cidadãos, salientando que viver em nove ilhas exige respostas adequadas e adaptadas",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/03121007/46821625.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/a-guerra-hibrida-procura-tambem-procurar-efeitos-na-vertente-cognitiva-e-da-informacao/6aee2b0d0cf2051820fb0b81",
-    "title": "\"A guerra híbrida procura também procurar efeitos na vertente cognitiva e da informação\"",
-    "summary": "O brigadeiro-general Mário Álvares analisou as sucessivas ameaças de bomba contra a aviação europeia, que tem afetado o continente nos últimos dias.",
+    "url": "https://cnnportugal.iol.pt/habitacao/ps/ps-disponivel-para-construir-solucao-para-a-habitacao-mas-so-com-justica-social/20261106/6aee4473d34e9ce6f1b43758",
+    "title": "PS disponível para construir \"solução\" para a habitação, mas só com \"justiça social\"",
+    "summary": "\"O Governo tem de estar disponível para deixar cair esta proposta e construir uma nova em que possamos dar o nosso contributo\", sublinha o secretário-geral do PS",
     "image": null
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/aviacao-nao-ha-um-unico-caso-conhecido-em-que-tenha-havido-aviso-de-bomba-e-ela-tenha-explodido/6aee2a2f0cf235b99ef4fffa",
-    "title": "Aviação. \"Não há um único caso conhecido em que tenha havido aviso de bomba e ela tenha explodido\"",
-    "summary": "O comandante José Correia Guedes explicou, a propósito das sucessivas ameaças de bomba que têm sido feitas contra aviões na Europa, como se lida com uma situação semelhante.",
+    "url": "https://cnnportugal.iol.pt/acampada/rossio/carlos-moedas-determina-por-despacho-saida-de-acampada-do-rossio/20261106/6aee5374d34e9ce6f1b4377f",
+    "title": "Carlos Moedas determina por despacho saída de acampada do Rossio",
+    "summary": "Autarca de Lisboa ordena a deslocação das tendas para que possa ser instalado o mercado de Natal",
     "image": null
    },
    "important": false,
-   "added": "2026-11-06T22:10:27.373167+00:00"
+   "added": "2026-11-06T23:11:10.263024+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/pode-nao-haver-so-um-ator-por-detras-destes-ataques-a-aviacao-europeia/6aee4e4f0cf2df4c3882d331",
+    "title": "\"Pode não haver só um ator por detrás destes ataques\" à aviação europeia",
+    "summary": "O presidente do OSCOT, Francisco Rodrigues, esteve no Jornal da CNN para analisar a recente vaga de ameaças de bomba contra a aviação europeia.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T23:11:10.263024+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/estamos-a-viver-tempos-cruzados-com-batalhas-campais-mediaticas-e-digitais/6aee43f80cf2051820fb0bb6",
+    "title": "\"Estamos a viver tempos cruzados, com batalhas campais, mediáticas e digitais\"",
+    "summary": "Acasos Objetivos, com Carlos Magno.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T23:11:10.263024+00:00"
   }
  ],
  "posted": [
