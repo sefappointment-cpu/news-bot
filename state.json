@@ -1,18 +1,6 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/antibioticos-para-tratar-gripes-e-constipacoes-ha-um-erro-que-continua-a-ser-comum/6aeda2790cf2051820fb0a3d",
-    "title": "Antibióticos para tratar gripes e constipações? Há um erro que continua a ser comum",
-    "summary": "O médico António Hipólito Aguiar explica que os antibióticos não combatem vírus e alerta para os riscos de os tomar sem indicação médica.",
-    "image": "https://img.iol.pt/preset/5bac01110cf22e5fe0754d90/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-06T10:30:22.394138+00:00",
-   "fails": 1
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
@@ -118,6 +106,18 @@
    },
    "important": false,
    "added": "2026-11-06T14:05:54.716225+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/barragens-edp-apresentou-garantia-bancaria-para-suspender-execucao-fiscal-dos-impostos-liquidados/",
+    "title": "Barragens. EDP deu garantia para suspender execução fiscal",
+    "summary": "Elétrica confirma que recebeu liquidações de IRC e Imposto de Selo por conta da venda de seis barragens, sem revelar valores. E diz que apresentou garantia bancária para suspender execução fiscal.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/07/09203705/23084169.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T19:25:53.425444+00:00",
    "fails": 1
   }
  ],
@@ -660,6 +660,34 @@
    "orig": "psd/madeira apresenta proposta de revisão constitucional",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Роберта Гольдфарб в Лиссабоне говорит о перемещении",
+   "orig": "roberta goldfarb fala de deslocamento em sou deste lugar, como as árvores e as casas",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Антониу Барretto против идеи отбирать жилье у богатых",
+   "orig": "“a ideia de tirar as casas aos ricos não resolve nada”, diz antónio barreto",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Португалия утвердила стратегию безопасности дорожного движения до 2030 года",
+   "orig": "governo quer combater condução com álcool e droga",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Ассоциация критикует чрезмерную застройку площадей Лиссабона рынками",
+   "orig": "associação critica ocupação “desmedida” de espaços públicos com mercados em lisboa",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-05"
