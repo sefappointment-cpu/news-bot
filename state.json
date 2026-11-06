@@ -3,24 +3,13 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/pop-up/especial-um-filme-e-o-melhor-amigo-de-uma-viagem-de-aviao/",
-    "title": "Especial: um filme é o melhor amigo de uma viagem de avião?",
-    "summary": "Neste episódio extra do Pop Up, gravado ao vivo no Altitude Film Fest da TAP, falamos sobre cinema português, filmes para ver nos aviões e o nosso gosto por festivais.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/01/21154859/770-podcast-pop-up.jpg"
+    "url": "https://observador.pt/2026/11/06/portugal-apoia-quatro-associacoes-portuguesas-na-venezuela-com-249-701-euros-apos-sismos-de-junho/",
+    "title": "Portugal apoia quatro associações venezuelanas",
+    "summary": "A delegação portuguesa integrava o ministro da Economia, o secretário de Estado das Comunidades e mais de 30 empresários",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05145556/47403132.jpg"
    },
    "important": false,
-   "added": "2026-11-06T15:13:34.604880+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/nao-me-sinto-culpado-de-nada-jorge-jesus-ia-convocar-ronaldo-mas-admite-que-apressou-a-saida-de-cr7-da-selecao/",
-    "title": "Jesus ia convocar CR7 mas admite ter \"apressado\" a sua saída",
-    "summary": "Selecionador ia convocar CR7 para os próximos jogos de Portugal e não falou com Ronaldo, tendo sido surpreendido pelo anúncio. Jesus diz que iria ficar sempre ligado ao adeus de Ronaldo à Seleção.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06123604/48080689.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T15:13:34.604880+00:00"
+   "added": "2026-11-06T16:18:47.613388+00:00"
   },
   {
    "source": "Público",
@@ -35,15 +24,15 @@
    "fails": 1
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
-    "title": "Ativista pró-democracia condenado a 12 anos de prisão",
-    "summary": "\"Portugal e a União Europeia deveriam exigir que lhe seja permitido sair de Macau, em vez de passar mais de uma década na prisão por crimes que, na realidade, não existem\", defendeu Michael Polak, diretor da Justice Abroad",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06054426/11908390.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/antibioticos-para-tratar-gripes-e-constipacoes-ha-um-erro-que-continua-a-ser-comum/6aeda2790cf2051820fb0a3d",
+    "title": "Antibióticos para tratar gripes e constipações? Há um erro que continua a ser comum",
+    "summary": "O médico António Hipólito Aguiar explica que os antibióticos não combatem vírus e alerta para os riscos de os tomar sem indicação médica.",
+    "image": "https://img.iol.pt/preset/5bac01110cf22e5fe0754d90/og/cnn"
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00",
+   "added": "2026-11-06T10:30:22.394138+00:00",
    "fails": 1
   },
   {
@@ -61,18 +50,6 @@
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/antibioticos-para-tratar-gripes-e-constipacoes-ha-um-erro-que-continua-a-ser-comum/6aeda2790cf2051820fb0a3d",
-    "title": "Antibióticos para tratar gripes e constipações? Há um erro que continua a ser comum",
-    "summary": "O médico António Hipólito Aguiar explica que os antibióticos não combatem vírus e alerta para os riscos de os tomar sem indicação médica.",
-    "image": "https://img.iol.pt/preset/5bac01110cf22e5fe0754d90/og/cnn"
-   },
-   "important": false,
-   "added": "2026-11-06T10:30:22.394138+00:00",
-   "fails": 1
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
     "url": "https://cnnportugal.iol.pt/cristiano-ronaldo/pedro-proenca/foi-ao-longo-das-ultimas-decadas-a-maior-bandeira-de-portugal-em-todo-o-mundo-pedro-proenca-fala-sobre-cristiano-ronaldo-antes-da-convocatoria-de-jorge-jesus/20261106/6aedc21fd34e5a653d7332d6",
     "title": "\"Foi ao longo das últimas décadas a maior bandeira de Portugal em todo o mundo\": Pedro Proença fala sobre Cristiano Ronaldo antes da convocatória de Jorge Jesus",
     "summary": "Anúncio dos jogadores que vão participar na Liga das Nações ficou para segundo plano",
@@ -80,6 +57,18 @@
    },
    "important": false,
    "added": "2026-11-06T12:53:02.947548+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
+    "title": "Ativista pró-democracia condenado a 12 anos de prisão",
+    "summary": "\"Portugal e a União Europeia deveriam exigir que lhe seja permitido sair de Macau, em vez de passar mais de uma década na prisão por crimes que, na realidade, não existem\", defendeu Michael Polak, diretor da Justice Abroad",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06054426/11908390.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T09:25:53.106456+00:00",
    "fails": 1
   },
   {
@@ -116,6 +105,18 @@
    },
    "important": false,
    "added": "2026-11-06T14:05:54.716225+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/06/publico-brasil/opiniao/critica-perto-sol-claro-filme-iluminado-protagonista-2193892",
+    "title": "Crítica: Perto do Sol é Mais Claro é um filme iluminado pelo seu protagonista",
+    "summary": "O filme de Régis Faria, apresentado em Lisboa no FESTin, tem um ator em estado de graça e uma origem rara no cinema brasileiro, mas hesita no ritmo e na indecisão entre ficção e homenagem. Opinião de Hebert Neri",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T16:18:47.613388+00:00",
    "fails": 1
   }
  ],
@@ -581,6 +582,34 @@
    "orig": "preço da gasolina vai cair para menos de 2 euros por litro",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Кино на борту: о фестивале Altitude Film Fest от TAP",
+   "orig": "especial: um filme é o melhor amigo de uma viagem de avião?",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Жезуш признал, что мог поторопить уход Роналду",
+   "orig": "jesus ia convocar cr7 mas admite ter \"apressado\" a sua saída",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Конституционный суд Португалии отклонил жалобу Монтенегро по делу Spinumviva",
+   "orig": "15h. caso spinumviva. tribunal rejeita recurso de montenegro",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Конституционный суд отклонил две жалобы Монтенегру по делу Spinumviva",
+   "orig": "spinumviva: constitucional rejeita dois recursos de montenegro",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-05"
