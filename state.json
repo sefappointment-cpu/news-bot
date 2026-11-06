@@ -49,6 +49,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/portugal-apoia-quatro-associacoes-portuguesas-na-venezuela-com-249-701-euros-apos-sismos-de-junho/",
+    "title": "Portugal apoia quatro associações venezuelanas",
+    "summary": "A delegação portuguesa integrava o ministro da Economia, o secretário de Estado das Comunidades e mais de 30 empresários",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05145556/47403132.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T16:18:47.613388+00:00",
+   "fails": 1
+  },
+  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/06/publico-brasil/opiniao/critica-perto-sol-claro-filme-iluminado-protagonista-2193892",
@@ -73,6 +85,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/nao-estejas-assim-o-conforto-que-nos-faz-sentir-sozinhos/",
+    "title": "“Não estejas assim”: o conforto que nos faz sentir sozinhos",
+    "summary": "\"Já passa”, “não penses nisso”, “controla-te”. Quem nos diz isto, quase sempre, quer ajudar. E, no entanto, saímos da conversa a sentir-nos incompreendidos ou culpados por estarmos tristes",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T17:20:31.097673+00:00",
+   "fails": 1
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/rtp/inspecao-geral-de-financas/igf-conclui-que-rtp-pagou-12-5me-de-subsidios-sem-suporte-legal/20261106/6aedda41d34e5a653d733316",
@@ -94,30 +118,6 @@
    },
    "important": false,
    "added": "2026-11-06T14:05:54.716225+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/portugal-apoia-quatro-associacoes-portuguesas-na-venezuela-com-249-701-euros-apos-sismos-de-junho/",
-    "title": "Portugal apoia quatro associações venezuelanas",
-    "summary": "A delegação portuguesa integrava o ministro da Economia, o secretário de Estado das Comunidades e mais de 30 empresários",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05145556/47403132.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T16:18:47.613388+00:00",
-   "fails": 1
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/nao-estejas-assim-o-conforto-que-nos-faz-sentir-sozinhos/",
-    "title": "“Não estejas assim”: o conforto que nos faz sentir sozinhos",
-    "summary": "\"Já passa”, “não penses nisso”, “controla-te”. Quem nos diz isto, quase sempre, quer ajudar. E, no entanto, saímos da conversa a sentir-nos incompreendidos ou culpados por estarmos tristes",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T17:20:31.097673+00:00",
    "fails": 1
   }
  ],
@@ -632,6 +632,34 @@
    "orig": "portugal conquista prata por equipas no duplo mini-trampolim no mundial",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Casa da Arquitetura из Матозиньюша и музей Оскара Нимейера договорились о сотрудничестве",
+   "orig": "casa da arquitetura e museu óscar niemeyer definem parceria",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Компартия Португалии хочет снизить стоимость проездных до 20 евро",
+   "orig": "pcp quer passes de transportes públicos a 20 euros",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "В Лиссабоне обсудят будущее архитектуры и инженерии",
+   "orig": "arquitetura e engenharia projetam o futuro de portugal",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Мадейрские социал-демократы предложили изменить конституцию Португалии",
+   "orig": "psd/madeira apresenta proposta de revisão constitucional",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-05"
