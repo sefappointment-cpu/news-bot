@@ -24,17 +24,6 @@
    "added": "2026-11-05T21:41:00.131645+00:00"
   },
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2437/",
-    "title": "1h. Flávio Bolsonaro afasta ajuda externa para fugir do país",
-    "summary": "Flávio Bolsonaro admite que poderá ter contado com a simpatia de amigos no estrangeiro, mas assegura que não recebeu ajuda para concretizar a fuga. Ainda, Benfica vence Lech Poznań por 3-1.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-06T02:02:30.755062+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/matosinhos/predio-em-risco/determinada-desocupacao-imediata-de-predio-em-risco-de-ruir-em-matosinhos/20261105/6aed2ceed34e9ce6f1b4356e",
@@ -110,6 +99,17 @@
    },
    "important": false,
    "added": "2026-11-06T04:27:42.681532+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/a-hist-ria-do-dia/os-bastidores-da-saida-de-cristiano-ronaldo/",
+    "title": "Os bastidores da saída de Cristiano Ronaldo",
+    "summary": "Cristiano Ronaldo anunciou o fim da carreira na Seleção Nacional. Neste episódio, os bastidores da decisão, as tentativas para o demover e o papel de Jorge Jesus neste braço de ferro.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T05:29:07.423582+00:00"
   }
  ],
  "posted": [
