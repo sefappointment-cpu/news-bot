@@ -26,17 +26,6 @@
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/06/opiniao/opiniao/direita-esquerda-gosta-2193957",
-    "title": "A direita de que a esquerda gosta",
-    "summary": "Alguém acha que, se de facto houver nova lei, será uma lei minimamente parecida com a que o Governo queria aprovar? Esta direita é que me parece a direita de que a esquerda gosta. Opinião de Francisco Mendes da Silva",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T02:02:30.755062+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
     "url": "https://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951",
     "title": "Assobiem para o lado. Não aconteceu nada",
     "summary": "A ignomínia destas semanas foi longa e perversa. Não é a perorar sobre a lei dos solos, o IVA da construção ou o IMT jovem que se restabelece a confiança no Estado de direito. Opinião de Susana Peralta",
@@ -110,6 +99,17 @@
    },
    "important": false,
    "added": "2026-11-06T02:02:30.755062+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2460/",
+    "title": "2h. Liga Europa. Benfica vence Lech Poznań por 3-1",
+    "summary": "Encarnados seguem gloriosos e mantém-se no grupo de líderes da competição, no topo da tabela classificativa. Ainda nesta edição, Mário Centeno é o preferido dos portugueses para primeiro-ministro.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-06T03:18:35.350298+00:00"
   }
  ],
  "posted": [
