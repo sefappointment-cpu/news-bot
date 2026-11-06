@@ -1,11 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/10/31/politica/noticia/conselho-redaccao-lusa-pede-parecer-urgente-nomeacao-nova-directora-erc-2193313",
-  "https://www.publico.pt/2026/10/31/mundo/noticia/eua-aprovam-venda-misseis-patriot-ucrania-zelensky-pede-rapidez-entrega-2193312",
-  "https://www.publico.pt/2026/10/31/sociedade/noticia/14-anos-dispensa-metadona-regressa-farmacias-ja-so-tres-regioes-2193310",
-  "https://www.publico.pt/2026/10/31/sociedade/noticia/governo-camara-lisboa-invocam-mercado-natal-impedir-acampada-rossio-2193319",
-  "https://www.publico.pt/2026/10/31/politica/noticia/carneiro-forca-solucao-rio-defende-psp-cuidadosa-2193316",
-  "https://www.publico.pt/2026/10/31/mundo/noticia/moradores-retirados-oleshki-controlo-russo-chegam-territorio-ucraniano-2193318",
   "https://www.publico.pt/2026/10/31/opiniao/opiniao/servem-rankings-escolas-2193317",
   "https://www.publico.pt/2026/10/31/sociedade/noticia/provedoria-justica-manifestacao-acampada-lisboa-monitorizar-psp-2193314",
   "https://www.publico.pt/2026/10/31/desporto/noticia/judoca-patricia-sampaio-vicecampea-78kg-grand-slam-abu-dhabi-2193325",
@@ -499,10 +493,15 @@
   "https://www.publico.pt/2026/11/05/impar/noticia/parceiro-controlador-descubra-sinais-alerta-2193884",
   "https://www.publico.pt/2026/11/05/politica/noticia/maioria-portugueses-negativa-governo-metade-quer-novo-executivo-2193973",
   "https://www.publico.pt/2026/11/05/newsletter/diarios-republica",
-  "https://www.publico.pt/2026/11/05/politica/noticia/antonio-costa-caiu-causa-justica-tres-anos-nao-sabemos-2193972"
+  "https://www.publico.pt/2026/11/05/politica/noticia/antonio-costa-caiu-causa-justica-tres-anos-nao-sabemos-2193972",
+  "https://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951",
+  "https://www.publico.pt/2026/11/06/opiniao/opiniao/direita-esquerda-gosta-2193957",
+  "https://www.publico.pt/2026/11/06/opiniao/cronica/entrar-resolver-sair-2193857",
+  "https://www.publico.pt/2026/11/06/opiniao/opiniao/plagio-orangotango-habitacao-2193937",
+  "https://www.publico.pt/2026/11/06/sociedade/noticia/localizadas-portugal-duas-filhas-mulher-detida-espanha-trafico-menores-2193974",
+  "https://www.publico.pt/2026/11/06/culturaipsilon/critica/carnaval-luz-u2-quiseram-banda-nao-acontecimento-2193536"
  ],
  "Observador": [
-  "https://observador.pt/programas/gabinete-de-guerra/nao-havera-nenhum-acordo-de-paz",
   "https://observador.pt/2026/11/03/ministro-dos-transportes-espanhol-demite-se-apos-dois-acidentes-ferroviarios-em-menos-de-um-ano",
   "https://observador.pt/programas/relat-rio-de-jogo/fscd-x-scp-a-mediocridade-pisou-o-relvado",
   "https://observador.pt/programas/relat-rio-de-jogo/fscd-x-scp-maxi-esta-claramente-muitos-furos-abaixo",
@@ -1001,14 +1000,10 @@
   "https://observador.pt/2026/11/05/localizados-em-portugal-dois-filhos-de-mulher-detida-em-espanha-por-trafico-de-menores",
   "https://observador.pt/2026/11/05/detido-suspeito-de-usar-receitas-falsas-para-comprar-medicamentos-para-fabricar-drogas",
   "https://observador.pt/2026/11/05/rubio-rejeita-noticias-sobre-a-sua-demissao-e-garante-que-vai-manter-se-na-administracao-trump-ate-ao-fim-do-mandato",
-  "https://observador.pt/2026/11/05/trump-preve-acordo-muito-grande-com-moscovo-sobre-kiev-e-ate-toda-a-europa"
+  "https://observador.pt/2026/11/05/trump-preve-acordo-muito-grande-com-moscovo-sobre-kiev-e-ate-toda-a-europa",
+  "https://observador.pt/programas/noticiario/as-noticias-da-1h-2437"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/trump/donald-trump/trump-diz-que-eleicoes-intercalares-sao-as-mais-importantes-das-nossas-vidas/20261102/6ae903b1d34e5a653d732889",
-  "https://cnnportugal.iol.pt/lindsay-clancy/julgamento/ministerio-publico-quer-repetir-julgamento-de-lindsay-clancy-no-proximo-ano/20261102/6ae8e917d34e5a653d732845",
-  "https://cnnportugal.iol.pt/videos/comecamos-este-protesto-pelo-direito-a-habitacao-o-governo-tem-se-esforcado-para-tornar-isto-num-debate-sobre-questoes-juridicas/6ae8f8ff0cf2aafa0453d132",
-  "https://cnnportugal.iol.pt/videos/tendas-decisao-do-tribunal-tem-muitas-fragilidades-para-nao-dizer-algumas-inconsistencias/6ae8f8690cf2aafa0453d131",
-  "https://cnnportugal.iol.pt/videos/suarez-anda-ca-man-sporting-recebido-por-adepto-com-muita-moral/6ae901710cf2aafa0453d134",
   "https://cnnportugal.iol.pt/seguro/presidenciais/acampada-de-lisboa-aceita-convite-para-reuniao-com-seguro/20261102/6ae911b2d34e9ce6f1b42b89",
   "https://cnnportugal.iol.pt/espanha/acidente/ja-foram-identificadas-todas-as-vitimas-mortais-da-tragedia-em-toledo-entre-elas-esta-um-portugues/20261102/6ae9090ed34e9ce6f1b42b76",
   "https://cnnportugal.iol.pt/videos/se-conseguimos-ter-o-telemovel-do-ministro-da-defesa-debaixo-de-fogo-como-e-que-estarao-os-equipamentos-centrais/6ae909280cf2df4c3882cb1c",
@@ -1503,6 +1498,11 @@
   "https://cnnportugal.iol.pt/videos/a-camisola-7-estava-retirada-para-homenagear-o-figo-mas-veio-me-pedir-esse-numero/6aecfb810cf235b99ef4fe3d",
   "https://cnnportugal.iol.pt/videos/cristiano-ronaldo-deveria-ter-agradecido-ao-scolari-deve-lhe-muito/6aecf9420cf235b99ef4fe3a",
   "https://cnnportugal.iol.pt/videos/ronaldo-foi-o-maior-diamante-que-portugal-produziu-em-termos-de-futebol/6aecfcdc0cf2df4c3882d150",
-  "https://cnnportugal.iol.pt/videos/o-cristiano-sempre-teve-um-coracao-muito-grande/6aecfa6b0cf2df4c3882d14d"
+  "https://cnnportugal.iol.pt/videos/o-cristiano-sempre-teve-um-coracao-muito-grande/6aecfa6b0cf2df4c3882d14d",
+  "https://cnnportugal.iol.pt/depressao-bruna/bruna/bruna-esta-a-chegar-e-vai-ficar-varios-dias-previsao-de-chuva-ate-13-de-novembro/20261106/6aed257ed34e5a653d733250",
+  "https://cnnportugal.iol.pt/geral/u2-com-mais-uma-data-em-lisboa-apos-enorme-procura-de-bilhetes/20261106/6aed2a7ed34e5a653d733259",
+  "https://cnnportugal.iol.pt/acampada-de-lisboa/acampada-rossio/acampada-de-lisboa-reafirma-que-nao-sai-do-rossio-acampada-no-porto-recusa-sair-da-praca-d-joao-i/20261106/6aed28abd34e9ce6f1b4356d",
+  "https://cnnportugal.iol.pt/geral/habitacao-ventura-diz-que-ps-nao-se-pode-desresponsabilizar-de-solucoes-e-apela-a-intervencao-de-seguro/20261105/6aed29add34e5a653d733257",
+  "https://cnnportugal.iol.pt/matosinhos/predio-em-risco/determinada-desocupacao-imediata-de-predio-em-risco-de-ruir-em-matosinhos/20261105/6aed2ceed34e9ce6f1b4356e"
  ]
 }
