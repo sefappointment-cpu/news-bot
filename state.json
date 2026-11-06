@@ -1,18 +1,6 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
-    "title": "Ativista pró-democracia condenado a 12 anos de prisão",
-    "summary": "\"Portugal e a União Europeia deveriam exigir que lhe seja permitido sair de Macau, em vez de passar mais de uma década na prisão por crimes que, na realidade, não existem\", defendeu Michael Polak, diretor da Justice Abroad",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06054426/11908390.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00",
-   "fails": 1
-  },
-  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/06/culturaipsilon/noticia/trabalho-definenos-matarnos-filmes-ano-amor-possivel-2193963",
@@ -97,6 +85,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/barragens-edp-apresentou-garantia-bancaria-para-suspender-execucao-fiscal-dos-impostos-liquidados/",
+    "title": "Barragens. EDP deu garantia para suspender execução fiscal",
+    "summary": "Elétrica confirma que recebeu liquidações de IRC e Imposto de Selo por conta da venda de seis barragens, sem revelar valores. E diz que apresentou garantia bancária para suspender execução fiscal.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/07/09203705/23084169.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T19:25:53.425444+00:00",
+   "fails": 1
+  },
+  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/jose-antonio-tenente/paula-rego/casa-das-historias-expoe-moda-de-jose-antonio-tenente-inspirada-na-pintura-de-paula-rego/20261106/6aeddcc8d34e9ce6f1b4365a",
@@ -109,15 +109,15 @@
    "fails": 1
   },
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/2026/11/06/barragens-edp-apresentou-garantia-bancaria-para-suspender-execucao-fiscal-dos-impostos-liquidados/",
-    "title": "Barragens. EDP deu garantia para suspender execução fiscal",
-    "summary": "Elétrica confirma que recebeu liquidações de IRC e Imposto de Selo por conta da venda de seis barragens, sem revelar valores. E diz que apresentou garantia bancária para suspender execução fiscal.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/07/09203705/23084169.jpg"
+    "url": "https://www.publico.pt/2026/11/06/azul/opiniao/futuro-oceano-tambem-decide-universidades-2193515",
+    "title": "O futuro do oceano também se decide nas universidades",
+    "summary": "Precisamos de conhecimento científico rigoroso, de investigação independente e da capacidade de cruzar diferentes perspetivas. Mas também de formar pessoas capazes de interpretar esse conhecimento. Opinião de Miguel Copetto",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-06T19:25:53.425444+00:00",
+   "added": "2026-11-06T20:16:25.165508+00:00",
    "fails": 1
   }
  ],
@@ -688,6 +688,34 @@
    "orig": "associação critica ocupação “desmedida” de espaços públicos com mercados em lisboa",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Правительство Португалии буксует в поисках союзников",
+   "orig": "um governo no pântano à espera do fim?",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Театр Д. Мария II проведёт цикл о жилье и праве на город",
+   "orig": "teatro d. maria ii promove ciclo sobre habitação e direito à cidade a partir de dia 17",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "PAN внёс около 90 поправок к госбюджету Португалии на 2027 год",
+   "orig": "pan com 90 propostas de alteração quer iva zero",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "В Порту палаточный лагерь протестующих укрепили от дождя",
+   "orig": "acampada do porto monta lona e quatro grandes tendas para se proteger da chuva",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-05"
