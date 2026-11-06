@@ -1,48 +1,26 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/acampada-de-lisboa/detidos/maioria-dos-detidos-na-acampada-pelo-direito-a-habitacao-em-lisboa-recusa-suspensao-do-processo-e-arrisca-julgamento/20261106/6aedd475d34e5a653d73330a",
-    "title": "Maioria dos detidos na acampada pelo direito à habitação em Lisboa recusa suspensão do processo e arrisca julgamento",
-    "summary": "A decisão desta sexta-feira na instância de pequena criminalidade foi destinada à comunicação pelos arguidos sobre a aceitação ou rejeição da suspensão do processo",
-    "image": null
+    "url": "https://observador.pt/programas/pop-up/especial-um-filme-e-o-melhor-amigo-de-uma-viagem-de-aviao/",
+    "title": "Especial: um filme é o melhor amigo de uma viagem de avião?",
+    "summary": "Neste episódio extra do Pop Up, gravado ao vivo no Altitude Film Fest da TAP, falamos sobre cinema português, filmes para ver nos aviões e o nosso gosto por festivais.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/01/21154859/770-podcast-pop-up.jpg"
    },
    "important": false,
-   "added": "2026-11-06T14:05:54.716225+00:00"
+   "added": "2026-11-06T15:13:34.604880+00:00"
   },
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/rtp/inspecao-geral-de-financas/igf-conclui-que-rtp-pagou-12-5me-de-subsidios-sem-suporte-legal/20261106/6aedda41d34e5a653d733316",
-    "title": "IGF conclui que RTP pagou 12,5ME de subsídios sem suporte legal",
-    "summary": "A auditoria deteta fragilidades ao nível dos sistemas contabilístico e de controlo interno",
-    "image": null
+    "url": "https://observador.pt/2026/11/06/nao-me-sinto-culpado-de-nada-jorge-jesus-ia-convocar-ronaldo-mas-admite-que-apressou-a-saida-de-cr7-da-selecao/",
+    "title": "Jesus ia convocar CR7 mas admite ter \"apressado\" a sua saída",
+    "summary": "Selecionador ia convocar CR7 para os próximos jogos de Portugal e não falou com Ronaldo, tendo sido surpreendido pelo anúncio. Jesus diz que iria ficar sempre ligado ao adeus de Ronaldo à Seleção.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06123604/48080689.jpg"
    },
    "important": false,
-   "added": "2026-11-06T14:05:54.716225+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/jose-antonio-tenente/paula-rego/casa-das-historias-expoe-moda-de-jose-antonio-tenente-inspirada-na-pintura-de-paula-rego/20261106/6aeddcc8d34e9ce6f1b4365a",
-    "title": "Casa das Histórias expõe moda de José António Tenente inspirada na pintura de Paula Rego",
-    "summary": "Exposição fica em Cascais até março de 2028",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T14:05:54.716225+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/ensino-superior/investigacao/instituicoes-alertam-que-faltam-verbas-para-pagar-salarios-a-investigadores/20261106/6aedde21d34e9ce6f1b43662",
-    "title": "Instituições alertam que faltam verbas para pagar salários a investigadores",
-    "summary": "“O Estado não está a cumprir com o que se comprometeu e está a pôr em causa o financiamento das Instituições de Ensino Superior (IES)”, alertou Alexandra Curvelo, diretora da FCSH",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T14:05:54.716225+00:00"
+   "added": "2026-11-06T15:13:34.604880+00:00"
   },
   {
    "source": "Público",
@@ -114,6 +92,30 @@
    },
    "important": false,
    "added": "2026-11-06T12:53:02.947548+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/rtp/inspecao-geral-de-financas/igf-conclui-que-rtp-pagou-12-5me-de-subsidios-sem-suporte-legal/20261106/6aedda41d34e5a653d733316",
+    "title": "IGF conclui que RTP pagou 12,5ME de subsídios sem suporte legal",
+    "summary": "A auditoria deteta fragilidades ao nível dos sistemas contabilístico e de controlo interno",
+    "image": "https://img.iol.pt/preset/5ad5e0fc0cf29778fd1ef9ca/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-06T14:05:54.716225+00:00",
+   "fails": 1
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/jose-antonio-tenente/paula-rego/casa-das-historias-expoe-moda-de-jose-antonio-tenente-inspirada-na-pintura-de-paula-rego/20261106/6aeddcc8d34e9ce6f1b4365a",
+    "title": "Casa das Histórias expõe moda de José António Tenente inspirada na pintura de Paula Rego",
+    "summary": "Exposição fica em Cascais até março de 2028",
+    "image": "https://img.iol.pt/preset/6aeddc16d34e9ce6f1b43654/og/cnn"
+   },
+   "important": false,
+   "added": "2026-11-06T14:05:54.716225+00:00",
    "fails": 1
   }
  ],
@@ -556,6 +558,27 @@
    "date": "2026-11-06",
    "title": "Ложная угроза взрыва на борту Ryanair в Лиссабоне",
    "orig": "as notícias das 13h",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Португалия вторая в ЕС по числу совпадений с оповещениями о возврате",
+   "orig": "portugal sem pressão migratória, mas 2º em retornos na ue",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Большинство задержанных на акции за право на жилье в Лисабоне отказались от приостановки дела",
+   "orig": "maioria dos detidos na acampada pelo direito à habitação em lisboa recusa suspensão do processo e arrisca julgamento",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Бензин в Португалии подешевеет меньше двух евро за литр",
+   "orig": "preço da gasolina vai cair para menos de 2 euros por litro",
    "important": false,
    "source": "Observador"
   }
