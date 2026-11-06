@@ -24,17 +24,6 @@
    "added": "2026-11-05T21:41:00.131645+00:00"
   },
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951",
-    "title": "Assobiem para o lado. Não aconteceu nada",
-    "summary": "A ignomínia destas semanas foi longa e perversa. Não é a perorar sobre a lei dos solos, o IVA da construção ou o IMT jovem que se restabelece a confiança no Estado de direito. Opinião de Susana Peralta",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T02:02:30.755062+00:00"
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2437/",
@@ -110,6 +99,17 @@
    },
    "important": false,
    "added": "2026-11-06T03:18:35.350298+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2451/",
+    "title": "4h. Centeno é favorito para PM, ultrapassa Passos Coelho",
+    "summary": "Ex-Governador do BdP lidera. José Luís Carneiro surge em segundo lugar, seguido de Passos Coelho e Montenegro. Ainda, reunião do Governo com PS termina sem acordo. Chega pede intervenção de Seguro.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-06T04:27:42.681532+00:00"
   }
  ],
  "posted": [
