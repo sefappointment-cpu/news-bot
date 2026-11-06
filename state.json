@@ -1,17 +1,6 @@
 {
  "pending": [
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/06/p3/cronica/chicha-feia-2194031",
-    "title": "Chicha feia",
-    "summary": "Nasci com sete quilos. A minha mãe conta que parecia um bezerro fofinho, um daqueles animais que apetece apertar contra o peito. Sempre fui um bebé que comia como um homem. Crónica de Cláudia Lucas Chéu",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/2026/11/06/portugal-nao-esta-sob-pressao-migratoria-mas-e-2-o-na-ue-em-alertas-de-retorno-de-imigrantes/",
@@ -20,72 +9,6 @@
     "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/09153556/jporfirio-missao-aima-02-2-scaled.jpg"
    },
    "important": true,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/detidos-por-trafico-de-ferrari-e-rolls-royce-ficam-em-liberdade-mas-proibidos-de-sair-do-pais-e-com-caucao-de-50-mil-euros/",
-    "title": "Detidos por tráfico de luxo com caução de 50 mil euros",
-    "summary": "Os detidos, de 39 e 41 anos, estão indiciados pela prática dos crimes de furto qualificado, extorsão, falsificação de documentos, fraude fiscal qualificada e burla qualificada",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:676:nowe:0:35/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/08/03172413/pj-2.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/capitaes-na-america/fernando-vaz-temos-um-tesouro-nas-maos-e-nao-o-estimamos/",
-    "title": "Fernando Vaz: \"Temos um tesouro nas mãos e não o estimamos\"",
-    "summary": "Dos tuk-tuks às bifanas, Fernando Vaz, ou Mr. Bifana, levou a autêntica sandes portuguesa a Nova Iorque, conquistando o Time Out Market.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22095234/770-capitaes-na-america-v2-1.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/fora-do-baralho/renata-cambra-ou-luis-neves-quem-vence-a-tenda-de-dourada/",
-    "title": "Renata Cambra ou Luís Neves, quem vence a Tenda de Dourada?",
-    "summary": "Um tribunal deu força jurídica aos manifestantes e enfraqueceu o Governo e a PSP. E as acampadas vão resistir ao crescente desinteresse mediático? E será Seguro um vencedor no tema “habitação”?",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/chega-quer-congelar-idade-da-reforma-em-2027-e-descer-iva-dos-combustiveis-partido-propos-600-alteracoes-ao-orcamento/",
-    "title": "OE 2027: Chega quer congelar idade da reforma no próximo ano",
-    "summary": "André Ventura quer “garantir que em 2027 não há uma atualização da idade da reforma\"",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03192731/47401406.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/renata-cambra-denuncia-despacho-nulo-da-camara-de-lisboa-a-impor-saida-da-acampada-para-fora-do-rossio/",
-    "title": "Cambra denuncia despacho de Moedas a 'expulsar' acampada",
-    "summary": "Polícia Municipal de Lisboa já notificou Renata Cambra da decisão tomada esta 6.ª feira por Carlos Moedas para que Mercado de Natal seja organizado. E deixou um aviso: Polícia pode ter de intervir.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04010948/dventura-acampada-4nov-1-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T21:11:51.859122+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/acampada-do-porto-instala-lona-para-enfrentar-a-chuva/6aee31550cf2aafa0453d92c",
-    "title": "Acampada do Porto instala lona para enfrentar a chuva",
-    "summary": "O repórter da CNN Portugal Hugo Pereira dos Santos acompanha mais um dia de acampada na Praça D. João I, no Porto.",
-    "image": null
-   },
-   "important": false,
    "added": "2026-11-06T21:11:51.859122+00:00"
   },
   {
@@ -109,6 +32,83 @@
    },
    "important": true,
    "added": "2026-11-06T21:11:51.859122+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/06/economia/noticia/miranda-sarmento-sinais-abertura-propostas-oposicao-oe-2194117",
+    "title": "Miranda Sarmento sem sinais de abertura a propostas da oposição para o OE",
+    "summary": "Ministro das Finanças criticou todas as propostas de medidas da oposição discutidas durante a audição parlamentar de discussão do Orçamento do Estado para 2027.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/montagem-da-pista-de-gelo-na-praca-d-joao-i-arranca-a-13-de-novembro-e-porto-pede-reuniao-aos-manifestantes/",
+    "title": "Praça D. João I vai ter pista de gelo a partir de dia 13",
+    "summary": "\"A preparação dos diferentes espaços e estruturas que integram a programação natalícia decorrerá de forma progressiva, com o arranque dos trabalhos de montagem a 13 de novembro\", afirmou o presidente da câmara",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01211456/obs01112026davidoliveira00080.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/uber-avanca-com-despedimento-coletivo-em-portugal/",
+    "title": "Uber avança com despedimento coletivo em Portugal",
+    "summary": "A empresa tem cerca de 600 trabalhadores em Portugal. O número de afetados ainda não foi divulgado, mas o corte global previsto é de 10% do total de funcionários.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/12071118/45441261.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/especiais/autoridades-em-alerta-elevado-com-ameacas-de-bomba-e-ciberataques-fbi-avisou-psp-de-risco-em-voos-da-tap/",
+    "title": "FBI avisou PSP de ameaça de bomba em voos da TAP",
+    "summary": "Troca de informações entre serviços e autoridades no universo NATO têm sido intensas. Não há consenso sobre origem de ataques, mas Moscovo e Teerão são suspeitos de tentar provocar o caos.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/25172921/41400798.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/bolieiro-acusa-estado-de-negligencia-por-adiar-solucao-para-cadeia-de-ponta-delgada-e-apoia-videoconferencia-nos-tribunais/",
+    "title": "Bolieiro critica Estado por cadeia de Ponta Delgada",
+    "summary": "Na intervenção, Jose Manuel Bolieiro preconizou uma Justiça mais próxima dos cidadãos, salientando que viver em nove ilhas exige respostas adequadas e adaptadas",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/03121007/46821625.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/a-guerra-hibrida-procura-tambem-procurar-efeitos-na-vertente-cognitiva-e-da-informacao/6aee2b0d0cf2051820fb0b81",
+    "title": "\"A guerra híbrida procura também procurar efeitos na vertente cognitiva e da informação\"",
+    "summary": "O brigadeiro-general Mário Álvares analisou as sucessivas ameaças de bomba contra a aviação europeia, que tem afetado o continente nos últimos dias.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/aviacao-nao-ha-um-unico-caso-conhecido-em-que-tenha-havido-aviso-de-bomba-e-ela-tenha-explodido/6aee2a2f0cf235b99ef4fffa",
+    "title": "Aviação. \"Não há um único caso conhecido em que tenha havido aviso de bomba e ela tenha explodido\"",
+    "summary": "O comandante José Correia Guedes explicou, a propósito das sucessivas ameaças de bomba que têm sido feitas contra aviões na Europa, como se lida com uma situação semelhante.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T22:10:27.373167+00:00"
   }
  ],
  "posted": [
