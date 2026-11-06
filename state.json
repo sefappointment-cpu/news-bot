@@ -1,103 +1,92 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/depressao-bruna-traz-chuva-ja-esta-sexta-feira-mas-o-pior-podera-chegar-no-domingo/6aed8f010cf2051820fb0a1c",
-    "title": "Depressão Bruna traz chuva já esta sexta-feira, mas o pior poderá chegar no domingo",
-    "summary": "A depressão Bruna começa a fazer-se sentir esta sexta-feira, com chuva e vento forte. O mau tempo deverá agravar-se no final do fim de semana.",
+    "url": "https://observador.pt/2026/11/06/integracao-entre-cuidados-de-saude-primarios-e-hospitalares-estagnou-indica-estudo/",
+    "title": "Integração entre saúde primária e hospitalar estagnou",
+    "summary": "\"É preciso que as duas partes falem mais, acordem sobre como é que devem ser tratados, diagnosticados e acompanhados os nossos doentes. Isso, de facto, não está a acontecer, pelo menos na medida que nós gostaríamos que estivesse\", alertou o presidente da associação",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:62/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/02/18190208/18374040.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T10:30:22.394138+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/06/local/noticia/predio-cedido-camara-lisboa-renda-acessivel-2018-abandono-2193127",
+    "title": "Prédio cedido pela Câmara de Lisboa para renda acessível em 2018 está ao abandono",
+    "summary": "No edifício do século XIX da Rua Gomes Freire, que integra a carta municipal do património, deviam ter surgido 68 fogos de renda acessível. Câmara intimou entretanto a empresa a limpar os terrenos.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/governo-defende-maior-pressao-perante-javalis-em-descontrolo-pleno/",
-    "title": "Governo defende maior pressão perante situação dos javalis",
-    "summary": "\"O javali está em descontrolo pleno [...]. Temos de ter uma pressão maior [a cada ciclo de caça] para criar equilíbrio\", afirmou o secretário de Estado das Florestas, Rui Ladeira",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/07/08150340/42634588.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/qualquer-contrato-televisivo-com-ou-sem-ronaldo-tem-uma-diferenca-enorme-o-que-perde-a-selecao/6aed8be90cf2051820fb0a19",
-    "title": "\"Qualquer contrato televisivo com ou sem Ronaldo tem uma diferença enorme\". O que perde a Seleção?",
-    "summary": "Daniel Sá, diretor executivo do IPAM, considera que a saída de Cristiano Ronaldo pode fazer a FPF perder receitas com patrocínios, direitos televisivos e venda de produtos. No entanto, lembra que os contratos atuais não desaparecem de um dia para o outro.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
-    "title": "Ativista pró-democracia condenado a 12 anos de prisão",
-    "summary": "\"Portugal e a União Europeia deveriam exigir que lhe seja permitido sair de Macau, em vez de passar mais de uma década na prisão por crimes que, na realidade, não existem\", defendeu Michael Polak, diretor da Justice Abroad",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06054426/11908390.jpg"
-   },
-   "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/ronaldo-ja-nao-e-um-jogador-ronaldo-e-uma-estrela-pop-o-peso-do-ex-capitao-na-selecao/6aed90890cf2df4c3882d1a6",
-    "title": "\"Ronaldo já não é um jogador. Ronaldo é uma estrela pop\". O peso do ex-capitão na seleção",
-    "summary": "Bruno Batista considera que a influência mundial de Cristiano Ronaldo deixa a FPF em desvantagem. Para o comentador da CNN Portugal, a versão do jogador sobre a saída da seleção terá sempre mais força.",
+    "url": "https://cnnportugal.iol.pt/videos/antibioticos-para-tratar-gripes-e-constipacoes-ha-um-erro-que-continua-a-ser-comum/6aeda2790cf2051820fb0a3d",
+    "title": "Antibióticos para tratar gripes e constipações? Há um erro que continua a ser comum",
+    "summary": "O médico António Hipólito Aguiar explica que os antibióticos não combatem vírus e alerta para os riscos de os tomar sem indicação médica.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/resposta-pronta/habitacao-brilhante-dias-e-dificil-manter-base-negocial/",
-    "title": "Habitação. Brilhante Dias: \"É difícil manter base negocial\"",
-    "summary": "Líder parlamentar do PS lamenta a atitude do primeiro-ministro nas negociações. Eurico Brilhante Dias diz estar disponível para um consenso, mas \"nas condições de todos\" os partidos.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3542:1987:nowe:546:561/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/28202607/dventura-congresso-ps-dia2-88-scaled.jpg"
+    "url": "https://observador.pt/programas/empresas-em-transformacao/entre-a-agua-o-solo-e-as-exigencias-dos-compradores/",
+    "title": "Entre a água, o solo e as exigências dos compradores",
+    "summary": "Vasco Martins e Pedro Barata debatem como a agricultura de precisão, a gestão de recursos e a sustentabilidade transformam a agroindústria perante as exigências globais.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06100159/eet-novobanco-thumbb-ep9.png"
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/gasolina-e-gasoleo-vao-ficar-mais-baratos-mas-os-impostos-podem-reduzir-a-descida/6aed8fbd0cf2aafa0453d78d",
-    "title": "Gasolina e gasóleo vão ficar mais baratos. Mas os impostos podem reduzir a descida",
-    "summary": "A gasolina e o gasóleo podem registar uma das maiores descidas das últimas semanas já na segunda-feira. No entanto, o editor-executivo da CNN Portugal Vítor Costa alerta que a redução pode acabar por ser menor do que o previsto.",
+    "url": "https://cnnportugal.iol.pt/agricultura/lamas/ministra-do-ambiente-pede-inspecao-a-uso-de-lamas-na-agricultura-no-alentejo/20261106/6aedaa87d34e9ce6f1b435b9",
+    "title": "Ministra do Ambiente pede inspeção a uso de lamas na agricultura no Alentejo",
+    "summary": "Em causa estão situações de mau cheiro e também de “nuvens” de moscas, alegadamente causados pela utilização de lamas na agricultura nos concelhos de Aljustrel, Castro Verde e Mértola, todos no distrito de Beja",
     "image": null
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/06/ameaca-de-bomba-em-aviao-que-aterrou-no-aeroporto-de-lisboa-voo-da-ryanair-teve-origem-em-roma/",
-    "title": "Ameaça de bomba em avião que aterrou no aeroporto de Lisboa",
-    "summary": "Voo da Ryanair estará envolvido na denúncia de ameaça de explosivo",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/26091245/46310995.jpg"
+    "url": "https://observador.pt/programas/explicador/ordem-dos-medicos-quer-novo-sns-e-sem-pensos-rapidos/",
+    "title": "Ordem dos Médicos quer \"novo SNS\" e sem \"pensos rápidos\"",
+    "summary": "Carlos Cortes (Ordem dos Médicos) defende uma reforma profunda no SNS. Admite que vai ser muito dificil encontrar consenso entre o partidos, mas defende que deve haver \"coragem política\".",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png"
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/programas/e-o-vencedor-e/batalha-da-habitacao-reunioes-so-para-ingles-ver/",
-    "title": "Batalha da habitação: Reuniões só \"para inglês ver\"",
-    "summary": "Com reuniões para a fotografia e rendas \"moderadas\" a 2300 euros, o Governo e a oposição continuam em grande teatro: cada um puxa para a sua vidinha e a casa fica por construir.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg"
+    "url": "https://observador.pt/programas/resposta-pronta/se-chega-nao-se-revir-na-lei-do-arrendamento-vota-contra/",
+    "title": "\"Se Chega não se revir na lei do arrendamento, vota contra\"",
+    "summary": "Eduardo Teixeira pede ao Governo que acolha algumas das propostas do Chega na discussão na especialidade. O deputado apela também a um consenso alargado sobre a habitação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/28183426/doc2026092847851194m2rl5091a-1-scaled.jpg"
    },
    "important": false,
-   "added": "2026-11-06T09:25:53.106456+00:00"
+   "added": "2026-11-06T10:30:22.394138+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/resposta-pronta/ameaca-de-bomba-presidente-oscot-sao-para-levar-a-serio/",
+    "title": "Ameaça de bomba. Presidente OSCOT: \"São para levar a sério\"",
+    "summary": "O Coronel Francisco Rodrigues, presidente do OSCOT, garante que todas as ameaças a voos obrigam ao acionamento imediato de protocolos de segurança e podem causar grandes perturbações.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg"
+   },
+   "important": false,
+   "added": "2026-11-06T10:30:22.394138+00:00"
   },
   {
    "source": "Público",
@@ -106,6 +95,18 @@
     "title": "Despertador: O adeus a CR7, PS “lamenta intransigência” do Governo na habitação",
     "summary": "",
     "image": null
+   },
+   "important": false,
+   "added": "2026-11-06T09:25:53.106456+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/06/ativista-pro-democracia-de-macau-au-kam-san-condenado-a-12-anos-e-meio-de-prisao/",
+    "title": "Ativista pró-democracia condenado a 12 anos de prisão",
+    "summary": "\"Portugal e a União Europeia deveriam exigir que lhe seja permitido sair de Macau, em vez de passar mais de uma década na prisão por crimes que, na realidade, não existem\", defendeu Michael Polak, diretor da Justice Abroad",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06054426/11908390.jpg"
    },
    "important": false,
    "added": "2026-11-06T09:25:53.106456+00:00",
@@ -448,6 +449,34 @@
    "orig": "netflix anuncia primeiro filme produzido em portugal",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Депрессия «Бруна» принесёт в Португалию дождь и ветер",
+   "orig": "depressão bruna traz chuva já esta sexta-feira, mas o pior poderá chegar no domingo",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "В Португалии хотят усилить отстрел кабанов",
+   "orig": "governo defende maior pressão perante situação dos javalis",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Уход Роналду может ударить по доходам сборной",
+   "orig": "\"qualquer contrato televisivo com ou sem ronaldo tem uma diferença enorme\". o que perde a seleção?",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-06",
+   "title": "Фестиваль корневого форро из Параибы пройдёт в Лиссабоне",
+   "orig": "paraíba traz a lisboa o forró de raiz que quer virar patrimônio da humanidade",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-05"
