@@ -3,24 +3,24 @@
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/estudo-crise-habitacao-acores-propoe-limites-al-habitacao-publica-ppp-2192731",
-    "title": "Estudo sobre a crise da habitação nos Açores propõe limites ao AL, mais habitação pública e PPP",
-    "summary": "Relatório propõe várias medidas que também pode ser aplicadas a nível nacional, como limites ao alojamento local (AL), parcerias público-privadas (PPP), cooperativas e regulação do mercado.",
+    "url": "https://www.publico.pt/2026/11/07/enter/noticia/trocas-lideranca-animam-dia-eco-rally-fafe-2194168",
+    "title": "Trocas de liderança animam primeiro dia do Eco Rally de Fafe",
+    "summary": "Seis mudanças no comando da classificação em apenas oito especiais marcaram o arranque da derradeira prova do Campeonato de Portugal de Novas Energias – PRIO.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T19:16:37.686901+00:00"
+   "added": "2026-11-07T20:05:07.277051+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/07/sindicato-exige-a-administracao-da-lusa-explicacoes-por-deixar-agencia-sem-direcao/",
-    "title": "Lusa sem direção: sindicato exige explicações",
-    "summary": "A agência ficou sem diretor de informação em funções desde as 00:00 de hoje. O CA reiterou que Pedro Sousa Carvalho é o novo diretor interino, mas a ERC ainda analisa o pedido.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/10/07195408/34492680.jpg"
+    "url": "https://observador.pt/2026/11/07/benfica-vence-stuart-hc-e-soma-13-a-supertaca-feminina-de-hoquei-em-patins/",
+    "title": "Benfica vence 13.ª Supertaça feminina",
+    "summary": "Campeãs nacionais há 13 épocas seguidas, as encarnadas somam agora 13 Supertaças, mais seis do que qualquer outro clube no palmarés da prova.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07192608/48087700.jpg"
    },
    "important": false,
-   "added": "2026-11-07T19:16:37.686901+00:00"
+   "added": "2026-11-07T20:05:07.277051+00:00"
   },
   {
    "source": "Público",
@@ -59,18 +59,6 @@
    "fails": 1
   },
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/newsletter/aquecimento",
-    "title": "A estreia de Paulo Fonseca no Sporting",
-    "summary": "",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T10:36:44.185170+00:00",
-   "fails": 1
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/2026/11/07/e-tudo-ze-mudou-benfica-vence-sporting-e-conquista-supertaca-de-hoquei-em-patins/",
@@ -85,13 +73,13 @@
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/video/vasco-peso-campeao-mundo-tumbling-apos-conquista-europeu-20261107-151009",
-    "title": "Vasco Peso sagrou-se campeão do mundo de tumbling na China",
-    "summary": "Vasco Peso impôs-se à concorrência na final da disciplina, somando 31 mil pontos.",
+    "url": "https://www.publico.pt/2026/11/07/newsletter/aquecimento",
+    "title": "A estreia de Paulo Fonseca no Sporting",
+    "summary": "",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T16:08:24.744075+00:00",
+   "added": "2026-11-07T10:36:44.185170+00:00",
    "fails": 1
   },
   {
@@ -104,6 +92,18 @@
    },
    "important": false,
    "added": "2026-11-07T17:09:07.970903+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/video/vasco-peso-campeao-mundo-tumbling-apos-conquista-europeu-20261107-151009",
+    "title": "Vasco Peso sagrou-se campeão do mundo de tumbling na China",
+    "summary": "Vasco Peso impôs-se à concorrência na final da disciplina, somando 31 mil pontos.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T16:08:24.744075+00:00",
    "fails": 1
   },
   {
@@ -756,6 +756,41 @@
    "orig": "biometano pode substituir parte do gás importado e poupar 82 milhões por ano",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Азорам предложили меры против жилищного кризиса",
+   "orig": "estudo sobre a crise da habitação nos açores propõe limites ao al, mais habitação pública e ppp",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Агентство Lusa осталось без директора информации",
+   "orig": "lusa sem direção: sindicato exige explicações",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Портugалка, раненная в Кракове, вне опасности",
+   "orig": "cidadã portuguesa \"estará fora de perigo\" e embaixador português \"está a caminho de cracóvia para perceber melhor a situação\", diz secretário de estado",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Болельщики «Спортинга» тепло встретили автобус команды в дебютном матче Паулу Фонсеки",
+   "orig": "vídeo: autocarro do sporting aplaudido na estreia de paulo fonseca",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Among the wounded in Kraków is a Portuguese citizen",
+   "orig": "as notícias das 19h",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-06"

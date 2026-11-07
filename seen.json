@@ -1,9 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/02/mundo/noticia/israel-lieberman-mantem-oposicao-governo-apoiado-partidos-arabes-2193489",
-  "https://www.publico.pt/2026/11/02/economia/noticia/banco-montepio-melhora-lucros-retorno-continua-aquem-concorrencia-2193484",
-  "https://www.publico.pt/2026/11/02/azul/noticia/centros-dados-vao-usar-energia-renovavel-governo-prepara-regulamentacao-ate-fim-ano-2193466",
-  "https://www.publico.pt/2026/11/02/ciencia/noticia/touro-burro-envolvidos-relacao-sexual-continua-invulgar-etiopia-2193470",
   "https://www.publico.pt/2026/11/02/local/noticia/governo-admite-conciliar-linha-circular-metro-lisboa-linha-laco-2193493",
   "https://www.publico.pt/2026/11/02/p3/cronica/oh-casas-casas-casas-2193487",
   "https://www.publico.pt/2026/11/02/economia/noticia/segunda-morte-ecco-portugal-faz-600-desempregados-2193514",
@@ -499,16 +495,13 @@
   "https://www.publico.pt/2026/11/07/mundo/noticia/melenchon-apresenta-programa-eleitoral-mudar-franca-2194166",
   "https://www.publico.pt/2026/11/07/politica/noticia/aguiarbranco-parlamentos-sao-local-certo-solucoes-consensos-2194163",
   "https://www.publico.pt/2026/11/07/desporto/noticia/portugal-volta-vencer-nations-cup-raguebi-2194162",
-  "https://www.publico.pt/2026/11/07/azul/noticia/biometano-substituir-parte-gas-importado-poupar-82-milhoes-ano-2194077"
+  "https://www.publico.pt/2026/11/07/azul/noticia/biometano-substituir-parte-gas-importado-poupar-82-milhoes-ano-2194077",
+  "https://www.publico.pt/2026/11/07/economia/noticia/vitoria-democrata-recente-teste-entusiasmo-mercados-ia-2194169",
+  "https://www.publico.pt/2026/11/07/enter/noticia/trocas-lideranca-animam-dia-eco-rally-fafe-2194168",
+  "https://www.publico.pt/2026/11/07/mundo/noticia/musk-trocou-california-texas-refugio-republicano-pe-guerra-2194158",
+  "https://www.publico.pt/2026/11/07/video/tiroteio-polonia-faz-seis-mortos-dezenas-feridos-incluindo-portuguesa-20261107-183237"
  ],
  "Observador": [
-  "https://observador.pt/programas/tratar-da-saude/varizes-o-que-acontece-se-nao-forem-tratadas",
-  "https://observador.pt/programas/a-nossa-cultura/um-escudo-ou-corpete-a-peca-secreta-da-quinta-da-cruz",
-  "https://observador.pt/programas/no-se-fala-de-outra-coisa/anuncio-de-natal-britanico-gera-furia-ao-premiar-netos-maus",
-  "https://observador.pt/programas/tres-toques/ate-o-guinness-tremeu-com-tanta-expulsao-num-jogo-no-brasil",
-  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2568",
-  "https://observador.pt/2026/11/05/pyongyang-confirma-teste-de-misseis-antiaereos-apos-por-em-causa-dialogo-com-eua",
-  "https://observador.pt/2026/11/05/arquipelago-da-madeira-sob-aviso-amarelo-a-partir-desta-quinta-feira-devido-a-chuva",
   "https://observador.pt/2026/11/05/mais-de-40-dos-cuidadores-informais-nao-sentem-beneficios-do-estatuto",
   "https://observador.pt/programas/gabinete-de-guerra/jd-vance-sai-bastante-enfraquecido-desta-derrota",
   "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/problemas-na-habitacao-chegam-hoje-ao-fim",
@@ -1001,13 +994,16 @@
   "https://observador.pt/2026/11/07/lusa-sem-diretor-de-informacao-enquanto-erc-analisa-pedido-submetido-pela-admnistracao",
   "https://observador.pt/programas/noticiario/as-noticias-das-18h-2182",
   "https://observador.pt/2026/11/07/marco-silva-da-boas-vindas-a-fonseca-e-destaca-competitividade-em-portugal",
-  "https://observador.pt/2026/11/07/ps-algarve-pede-ao-governo-um-plano-de-intervencao-para-hospital-de-portimao"
+  "https://observador.pt/2026/11/07/ps-algarve-pede-ao-governo-um-plano-de-intervencao-para-hospital-de-portimao",
+  "https://observador.pt/2026/11/07/benfica-vence-stuart-hc-e-soma-13-a-supertaca-feminina-de-hoquei-em-patins",
+  "https://observador.pt/liveblogs/sporting-moreirense-paulo-fonseca-nao-faz-revolucao-mantem-kaique-na-baliza-e-lanca-irankunda-e-luis-guilherme",
+  "https://observador.pt/2026/11/07/carlos-alcaraz-bate-casper-ruud-rumo-a-final-dos-masters-1-000-de-paris",
+  "https://observador.pt/2026/11/07/marquez-vence-sprint-no-qatar-e-pode-conquistar-titulo-no-domingo",
+  "https://observador.pt/2026/11/07/atlanticoline-cancela-viagem-maritima-de-domingo-entre-faial-pico-e-sao-jorge",
+  "https://observador.pt/programas/noticiario/as-noticias-das-19h-2216",
+  "https://observador.pt/2026/11/07/ben-shelton-qualifica-se-para-a-final-do-masters-1-000-de-paris-em-tenis"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/e-por-isto-que-trump-pode-tornar-se-perigosissimo-para-o-mundo/6aeb030e0cf235b99ef4fadb",
-  "https://cnnportugal.iol.pt/videos/nao-me-escondi-podia-ter-entrado-por-uma-porta-de-tras-pinto-luz-confrontado-com-protestos/6aeb0f080cf235b99ef4faf0",
-  "https://cnnportugal.iol.pt/videos/a-lealdade-a-donald-trump-nao-pode-estar-acima-da-competencia/6aeafd2e0cf235b99ef4fabb",
-  "https://cnnportugal.iol.pt/videos/isto-e-uma-hecatombe-eleitoral-democratas-vencem-ate-em-territorios-republicanos/6aeafcd20cf2aafa0453d3c5",
   "https://cnnportugal.iol.pt/videos/estar-sempre-sob-stress-pode-tornar-se-normal-e-e-ai-que-esta-o-perigo/6aeb020d0cf235b99ef4fad6",
   "https://cnnportugal.iol.pt/videos/depressao-bruna-traz-chuva-intensa-e-rajadas-que-podem-chegar-aos-90-km-h/6aeafb0e0cf2aafa0453d3b6",
   "https://cnnportugal.iol.pt/videos/podem-entrar-no-seu-whatsapp-e-pedir-dinheiro-em-seu-nome-como-evitar-esta-burla/6aeb02e30cf235b99ef4fada",
@@ -1503,6 +1499,10 @@
   "https://cnnportugal.iol.pt/ameacas-de-bomba/aviacao/franca-investiga-ameacas-de-bomba-em-voos-europeus-e-nao-exclui-ligacoes-a-potencias-estrangeiras/20261107/6aef732ad34e5a653d733544",
   "https://cnnportugal.iol.pt/donald-trump/partido-democrata/trump-diz-que-pode-deixar-de-insultar-os-democratas-para-conseguir-acordos/20261107/6aef6ec5d34e9ce6f1b43897",
   "https://cnnportugal.iol.pt/videos/ataque-em-cracovia-e-um-ato-daqueles-que-nao-estamos-habituados-a-ver-na-europa-mas-porventura-vamos-ter-de-nos-habituar/6aef6b660cf2aafa0453da1d",
-  "https://cnnportugal.iol.pt/flis/festival-literario/um-festival-feliz-que-vai-juntar-em-sintra-poetas-romancistas-e-outros-pensadores/20261107/6ada12c5d34e9a786e75d599"
+  "https://cnnportugal.iol.pt/flis/festival-literario/um-festival-feliz-que-vai-juntar-em-sintra-poetas-romancistas-e-outros-pensadores/20261107/6ada12c5d34e9a786e75d599",
+  "https://cnnportugal.iol.pt/videos/em-cracovia-alexandra-leitao-explica-como-foi-vivenciar-ataque-que-fez-seis-mortos-ouvimos-tiros-e-muitos-carros-da-policia/6aef77b60cf2aafa0453da2e",
+  "https://cnnportugal.iol.pt/videos/video-autocarro-do-sporting-aplaudido-na-estreia-de-paulo-fonseca/6aef78b70cf2aafa0453da30",
+  "https://cnnportugal.iol.pt/videos/cidada-portuguesa-estara-fora-de-perigo-e-embaixador-portugues-esta-a-caminho-de-cracovia-para-perceber-melhor-a-situacao-diz-secretario-de-estado/6aef75ce0cf2aafa0453da2d",
+  "https://cnnportugal.iol.pt/flavio-bolsonaro/extrema-direita/o-esquerdista-new-york-times-o-titulo-lixo-e-a-conversa-totalmente-red-pill-a-tentativa-de-flavio-bolsonaro-de-controlar-a-narrativa-sobre-a-fuga-do-brasil/20261107/6aef555dd34e9ce6f1b4387c"
  ]
 }
