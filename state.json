@@ -1,70 +1,59 @@
 {
  "pending": [
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/07/cidadaos-apelam-as-autoridades-para-nao-retirarem-tendas-do-rossio-sem-local-compativel/",
-    "title": "Cidadãos pedem à autarquia para não retirar tendas no Rossio",
-    "summary": "Grupo que requereu o Mecanismo Nacional de Prevenção invoca sentença do tribunal para travar desalojamento. No Porto, pede-se que a câmara mude a localização da pista de gelo.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:15/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04011434/dventura-acampada-4nov-20-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/marco-silva-sobre-a-saida-de-treinadores-das-big-five-para-o-campeonato-portugues/6aef34be0cf235b99ef500d8",
+    "title": "Marco Silva sobre a saída de treinadores das Big Five para o campeonato português",
+    "summary": "Questionado sobre o que leva um treinador a trocar um dos cinco principais campeonatos da Europa pela Liga portuguesa, Marco Silva explicou que não há só uma razão e aproveitou o momento para apontar alguns pontos de melhoria no campeonato.",
+    "image": null
    },
    "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
+   "added": "2026-11-07T16:08:24.744075+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/medicos-associacoes-apontam-falhas-sns-menopausa-governo-promete-novos-programas-2194139",
+    "title": "Médicos e associações apontam falhas do SNS na menopausa. Governo promete novos programas",
+    "summary": "A Ordem dos Médicos e as sociedades portuguesas de Ginecologia e Endocrinologia pedem uma “visão integrada” e “acompanhamento diferenciado”.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T16:08:24.744075+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/somos-uma-equipa-de-identidade-ofensiva-mas-nunca-descuramos-o-processo-defensivo/6aef34720cf235b99ef500d7",
-    "title": "«Somos uma equipa de identidade ofensiva, mas nunca descuramos o processo defensivo»",
-    "summary": "Marco Silva, questionado sobre se a prioridade passa por atacar ou defender, respondeu que está tudo muito interligado e que apesar de o Benfica ser claramente uma equipa ofensiva não negligência o momento defensivo.",
+    "url": "https://cnnportugal.iol.pt/videos/trubin-tenho-gostado-muito-das-exibicoes-dele/6aef34f60cf2051820fb0c36",
+    "title": "«Trubin? Tenho gostado muito das exibições dele»",
+    "summary": "Marco Silva, treinador do Benfica, deixou elogios a Anatoliy Trubin, guarda-redes que tem sido utilizado na Liga Europa. Em conferência de imprensa, o treinador das águias assumiu que tem gostado das prestações do ucraniano.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
+   "added": "2026-11-07T16:08:24.744075+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/video/vasco-peso-campeao-mundo-tumbling-apos-conquista-europeu-20261107-151009",
+    "title": "Vasco Peso sagrou-se campeão do mundo de tumbling na China",
+    "summary": "Vasco Peso impôs-se à concorrência na final da disciplina, somando 31 mil pontos.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T16:08:24.744075+00:00"
   },
   {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/estamos-em-processo-de-renovacao-com-o-prestianni/6aef34840cf2aafa0453d9db",
-    "title": "«Estamos em processo de renovação com o Prestianni»",
-    "summary": "Marco Silva revelou que o Benfica está num processo de renovação com Prestianni, e não só, após o surgimento do interesse de clubes como o PSG e o Bayern. O técnico encarnado mostrou-se satisfeito com o rendimento do jogador neste início de época e procurou tranquilizar os adeptos.",
+    "url": "https://cnnportugal.iol.pt/videos/ameacas-de-bomba-apenas-0-067-dos-voos-sao-afetados-mas-cria-nocao-de-alarme-e-prejuizos-enormes/6aef42990cf2cb2507aa7c81",
+    "title": "Ameaças de bomba: “Apenas 0,067% dos voos são afetados”, mas “cria noção de alarme e prejuízos enormes”",
+    "summary": "O comandante José Correia Guedes faz uma análise às ameaças de bomba feitas a dois aviões da TAP, numa semana em que várias outras companhias aéreas europeias foram alvo de avisos semelhantes. “Isto causa grande perturbação”, diz, embora explique que, segundo o Eurocontrol, “apenas 0,067% dos voos são afetados”, no entanto, reconhece que este tipo de situações “cria noção de alarme e prejuízos enormes para as companhias aéreas”.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/contrataria-paulo-fonseca-nao-tornamo-nos-melhores-treinadores-do-que-jogadores/6aef34eb0cf235b99ef500d9",
-    "title": "«Contrataria Paulo Fonseca? Não. Tornámo-nos melhores treinadores do que jogadores»",
-    "summary": "Marco Silva recordou os tempos em que partilhou o balneário do Belenenses com Paulo Fonseca. O técnico do Benfica elogiou o percurso do novo treinador dos leões e falou do reencontro que se aproxima.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/circati-esta-em-pe-de-igualdade-com-tomas-araujo-e-lenglet/6aef35600cf2cb2507aa7c7c",
-    "title": "«Circati está em pé de igualdade com Tomás Araújo e Lenglet»",
-    "summary": "Marco Silva explicou em que ponto está Circati na luta pela titularidade e como está a ser a adaptação do defesa australiano ao Benfica.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/policia-maritima/rio-lima/policia-maritima-apreende-2-mil-litros-de-combustivel-no-rio-lima/20261107/6aef3cf1d34e9ce6f1b43858",
-    "title": "Polícia Marítima apreende 2 mil litros de combustível no rio Lima",
-    "summary": "O combustível estava em 111 jerricãs",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T15:11:16.677808+00:00"
+   "added": "2026-11-07T16:08:24.744075+00:00"
   },
   {
    "source": "Público",
@@ -91,6 +80,18 @@
    "fails": 1
   },
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/07/e-tudo-ze-mudou-benfica-vence-sporting-e-conquista-supertaca-de-hoquei-em-patins/",
+    "title": "E tudo Zé mudou: Benfica bate Sporting e conquista Supertaça",
+    "summary": "Os encarnados não conquistavam a Supertaça desde 2023",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07132108/doc20261107480857881mar5951-scaled.jpg"
+   },
+   "important": false,
+   "added": "2026-11-07T14:15:22.834233+00:00",
+   "fails": 1
+  },
+  {
    "source": "Público",
    "item": {
     "url": "https://www.publico.pt/2026/11/07/newsletter/aquecimento",
@@ -103,15 +104,15 @@
    "fails": 1
   },
   {
-   "source": "Observador",
+   "source": "CNN Portugal",
    "item": {
-    "url": "https://observador.pt/2026/11/07/e-tudo-ze-mudou-benfica-vence-sporting-e-conquista-supertaca-de-hoquei-em-patins/",
-    "title": "E tudo Zé mudou: Benfica bate Sporting e conquista Supertaça",
-    "summary": "Os encarnados não conquistavam a Supertaça desde 2023",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:189/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07132108/doc20261107480857881mar5951-scaled.jpg"
+    "url": "https://cnnportugal.iol.pt/videos/contrataria-paulo-fonseca-nao-tornamo-nos-melhores-treinadores-do-que-jogadores/6aef34eb0cf235b99ef500d9",
+    "title": "«Contrataria Paulo Fonseca? Não. Tornámo-nos melhores treinadores do que jogadores»",
+    "summary": "Marco Silva recordou os tempos em que partilhou o balneário do Belenenses com Paulo Fonseca. O técnico do Benfica elogiou o percurso do novo treinador dos leões e falou do reencontro que se aproxima.",
+    "image": "https://img.iol.pt/preset/6aef3db3d34e5a653d733513/og/cnn"
    },
    "important": false,
-   "added": "2026-11-07T14:15:22.834233+00:00",
+   "added": "2026-11-07T15:11:16.677808+00:00",
    "fails": 1
   }
  ],
@@ -640,6 +641,34 @@
    "orig": "«gabri veiga? não lhe falta absolutamente nada para chegar à seleção»",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Граждане просят не убирать палатки протеста с Россиу",
+   "orig": "cidadãos pedem à autarquia para não retirar tendas no rossio",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Марку Силва: Бенфика атакует, но об обороне не забывает",
+   "orig": "«somos uma equipa de identidade ofensiva, mas nunca descuramos o processo defensivo»",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Бенфика договаривается о продлении контракта с Престианни",
+   "orig": "«estamos em processo de renovação com o prestianni»",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Либеральная инициатива на Азорах допускает голосование против бюджета на 2027 год",
+   "orig": "il/açores admite votar contra orçamento de 2027",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-06"
