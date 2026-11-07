@@ -36,61 +36,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/opiniao/resistir-a-brincar-e-se-nao-chover/",
-    "title": "Resistir a brincar (e se não chover)",
-    "summary": "Suponho que as tendas vazias possam receber o estatuto de devolutas e a utilização de infelizes que dormem ao relento por necessidade e não por ócio.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1406%3A1406%3Anowe%3A855%3A177%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F10%2F07163607%2Figor-martins-albertogoncalves-07-001.jpg"
-   },
-   "important": false,
-   "added": "2026-11-07T01:32:18.094129+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/2026/11/07/ps-renuncia-a-junta-de-midoes-apos-mais-de-um-ano-de-impasse-com-psd-e-chega-sem-conseguir-formar-executivo/",
-    "title": "PS de Tábua renuncia e abre caminho a eleições intercalares",
-    "summary": "\"Ficou evidente a dificuldade em alcançar um entendimento, uma vez que ambas as forças da oposição, reivindicavam um lugar no executivo\", leu-se no comunicado do PS",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/06175122/17743772_770x433_acf_cropped.jpg"
-   },
-   "important": false,
-   "added": "2026-11-07T01:32:18.094129+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/opiniao/seguro-tem-um-plano-brilhante-mas-nao-para-o-ps/",
-    "title": "Seguro tem um plano brilhante. Mas não para o PS",
-    "summary": "Aquilo que António José Seguro exigiu aos partidos foi um processo que, pela sua própria natureza, dispensa e derruba as “linhas vermelhas” com as quais o PS queria isolar o Chega.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg"
-   },
-   "important": false,
-   "added": "2026-11-07T01:32:18.094129+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2438/",
-    "title": "1h. Proteção Civil adverte para impacto da Depressão Bruna",
-    "summary": "Pedro Araújo alerta para risco de inundação causada pela chuva que afeta todo o país. Ainda, grupo Mães pela Acampada promove vigília em Lisboa contra cargas policiais",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-07T01:32:18.094129+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/conselho-redaccao-lusa-director-informacao-funcoes-desde-meianoite-2194126",
-    "title": "Conselho de Redacção diz que Lusa está sem director de informação em funções desde a meia-noite",
-    "summary": "Conselho de Redacção da Lusa diz estar sem director de informação, algo que acontece “pela primeira vez na sua história”. CR atribui responsabilidades à administração e à ausência de parecer da ERC.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T02:42:43.306425+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2489/",
     "title": "As notícias das 3h",
     "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
@@ -109,6 +54,61 @@
    },
    "important": false,
    "added": "2026-11-07T04:45:46.352385+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/opiniao/opiniao/cartas-director-2193930",
+    "title": "Cartas ao director",
+    "summary": "Excertos de cartas dos leitores.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T06:46:43.830399+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/economia/noticia/lojas-recusem-pagamentos-notas-moedas-vao-punidas-2194033",
+    "title": "Lojas que recusem pagamentos em notas e moedas vão ser punidas",
+    "summary": "Há legislação europeia a ser trabalhada para aceitação obrigatória de numerário, com sanções para incumpridores. Em Portugal, o Banco de Portugal saúda esse passo. Mas não será dado no imediato.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T06:46:43.830399+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/opiniao/opiniao/parlamento-serve-2194106",
+    "title": "E o Parlamento? Para que serve?",
+    "summary": "Vimos e ouvimos uma monumental campanha de propaganda durante 27 minutos, em monólogo de púlpito. Prometeu mundos e fundos e dispôs-se a discutir com os dois maiores partidos nos seus aposentos. Opinião de António Barreto",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T06:46:43.830399+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-as-sombras-de-duarte-lima/",
+    "title": "Canções para \"As Sombras de Duarte Lima\"",
+    "summary": "Dinheiro, mistério e crime. Inspirados pelo novo podcast plus do Observador, imaginamos uma banda sonora alternativa para esta trama com Tom Waits, Kanye West, Raúl Seixas, Debussy e Afonso Rodrigues.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg"
+   },
+   "important": false,
+   "added": "2026-11-07T06:46:43.830399+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2545/",
+    "title": "As notícias das 6h",
+    "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-07T06:46:43.830399+00:00"
   }
  ],
  "posted": [
