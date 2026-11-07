@@ -1,59 +1,15 @@
 {
  "pending": [
   {
-   "source": "Observador",
-   "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2570/",
-    "title": "8h. Acampada. Manifestantes no Porto recusam sair",
-    "summary": "Semelhante a Lisboa, os manifestantes não aceitam sair da Praça D. João I para dar lugar a \"eventos natalícios\". Ainda, dois polícias ficaram ontem feridos na sequência de uma agressão, em Oeiras.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
-  },
-  {
    "source": "CNN Portugal",
    "item": {
-    "url": "https://cnnportugal.iol.pt/videos/vem-ai-descida-nos-combustiveis-mas-preco-medio-continua-nos-2-ainda-nao-podemos-ver-a-luz-ao-fundo-do-tunel/6aeedd930cf2aafa0453d97d",
-    "title": "Vem aí descida nos combustíveis, mas preço médio continua nos 2€. “Ainda não podemos ver a luz ao fundo do túnel”",
-    "summary": "O economista João Rodrigues dos Santos considera que a descida do preço dos combustíveis em Portugal se deve “sobretudo” ao resultado das eleições intercalares dos Estados Unidos e a uma “libertação de reserva estratégica levada a cabo pelo G7 e alguns países da União Europeia”. E, uma vez que “os focos de instabilidade mantêm-se muito instáveis”, com a descida prevista para a próxima semana “ainda não podemos ver a luz ao fundo do túnel”.",
+    "url": "https://cnnportugal.iol.pt/a-porta-do-algarve/gastronomia/a-porta-do-algarve-polvo-com-batata-doce/20261107/6aee1231d34e5a653d7333bf",
+    "title": "À Porta do Algarve - Polvo com batata-doce",
+    "summary": "A Tia Cátia, acompanhada pelo repórter João Valentim, percorre a região do Algarve para descobrir as receitas, tradições e histórias que fazem parte da identidade algarvia. Em cada episódio, entra numa nova cozinha e partilha a preparação de um prato típico da região.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/opiniao/opiniao/portugal-nao-cabe-lisboa-governa-partilhar-2193456",
-    "title": "Portugal não cabe em Lisboa: quem governa tem de partilhar o poder",
-    "summary": "As acampadas pela habitação em Lisboa e no Porto expõem uma urgência social. Desmontar tendas deixa por resolver o problema de quem não consegue pagar uma casa. Opinião de Nuno Marques",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T07:54:34.155921+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/fugas/noticia/jorge-simao-decano-fotografia-comida-portugal-2194019",
-    "title": "Jorge Simão: o decano da fotografia de comida em Portugal",
-    "summary": "À paixão pela fotografia juntou a da comida e, desde aí, são inseparáveis uma da outra. Foi fotojornalista, fotografa restaurantes, entre outras coisas, e tem vários livros de gastronomia publicados.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T07:54:34.155921+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/projecto-ja-custou-73-milhoes-euros-nao-casas-acessiveis-habitar-2194113",
-    "title": "Projecto que já custou mais de 73 milhões de euros ainda não tem casas acessíveis para habitar",
-    "summary": "Relatório do Tribunal de Contas critica o modelo adoptado para fazer 223 fogos no antigo quartel de Santa Bárbara. Projecto ultrapassou prazos previstos no empréstimo do PRR.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
+   "added": "2026-11-07T09:40:45.478746+00:00"
   },
   {
    "source": "Público",
@@ -65,6 +21,17 @@
    },
    "important": false,
    "added": "2026-11-07T08:44:32.218953+00:00"
+  },
+  {
+   "source": "CNN Portugal",
+   "item": {
+    "url": "https://cnnportugal.iol.pt/videos/apos-duas-mortes-nas-urgencias-de-portimao-bastonario-dos-medicos-apela-a-reformulacao-do-sns-e-ainda-mais-premente/6aeee6980cf235b99ef50081",
+    "title": "Após duas mortes nas urgências de Portimão, bastonário dos médicos apela à “reformulação do SNS”. “É ainda mais premente”",
+    "summary": "Numa semana em que duas pessoas faleceram nas urgências do Hospital de Portimão enquanto esperavam pela consulta de avaliação, o bastonário da Ordem dos Médicos volta a defender a reforma no SNS. \"É ainda mais premente\", dizendo que o SNS foi criado há 47 anos, mas que, até então, “pouco mudou”, sobretudo no que toca aos serviços de urgência, cuja rede “não se adaptou”.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T09:40:45.478746+00:00"
   },
   {
    "source": "Público",
@@ -98,6 +65,39 @@
    },
    "important": false,
    "added": "2026-11-07T08:44:32.218953+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/desporto/noticia/portugal-perde-espanha-penaltis-falha-final-finalissima-futsal-2194135",
+    "title": "Portugal perde com a Espanha nos penáltis e falha final da Finalíssima de futsal",
+    "summary": "Os portugueses vão defrontar a Argentina na partida de disputa pelo terceiro e quarto lugares.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T09:40:45.478746+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/azul/noticia/depressao-bruna-deixa-acores-avisos-amarelos-vento-chuva-agitacao-maritima-2194134",
+    "title": "Depressão Bruna deixa Açores sob avisos amarelos de vento, chuva e agitação marítima",
+    "summary": "A partir da madrugada de domingo, está previsto um aumento significativo da intensidade do vento em todos os grupos do Arquipélago, com rajadas que poderão atingir os 90 km/h.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T09:40:45.478746+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/doencas-raras-serao-programa-saude-prioritario-dgs-janeiro-2027-2194088",
+    "title": "Doenças raras serão programa de saúde prioritário da DGS em Janeiro de 2027",
+    "summary": "Maria do Céu Machado, que coordenou a elaboração da Acção para as Doenças Raras, vai dirigir a nova estrutura. Governo diz que é uma escolha que “assegura coerência e continuidade”.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T09:40:45.478746+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -427,6 +427,41 @@
    "orig": "paulo rocha, o espeleológo",
    "important": false,
    "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Мэрия Лиссабона требует убрать лагерь протестующих за жильё с площади Россиу",
+   "orig": "8h. acampada. manifestantes no porto recusam sair",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Топливо в Португалии подешевеет, но средняя цена останется около 2 евро",
+   "orig": "vem aí descida nos combustíveis, mas preço médio continua nos 2€. “ainda não podemos ver a luz ao fundo do túnel”",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Палатки за право на жилье в Лиссабоне и Порту",
+   "orig": "portugal não cabe em lisboa: quem governa tem de partilhar o poder",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Власти Португалии разрабатывают программы по менопаузе",
+   "orig": "governo reconhece “a importância de uma resposta adequada e integrada às necessidades associadas à menopausa” e prepara novos programas",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Жорже Симан — патриарх фотографии еды в Португалии",
+   "orig": "jorge simão: o decano da fotografia de comida em portugal",
+   "important": false,
+   "source": "Público"
   }
  ],
  "digest_date": "2026-11-06"
