@@ -1,70 +1,15 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/a-porta-do-algarve/gastronomia/a-porta-do-algarve-polvo-com-batata-doce/20261107/6aee1231d34e5a653d7333bf",
-    "title": "À Porta do Algarve - Polvo com batata-doce",
-    "summary": "A Tia Cátia, acompanhada pelo repórter João Valentim, percorre a região do Algarve para descobrir as receitas, tradições e histórias que fazem parte da identidade algarvia. Em cada episódio, entra numa nova cozinha e partilha a preparação de um prato típico da região.",
-    "image": null
+    "url": "https://observador.pt/2026/11/07/homem-detido-pela-em-almada-por-agressao-contra-a-mulher/",
+    "title": "Homem detido pela em Almada por agressão contra a mulher",
+    "summary": "Da ação, segundo a Guarda, resultou ainda a apreensão de uma arma branca, alegadamente utilizada pelo suspeito para ameaçar a vítima.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/13123458/gnr-acusado-de-tortura-e-ofensa-a-integridade-fisica-por-agressoes-a-um-detido.jpg"
    },
    "important": false,
-   "added": "2026-11-07T09:40:45.478746+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/fugas/noticia/hayley-kelsing-marketing-fotografia-2194044",
-    "title": "Hayley Kelsing: do marketing para a fotografia",
-    "summary": "A fotografia foi um feliz acaso na vida de Hayley Kelsing, mas começou logo na área da gastronomia. Perfeccionista, prepara cada sessão ao pormenor e a alta cozinha casa com a sua estética.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
-  },
-  {
-   "source": "CNN Portugal",
-   "item": {
-    "url": "https://cnnportugal.iol.pt/videos/apos-duas-mortes-nas-urgencias-de-portimao-bastonario-dos-medicos-apela-a-reformulacao-do-sns-e-ainda-mais-premente/6aeee6980cf235b99ef50081",
-    "title": "Após duas mortes nas urgências de Portimão, bastonário dos médicos apela à “reformulação do SNS”. “É ainda mais premente”",
-    "summary": "Numa semana em que duas pessoas faleceram nas urgências do Hospital de Portimão enquanto esperavam pela consulta de avaliação, o bastonário da Ordem dos Médicos volta a defender a reforma no SNS. \"É ainda mais premente\", dizendo que o SNS foi criado há 47 anos, mas que, até então, “pouco mudou”, sobretudo no que toca aos serviços de urgência, cuja rede “não se adaptou”.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T09:40:45.478746+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/fugas/noticia/joana-freitas-fotografa-adora-comer-2194056",
-    "title": "Joana Freitas: a fotógrafa que adora comer",
-    "summary": "Cresceu a ver o pai a fotografar as viagens que faziam, muitas para comer determinado prato, posto isto, não é de estranhar que a comida se tenha tornado protagonista das suas fotos.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/reportagem/dia-cuidadora-cuidamos-amor-nao-conta-trabalho-amor-nao-paga-contas-2194100",
-    "title": "Um dia com uma cuidadora: “Como cuidamos por amor, não conta como trabalho. Mas o amor não paga contas.”",
-    "summary": "Em Portugal, mais de 19 mil pessoas têm estatuto de cuidador informal. Cristina Almeida é uma delas e cuida do filho, Manuel. Perante a falta de apoios, sente que “leva o mundo às costas”.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/fugas/noticia/henrique-isidoro-manter-viva-paixao-2194063",
-    "title": "Henrique Isidoro: alimentar a paixão, fotografia a fotografia",
-    "summary": "Estudou Produção Alimentar, mas foi a fotografia que o conquistou para fazer carreira, no entanto, a comida está sempre presente, pois fotografar restaurantes é uma das suas especialidades.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T08:44:32.218953+00:00"
+   "added": "2026-11-07T10:36:44.185170+00:00"
   },
   {
    "source": "Público",
@@ -76,6 +21,17 @@
    },
    "important": false,
    "added": "2026-11-07T09:40:45.478746+00:00"
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/2026/11/07/maes-pela-acampada-em-vigilia-no-rossio-contra-cargas-policiais/",
+    "title": "Mães pela Acampada em vigília contra cargas policiais",
+    "summary": "Com velas e lanternas, mães, pais e avós juntam-se às 19h nos Restauradores para protestar contra as cargas da PSP sobre manifestantes pela habitação.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07093129/48061416.jpg"
+   },
+   "important": false,
+   "added": "2026-11-07T10:36:44.185170+00:00"
   },
   {
    "source": "Público",
@@ -98,6 +54,50 @@
    },
    "important": false,
    "added": "2026-11-07T09:40:45.478746+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/newsletter/aquecimento",
+    "title": "A estreia de Paulo Fonseca no Sporting",
+    "summary": "",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T10:36:44.185170+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/maes-acampada-fazem-vigilia-silenciosa-cordao-humano-cargas-policiais-neste-sabado-2194132",
+    "title": "Mães pela Acampada fazem vigília silenciosa e cordão humano contra cargas policiais neste sábado",
+    "summary": "Em Lisboa, onde Carlos Moedas insiste na retirada das tendas, a vigília inicia-se na Praça dos Restauradores e desloca-se para o Rossio. No Porto, há concentração do movimento à mesma hora.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T10:36:44.185170+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/local/noticia/postais-antigos-sao-viagem-passado-cascais-1870-1960-2193927",
+    "title": "Postais antigos são uma viagem pelo passado de Cascais entre 1870 e 1960",
+    "summary": "Na Casa Sommer, a exposição Cascais, 1870-1960: Uma História em Postais mostra quase um século na evolução de Cascais através de bilhetes-postais provenientes de colecções públicas e privadas.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T10:36:44.185170+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/azul/noticia/regresso-castor-portugal-rewilding-quer-preparar-ribeiras-douro-2193994",
+    "title": "O regresso do castor a Portugal: Rewilding quer preparar ribeiras do Douro",
+    "summary": "Após a confirmação da presença do castor em Portugal, a Rewilding Portugal quer restaurar três ribeiras do Douro Internacional e preparar habitat para a expansão natural da espécie.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T10:36:44.185170+00:00"
   },
   {
    "source": "CNN Portugal",
@@ -462,6 +462,34 @@
    "orig": "jorge simão: o decano da fotografia de comida em portugal",
    "important": false,
    "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Элваше задержали трёх нелегалов на сборе оливок",
+   "orig": "gnr deteve três pessoas por permanência ilegal em elvas",
+   "important": true,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Осьминог с бататом на острове Кулатра",
+   "orig": "à porta do algarve - polvo com batata-doce",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Мэр Портиман требует срочных мер после смертей в больнице",
+   "orig": "autarca de portimão diz que mortes nas urgências são graves",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Португалии призвали реформировать систему здравоохранения после двух смертей в больнице Портимана",
+   "orig": "após duas mortes nas urgências de portimão, bastonário dos médicos apela à “reformulação do sns”. “é ainda mais premente”",
+   "important": false,
+   "source": "CNN Portugal"
   }
  ],
  "digest_date": "2026-11-06"
