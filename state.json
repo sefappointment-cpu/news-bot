@@ -36,17 +36,6 @@
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/opiniao/isto-pode-sempre-piorar-sabiam/",
-    "title": "Isto pode sempre piorar, sabiam?",
-    "summary": "Na ânsia de protagonismo mediático e de emoções básicas que alimentem as audiências televisivas, muitos à direita parecem inteiramente dispostos a dar o ouro ao bandido.",
-    "image": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F12%2F04133124%2Fhome-3_467x467_acf_cropped.jpg"
-   },
-   "important": false,
-   "added": "2026-11-07T01:32:18.094129+00:00"
-  },
-  {
-   "source": "Observador",
-   "item": {
     "url": "https://observador.pt/opiniao/as-testemunhas/",
     "title": "As Testemunhas",
     "summary": "O jornalista fez coincidir as opiniões da sua testemunha com a sua declaração; disse que avistou um lindo pôr do sol, mas a única coisa que avistou foram as opiniões da sua testemunha.",
@@ -109,6 +98,17 @@
    },
    "important": false,
    "added": "2026-11-07T01:32:18.094129+00:00"
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/conselho-redaccao-lusa-director-informacao-funcoes-desde-meianoite-2194126",
+    "title": "Conselho de Redacção diz que Lusa está sem director de informação em funções desde a meia-noite",
+    "summary": "Conselho de Redacção da Lusa diz estar sem director de informação, algo que acontece “pela primeira vez na sua história”. CR atribui responsabilidades à administração e à ausência de parecer da ERC.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T02:42:43.306425+00:00"
   }
  ],
  "posted": [
