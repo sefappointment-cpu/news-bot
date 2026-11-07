@@ -1,81 +1,81 @@
 {
  "pending": [
   {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/e-o-campeao-e/sera-que-paulo-fonseca-consegue-ressuscitar-os-leoes/",
+    "title": "Será que Paulo Fonseca consegue ressuscitar os leões?",
+    "summary": "A estreia do novo treinador em Alvalade promete devolver a estabilidade defensiva e a luta pelo título ao Sporting. Em sentido oposto, o adeus do Cristiano Ronaldo continua a agitar adeptos e não só.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg"
+   },
+   "important": false,
+   "added": "2026-11-07T13:25:59.652863+00:00"
+  },
+  {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/local/noticia/postais-antigos-sao-viagem-passado-cascais-1870-1960-2193927",
-    "title": "Postais antigos são uma viagem pelo passado de Cascais entre 1870 e 1960",
-    "summary": "Na Casa Sommer, a exposição Cascais, 1870-1960: Uma História em Postais mostra quase um século na evolução de Cascais através de bilhetes-postais provenientes de colecções públicas e privadas.",
+    "url": "https://www.publico.pt/2026/11/07/opiniao/opiniao/problema-habitacao-nao-resolve-incentivos-confianca-construcao-resolvese-regulacao-2194118",
+    "title": "O problema da habitação não se resolve com mais incentivos, confiança ou mais construção, resolve-se com regulação",
+    "summary": "",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T10:36:44.185170+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/07/governo-dos-acores-apoia-pescas-e-aquicultura-com-3-milhoes-de-euros-para-combustiveis/",
-    "title": "Açores apoia pescas com 3 milhões para combustíveis",
-    "summary": "Pescadores, aquicultores e empresas de transformação têm até 30 de novembro para se candidatar. Instabilidade energética e conflito no Médio Oriente justificam a medida.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/25201817/45725718.jpg"
+    "url": "https://observador.pt/2026/11/07/aeroporto-da-madeira-condicionado-devido-ao-mau-tempo-2/",
+    "title": "Aeroporto da Madeira condicionado devido ao mau tempo",
+    "summary": "O arquipélago da Madeira enfrenta chuva, trovoada e ventos até 74 km/h. A partir de domingo, o mau tempo estende-se ao continente e aos Açores até sexta-feira.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/19194036/30554467.jpg"
    },
    "important": false,
-   "added": "2026-11-07T11:29:53.998524+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/azul/noticia/regresso-castor-portugal-rewilding-quer-preparar-ribeiras-douro-2193994",
-    "title": "O regresso do castor a Portugal: Rewilding quer preparar ribeiras do Douro",
-    "summary": "Após a confirmação da presença do castor em Portugal, a Rewilding Portugal quer restaurar três ribeiras do Douro Internacional e preparar habitat para a expansão natural da espécie.",
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/ano-reformamse-3652-docentes-contas-ministerio-so-desde-setembro-entraram-3670-2194001",
+    "title": "Este ano reformam-se 3652 docentes, mas nas contas do ministério só desde Setembro entraram 3670",
+    "summary": "Só desde Setembro, deixaram as escolas cerca de 1900 professores. Em Dezembro, vão aposentar-se mais 390. Governo reforçou oferta de formação inicial de professores.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T10:36:44.185170+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/2026/11/07/orcamento-de-estado-de-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao/",
-    "title": "OE. Partidos sugerem mais de 2.800 propostas de alteração",
-    "summary": "No ano passado, já tinha sido atingido um máximo de propostas de alteração ao documento orçamental, quando os partidos avançaram com 2.176 propostas de alteração.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08153639/47905631.jpg"
+    "url": "https://observador.pt/2026/11/07/presidente-da-republica-felicita-nadadores-portugueses-com-sindrome-de-down-medalhados-no-mundial/",
+    "title": "Seguro felicita nadadores com síndrome de Down medalhados",
+    "summary": "Portugal terminou a competição com 31 medalhas: 14 de ouro, 11 de prata e 6 de bronze, 26 das quais individuais e 5 em estafetas.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1466:826:nowe:0:507/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/29182101/47851451.jpg"
    },
    "important": false,
-   "added": "2026-11-07T12:11:26.167879+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Público",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/enter/podcast/apoios-compra-carros-electricos-importa-saber-2194071",
-    "title": "Apoios à compra de carros eléctricos: tudo o que importa saber",
-    "summary": "Este episódio é dedicado a tirar dúvidas sobre os novos apoios à compra de veículos eléctricos anunciados pelo Governo. Para quem tem tarifa social, o carro poderá ser quase gratuito.",
+    "url": "https://www.publico.pt/2026/11/07/desporto/noticia/vasco-peso-campeao-mundo-tumbling-ginasta-portugues-vence-final-nanjing-china-2194145",
+    "title": "Vasco Peso é campeão do mundo de tumbling: ginasta português vence final em Nanjing, na China",
+    "summary": "Em Abril, o ginasta luso tinha arrecadado a medalha de ouro nos Europeus que decorreram em Portimão.",
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T12:11:26.167879+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Observador",
    "item": {
-    "url": "https://observador.pt/especiais/o-que-e-a-zona-15-perguntas-sobre-a-doenca-que-se-manifesta-na-pele-e-pode-provocar-dor-durante-anos/",
-    "title": "O que é o herpes zoster, também conhecido como zona?",
-    "summary": "Incapacitante e muitas vezes subvalorizada, a doença provocada pelo vírus varicela-zoster provoca dores que podem durar anos. Já há uma vacina recomendada – mas não é comparticipada pelo SNS.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1192:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06170735/istock-972176820.jpg"
+    "url": "https://observador.pt/2026/11/07/a-europa-ja-estava-conquistada-so-faltava-o-mundo-vasco-peso-e-campeao-mundial-de-tumbling/",
+    "title": "Vasco Peso é campeão mundial de tumbling",
+    "summary": "O atleta natural de Setúbal já era campeão europeu de tumbling",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1150:nowe:0:49/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/16164611/669430575-1246454420976530-2664020216159268093-n.jpg"
    },
    "important": false,
-   "added": "2026-11-07T12:11:26.167879+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/mortes-utentes-espera-hospital-portimao-sao-graves-autarca-2194138",
-    "title": "Mortes de utentes em espera no hospital Portimão são graves, diz autarca",
-    "summary": "“Um hospital existe para cuidar e salvar vidas. A falta de meios, de organização ou de coordenação não pode pôr em risco a segurança dos doentes”, defendeu Álvaro Bila.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T12:11:26.167879+00:00"
+   "added": "2026-11-07T13:25:59.652863+00:00"
   },
   {
    "source": "Público",
@@ -539,6 +539,41 @@
    "date": "2026-11-07",
    "title": "Скорлупа грецких орехов поможет выращивать более полезный салат",
    "orig": "cascas de noz podem melhorar qualidade da alface",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Кашкайше открылась выставка старых открыток",
+   "orig": "postais antigos são uma viagem pelo passado de cascais entre 1870 e 1960",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Азорские острова выделят 3 млн евро на компенсацию рыбакам из-за подорожания топлива",
+   "orig": "açores apoia pescas com 3 milhões para combustíveis",
+   "important": false,
+   "source": "Observador"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Лагерь протестующих в Лиссабоне отказывается уходить с площади Россиу",
+   "orig": "acampada não quer “perturbar o pequeno comércio na feira de natal”, mas rejeita sair do rossio",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Португалии хотят подготовить реки к возвращению бобров",
+   "orig": "o regresso do castor a portugal: rewilding quer preparar ribeiras do douro",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Партии в парламенте Португалии побили рекорд по поправкам к бюджету",
+   "orig": "oe. partidos sugerem mais de 2.800 propostas de alteração",
    "important": false,
    "source": "Observador"
   }
