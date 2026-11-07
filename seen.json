@@ -1,14 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/expresso-transatlantico-vao-andar-clubes-2027-tropico-paranoia-2193257",
-  "https://www.publico.pt/2026/11/02/mundo/noticia/ciberataques-aplicacoes-emergencia-terao-enviado-alertas-falsos-ataques-nucleares-russia-ucrania-2193411",
-  "https://www.publico.pt/2026/11/02/azul/noticia/bolivia-decreta-estado-emergencia-enfrentar-super-el-nino-2193401",
-  "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/melhor-documentario-martin-scorsese-nao-acabou-2193276",
-  "https://www.publico.pt/2026/11/02/mundo/noticia/bulgaria-iliana-iotova-vence-eleicoes-presidenciais-segunda-volta-2193410",
-  "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/seinfeld-lisboa-espectaculo-nada-2193397",
-  "https://www.publico.pt/2026/11/02/azul/noticia/plantacao-tangerinas-gastar-agua-alcacer-sal-ong-vao-tribunal-2193403",
-  "https://www.publico.pt/2026/11/02/local/noticia/antigo-hotel-tivoli-lugar-habitacao-comercio-servicos-2192884",
-  "https://www.publico.pt/2026/11/02/sociedade/noticia/porto-acordou-tendas-psp-regressado-praca-d-joao-i-4h-2193402",
   "https://www.publico.pt/2026/11/02/azul/noticia/mapa-depositos-minerais-portugal-apresentado-criticas-nova-superagencia-2193222",
   "https://www.publico.pt/2026/11/02/mundo/noticia/trump-entra-lista-predadores-imprensa-reporteres-fronteiras-2193409",
   "https://www.publico.pt/2026/11/02/impar/noticia/fisiculturista-90-anos-sobe-palco-espanha-pensa-voltar-93-2193419",
@@ -499,10 +490,18 @@
   "https://www.publico.pt/2026/11/07/sociedade/noticia/governo-recua-volta-limitar-creditos-experiencia-profissional-ensino-superior-2194098",
   "https://www.publico.pt/2026/11/07/fugas/cronica/pegue-ourico-castanha-hamlet-pegou-cranio-bobo-2193443",
   "https://www.publico.pt/2026/11/07/ciencia/noticia/native-scientists-lanca-programas-educativos-aproximar-criancas-ciencia-2194017",
-  "https://www.publico.pt/2026/11/07/opiniao/opiniao/carta-aberta-dirigentes-psd-ps-2193448"
+  "https://www.publico.pt/2026/11/07/opiniao/opiniao/carta-aberta-dirigentes-psd-ps-2193448",
+  "https://www.publico.pt/2026/11/07/fugas/noticia/henrique-isidoro-manter-viva-paixao-2194063",
+  "https://www.publico.pt/2026/11/07/sociedade/reportagem/dia-cuidadora-cuidamos-amor-nao-conta-trabalho-amor-nao-paga-contas-2194100",
+  "https://www.publico.pt/2026/11/07/mundo/noticia/rei-malasia-insiste-quer-exprimeiroministro-najib-prisao-domiciliaria-2194131",
+  "https://www.publico.pt/2026/11/07/fugas/noticia/joana-freitas-fotografa-adora-comer-2194056",
+  "https://www.publico.pt/2026/11/07/azul/opiniao/cop31-pos-residuo-zero-agenda-clima-2193882",
+  "https://www.publico.pt/2026/11/07/ciencia/noticia/estudo-mostra-celulas-reforcam-ligacoes-fases-iniciais-cancro-mama-2193225",
+  "https://www.publico.pt/2026/11/07/fugas/noticia/hayley-kelsing-marketing-fotografia-2194044",
+  "https://www.publico.pt/2026/11/07/publico-brasil/opiniao/vamos-viver-paz-2194125",
+  "https://www.publico.pt/2026/11/07/sociedade/noticia/projecto-ja-custou-73-milhoes-euros-nao-casas-acessiveis-habitar-2194113"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/04/a1-parcialmente-reaberta-no-sentido-sul-norte-em-gaia-apos-corte-por-fogo-em-viaturas",
   "https://observador.pt/2026/11/04/milhares-de-estudantes-protestam-em-copenhaga-contra-cortes-em-ajudas-estudantis",
   "https://observador.pt/2026/11/04/oe2027-governo-preve-gastar-88-milhoes-de-euros-para-atrair-e-manter-professores-nas-escolas",
   "https://observador.pt/2026/11/04/finlandia-compra-um-milhao-de-euros-de-alimentos-a-ucrania-para-apoiar-deslocados-em-mocambique",
@@ -1001,13 +1000,10 @@
   "https://observador.pt/programas/m-quinas-que-pensam/rebenta-a-bolha-na-ia-da-china-vem-sinais-disso-mesmo",
   "https://observador.pt/programas/noticiario/as-noticias-das-7h-2556",
   "https://observador.pt/programas/conversas-do-fim-do-mundo/paulo-rocha-o-espeleologo",
-  "https://observador.pt/opiniao/eleicoes-no-brasil-o-pobre-votou-na-promessa-o-rico-vai-receber-os-juros"
+  "https://observador.pt/opiniao/eleicoes-no-brasil-o-pobre-votou-na-promessa-o-rico-vai-receber-os-juros",
+  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2570"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/este-defice-e-o-maior-desde-2010-mario-centeno-tem-mas-noticias-e-alerta-governo-para-o-cocktail-com-e-mais-dificil-de-lidar/6aea62c70cf235b99ef4fa62",
-  "https://cnnportugal.iol.pt/videos/a-taxa-de-rejeicao-de-trump-e-ainda-maior-do-que-a-que-tem-sido-avancada-pelas-sondagens/6aea7d260cf2df4c3882cd86",
-  "https://cnnportugal.iol.pt/videos/trump-dispara-contra-a-fox-news-esta-em-baixo-porque-esta-contra-mim/6aea7cc50cf2051820fb05e7",
-  "https://cnnportugal.iol.pt/nasa/telescopio-espacial-swift/telescopio-da-nasa-vai-cair-descontroladamente-na-terra-esta-quarta-feira/20261104/6aea7eb5d34e5a653d732bc9",
   "https://cnnportugal.iol.pt/videos/temos-estados-onde-ha-quase-um-seculo-nao-se-vota-outra-coisa-que-nao-republicano-e-hoje-esta-periclitante/6aea79200cf2051820fb05e6",
   "https://cnnportugal.iol.pt/videos/trump-vai-encontrar-algo-para-nos-surpreender-em-termos-de-medidas-por-exemplo-de-natureza-autoritaria/6aea793c0cf2aafa0453d378",
   "https://cnnportugal.iol.pt/financiamento-estado/defice/mario-centeno-mario-centeno-alerta-para-defice-que-ultrapassa-os-montantes-de-quando-tivemos-de-chamar-a-troika-e-ainda-para-algo-nunca-visto-em-portugal/20261104/6aea6985d34e5a653d732b97",
@@ -1503,6 +1499,10 @@
   "https://cnnportugal.iol.pt/ia/inteligencia-artificial/o-mercado-deu-o-primeiro-aviso-e-la-se-foram-2-5-bilioes-de-dolares/20261106/6aedf2cad34e9ce6f1b4369e",
   "https://cnnportugal.iol.pt/donald-trump/trump/henrique-gouveia-e-melo-derrota-republicana-nas-intercalares-pode-acelerar-o-plano-b-de-putin-e-levar-trump-a-tentar-derrotar-cuba/20261106/6aee589dd34e5a653d73345c",
   "https://cnnportugal.iol.pt/videos/putin-tem-um-plano-b-para-a-ucrania-e-a-derrota-republicana-nas-intercalares-pode-acelera-lo/6aee56df0cf2df4c3882d338",
-  "https://cnnportugal.iol.pt/policia/agentes-policia/grupo-de-30-pessoas-apedreja-policias-em-oeiras-dois-agentes-feridos-transportados-ao-hospital/20261106/6aee65abd34e9ce6f1b437bc"
+  "https://cnnportugal.iol.pt/policia/agentes-policia/grupo-de-30-pessoas-apedreja-policias-em-oeiras-dois-agentes-feridos-transportados-ao-hospital/20261106/6aee65abd34e9ce6f1b437bc",
+  "https://cnnportugal.iol.pt/videos/vem-ai-descida-nos-combustiveis-mas-preco-medio-continua-nos-2-ainda-nao-podemos-ver-a-luz-ao-fundo-do-tunel/6aeedd930cf2aafa0453d97d",
+  "https://cnnportugal.iol.pt/francisco-louca/habitacao/francisco-louca-o-mercado-quer-as-casas-o-mais-caro-possivel-os-construtores-beneficiam-das-casas-o-mais-caro-possivel-e-ja-agora-algumas-camaras-municipais-tambem/20261107/6aeee39ed34e9ce6f1b437ca",
+  "https://cnnportugal.iol.pt/franca/escritores/mais-de-200-escritoras-denunciam-o-sexismo-dos-premios-literarios-em-franca/20261107/6aeee1c0d34e5a653d733484",
+  "https://cnnportugal.iol.pt/burla/400-mil-euros/vitoria-foi-burlada-em-400-mil-euros-se-me-contassem-a-minha-historia-eu-dizia-que-era-mentira/20261107/6aeb167cd34e5a653d732c92"
  ]
 }
