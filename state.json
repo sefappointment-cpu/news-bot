@@ -1,37 +1,26 @@
 {
  "pending": [
   {
-   "source": "CNN Portugal",
+   "source": "Observador",
    "item": {
-    "url": "https://cnnportugal.iol.pt/cnn-portugal/recria/recria-une-empresas-e-voluntarios-na-recuperacao-de-instituicoes-de-norte-a-sul-do-pais/20261107/6ae4a3f6d34e53c759c78b4c",
-    "title": "ReCria une empresas e voluntários na recuperação de instituições de norte a sul do país",
-    "summary": "A Semana da Casa Digna regressa de 26 a 29 de outubro, com intervenções em quartéis de bombeiros e instituições sociais. Integrada no programa ReCria, a iniciativa envolve empresas e organizações parceiras e deverá beneficiar mais de 3.200 pessoas.",
-    "image": null
+    "url": "https://observador.pt/2026/11/07/aguiar-branco-diz-que-parlamentos-sao-o-local-certo-para-encontrar-solucoes-e-consensos/",
+    "title": "\"É nos parlamentos que se obtêm os consensos\"",
+    "summary": "O presidente da Assembleia da República portuguesa está em visita oficial a Moçambique até 11 de novembro, com acordo de cooperação parlamentar e encontros políticos na agenda.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:114/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07172034/48087207.jpg"
    },
    "important": false,
-   "added": "2026-11-07T17:09:07.970903+00:00"
+   "added": "2026-11-07T18:02:01.747602+00:00"
   },
   {
-   "source": "Público",
+   "source": "Observador",
    "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/face-aumento-consumo-fins-recreativos-governo-reforca-controlo-cetamina-2194151",
-    "title": "Face a aumento de consumo para fins recreativos, Governo reforça controlo da cetamina",
-    "summary": "Proposta do Governo deu entrada no Parlamento e reforça “os requisitos de idoneidade moral e profissional das entidades autorizadas” a trabalhar com a substância.",
-    "image": null
+    "url": "https://observador.pt/2026/11/07/nos-acores-com-joaquim-manuel-magalhaes/",
+    "title": "Nos Açores, com Joaquim Manuel Magalhães",
+    "summary": "\"Comecei a ler tudo o que fui encontrando sobre os Açores, a ver tudo o que fosse ilha e parte de ilha, a tornar orientada a minha imaginação para esse apaixonamento\", escreve Joaquim Manuel Magalhães",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1336:750:nowe:0:588/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/11/16162021/joaquim-m-magalhacc83es-2442-02.jpg"
    },
    "important": false,
-   "added": "2026-11-07T17:09:07.970903+00:00"
-  },
-  {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/ministerio-educacao-volta-negociar-fenprof-habilitacoes-dar-aulas-2194160",
-    "title": "Ministério da Educação volta a negociar com Fenprof habilitações para dar aulas",
-    "summary": "Convocatória surge depois de o ministério ter comunicado aos sindicatos, na quarta-feira, que considerava concluído o processo negocial.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T17:09:07.970903+00:00"
+   "added": "2026-11-07T18:02:01.747602+00:00"
   },
   {
    "source": "Público",
@@ -58,18 +47,6 @@
    "fails": 1
   },
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/doencas-raras-serao-programa-saude-prioritario-dgs-janeiro-2027-2194088",
-    "title": "Doenças raras serão programa de saúde prioritário da DGS em Janeiro de 2027",
-    "summary": "Maria do Céu Machado, que coordenou a elaboração da Acção para as Doenças Raras, vai dirigir a nova estrutura. Governo diz que é uma escolha que “assegura coerência e continuidade”.",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T09:40:45.478746+00:00",
-   "fails": 1
-  },
-  {
    "source": "CNN Portugal",
    "item": {
     "url": "https://cnnportugal.iol.pt/videos/contrataria-paulo-fonseca-nao-tornamo-nos-melhores-treinadores-do-que-jogadores/6aef34eb0cf235b99ef500d9",
@@ -79,6 +56,30 @@
    },
    "important": false,
    "added": "2026-11-07T15:11:16.677808+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Observador",
+   "item": {
+    "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409/",
+    "title": "16h. Ataque na Polónia provoca pelo menos cinco mortos",
+    "summary": "Na Polónia, um ataque na praça principal de Cracóvia provocou pelo menos cinco mortos e uma dezena de feridos. Ainda, Moedas insiste no Mercado de Natal do Rossio e dá 3 alternativas à acampada.",
+    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+   },
+   "important": false,
+   "added": "2026-11-07T17:09:07.970903+00:00",
+   "fails": 1
+  },
+  {
+   "source": "Público",
+   "item": {
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/doencas-raras-serao-programa-saude-prioritario-dgs-janeiro-2027-2194088",
+    "title": "Doenças raras serão programa de saúde prioritário da DGS em Janeiro de 2027",
+    "summary": "Maria do Céu Machado, que coordenou a elaboração da Acção para as Doenças Raras, vai dirigir a nova estrutura. Governo diz que é uma escolha que “assegura coerência e continuidade”.",
+    "image": null
+   },
+   "important": false,
+   "added": "2026-11-07T09:40:45.478746+00:00",
    "fails": 1
   },
   {
@@ -106,12 +107,12 @@
    "fails": 1
   },
   {
-   "source": "Observador",
+   "source": "Público",
    "item": {
-    "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409/",
-    "title": "16h. Ataque na Polónia provoca pelo menos cinco mortos",
-    "summary": "Na Polónia, um ataque na praça principal de Cracóvia provocou pelo menos cinco mortos e uma dezena de feridos. Ainda, Moedas insiste no Mercado de Natal do Rossio e dá 3 alternativas à acampada.",
-    "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png"
+    "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/ministerio-educacao-volta-negociar-fenprof-habilitacoes-dar-aulas-2194160",
+    "title": "Ministério da Educação volta a negociar com Fenprof habilitações para dar aulas",
+    "summary": "Convocatória surge depois de o ministério ter comunicado aos sindicatos, na quarta-feira, que considerava concluído o processo negocial.",
+    "image": null
    },
    "important": false,
    "added": "2026-11-07T17:09:07.970903+00:00",
@@ -692,6 +693,34 @@
    "orig": "«trubin? tenho gostado muito das exibições dele»",
    "important": false,
    "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Португалии пройдёт Неделя достойного дома",
+   "orig": "recria une empresas e voluntários na recuperação de instituições de norte a sul do país",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Португалия ужесточает контроль над кетамином",
+   "orig": "face a aumento de consumo para fins recreativos, governo reforça controlo da cetamina",
+   "important": false,
+   "source": "Público"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "В Матозиньюше задержали двух молодых людей после violent ограбления",
+   "orig": "dois jovens detidos após assalto violento em matosinhos. vítima transportada ao hospital",
+   "important": false,
+   "source": "CNN Portugal"
+  },
+  {
+   "date": "2026-11-07",
+   "title": "Лидер социалистов требует объяснений от правительства после двух смертей в Алгарве",
+   "orig": "as notícias das 17h",
+   "important": false,
+   "source": "Observador"
   }
  ],
  "digest_date": "2026-11-06"

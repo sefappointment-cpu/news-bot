@@ -502,10 +502,6 @@
   "https://www.publico.pt/2026/11/07/sociedade/noticia/face-aumento-consumo-fins-recreativos-governo-reforca-controlo-cetamina-2194151"
  ],
  "Observador": [
-  "https://observador.pt/programas/noticiario/as-noticias-das-4h-2450",
-  "https://observador.pt/programas/a-hist-ria-do-dia/o-senador-que-irrita-trump-entrou-para-a-historia",
-  "https://observador.pt/programas/conferencia-de-imprensa/780-mil-pessoas-sairam-de-portugal-nos-ultimos-cinco-anos",
-  "https://observador.pt/liveblogs/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz",
   "https://observador.pt/programas/vamos-a-bola/fariolineta-ja-acelera-na-champions-fonseca-ja-fala-a-leao",
   "https://observador.pt/programas/agenda-cultural-sintrense/dos-taxi-a-joana-almeirante-a-musica-passa-por-sintra",
   "https://observador.pt/2026/11/05/a-bola-negra-um-filme-feito-de-excessos",
@@ -1001,12 +997,13 @@
   "https://observador.pt/2026/11/07/astronauta-paquistanes-vai-ser-primeiro-estrangeiro-a-visitar-estacao-espacial-da-china",
   "https://observador.pt/2026/11/07/ministerio-volta-a-negociar-com-fenprof-habilitacoes-para-dar-aulas-apos-aprovacao-de-diploma",
   "https://observador.pt/2026/11/07/jogo-entre-nacional-e-academico-de-viseu-adiado-para-domingo-devido-ao-mau-tempo",
-  "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409"
+  "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409",
+  "https://observador.pt/2026/11/07/nos-acores-com-joaquim-manuel-magalhaes",
+  "https://observador.pt/2026/11/07/china-oferece-scanners-com-tecnologia-de-ultima-geracao-para-aeroporto-e-porto-de-sao-tome",
+  "https://observador.pt/2026/11/07/aguiar-branco-diz-que-parlamentos-sao-o-local-certo-para-encontrar-solucoes-e-consensos",
+  "https://observador.pt/programas/noticiario/as-noticias-das-17h-2329"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/eleicoes-intercalares/abdul-el-sayed/ai-esta-abdul-el-sayed-o-primeiro-senador-muculmano-dos-eua/20261104/6aeaeb33d34e5a653d732c1c",
-  "https://cnnportugal.iol.pt/videos/e-uma-derrota-inequivoca-de-donald-trump-e-do-partido-republicano/6aeaddf60cf2df4c3882cd99",
-  "https://cnnportugal.iol.pt/habitacao/antonio-jose-seguro/habitacao-seguro-sauda-iniciativa-do-primeiro-ministro-e-disponibilidade-de-ps-e-chega/20261104/6aeb1abad34e9ce6f1b42fbb",
   "https://cnnportugal.iol.pt/inflacao/zona-euro/inflacao-da-zona-euro-sobe-para-4-0-em-outubro/20261104/6aeb14efd34e9ce6f1b42fac",
   "https://cnnportugal.iol.pt/ataques-informaticos/franca/ciberataque-em-banco-frances-resultou-na-subtracao-de-cerca-de-118-milhoes-de-euros/20261104/6aeb1420d34e5a653d732c8c",
   "https://cnnportugal.iol.pt/videos/agostinho-costa-antecipa-o-principio-do-fim-da-era-trump/6aeb02de0cf235b99ef4fad9",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/turquia/istambul/ha-todo-um-mundo-escondido-num-mercado-que-se-mantem-igual-ha-seculo/20261107/6ae51350d34e9a786e75e993",
   "https://cnnportugal.iol.pt/paris/franca/franca-volta-as-ruas-sob-forte-presenca-policial-protestos-contra-o-custo-de-vida-entram-no-quarto-sabado-consecutivo/20261107/6aef5436d34e9ce6f1b43879",
   "https://cnnportugal.iol.pt/cnn-portugal/recria/recria-une-empresas-e-voluntarios-na-recuperacao-de-instituicoes-de-norte-a-sul-do-pais/20261107/6ae4a3f6d34e53c759c78b4c",
-  "https://cnnportugal.iol.pt/jeanne-bonner/florenca/levou-o-filho-adolescente-a-italia-para-lhe-mostrar-a-cultura-do-pais-ele-preferiu-pokemon-ferraris-e-um-dedo-com-400-anos/20261107/6ad62df2d34e53c759c7716b"
+  "https://cnnportugal.iol.pt/jeanne-bonner/florenca/levou-o-filho-adolescente-a-italia-para-lhe-mostrar-a-cultura-do-pais-ele-preferiu-pokemon-ferraris-e-um-dedo-com-400-anos/20261107/6ad62df2d34e53c759c7716b",
+  "https://cnnportugal.iol.pt/crime/matosinhos/dois-jovens-detidos-apos-assalto-violento-em-matosinhos-vitima-transportada-ao-hospital/20261107/6aef660fd34e5a653d733535",
+  "https://cnnportugal.iol.pt/peru/keiko-fujimori/fujimori-aprova-novas-regras-nas-escolas-do-peru-que-proibem-cabelos-compridos-e-maquilhagem/20261107/6aef6523d34e9ce6f1b4388f",
+  "https://cnnportugal.iol.pt/videos/manifestantes-mais-radicais-e-violentos-ja-incendiaram-varias-coisas-estao-de-volta-os-confrontos-nos-protestos-em-paris/6aef54bb0cf2cb2507aa7cb2"
  ]
 }
