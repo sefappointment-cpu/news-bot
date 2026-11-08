@@ -9,7 +9,8 @@
     "image": null
    },
    "important": false,
-   "added": "2026-11-07T20:05:07.277051+00:00"
+   "added": "2026-11-07T20:05:07.277051+00:00",
+   "fails": 1
   },
   {
    "source": "Observador",
@@ -20,7 +21,8 @@
     "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07192608/48087700.jpg"
    },
    "important": false,
-   "added": "2026-11-07T20:05:07.277051+00:00"
+   "added": "2026-11-07T20:05:07.277051+00:00",
+   "fails": 1
   }
  ],
  "posted": [
