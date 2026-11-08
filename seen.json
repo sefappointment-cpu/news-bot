@@ -1,8 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/03/economia/noticia/fabricante-componentes-automovel-schaffler-vai-cortar-3460-postos-trabalho-2193576",
-  "https://www.publico.pt/2026/11/03/azul/noticia/industria-depende-gas-vai-100-milhoes-fundo-modernizacao-2193563",
-  "https://www.publico.pt/2026/11/03/sociedade/noticia/jovem-tentou-matar-pai-nao-querer-ir-ferias-mae-2193572",
   "https://www.publico.pt/2026/11/03/sociedade/noticia/aeroporto-lisboa-parte-terminal-1-fechado-dezenas-passageiros-repetem-seguranca-2193574",
   "https://www.publico.pt/2026/11/03/video/devida-venia-caso-jose-socrates-publico-investigacao-imoveis-20261102-190320",
   "https://www.publico.pt/2026/11/03/desporto/noticia/16-anos-salvador-ferreira-ficou-tetraplegico-apos-queda-treino-familia-quer-juntar-120-mil-euros-2193564",
@@ -499,10 +496,12 @@
   "https://www.publico.pt/2026/11/08/mundo/noticia/lider-partido-popular-espanhol-quer-acordos-apoio-parlamentar-vox-2194199",
   "https://www.publico.pt/2026/11/08/culturaipsilon/noticia/rodrigo-cuevas-parte-rumo-utopia-2194202",
   "https://www.publico.pt/2026/11/08/politica/noticia/associacao-25-abril-condena-accoes-repressivas-manifestantes-habitacao-2194205",
-  "https://www.publico.pt/2026/11/08/impar/noticia/secretaria-estado-britanica-admite-problema-abuso-sexual-industria-media-2194204"
+  "https://www.publico.pt/2026/11/08/impar/noticia/secretaria-estado-britanica-admite-problema-abuso-sexual-industria-media-2194204",
+  "https://www.publico.pt/2026/11/08/sociedade/noticia/acampada-habitacao-manteve-tendas-rossio-apesar-renata-cambra-defender-retirada-2194206",
+  "https://www.publico.pt/2026/11/08/politica/noticia/ps-chama-ministra-saude-parlamento-mortes-urgencias-portimao-2194207",
+  "https://www.publico.pt/2026/11/08/desporto/noticia/portugal-fecha-mundial-trampolins-medalha-bronze-2194209"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/05/detidos-por-sequestro-e-violacao-em-almada-em-prisao-preventiva",
   "https://observador.pt/2026/11/05/ordem-dos-medicos-propoe-cinco-medidas-para-construir-novo-servico-nacional-de-saude",
   "https://observador.pt/2026/11/05/transito-retomado-na-en18-em-evora-apos-despiste-com-quatro-bombeiros-feridos",
   "https://observador.pt/2026/11/05/parlamento-promete-registo-simples-e-objetivo-para-as-entidades-que-fazem-lobi",
@@ -1001,13 +1000,10 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-15h-2511",
   "https://observador.pt/especiais/o-planeta-esta-ha-18-anos-consecutivos-sob-tempestades-de-calor-uma-delas-durou-367-dias-e-327-atingiram-portugal",
   "https://observador.pt/especiais/um-palco-sem-estrelas-o-fascinio-pela-china-e-a-politica-a-um-canto-a-web-summit-ainda-e-o-que-era",
-  "https://observador.pt/2026/11/08/depressao-bruna-numero-de-desalojados-na-madeira-aumentou-para-nove"
+  "https://observador.pt/2026/11/08/depressao-bruna-numero-de-desalojados-na-madeira-aumentou-para-nove",
+  "https://observador.pt/2026/11/08/entre-a-chuva-e-o-despacho-de-moedas-acampada-vota-se-continua-no-rossio"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/dialogo-sobre-a-habitacao-nao-vai-surtir-um-consenso-automatico-as-propostas-do-ps-e-do-chega-sao-incompativeis/6aeb85420cf235b99ef4fbc1",
-  "https://cnnportugal.iol.pt/videos/se-tivesse-sido-miguel-pinto-luz-a-gerir-a-relacao-com-os-manifestantes-o-governo-nao-estaria-tao-encurralado-como-esta-hoje/6aeb87570cf2aafa0453d4be",
-  "https://cnnportugal.iol.pt/videos/donald-trump-esta-a-transferir-toda-a-responsabilidade-para-os-candidatos/6aeb7c980cf2051820fb0723",
-  "https://cnnportugal.iol.pt/videos/nova-estrategia-para-o-medio-oriente-vai-ser-acentuada-depois-destas-eleicoes/6aeb7d3c0cf2df4c3882ced1",
   "https://cnnportugal.iol.pt/videos/este-e-o-momento-ideal-para-estar-a-altura-do-sporting/6aeb97590cf2aafa0453d4cc",
   "https://cnnportugal.iol.pt/videos/as-minhas-ideias-sao-diferentes-das-do-rui-borges/6aeb968a0cf2df4c3882cee4",
   "https://cnnportugal.iol.pt/videos/sonhos-tornam-se-realidade-estou-no-clube-do-meu-coracao/6aeb95f60cf235b99ef4fbd0",
@@ -1503,6 +1499,10 @@
   "https://cnnportugal.iol.pt/argentina/papa-leao-xiv/detido-um-homem-na-argentina-por-ameacas-ao-papa/20261108/6af08e67d34e9ce6f1b43986",
   "https://cnnportugal.iol.pt/videos/madeira-depressao-brunca-provoca-mais-de-100-ocorrencias-e-oito-pessoas-ficam-desalojadas/6af08db50cf2cb2507aa7d3c",
   "https://cnnportugal.iol.pt/videos/tiroteio-em-cracovia-foi-classificado-como-ato-terrorista-mas-importa-perceber-se-ha-ligacoes-a-outros-grupos/6af088150cf2aafa0453da9d",
-  "https://cnnportugal.iol.pt/videos/atirador-de-cracovia-esta-a-ser-associado-a-ucrania-isto-parece-tudo-demasiado-conveniente-para-a-russia/6af086310cf2051820fb0d14"
+  "https://cnnportugal.iol.pt/videos/atirador-de-cracovia-esta-a-ser-associado-a-ucrania-isto-parece-tudo-demasiado-conveniente-para-a-russia/6af086310cf2051820fb0d14",
+  "https://cnnportugal.iol.pt/liverpool/descoberta/uma-rede-subterranea-de-tuneis-foi-descoberta-sob-liverpool-agora-os-trabalhadores-pensam-ter-desvendado-o-misterio/20261108/6ae67e1dd34e9a786e75eb30",
+  "https://cnnportugal.iol.pt/videos/mortes-no-hospital-de-portimao-ordem-dos-medicos-ja-pediu-esclarecimentos-mas-ate-ao-dia-de-hoje-nada-recebemos/6af09a200cf2051820fb0d2d",
+  "https://cnnportugal.iol.pt/acores/marinha/marinha-coordena-resgate-de-velejador-italiano-ao-largo-dos-acores/20261108/6af09abed34e5a653d733639",
+  "https://cnnportugal.iol.pt/israel/gadi-eisenkot/eisenkot-recebe-mandato-para-formar-governo-em-israel-ha-uma-necessidade-urgente-de-uma-nova-e-excecional-lideranca/20261108/6af09798d34e5a653d733635"
  ]
 }
