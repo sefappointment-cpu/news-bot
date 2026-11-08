@@ -59,18 +59,6 @@
    "fails": 1
   },
   {
-   "source": "Público",
-   "item": {
-    "url": "https://www.publico.pt/2026/11/07/newsletter/aquecimento",
-    "title": "A estreia de Paulo Fonseca no Sporting",
-    "summary": "",
-    "image": null
-   },
-   "important": false,
-   "added": "2026-11-07T10:36:44.185170+00:00",
-   "fails": 1
-  },
-  {
    "source": "Observador",
    "item": {
     "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409/",
