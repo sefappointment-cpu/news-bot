@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/04/video/congresso-volta-estar-maos-democratas-noite-derrota-trumpismo-20261104-172646",
-  "https://www.publico.pt/2026/11/04/culturaipsilon/noticia/napa-sofa-fama-ilha-inteira-atras-2193468",
   "https://www.publico.pt/2026/11/04/newsletter/livre-estilo",
   "https://www.publico.pt/2026/11/04/p3/cronica/algo-cheira-podre-reino-dinamarca-contrario-2193713",
   "https://www.publico.pt/2026/11/04/economia/noticia/avaliacao-revolut-sobe-138-mil-milhoes-euros-2193763",
@@ -499,23 +497,11 @@
   "https://www.publico.pt/2026/11/10/politica/noticia/casas-vazias-terrenos-ceder-autarcas-queixamse-dificuldade-tomar-conta-imoveis-estado-2193282",
   "https://www.publico.pt/2026/11/10/opiniao/opiniao/sahara-ocidental-direito-internacional-2194284",
   "https://www.publico.pt/2026/11/10/mundo/noticia/nvidia-eua-china-escandalo-impacto-geopolitico-2194358",
-  "https://www.publico.pt/2026/11/10/opiniao/opiniao/cartas-director-2194349"
+  "https://www.publico.pt/2026/11/10/opiniao/opiniao/cartas-director-2194349",
+  "https://www.publico.pt/2026/11/10/ciencia/opiniao/custo-incumprimento-estado-ciencia-ensino-2193553",
+  "https://www.publico.pt/2026/11/10/economia/noticia/obra-completa-corredor-evoraelvas-derrapa-2028-2194310"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/06/depressao-bruna-traz-aviso-amarelo-a-todas-as-ilhas-dos-acores-com-rajadas-ate-152-km-h-e-ondas-de-ate-10-metros",
-  "https://observador.pt/2026/11/06/pj-detem-estrangeiro-de-36-anos-suspeito-de-14-abusos-sexuais-a-crianca-de-sete-anos-em-lisboa",
-  "https://observador.pt/2026/11/06/il-propoe-alteracoes-para-aliviar-custo-de-vida-focadas-na-habitacao",
-  "https://observador.pt/2026/11/06/papa-leao-xiv-chega-a-america-do-sul-em-muito-boa-forma-apos-cirurgia-ao-pulmao-e-revela-que-votou-nas-intercalares-dos-eua",
-  "https://observador.pt/programas/noticiario/as-noticias-das-23h-2204",
-  "https://observador.pt/programas/noticiario/as-noticias-da-1h-2438",
-  "https://observador.pt/2026/11/07/fifa-reduz-suspensao-de-molina-de-sete-para-quatro-jogos-mas-mantem-10-partidas-de-castigo-a-paredes-apos-final-do-mundial2026",
-  "https://observador.pt/opiniao/seguro-tem-um-plano-brilhante-mas-nao-para-o-ps",
-  "https://observador.pt/2026/11/07/ps-renuncia-a-junta-de-midoes-apos-mais-de-um-ano-de-impasse-com-psd-e-chega-sem-conseguir-formar-executivo",
-  "https://observador.pt/opiniao/resistir-a-brincar-e-se-nao-chover",
-  "https://observador.pt/2026/11/07/vance-estara-a-liderar-negociacoes-indiretas-com-o-irao-para-alcancar-novo-cessar-fogo-e-discutir-o-nuclear",
-  "https://observador.pt/opiniao/laicidade-laicismo-e-liberdade-religiosa",
-  "https://observador.pt/opiniao/as-testemunhas",
-  "https://observador.pt/opiniao/isto-pode-sempre-piorar-sabiam",
   "https://observador.pt/programas/noticiario/as-noticias-das-00h-2467",
   "https://observador.pt/opiniao/avenida-25-de-novembro-um-duplo-ate-que-enfim",
   "https://observador.pt/opiniao/salomao-duas-poupas-e-a-intimidade-do-infinito",
@@ -1001,16 +987,23 @@
   "https://observador.pt/programas/aprender-a-comer/resistencia-a-insulina-o-alarme-que-nao-toca",
   "https://observador.pt/programas/a-nossa-cultura/a-escultura-feita-para-ser-cortada-na-inauguracao",
   "https://observador.pt/programas/tratar-da-saude/os-exames-estao-normais-e-eu-continuo-a-sentir-me-mal",
-  "https://observador.pt/programas/a-historia-das-historias/centro-de-interpretacao-historica-de-fornos-de-algodres"
+  "https://observador.pt/programas/a-historia-das-historias/centro-de-interpretacao-historica-de-fornos-de-algodres",
+  "https://observador.pt/programas/gabinete-de-guerra/e-muito-cedo-para-cantar-vitoria-na-politica-de-israel",
+  "https://observador.pt/2026/11/10/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado",
+  "https://observador.pt/programas/convidado-extra/joao-paulo-oliveira-e-costa-so-nos-instalamos-no-brasil-onde-houve-aliancas-com-tribos",
+  "https://observador.pt/2026/11/10/australia-vai-impor-salvaguardas-obrigatorias-em-relacao-a-ia",
+  "https://observador.pt/2026/11/10/bombeiros-combatem-incendio-de-grandes-proporcoes-em-sucateira-no-barreiro",
+  "https://observador.pt/2026/11/10/funeral-das-vitimas-do-acidente-ferroviario-em-espanha-realiza-se-esta-terca-feira-antes-de-greve-geral-e-arranque-da-campanha-eleitoral",
+  "https://observador.pt/liveblogs/manifestantes-detidos-no-porto-pronunciam-se-sobre-suspensao-provisoria-do-processo",
+  "https://observador.pt/2026/11/10/sistema-volta-inaugura-novo-quiosque-em-cascais-capaz-de-processar-120-embalagens-por-minuto",
+  "https://observador.pt/programas/resposta-pronta/cristovao-norte-ha-precipitacao-de-responsaveis-politicos",
+  "https://observador.pt/2026/11/10/eua-condena-sentenca-de-ativista-de-macau-e-cidadao-portugues-au-kam-san",
+  "https://observador.pt/2026/11/10/oito-acidentes-de-viacao-causados-por-animais-por-dia-um-terco-dos-quais-por-javalis-houve-tres-mortos-e-dezenas-de-feridos",
+  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2559",
+  "https://observador.pt/liveblogs/comecam-hoje-as-negociacoes-entre-kiev-e-moscovo-em-abu-dhabi-estados-unidos-confiantes-em-fim-definitivo-para-a-guerra",
+  "https://observador.pt/programas/vamos-a-bola/jesus-faz-detox-na-convocatoria-por-causa-de-lesoes"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/edp/lucros/lucro-da-edp-sobe-22-para-1-191-milhoes-de-euros-ate-setembro/20261105/6aece211d34e9ce6f1b434d1",
-  "https://cnnportugal.iol.pt/marco-rubio/intercalares/marco-rubio-pondera-deixar-administracao-trump-apos-derrota-republicana-nas-intercalares-avanca-a-bloomberg/20261105/6aece031d34e5a653d733184",
-  "https://cnnportugal.iol.pt/videos/relacao-de-cristiano-ronaldo-com-medicos-na-selecao-nao-era-facil-ele-era-muito-curioso-gostava-de-saber-os-resultados-dos-exames-e-que-explicassem-tudo/6aeccf7e0cf2df4c3882d0f2",
-  "https://cnnportugal.iol.pt/married-at-first-sight/casados-a-primeira-vista/casados-a-primeira-vista-cancelado-no-reino-unido-apos-denuncias-de-violacoes/20261105/6aecdafed34e5a653d733172",
-  "https://cnnportugal.iol.pt/turquia/homicidio/pelo-menos-oito-mortos-em-homicidio-multiplo-numa-regiao-rural-da-turquia/20261105/6aecda4ed34e9ce6f1b434bd",
-  "https://cnnportugal.iol.pt/easa/falsas-ameacas-de-bomba/falsas-ameacas-de-bomba-perturbam-trafego-aereo-europeu-mas-representam-baixo-risco-de-seguranca/20261105/6aecde1cd34e9ce6f1b434c5",
-  "https://cnnportugal.iol.pt/videos/poligrafo-messi-deixou-uma-mensagem-a-cristiano-ronaldo-nas-redes-sociais-apos-adeus-a-selecao-portuguesa/6aeceebc0cf2051820fb09a4",
   "https://cnnportugal.iol.pt/videos/do-ponto-de-vista-desportivo-eles-serao-parecidos-mas-de-um-ponto-de-vista-marca-ronaldo-sempre-valeu-mais-do-que-messi/6aecef810cf235b99ef4fe1a",
   "https://cnnportugal.iol.pt/submarinos/nuno-melo/governo-quer-novo-submarino-e-vai-inclui-lo-na-lei-de-programacao-militar/20261105/6aeced3cd34e5a653d7331a6",
   "https://cnnportugal.iol.pt/nasdaq/wall-street/nasdaq-cai-5-5-e-bolsas-americanas-registam-maior-perda-diaria-da-sua-historia/20261105/6aecf133d34e9ce6f1b434ff",
@@ -1503,6 +1496,13 @@
   "https://cnnportugal.iol.pt/donald-trump/eua/trump-reafirma-oposicao-a-amnistia-de-imigrantes-ilegais-e-garante-que-politica-de-deportacoes-em-massa-nao-vai-mudar/20261110/6af2ba1ad34e5a653d7338d6",
   "https://cnnportugal.iol.pt/depressao-charles/inundacoes/chuva-intensa-rajadas-ate-120-km-h-e-risco-de-inundacoes-estes-sao-os-distritos-que-suscitam-maior-preocupacao-devido-a-depressao-charles/20261110/6af2b812d34e5a653d7338d5",
   "https://cnnportugal.iol.pt/incendio/barreiro/dezenas-de-bombeiros-combatem-incendio-de-grandes-proporcoes-numa-sucateira-no-barreiro/20261110/6af2b5a9d34e9ce6f1b43c4c",
-  "https://cnnportugal.iol.pt/jensen-huang/nvidia/trump-revela-que-fbi-esta-a-investigar-alegada-operacao-de-espionagem-chinesa-a-envolver-o-ceo-da-nvidia/20261110/6af2b421d34e5a653d7338d4"
+  "https://cnnportugal.iol.pt/jensen-huang/nvidia/trump-revela-que-fbi-esta-a-investigar-alegada-operacao-de-espionagem-chinesa-a-envolver-o-ceo-da-nvidia/20261110/6af2b421d34e5a653d7338d4",
+  "https://cnnportugal.iol.pt/aveiro/ricardo-correia-de-matos/diretor-da-uls-de-aveiro-detido-por-suspeitas-de-corrupcao/20261110/6af251f7d34e5a653d7338c3",
+  "https://cnnportugal.iol.pt/videos/da-chegada-da-depressao-charles-ao-inicio-das-negociacoes-entre-ucrania-russia-e-eua-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6af2ca500cf2cb2507aa819b",
+  "https://cnnportugal.iol.pt/depressao-charles/mau-tempo/madeira-passa-a-aviso-vermelho-a-partir-das-21-00-e-seis-distritos-sobem-para-alerta-laranja-na-quarta-feira/20261110/6af2c929d34e5a653d7338dd",
+  "https://cnnportugal.iol.pt/jose-socrates/antonio-jose-seguro/jose-socrates-a-constituicao-e-as-boas-maneiras/20261110/6af23a83d34e9ce6f1b43c0b",
+  "https://cnnportugal.iol.pt/energias-renovaveis/brasil/brasil-prepara-plano-para-transicao-economica-rumo-as-energias-renovaveis/20261110/6af2c2e2d34e5a653d7338dc",
+  "https://cnnportugal.iol.pt/redes-sociais/psp/psp-bloqueou-seguidores-que-criticaram-a-instituicao-em-nome-de-uma-interacao-adequada/20261110/6af1a03fd34e5a653d733778",
+  "https://cnnportugal.iol.pt/videos/situacao-sera-mais-critica-a-partir-das-22-00-desta-terca-feira-sobretudo-numa-regiao-o-que-esperar-da-depressao-charles-nas-proximas-horas/6af2b76e0cf2aafa0453df4a"
  ]
 }
