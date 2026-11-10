@@ -1,15 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/05/sociedade/noticia/matou-rosalina-fortuna-lucio-tome-feteira-2192308",
-  "https://www.publico.pt/2026/11/05/desporto/noticia/benfica-quer-trabalhar-hoje-folgas-amanha-2193767",
-  "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/coimbra-blues-regresso-mostrar-musica-constante-mutacao-2193798",
-  "https://www.publico.pt/2026/11/05/local/noticia/ano-pedro-duarte-transportes-gratuitos-bastonadas-2193803",
-  "https://www.publico.pt/2026/11/05/sociedade/noticia/emigracao-ine-reve-estatisticas-conclui-780-mil-pessoas-sairam-portugal-cinco-anos-2193754",
-  "https://www.publico.pt/2026/11/05/sociedade/noticia/apos-sete-anos-estatuto-cuidador-informal-falta-2193799",
-  "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/cenaste-entrega-preaviso-greve-12-14-novembro-casa-musica-2193836",
-  "https://www.publico.pt/2026/11/05/sociedade/noticia/cronologia-marica-sintra-principais-datas-17-anos-2193793",
-  "https://www.publico.pt/2026/11/05/mundo/noticia/activista-prodemocracia-joshua-wong-condenado-hong-kong-dez-anos-prisao-2193835",
-  "https://www.publico.pt/2026/11/05/mundo/noticia/alerta-bomba-obriga-aviao-destino-roma-desviar-rota-2193834",
   "https://www.publico.pt/2026/11/05/sociedade/noticia/principais-personagens-enredo-homicidio-rosalina-ribeiro-2193819",
   "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/bola-negra-ari-estreias-semana-2193164",
   "https://www.publico.pt/2026/11/05/sociedade/noticia/acampada-lisboa-cantou-dancou-dia-noite-policia-2193832",
@@ -499,15 +489,19 @@
   "https://www.publico.pt/2026/11/10/culturaipsilon/noticia/museu-nacional-musica-incorpora-guitarra-phil-mendrix-dedica-mostra-musico-2194425",
   "https://www.publico.pt/2026/11/10/impar/noticia/david-walliams-desmascarado-celebridade-secreta-acusada-crimes-sexuais-2194424",
   "https://www.publico.pt/2026/11/10/sociedade/noticia/uls-algarve-ha-tres-anos-campea-horas-contratadas-medicos-tarefeiros-2194416",
-  "https://www.publico.pt/2026/11/10/economia/noticia/centeno-livrouse-compromisso-voluntario-ja-falar-juros-bce-2194415"
+  "https://www.publico.pt/2026/11/10/economia/noticia/centeno-livrouse-compromisso-voluntario-ja-falar-juros-bce-2194415",
+  "https://www.publico.pt/2026/11/10/azul/noticia/cop31-guterres-quer-prazos-deixar-combustiveis-fosseis-pede-fim-tabu-2194413",
+  "https://www.publico.pt/2026/11/10/culturaipsilon/critica/you-can-see-everything-contentase-produtor-memes-2194436",
+  "https://www.publico.pt/2026/11/10/mundo/noticia/choque-cadeia-bulgaria-faz-12-mortos-50-feridos-2194450",
+  "https://www.publico.pt/2026/11/10/publico-brasil/noticia/aima-consulado-brasil-lisboa-suspendem-atendimento-devido-depressao-charles-2194432",
+  "https://www.publico.pt/2026/11/10/fugas/noticia/conde-nast-johansens-oito-hoteis-portugueses-melhores-europa-2194427",
+  "https://www.publico.pt/2026/11/10/local/noticia/camara-sintra-aprova-criacao-bolsas-estudo-ensino-superior-2194443",
+  "https://www.publico.pt/2026/11/10/azul/noticia/charles-ameaca-fenomeno-raro-vento-temporal-grave-desde-kristin-2194426",
+  "https://www.publico.pt/2026/11/10/impar/noticia/kim-kardashian-queria-vender-calendario-advento-elasticos-cabelo-150-dolares-2194431",
+  "https://www.publico.pt/2026/11/10/sociedade/noticia/escolas-publicas-privadas-fechadas-quartafeira-devido-tempestade-charles-directores-avisam-familias-2194422",
+  "https://www.publico.pt/2026/11/10/enter/noticia/europa-importa-80-tecnologia-bruxelas-quer-inverter-rumo-robos-2194433"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/07/ministerio-volta-a-negociar-com-fenprof-habilitacoes-para-dar-aulas-apos-aprovacao-de-diploma",
-  "https://observador.pt/2026/11/07/jogo-entre-nacional-e-academico-de-viseu-adiado-para-domingo-devido-ao-mau-tempo",
-  "https://observador.pt/programas/noticiario/as-noticias-das-16h-2409",
-  "https://observador.pt/2026/11/07/nos-acores-com-joaquim-manuel-magalhaes",
-  "https://observador.pt/2026/11/07/china-oferece-scanners-com-tecnologia-de-ultima-geracao-para-aeroporto-e-porto-de-sao-tome",
-  "https://observador.pt/2026/11/07/aguiar-branco-diz-que-parlamentos-sao-o-local-certo-para-encontrar-solucoes-e-consensos",
   "https://observador.pt/programas/noticiario/as-noticias-das-17h-2329",
   "https://observador.pt/2026/11/07/sindicato-exige-a-administracao-da-lusa-explicacoes-por-deixar-agencia-sem-direcao",
   "https://observador.pt/especiais/o-poder-no-cavaquismo-as-casas-de-luxo-e-as-manchetes-arrasadoras-a-ascensao-e-as-sombras-de-duarte-lima-nos-anos-90",
@@ -1001,17 +995,15 @@
   "https://observador.pt/2026/11/10/policia-judiciaria-deteve-dois-homens-no-aeroporto-de-lisboa-com-34-quilos-de-folha-de-canabis",
   "https://observador.pt/2026/11/10/habitacao-ministerio-publico-impos-segredo-de-justica-a-processo-de-manifestantes-detidos-no-porto",
   "https://observador.pt/programas/justica-cega/acampada-e-tudo-a-bruna-levou-ou-a-justica-vai-a-tempo",
-  "https://observador.pt/2026/11/10/__trashed-820"
+  "https://observador.pt/2026/11/10/__trashed-820",
+  "https://observador.pt/programas/carecas-de-saber/o-enigma-das-alopecias-cicatriciais",
+  "https://observador.pt/programas/noticiario/as-noticias-das-15h-2513",
+  "https://observador.pt/2026/11/10/lider-do-ps-fala-em-quarta-morte-em-portimao-e-responsabiliza-montenegro-por-escolha-dos-decisores",
+  "https://observador.pt/2026/11/10/os-melhores-sites-onde-pode-acompanhar-a-evolucao-das-tempestades-charles-e-bruna-e-como-os-usar",
+  "https://observador.pt/2026/11/10/psp-de-coimbra-detem-homem-indiciado-pelo-sequestro-de-duas-funcionarias",
+  "https://observador.pt/programas/conversas-lidl/100-mil-euros-para-devolver-vida-a-mata-nacional-do-valado"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/agricultura/lamas/ministra-do-ambiente-pede-inspecao-a-uso-de-lamas-na-agricultura-no-alentejo/20261106/6aedaa87d34e9ce6f1b435b9",
-  "https://cnnportugal.iol.pt/videos/antibioticos-para-tratar-gripes-e-constipacoes-ha-um-erro-que-continua-a-ser-comum/6aeda2790cf2051820fb0a3d",
-  "https://cnnportugal.iol.pt/homicidio/supremo-tribunal-de-justica/supremo-reduz-para-16-anos-pena-aplicada-a-homem-que-matou-mulher-no-algarve/20261106/6aeda94ed34e9ce6f1b435b6",
-  "https://cnnportugal.iol.pt/peninsula-iberica/anfibio/descoberta-nova-especie-de-anfibio-da-peninsula-iberica-com-66-milhoes-de-anos/20261106/6aeda84bd34e5a653d733288",
-  "https://cnnportugal.iol.pt/preco-dos-combustiveis/combustiveis/grande-descida-na-proxima-segunda-feira-combustiveis-vao-baixar-ainda-mais-do-que-o-esperado/20261106/6aeda7cad34e9ce6f1b435b1",
-  "https://cnnportugal.iol.pt/guerra/melitopol/a-russia-confiscou-uma-serie-de-hoteis-na-ucrania-este-homem-tenta-resistir-a-isso/20261106/6aeda553d34e9ce6f1b435ae",
-  "https://cnnportugal.iol.pt/bulgaria/drone-de-fabrico-iraniano/drone-de-fabrico-iraniano-encontrado-numa-praia-da-bulgaria/20261106/6aeda507d34e9ce6f1b435ac",
-  "https://cnnportugal.iol.pt/franca/salario-minimo/governo-frances-admite-aumentar-salario-minimo-para-mais-de-1-500-euros-apos-protestos-no-pais/20261106/6aeda299d34e5a653d73327f",
   "https://cnnportugal.iol.pt/temperatura-media-mundial/segundo-ano-mais-quente/2026-devera-ser-o-segundo-ano-mais-quente-de-sempre-ao-ultrapassar-os-1-5-c/20261106/6aeda0c2d34e9ce6f1b435a1",
   "https://cnnportugal.iol.pt/rtp/servico-publico/rtp-considera-grave-que-relatorio-final-da-igf-seja-divulgado-nos-media-antes-da-empresa/20261106/6aedbb08d34e5a653d7332b6",
   "https://cnnportugal.iol.pt/ordenados/salario-medio/salario-medio-em-portugal-e-de-26-202-euros-por-ano-mais-de-metade-dos-portugueses-nao-chega-la/20261106/6aedb87dd34e9ce6f1b435ec",
@@ -1503,6 +1495,14 @@
   "https://cnnportugal.iol.pt/situacao-de-alerta/depressao-charles/situacao-de-alerta-o-que-significa-que-medidas-implica-e-quais-os-cuidados-a-ter-perante-a-passagem-da-depressao-charles/20261110/6af30584d34e5a653d73394c",
   "https://cnnportugal.iol.pt/videos/este-aviso-nao-e-um-aviso-para-brincar-e-para-levar-a-serio/6af31ad80cf2051820fb1243",
   "https://cnnportugal.iol.pt/videos/mau-tempo-em-lisboa-tuneis-vao-fechar-jardins-serao-interditados-e-circulacao-junto-ao-rio-limitada/6af31b950cf2051820fb1244",
-  "https://cnnportugal.iol.pt/videos/segunda-circular-inundada-condutores-obrigados-a-circular-em-contramao-com-a-ajuda-da-psp/6af31b970cf2cb2507aa822b"
+  "https://cnnportugal.iol.pt/videos/segunda-circular-inundada-condutores-obrigados-a-circular-em-contramao-com-a-ajuda-da-psp/6af31b970cf2cb2507aa822b",
+  "https://cnnportugal.iol.pt/videos/depressao-charles-lisboa-pode-enfrentar-os-efeitos-mais-extremos-do-mau-tempo/6af31e500cf2cb2507aa8232",
+  "https://cnnportugal.iol.pt/videos/aterragem-de-emergencia-acaba-em-colisao-aviao-embate-numa-carrinha-em-plena-estrada/6af31f7e0cf2051820fb124e",
+  "https://cnnportugal.iol.pt/banco-de-fomento/bfp/pj-faz-buscas-a-empresas-por-suspeita-de-fraude-ao-banco-de-fomento-no-uso-de-fundos-publicos/20261110/6af3348bd34e5a653d7339cc",
+  "https://cnnportugal.iol.pt/acidente/bulgaria/choque-em-cadeia-na-bulgaria-faz-pelo-menos-12-mortos-e-50-feridos-maior-acidente-rodoviario-do-pais-envolveu-quase-90-veiculos/20261110/6af32d3dd34e5a653d7339b1",
+  "https://cnnportugal.iol.pt/pete-hegseth/hegseth/pete-hegseth-diz-que-processo-de-destituicao-contra-si-e-uma-encenacao-politica/20261110/6af329c0d34e5a653d7339a1",
+  "https://cnnportugal.iol.pt/guerra/guerra-na-ucrania/paulo-rangel-critica-secretario-geral-da-nato-que-acusou-portugal-de-dizer-que-a-guerra-na-ucrania-e-longe-e-afeta-sobretudo-a-polonia/20261110/6af32f93d34e5a653d7339b5",
+  "https://cnnportugal.iol.pt/mortes-portimao/hospital-de-portimao/carneiro-diz-que-ha-uma-quarta-morte-no-hospital-de-portimao-e-responsabiliza-montenegro/20261110/6af330bcd34e5a653d7339b8",
+  "https://cnnportugal.iol.pt/tempestade-charles/depressao-charles/mau-tempo-os-101-municipios-que-podem-ter-cheias-urbanas/20261110/6af32f06d34e5a653d7339b4"
  ]
 }
