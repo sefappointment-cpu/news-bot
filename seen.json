@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/09/publico-brasil/noticia/cplp-quer-transformar-mercado-300-milhoes-pessoas-industria-audiovisual-2194271",
-  "https://www.publico.pt/2026/11/09/enter/noticia/alice-huang-suspeita-espionagem-industrial-abala-lider-nvidia-2194304",
   "https://www.publico.pt/2026/11/09/mundo/noticia/franca-acusa-guardas-revolucao-irao-ciberataque-frigorificos-supermercados-2194327",
   "https://www.publico.pt/2026/11/09/azul/entrevista/pavan-sukhdev-ninguem-preco-natureza-excepto-zero-2190792",
   "https://www.publico.pt/2026/11/09/video/nvidia-investiga-caso-extraconjugal-ceo-suposta-espia-chinesa-accoes-empresa-queda-20261109-153417",
@@ -499,11 +497,11 @@
   "https://www.publico.pt/2026/11/14/culturaipsilon/noticia/cancoes-sao-trazem-pracas-2194942",
   "https://www.publico.pt/2026/11/14/ciencia/noticia/indice-massa-corporal-insuficiente-avaliar-obesidade-2194850",
   "https://www.publico.pt/2026/11/14/opiniao/opiniao/culpa-2194943",
-  "https://www.publico.pt/2026/11/14/publico-brasil/opiniao/mulheres-tecnologia-inovam-desigualdade-persiste-2194965"
+  "https://www.publico.pt/2026/11/14/publico-brasil/opiniao/mulheres-tecnologia-inovam-desigualdade-persiste-2194965",
+  "https://www.publico.pt/2026/11/14/desporto/noticia/portugal-quer-deixar-segundo-lugar-dinamarca-noruega-2194958",
+  "https://www.publico.pt/2026/11/14/fugas/cronica/maldicao-lagareiro-levounos-adorado-bacalhau-cozido-2194269"
  ],
  "Observador": [
-  "https://observador.pt/opiniao/portugal-e-a-bolha-imobiliaria",
-  "https://observador.pt/2026/11/11/executiva-suspeita-de-espionagem-para-a-china-tinha-ligacoes-a-investidor-sancionado-diz-o-financial-times",
   "https://observador.pt/2026/11/11/democrata-scott-colom-eleito-senador-pelo-mississippi-e-o-primeiro-democrata-eleito-senador-pelo-estado-em-mais-de-40-anos",
   "https://observador.pt/2026/11/11/ps-acores-acusa-governo-regional-de-falta-de-credibilidade-pelos-23-milhoes-aos-agricultores-e-saida-da-ryanair",
   "https://observador.pt/2026/11/11/__trashed-1220",
@@ -1001,12 +999,11 @@
   "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-jogar-gta",
   "https://observador.pt/programas/5-continentes/rutte-vs-portugal-quem-tem-razao-no-insolito-duelo",
   "https://observador.pt/programas/m-quinas-que-pensam/ia-tomou-de-assalto-a-web-summit-e-ninguem-estranhou",
-  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2563"
+  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2563",
+  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2577",
+  "https://observador.pt/programas/conversas-do-fim-do-mundo/frederico-a-conquista-da-europa"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/o-estado-nao-consegue-tutelar-a-100-a-paragem-do-setor-privado-tem-regras-proprias-de-funcionamento/6af353230cf2cb2507aa82d6",
-  "https://cnnportugal.iol.pt/videos/primeiro-ministro-admite-que-pais-vai-viver-horas-dificeis-com-a-tempestade-charles/6af357600cf235b99ef50777",
-  "https://cnnportugal.iol.pt/videos/tempestade-charles-a-situacao-e-grave-e-merece-todos-os-nossos-cuidados/6af352580cf2051820fb12fb",
   "https://cnnportugal.iol.pt/montenegro/primeiro-ministro/nao-vamos-deixar-ninguem-sozinho-montenegro-pede-aos-portugueses-que-nao-subestimem-o-perigo-da-tempestade-charles-mas-nao-ha-razao-para-entrarmos-em-panico/20261110/6af35c13d34e9ce6f1b43dbb",
   "https://cnnportugal.iol.pt/naion/ozempic/wegovy-mounjaro-ou-ozempic-fda-alerta-para-risco-de-condicao-ocular-grave-associada-a-estes-medicamentos/20261110/6af35bf4d34e9ce6f1b43dba",
   "https://cnnportugal.iol.pt/videos/pode-mesmo-haver-um-sting-jet-em-portugal-nas-proximas-horas-mas-a-possibilidade-e-bastante-reduzida/6af349a70cf2cb2507aa82c6",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/videos/suspensao-de-voos-nos-eua-o-problema-e-que-temos-uma-percecao-de-que-nao-ha-falhas-porque-se-trata-da-maior-potencia-do-mundo/6af7aac80cf2cb2507aa8a45",
   "https://cnnportugal.iol.pt/videos/tudo-o-que-acontece-na-aviacao-tem-um-efeito-domino-e-e-por-isso-que-a-situacao-nos-aeroportos-pode-ficar-caotica/6af7ac020cf2051820fb1a9f",
   "https://cnnportugal.iol.pt/videos/ninguem-faz-uma-atualizacao-de-software-as-15-00-com-os-avioes-cheios-de-pessoas/6af7aa310cf2051820fb1a9d",
-  "https://cnnportugal.iol.pt/espaco-aereo/avioes-eua/tres-horas-de-incerteza-o-filme-do-dia-em-que-os-eua-voltaram-a-ficar-sem-espaco-aereo/20261114/6af7c9a5d34e9ce6f1b44667"
+  "https://cnnportugal.iol.pt/espaco-aereo/avioes-eua/tres-horas-de-incerteza-o-filme-do-dia-em-que-os-eua-voltaram-a-ficar-sem-espaco-aereo/20261114/6af7c9a5d34e9ce6f1b44667",
+  "https://cnnportugal.iol.pt/protestos/habitacao/32-cidades-saem-hoje-a-rua-pelo-direito-a-morar/20261114/6af81e31d34e5a653d73430e",
+  "https://cnnportugal.iol.pt/aviacao/espaco-aereo/espaco-aereo-reaberto-eua-retomam-voos-apos-quatro-horas-de-fecho-e-seis-mil-ligacoes-canceladas-em-todo-o-mundo/20261114/6af81c8ad34e9ce6f1b44669",
+  "https://cnnportugal.iol.pt/criancas/rastreios/rita-tem-diabetes-descobriu-que-a-filha-tambem-portugal-espera-por-medicamento-inovador-que-atrasa-necessidade-de-insulina/20261114/6af73a39d34e5a653d7341b7"
  ]
 }
