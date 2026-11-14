@@ -1,10 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/09/culturaipsilon/noticia/the-end-of-everything-m-john-harrison-vence-premio-booker-2026-2194378",
-  "https://www.publico.pt/2026/11/09/culturaipsilon/noticia/museu-oxford-fez-restituicao-historica-restos-humanos-comunidade-naga-2194372",
-  "https://www.publico.pt/2026/11/09/politica/noticia/alteracoes-oe2027-ad-reforca-papel-freguesias-habitacao-2194371",
-  "https://www.publico.pt/2026/11/09/politica/noticia/mortes-hospital-portimao-ana-paula-martins-razoes-continuar-2194375",
-  "https://www.publico.pt/2026/11/09/sociedade/noticia/habitacao-lisboa-levanta-tendas-rossio-porto-mantemnas-negoceia-camara-2194382",
   "https://www.publico.pt/2026/11/09/enter/noticia/agentes-ia-manus-ja-email-numero-telefone-carteira-digital-2194374",
   "https://www.publico.pt/2026/11/10/opiniao/opiniao/anestesia-social-dura-realidade-psp-exigese-dignidade-futuro-ontem-2194290",
   "https://www.publico.pt/2026/11/10/opiniao/cronica/defesas-cerebrais-2194273",
@@ -499,16 +494,14 @@
   "https://www.publico.pt/2026/11/14/mundo/noticia/kremlin-confirma-encontro-putin-trump-xi-shenzhen-2194997",
   "https://www.publico.pt/2026/11/14/azul/noticia/cop31-milhares-pessoas-exigem-antalia-ambicao-climatica-2194992",
   "https://www.publico.pt/2026/11/14/azul/noticia/presidente-cop31-aposta-electrificacao-nao-promete-fim-fosseis-2194991",
-  "https://www.publico.pt/2026/11/14/sociedade/noticia/ministerio-autoriza-orquestra-geracao-contratar-dia-apos-denuncia-professores-falta-2194994"
+  "https://www.publico.pt/2026/11/14/sociedade/noticia/ministerio-autoriza-orquestra-geracao-contratar-dia-apos-denuncia-professores-falta-2194994",
+  "https://www.publico.pt/2026/11/14/politica/noticia/lobo-davila-espera-coragem-ps-motor-mudanca-reformismo-pais-2195007",
+  "https://www.publico.pt/2026/11/14/desporto/noticia/raguebi-portugal-perde-samoa-entrega-nations-cup-georgia-2195004",
+  "https://www.publico.pt/2026/11/14/desporto/noticia/liga-nacoes-noruega-vence-gales-foge-ultimo-lugar-grupo-2195008",
+  "https://www.publico.pt/2026/11/14/video/manifestantes-lisboa-contam-valores-casas-condicionam-escolas-vida-20261114-181525",
+  "https://www.publico.pt/2026/11/14/desporto/noticia/fpf-pede-urgencia-governo-ar-avancar-mudancas-arbitragem-2195006"
  ],
  "Observador": [
-  "https://observador.pt/programas/gabinete-de-guerra/russia-e-ucrania-nao-vao-abdicar-das-suas-linhas-vermelhas",
-  "https://observador.pt/liveblogs/enviados-norte-americanos-aterram-em-moscovo-para-reuniao-com-vladimir-putin",
-  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2561",
-  "https://observador.pt/2026/11/12/cavalo-selvagem-nove-ide-sem-temor-que-malkovich-paga-o-bilhete",
-  "https://observador.pt/2026/11/12/ministra-diz-que-recebeu-garantias-para-melhorar-urgencia-de-portimao-antes-de-reconduzir-presidente-em-setembro",
-  "https://observador.pt/2026/11/12/mau-tempo-seis-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva",
-  "https://observador.pt/2026/11/12/ministro-dos-negocios-estrangeiros-chines-pede-a-rubio-que-washington-preserve-estabilidade-entre-china-e-eua",
   "https://observador.pt/2026/11/12/joana-vasconcelos-apresenta-exposicao-de-serigrafias-ineditas-inspiradas-nos-signos-do-zodiaco",
   "https://observador.pt/2026/11/12/franca-ameaca-de-bomba-na-estacao-de-caminhos-de-ferro-de-calais",
   "https://observador.pt/programas/e-o-vencedor-e/governo-previne-tempestade-e-chega-assemelha-se-a-esquerda",
@@ -1001,11 +994,16 @@
   "https://observador.pt/programas/emissao-especial/da-moda-ao-teatro-com-jose-antonio-tenente",
   "https://observador.pt/2026/11/14/orquestra-geracao-ja-tem-autorizacao-para-contratar-os-professores-que-faltam",
   "https://observador.pt/2026/11/14/nem-a-preguica-faz-mossa-quando-ha-haaland-a-assistir-noruega-vence-gales-com-golo-de-schjelderup",
-  "https://observador.pt/programas/noticiario/as-noticias-das-19h-2221"
+  "https://observador.pt/programas/noticiario/as-noticias-das-19h-2221",
+  "https://observador.pt/2026/11/14/mais-de-10-mil-pessoas-manifestam-se-contra-a-deterioracao-do-clima-na-cop31",
+  "https://observador.pt/programas/noticiario/as-noticias-das-21h-1817",
+  "https://observador.pt/2026/11/14/buscas-por-homem-desaparecido-em-tavira-suspensas-ao-terceiro-dia-sem-resultados",
+  "https://observador.pt/2026/11/14/ugt-preocupada-com-abrandamento-dos-salarios-e-insiste-em-revisitar-acordo-de-concertacao-social",
+  "https://observador.pt/especiais/tom-de-seguro-propostas-de-pedro-nuno-e-uma-silent-disco-o-arranque-dos-estados-gerais-de-carneiro",
+  "https://observador.pt/2026/11/14/byd-copiou-o-rolls-royce-em-tudo-menos-no-que-interessa",
+  "https://observador.pt/2026/11/14/oito-mortos-e-20-feridos-em-acidente-de-autocarro-na-colombia"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/temos-incendios-porque-temos-uma-ma-gestao-da-floresta-e-no-inverno-chegam-as-consequencias/6af4360a0cf2051820fb1434",
-  "https://cnnportugal.iol.pt/nvidia/alice-huang/taiwan-confirma-entrada-no-pais-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia/20261111/6af42466d34e9ce6f1b43e5f",
   "https://cnnportugal.iol.pt/videos/autarca-de-faro-alerta-para-horas-criticas-junta-se-precipitacao-elevada-pico-de-mare-e-ventos-fortes/6af439020cf2cb2507aa8416",
   "https://cnnportugal.iol.pt/espaco-aereo-nato/cacas-nato/drones-entram-no-espaco-aereo-dos-tres-paises-balticos-cacas-da-nato-obrigados-a-intervir/20261111/6af43eb7d34e9ce6f1b43ea5",
   "https://cnnportugal.iol.pt/stacy-keach/morreu-stacy-keach/morreu-stacy-keach-ator-que-interpretou-o-famoso-mike-hammer-aos-85-anos/20261111/6af4476ad34e9ce6f1b43ec8",
@@ -1503,6 +1501,8 @@
   "https://cnnportugal.iol.pt/videos/jogadores-de-portugal-vao-homenagear-cristiano-ronaldo-com-esta-camisola/6af8a0550cf235b99ef50faf",
   "https://cnnportugal.iol.pt/videos/selecao-hino-com-coro-e-homenagem-o-estadio-a-cristiano-ronaldo/6af8bd340cf2cb2507aa8ada",
   "https://cnnportugal.iol.pt/videos/jogadores-da-selecao-entram-em-campo-com-o-7-de-cristiano-ronaldo-nas-costas/6af8bc4d0cf2aafa0453e8d0",
-  "https://cnnportugal.iol.pt/eurovisao/asia/filipinas-vencem-a-primeira-eurovisao-asia-veja-aqui-a-atuacao/20261114/6af8b7e8d34e9ce6f1b446fd"
+  "https://cnnportugal.iol.pt/eurovisao/asia/filipinas-vencem-a-primeira-eurovisao-asia-veja-aqui-a-atuacao/20261114/6af8b7e8d34e9ce6f1b446fd",
+  "https://cnnportugal.iol.pt/videos/assistimos-a-uma-das-maiores-manifestacoes-de-sempre-protestos-pela-habitacao-voltam-as-ruas/6af8bded0cf235b99ef50fbf",
+  "https://cnnportugal.iol.pt/autoeuropa/volkswagen/comissao-de-trabalhadores-da-autoeuropa-prioridades-sao-defesa-do-emprego-e-garantir-o-futuro-da-fabrica/20261114/6af8c0e5d34e9ce6f1b4470b"
  ]
 }
