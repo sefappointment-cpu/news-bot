@@ -1,8 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/09/sociedade/noticia/serie-pide-mocambique-vence-premio-vicente-jorge-silva-2193883",
-  "https://www.publico.pt/2026/11/09/local/noticia/coimbra-presidente-junta-vai-cafe-mes-falar-fregueses-2194343",
-  "https://www.publico.pt/2026/11/09/local/noticia/nao-so-ruido-ha-peca-nova-abordagem-vida-nocturna-lisboa-2194338",
   "https://www.publico.pt/2026/11/09/politica/noticia/oe2027-ps-acusa-ministro-financas-dramatizar-nega-propostas-levem-defice-2194353",
   "https://www.publico.pt/2026/11/09/mundo/noticia/trump-nao-faz-mea-culpa-intercalares-deportacoes-podem-demasiado-2194328",
   "https://www.publico.pt/2026/11/09/economia/noticia/acores-perderam-71-passageiros-aereos-desde-saida-ryanair-2194352",
@@ -499,17 +496,12 @@
   "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981",
   "https://www.publico.pt/2026/11/14/local/noticia/camara-lisboa-tribunal-accao-popular-tenta-travar-hasta-publica-terrenos-municipais-2194955",
   "https://www.publico.pt/2026/11/14/ciencia/noticia/maioria-pessoas-transgenero-nao-arrepende-anos-terapia-hormonal-revela-estudo-2194587",
-  "https://www.publico.pt/2026/11/14/publico-brasil/noticia/gabriel-braga-nunes-maria-flor-trazem-portugal-peca-depressao-adolescente-2194962"
+  "https://www.publico.pt/2026/11/14/publico-brasil/noticia/gabriel-braga-nunes-maria-flor-trazem-portugal-peca-depressao-adolescente-2194962",
+  "https://www.publico.pt/2026/11/14/azul/opiniao/acoes-climaticas-precisam-whey-2194807",
+  "https://www.publico.pt/2026/11/14/politica/noticia/carneiro-quer-mostrar-ps-bem-vivo-estados-gerais-atira-agressividade-governo-2194983",
+  "https://www.publico.pt/2026/11/14/mundo/noticia/notas-enterradas-floresta-hungria-recupera-17-milhoes-euros-apos-investigacao-ministro-orban-2194980"
  ],
  "Observador": [
-  "https://observador.pt/opiniao/o-buraco-n-o-19",
-  "https://observador.pt/programas/noticiario/as-noticias-das-2h-2466",
-  "https://observador.pt/programas/noticiario/as-noticias-das-3h-2493",
-  "https://observador.pt/programas/noticiario/as-noticias-das-4h-2457",
-  "https://observador.pt/liveblogs/acampada-regressa-e-instala-se-ao-lado-da-web-summit-para-protesto-descentralizado",
-  "https://observador.pt/programas/vamos-a-bola/nem-50-cent-ou-charles-jj-so-pensa-em-ganhar",
-  "https://observador.pt/2026/11/12/ebenezer-um-conto-de-natal-fantasmas-a-mais-e-espirito-natalicio-a-menos",
-  "https://observador.pt/programas/conferencia-de-imprensa/ps-lidera-intencoes-de-voto-e-coloca-a-ad-10-pontos-atras",
   "https://observador.pt/programas/noticiario/as-noticias-das-6h-2550",
   "https://observador.pt/programas/as-historias-da-biblia/como-e-que-o-cristianismo-passou-do-medio-oriente-para-roma",
   "https://observador.pt/programas/a-historia-das-historias/as-origens-de-matanca-freguesia-em-fornos-de-algodres",
@@ -1001,12 +993,17 @@
   "https://observador.pt/2026/11/14/fernando-araujo-diz-que-e-preciso-novo-folego-na-saude",
   "https://observador.pt/liveblogs/habitacao-32-cidades-saem-hoje-a-rua-pelo-direito-a-morar",
   "https://observador.pt/programas/noticiario/as-noticias-das-13h-2505",
-  "https://observador.pt/2026/11/14/carneiro-pede-aos-portugueses-que-voltem-a-confiar-no-ps-e-evita-prazos-para-novo-programa-eleitoral"
+  "https://observador.pt/2026/11/14/carneiro-pede-aos-portugueses-que-voltem-a-confiar-no-ps-e-evita-prazos-para-novo-programa-eleitoral",
+  "https://observador.pt/2026/11/14/melanie-santos-30-a-classificada-na-taca-do-mundo-de-triatlo-de-miyazaki",
+  "https://observador.pt/especiais/governo-prolonga-contrato-com-tapada-do-outeiro-ate-2029-central-da-turbogas-vai-manter-servico-de-arranque-rapido-em-caso-de-apagao",
+  "https://observador.pt/programas/noticiario/as-noticias-das-14h-2533",
+  "https://observador.pt/2026/11/14/tribunal-mocambicano-mantem-em-vigor-diploma-que-regula-importacao-de-arroz-e-trigo",
+  "https://observador.pt/2026/11/14/voos-da-companhia-mocambicana-lam-podem-ser-afetados-por-limitacoes-no-combustivel",
+  "https://observador.pt/2026/11/14/lula-da-silva-inaugura-nova-era-de-relacoes-com-as-filipinas-em-visita-aquele-pais-asiatico",
+  "https://observador.pt/2026/11/14/o-made-in-germany-ja-era-nem-a-mercedes-se-pode-dar-ao-luxo-de-fabricar-na-alemanha",
+  "https://observador.pt/2026/11/14/santos-silva-avisa-que-eleicoes-podem-ser-antes-de-2029-pelo-desgaste-do-governo-e-desconfia-de-isaltino"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/reino-unido/base-de-fairford/como-um-agente-iraniano-orquestrou-um-grande-ataque-em-plena-europa-a-partir-de-uma-prisao-em-nova-iorque/20261110/6af3a222d34e5a653d733aca",
-  "https://cnnportugal.iol.pt/videos/vento-forte-ira-afetar-o-algarve-de-uma-forma-severa/6af398290cf235b99ef50822",
-  "https://cnnportugal.iol.pt/videos/os-tuneis-de-drenagem-de-lisboa-ainda-nao-estao-em-funcionamento-mas-estamos-num-bom-caminho/6af398e20cf2051820fb13af",
   "https://cnnportugal.iol.pt/meghan-markle/thomas-markle/pai-de-meghan-markle-volta-a-prisao-depois-de-arrancar-pulseira-eletronica/20261110/6af39470d34e9ce6f1b43e23",
   "https://cnnportugal.iol.pt/videos/ja-comecamos-a-assistir-a-uma-corrida-aos-postos-de-abastecimento-de-combustivel-o-que-nos-causou-algum-transtorno-na-gestao-do-transito/6af396850cf2051820fb13ae",
   "https://cnnportugal.iol.pt/videos/se-ja-equipamos-metade-das-juntas-de-freguesia-com-starlink-ate-acho-que-foi-muito-rapido/6af3a9120cf235b99ef50859",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/voos/lam/voos-da-companhia-mocambicana-lam-podem-ser-afetados-por-limitacoes-no-combustivel/20261114/6af85e94d34e5a653d73435b",
   "https://cnnportugal.iol.pt/jose-luis-carneiro/ps/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam/20261114/6af85dd3d34e5a653d734359",
   "https://cnnportugal.iol.pt/fotos/falha-no-controlo-aereo-dos-estados-unidos-deixou-mais-de-seis-mil-voos-em-terra/6af85b48d34e9ce6f1b446ab",
-  "https://cnnportugal.iol.pt/videos/esperamos-que-desta-vez-sejam-protestos-sem-bastonadas-ja-seria-um-bom-principio-para-fazer-o-que-o-presidente-tem-proposto/6af856d30cf235b99ef50f83"
+  "https://cnnportugal.iol.pt/videos/esperamos-que-desta-vez-sejam-protestos-sem-bastonadas-ja-seria-um-bom-principio-para-fazer-o-que-o-presidente-tem-proposto/6af856d30cf235b99ef50f83",
+  "https://cnnportugal.iol.pt/rei-carlos-iii/carlos-iii/carlos-iii-faz-78-anos-e-escolhe-juntamente-com-elton-john-as-suas-14-cancoes-favoritas/20261114/6af86d42d34e9ce6f1b446b6",
+  "https://cnnportugal.iol.pt/microsoft/falha-tecnica/microsoft-anuncia-o-restabelecimento-total-dos-servicos-apos-a-falha-tecnica/20261114/6af868dcd34e9ce6f1b446b2",
+  "https://cnnportugal.iol.pt/carneiro/jose-luis-carneiro/carneiro-elogia-seguro-por-ter-recebido-manifestantes-e-diz-que-tambem-esta-disponivel/20261114/6af865f7d34e5a653d73435e"
  ]
 }
