@@ -1,8 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/09/enter/noticia/agentes-ia-manus-ja-email-numero-telefone-carteira-digital-2194374",
-  "https://www.publico.pt/2026/11/10/opiniao/opiniao/anestesia-social-dura-realidade-psp-exigese-dignidade-futuro-ontem-2194290",
-  "https://www.publico.pt/2026/11/10/opiniao/cronica/defesas-cerebrais-2194273",
   "https://www.publico.pt/2026/11/10/opiniao/opiniao/falta-imaginacao-ideologica-2194300",
   "https://www.publico.pt/2026/11/10/azul/noticia/preco-combustiveis-ajuda-travar-emissoes-co2-sera-temporario-2194321",
   "https://www.publico.pt/2026/11/10/opiniao/opiniao/sorte-edp-concessionarias-energia-2194093",
@@ -499,15 +496,12 @@
   "https://www.publico.pt/2026/11/14/desporto/noticia/raguebi-portugal-perde-samoa-entrega-nations-cup-georgia-2195004",
   "https://www.publico.pt/2026/11/14/desporto/noticia/liga-nacoes-noruega-vence-gales-foge-ultimo-lugar-grupo-2195008",
   "https://www.publico.pt/2026/11/14/video/manifestantes-lisboa-contam-valores-casas-condicionam-escolas-vida-20261114-181525",
-  "https://www.publico.pt/2026/11/14/desporto/noticia/fpf-pede-urgencia-governo-ar-avancar-mudancas-arbitragem-2195006"
+  "https://www.publico.pt/2026/11/14/desporto/noticia/fpf-pede-urgencia-governo-ar-avancar-mudancas-arbitragem-2195006",
+  "https://www.publico.pt/2026/11/14/p3/cronica/bandeirada-nocturna-2194920",
+  "https://www.publico.pt/2026/11/14/sociedade/noticia/pagar-renda-comer-milhares-exigem-respostas-crise-habitacao-2195005",
+  "https://www.publico.pt/2026/11/14/politica/noticia/rui-moreira-livro-marcelo-preferia-nao-verdade-2195010"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/12/joana-vasconcelos-apresenta-exposicao-de-serigrafias-ineditas-inspiradas-nos-signos-do-zodiaco",
-  "https://observador.pt/2026/11/12/franca-ameaca-de-bomba-na-estacao-de-caminhos-de-ferro-de-calais",
-  "https://observador.pt/programas/e-o-vencedor-e/governo-previne-tempestade-e-chega-assemelha-se-a-esquerda",
-  "https://observador.pt/2026/11/12/soldado-repreende-grupo-de-pete-hegseth-por-conversar-e-rir-em-tumulo-militar-devem-manter-silencio-e-respeito",
-  "https://observador.pt/programas/noticiario/as-noticias-das-9h-2529",
-  "https://observador.pt/programas/explicador/governo-teve-que-decidir-perante-informacao-que-tinha",
   "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/o-ps-nao-aprende-continua-a-convidar-a-dona-constanca",
   "https://observador.pt/2026/11/12/secretario-de-estado-da-protecao-civil-rejeita-criticas-injustas-nao-tomamos-medidas-so-porque-vem-um-dia-de-inverno-rigoroso",
   "https://observador.pt/programas/contra-corrente/caso-nvidia-sexo-mentiras-e-inteligencia-artificial",
@@ -1001,19 +995,15 @@
   "https://observador.pt/2026/11/14/ugt-preocupada-com-abrandamento-dos-salarios-e-insiste-em-revisitar-acordo-de-concertacao-social",
   "https://observador.pt/especiais/tom-de-seguro-propostas-de-pedro-nuno-e-uma-silent-disco-o-arranque-dos-estados-gerais-de-carneiro",
   "https://observador.pt/2026/11/14/byd-copiou-o-rolls-royce-em-tudo-menos-no-que-interessa",
-  "https://observador.pt/2026/11/14/oito-mortos-e-20-feridos-em-acidente-de-autocarro-na-colombia"
+  "https://observador.pt/2026/11/14/oito-mortos-e-20-feridos-em-acidente-de-autocarro-na-colombia",
+  "https://observador.pt/2026/11/14/ha-derrotas-que-nao-sao-derrotas-sao-humilhacoes-a-cronica-do-portugal-dinamarca",
+  "https://observador.pt/2026/11/14/portugal-perde-com-hungria-no-apuramento-para-o-eurobasket-feminino",
+  "https://observador.pt/2026/11/14/pj-detem-suspeito-de-violencia-domestica-sequestro-e-violacao-contra-ex-companheira",
+  "https://observador.pt/2026/11/14/segundo-dia-de-buscas-por-idoso-desaparecido-em-gondomar-suspensas",
+  "https://observador.pt/2026/11/14/chuva-e-vento-provocam-danos-em-tendas-queda-de-arvores-e-inundacoes-em-sao-miguel",
+  "https://observador.pt/2026/11/14/ct-da-autoeuropa-reeleita-diz-que-emprego-e-futuro-da-fabrica-de-palmela-sao-prioridades-para-proximo-trienio"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/autarca-de-faro-alerta-para-horas-criticas-junta-se-precipitacao-elevada-pico-de-mare-e-ventos-fortes/6af439020cf2cb2507aa8416",
-  "https://cnnportugal.iol.pt/espaco-aereo-nato/cacas-nato/drones-entram-no-espaco-aereo-dos-tres-paises-balticos-cacas-da-nato-obrigados-a-intervir/20261111/6af43eb7d34e9ce6f1b43ea5",
-  "https://cnnportugal.iol.pt/stacy-keach/morreu-stacy-keach/morreu-stacy-keach-ator-que-interpretou-o-famoso-mike-hammer-aos-85-anos/20261111/6af4476ad34e9ce6f1b43ec8",
-  "https://cnnportugal.iol.pt/euribor/taxas-euribor/euribor-sobe-a-tres-e-a-12-meses-e-desce-a-seis-meses/20261111/6af44bfbd34e5a653d733b60",
-  "https://cnnportugal.iol.pt/depressao-charles/mau-tempo/ipma-preve-desagravamento-da-intensidade-do-vento-a-depressao-acabou-por-mudar-as-suas-caracteristicas/20261111/6af44066d34e9ce6f1b43eac",
-  "https://cnnportugal.iol.pt/videos/tempestade-na-madeira-provocou-210-ocorrencias-autoridades-alertam-para-risco-de-deslizamentos-de-terra/6af435480cf2051820fb1432",
-  "https://cnnportugal.iol.pt/videos/tuneis-de-lisboa-abrem-e-fecham-consoante-a-acumulacao-de-agua-a-situacao-no-campo-grande/6af434440cf2cb2507aa840d",
-  "https://cnnportugal.iol.pt/videos/tempestade-charles-lojas-fechadas-e-ruas-quase-desertas-em-portalegre-nao-tenho-receio-diz-comerciante-que-decidiu-abrir/6af42ee90cf2cb2507aa8401",
-  "https://cnnportugal.iol.pt/videos/alcacer-do-sal-teme-novas-inundacoes-mare-alta-pode-agravar-situacao/6af433e10cf2aafa0453e1c7",
-  "https://cnnportugal.iol.pt/videos/tempestade-charles-em-faro-estas-sao-as-tres-horas-de-maior-preocupacao/6af4356b0cf2cb2507aa8410",
   "https://cnnportugal.iol.pt/pete-hegseth/secretario-da-defesa/salvo-pelos-republicanos-camara-dos-representantes-trava-tentativa-de-destituicao-de-pete-hegseth/20261111/6af43dc9d34e5a653d733b3b",
   "https://cnnportugal.iol.pt/videos/chuva-intensa-provoca-derrocada-em-setubal-muro-de-campo-de-futebol-desaba-sobre-contentores/6af45aa50cf2051820fb14b3",
   "https://cnnportugal.iol.pt/depressao-charles/tempestade/governo-volta-a-apelar-a-prevencao-e-garante-que-a-parte-mais-dificil-ainda-esta-por-vir/20261111/6af45685d34e9ce6f1b43ef0",
@@ -1503,6 +1493,16 @@
   "https://cnnportugal.iol.pt/videos/jogadores-da-selecao-entram-em-campo-com-o-7-de-cristiano-ronaldo-nas-costas/6af8bc4d0cf2aafa0453e8d0",
   "https://cnnportugal.iol.pt/eurovisao/asia/filipinas-vencem-a-primeira-eurovisao-asia-veja-aqui-a-atuacao/20261114/6af8b7e8d34e9ce6f1b446fd",
   "https://cnnportugal.iol.pt/videos/assistimos-a-uma-das-maiores-manifestacoes-de-sempre-protestos-pela-habitacao-voltam-as-ruas/6af8bded0cf235b99ef50fbf",
-  "https://cnnportugal.iol.pt/autoeuropa/volkswagen/comissao-de-trabalhadores-da-autoeuropa-prioridades-sao-defesa-do-emprego-e-garantir-o-futuro-da-fabrica/20261114/6af8c0e5d34e9ce6f1b4470b"
+  "https://cnnportugal.iol.pt/autoeuropa/volkswagen/comissao-de-trabalhadores-da-autoeuropa-prioridades-sao-defesa-do-emprego-e-garantir-o-futuro-da-fabrica/20261114/6af8c0e5d34e9ce6f1b4470b",
+  "https://cnnportugal.iol.pt/paula-lebre/beatriz-lebre/beatriz-foi-brutalmente-assassinada-aos-22-anos-para-a-mae-paula-o-luto-e-continuo-como-as-ondas-do-mar-nao-tem-fim/20261114/6ae897aad34e5a653d7327b8",
+  "https://cnnportugal.iol.pt/acampada/lisboa/acampada-volta-a-montar-tendas-em-lisboa-desta-vez-nos-restauradores/20261114/6af8d965d34e9ce6f1b44745",
+  "https://cnnportugal.iol.pt/videos/europa-tem-de-ter-a-estrategia-bem-montada-antes-de-entrar-nas-negociacoes-de-paz-ou-acabara-como-responsavel-pela-guerra/6af8d4400cf2cb2507aa8aee",
+  "https://cnnportugal.iol.pt/pedro-passos-coelho/seguranca-social/passos-coelho-espera-que-nao-se-percam-mais-10-anos-sem-reformar-seguranca-social/20261114/6af8d588d34e5a653d7343f5",
+  "https://cnnportugal.iol.pt/videos/a-russia-nao-e-uma-superpotencia-esta-a-ser-levada-a-categoria-de-superpotencia-por-donald-trump/6af8d3410cf2aafa0453e8e5",
+  "https://cnnportugal.iol.pt/videos/encontro-entre-trump-xi-e-putin-mostra-que-a-europa-uma-vez-mais-fica-de-fora/6af8cb030cf2aafa0453e8dd",
+  "https://cnnportugal.iol.pt/videos/a-voz-do-povo-chegou-a-belem-a-insurreicao-pacifica-conseguiu-colocar-a-habitacao-no-topo-da-prioridade-politica/6af8c4d80cf235b99ef50fc5",
+  "https://cnnportugal.iol.pt/videos/se-tempestade-como-kristin-tivesse-atingido-lisboa-estragos-seriam-cinco-vezes-maiores/6af8b67d0cf2aafa0453e8ce",
+  "https://cnnportugal.iol.pt/videos/habitacao-a-unica-instituicao-politica-que-nao-fez-nada-em-mes-e-meio-foi-o-governo/6af8c44e0cf2cb2507aa8ae1",
+  "https://cnnportugal.iol.pt/videos/ha-60-habitacoes-acessiveis-paradas-em-lousada-ihru-nao-responde-a-camara/6af8cc7f0cf2051820fb1b44"
  ]
 }
