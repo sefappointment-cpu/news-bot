@@ -1,10 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/09/culturaipsilon/noticia/arquitectura-brasilia-vaidosa-2194309",
-  "https://www.publico.pt/2026/11/09/desporto/noticia/monaco-seleccao-flavio-nazinho-convocado-primeira-2194320",
-  "https://www.publico.pt/2026/11/09/azul/noticia/sistema-volta-inaugura-quiosque-cascais-acelerar-metas-reciclagem-2194316",
-  "https://www.publico.pt/2026/11/09/mundo/noticia/nove-meses-ucrania-russia-voltam-dialogo-expectativas-baixas-2194228",
-  "https://www.publico.pt/2026/11/09/video/dinheiro-cristiano-trouxe-afinal-cofres-fpf-20261106-200156",
   "https://www.publico.pt/2026/11/09/sociedade/noticia/serie-pide-mocambique-vence-premio-vicente-jorge-silva-2193883",
   "https://www.publico.pt/2026/11/09/local/noticia/coimbra-presidente-junta-vai-cafe-mes-falar-fregueses-2194343",
   "https://www.publico.pt/2026/11/09/local/noticia/nao-so-ruido-ha-peca-nova-abordagem-vida-nocturna-lisboa-2194338",
@@ -499,12 +494,14 @@
   "https://www.publico.pt/2026/11/14/sociedade/noticia/contos-embalar-bandas-desenhadas-alunos-pais-avos-passaram-24-horas-abracar-leitura-2194917",
   "https://www.publico.pt/2026/11/14/enter/podcast/fusao-tesla-spacex-escolher-cabo-carregamento-2194885",
   "https://www.publico.pt/2026/11/14/fugas/noticia/hotel-alboi-aveiro-saber-receber-ja-familia-2194265",
-  "https://www.publico.pt/2026/11/14/azul/noticia/avioes-privados-cop31-emitem-carbono-dez-mil-pessoas-2194977"
+  "https://www.publico.pt/2026/11/14/azul/noticia/avioes-privados-cop31-emitem-carbono-dez-mil-pessoas-2194977",
+  "https://www.publico.pt/2026/11/14/fugas/noticia/antiga-sede-partido-comunista-italiano-hotel-cinco-estrelas-2194982",
+  "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981",
+  "https://www.publico.pt/2026/11/14/local/noticia/camara-lisboa-tribunal-accao-popular-tenta-travar-hasta-publica-terrenos-municipais-2194955",
+  "https://www.publico.pt/2026/11/14/ciencia/noticia/maioria-pessoas-transgenero-nao-arrepende-anos-terapia-hormonal-revela-estudo-2194587",
+  "https://www.publico.pt/2026/11/14/publico-brasil/noticia/gabriel-braga-nunes-maria-flor-trazem-portugal-peca-depressao-adolescente-2194962"
  ],
  "Observador": [
-  "https://observador.pt/opiniao/a-nova-pandemia-a-influenza-dos-influencers",
-  "https://observador.pt/opiniao/o-adulterio-ja-nao-e-o-que-era",
-  "https://observador.pt/opiniao/trotinetes-e-outros-complexos",
   "https://observador.pt/opiniao/o-buraco-n-o-19",
   "https://observador.pt/programas/noticiario/as-noticias-das-2h-2466",
   "https://observador.pt/programas/noticiario/as-noticias-das-3h-2493",
@@ -1001,14 +998,12 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-12h-2495",
   "https://observador.pt/programas/explicador/comandante-jose-guedes-normalizacao-voos-vai-demorar-dias",
   "https://observador.pt/programas/e-o-campeao-e/viuvas-do-ronaldo-aproveitem-a-noite-para-ir-ao-cinema",
-  "https://observador.pt/2026/11/14/fernando-araujo-diz-que-e-preciso-novo-folego-na-saude"
+  "https://observador.pt/2026/11/14/fernando-araujo-diz-que-e-preciso-novo-folego-na-saude",
+  "https://observador.pt/liveblogs/habitacao-32-cidades-saem-hoje-a-rua-pelo-direito-a-morar",
+  "https://observador.pt/programas/noticiario/as-noticias-das-13h-2505",
+  "https://observador.pt/2026/11/14/carneiro-pede-aos-portugueses-que-voltem-a-confiar-no-ps-e-evita-prazos-para-novo-programa-eleitoral"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/guerra/ucrania/soldado-norte-americano-detido-na-europa-por-suspeitas-de-espionagem-para-a-russia/20261110/6af382f4d34e9ce6f1b43e17",
-  "https://cnnportugal.iol.pt/euromilhoes/euromilhoes-terca-feira/euromilhoes-conheca-a-chave-milionaria-desta-terca-feira/20261110/6af37cfed34e5a653d733a9b",
-  "https://cnnportugal.iol.pt/videos/ja-comecamos-a-assistir-a-uma-corrida-aos-postos-de-abastecimento-de-combustivel-que-nos-causou-algum-transtorno-na-gestao-do-transito/6af396850cf2051820fb13ae",
-  "https://cnnportugal.iol.pt/videos/metro-de-lisboa-deixa-cinco-estacoes-abertas-durante-a-noite-para-os-sem-abrigo/6af396d60cf2aafa0453e135",
-  "https://cnnportugal.iol.pt/videos/amanha-e-para-estar-em-casa-tive-de-explicar-ao-meu-filho-que-tinha-de-ficar-em-casa-queria-ir-para-a-escola-mas-e-para-bem-dele/6af3919f0cf2cb2507aa8373",
   "https://cnnportugal.iol.pt/reino-unido/base-de-fairford/como-um-agente-iraniano-orquestrou-um-grande-ataque-em-plena-europa-a-partir-de-uma-prisao-em-nova-iorque/20261110/6af3a222d34e5a653d733aca",
   "https://cnnportugal.iol.pt/videos/vento-forte-ira-afetar-o-algarve-de-uma-forma-severa/6af398290cf235b99ef50822",
   "https://cnnportugal.iol.pt/videos/os-tuneis-de-drenagem-de-lisboa-ainda-nao-estao-em-funcionamento-mas-estamos-num-bom-caminho/6af398e20cf2051820fb13af",
@@ -1503,6 +1498,11 @@
   "https://cnnportugal.iol.pt/corpo-carbonizado/cadaver/corpo-carbonizado-encontrado-numa-casa-em-moura-apos-alerta-para-incendio/20261114/6af84f11d34e5a653d73433d",
   "https://cnnportugal.iol.pt/poupar/compras/esta-aplicacao-portuguesa-ajuda-o-a-poupar-no-supermercado-e-superou-o-chatgpt/20261114/6af31c55d34e9ce6f1b43cfc",
   "https://cnnportugal.iol.pt/videos/ex-principe-harry-vai-participar-na-festa-de-aniversario-do-rei-william-nao-vai-querer-mas-acredito-que-para-o-pai-seja-mais-dificil/6af84ab80cf235b99ef50f58",
-  "https://cnnportugal.iol.pt/videos/eua-viveram-acontecimento-absolutamente-extraordinario-de-impacto-incalculavel/6af839110cf2aafa0453e864"
+  "https://cnnportugal.iol.pt/videos/eua-viveram-acontecimento-absolutamente-extraordinario-de-impacto-incalculavel/6af839110cf2aafa0453e864",
+  "https://cnnportugal.iol.pt/saude/sns/fernando-araujo-diz-que-saude-esta-a-passar-mau-momento-e-precisa-de-nova-visao/20261114/6af85f84d34e9ce6f1b446af",
+  "https://cnnportugal.iol.pt/voos/lam/voos-da-companhia-mocambicana-lam-podem-ser-afetados-por-limitacoes-no-combustivel/20261114/6af85e94d34e5a653d73435b",
+  "https://cnnportugal.iol.pt/jose-luis-carneiro/ps/carneiro-defende-que-ps-esta-bem-vivo-e-pede-que-portugueses-nao-desistam/20261114/6af85dd3d34e5a653d734359",
+  "https://cnnportugal.iol.pt/fotos/falha-no-controlo-aereo-dos-estados-unidos-deixou-mais-de-seis-mil-voos-em-terra/6af85b48d34e9ce6f1b446ab",
+  "https://cnnportugal.iol.pt/videos/esperamos-que-desta-vez-sejam-protestos-sem-bastonadas-ja-seria-um-bom-principio-para-fazer-o-que-o-presidente-tem-proposto/6af856d30cf235b99ef50f83"
  ]
 }
