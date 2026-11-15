@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/10/ciencia/noticia/banda-desenhada-ciencia-estuda-ciencia-2194370",
-  "https://www.publico.pt/2026/11/10/sociedade/noticia/retorno-voluntario-pedidos-apoio-regressar-pais-origem-sobem-40-portugal-2194412",
   "https://www.publico.pt/2026/11/10/sociedade/noticia/tempestade-charles-encerra-tuneis-lisboa-coloca-web-summit-duvida-2194442",
   "https://www.publico.pt/2026/11/10/sociedade/noticia/ministerio-publico-decreta-segredo-justica-processo-acampados-porto-2194437",
   "https://www.publico.pt/2026/11/10/culturaipsilon/noticia/museu-nacional-musica-incorpora-guitarra-phil-mendrix-dedica-mostra-musico-2194425",
@@ -499,11 +497,11 @@
   "https://www.publico.pt/2026/11/15/enter/noticia/italia-multa-meta-805-milhoes-euros-acesso-dados-utilizadores-2195027",
   "https://www.publico.pt/2026/11/15/publico-brasil/noticia/embaixada-brasil-lisboa-celebra-70-anos-sertao-veredas-2195003",
   "https://www.publico.pt/2026/11/15/mundo/noticia/milei-confirma-recandidatura-presidencia-argentina-eleicoes-2027-2195026",
-  "https://www.publico.pt/2026/11/15/enter/noticia/outlook-sistema-trafego-aereo-ma-semana-tecnologia-2195024"
+  "https://www.publico.pt/2026/11/15/enter/noticia/outlook-sistema-trafego-aereo-ma-semana-tecnologia-2195024",
+  "https://www.publico.pt/2026/11/15/sociedade/noticia/csm-denuncia-accoes-descredibilizar-juizes-processos-mediaticos-2195031",
+  "https://www.publico.pt/2026/11/15/publico-brasil/noticia/ronaldinho-gaucho-volta-46-anos-drible-bonito-voltar-jogar-2195029"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/12/dezenas-de-enfermeiros-em-exaustao-exigem-contratacao-de-mais-profissionais-em-lisboa",
-  "https://observador.pt/2026/11/12/perda-de-peso-espancamentos-e-falta-de-cuidados-basicos-medico-palestiniano-detido-por-israel-ha-23-meses-pode-estar-em-risco-de-vida",
   "https://observador.pt/2026/11/12/aguiar-branco-afasta-conflito-mas-responde-a-hugo-soares-o-parlamento-nunca-fecha",
   "https://observador.pt/2026/11/12/justica-continua-por-concretizar-35-anos-apos-massacre-de-santa-cruz",
   "https://observador.pt/2026/11/12/norte-de-portugal-e-galiza-querem-afirmar-se-como-espaco-economico-competitivo",
@@ -1001,12 +999,11 @@
   "https://observador.pt/2026/11/15/caso-nvidia-tecnologica-megaspeed-diz-que-executiva-alice-huang-deixou-a-empresa-em-2025",
   "https://observador.pt/programas/noticiario/as-noticias-das-12h-2496",
   "https://observador.pt/especiais/o-judoca-riner-a-desejada-lagarde-e-a-sensacao-de-outono-lisnard-os-nomes-fora-da-caixa-que-baralham-o-centro-em-franca",
-  "https://observador.pt/especiais/gta-vi-as-origens-as-polemicas-e-o-regresso-mais-aguardado-do-mundo-dos-videojogos"
+  "https://observador.pt/especiais/gta-vi-as-origens-as-polemicas-e-o-regresso-mais-aguardado-do-mundo-dos-videojogos",
+  "https://observador.pt/programas/noticiario/as-noticias-das-13h-2506",
+  "https://observador.pt/especiais/se-nao-consigo-aliviar-a-dor-de-uma-pessoa-posso-tentar-compreender-o-que-esta-a-viver-sem-a-fazer-sentir-que-o-problema-e-ela"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/alerta/mau-tempo/mai-diz-que-estado-de-alerta-termina-a-meia-noite-e-espera-que-quinta-feira-retorne-a-normalidade/20261111/6af485f8d34e5a653d733c4a",
-  "https://cnnportugal.iol.pt/videos/tempestade-charles-o-pior-pode-ainda-estar-para-chegar-ao-algarve/6af482990cf2aafa0453e2d1",
-  "https://cnnportugal.iol.pt/videos/o-periodo-mais-grave-esta-ai-a-porta-ministro-alerta-para-cheias/6af480a70cf2cb2507aa853b",
   "https://cnnportugal.iol.pt/videos/este-comportamento-e-revoltante-comandante-critica-quem-se-aproxima-de-zonas-perigosas-durante-a-tempestade/6af47ac50cf235b99ef509d5",
   "https://cnnportugal.iol.pt/videos/pode-faltar-ao-trabalho-por-causa-da-tempestade-sem-perder-o-salario-saiba-o-que-diz-a-lei/6af46fe20cf2aafa0453e2b8",
   "https://cnnportugal.iol.pt/videos/tempestade-charles-avenida-marginal-pode-ser-cortada-nas-proximas-horas-admite-isaltino-morais/6af479550cf235b99ef509d2",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/videos/declaracoes-de-jj-sairam-mal-esta-a-atirar-o-cristiano-para-a-reforma/6af99a410cf2051820fb1b8e",
   "https://cnnportugal.iol.pt/videos/jogadores-da-selecao-dao-autografos-e-tiram-selfies-depois-da-derrota-pesada/6af997500cf2051820fb1b8c",
   "https://cnnportugal.iol.pt/videos/foi-daqueles-dias-em-que-saiu-tudo-bem-a-equipa-adversaria/6af9956b0cf2aafa0453e91c",
-  "https://cnnportugal.iol.pt/videos/nao-teve-so-a-ver-comigo-nao-fizemos-um-bom-jogo/6af994880cf2cb2507aa8b2a"
+  "https://cnnportugal.iol.pt/videos/nao-teve-so-a-ver-comigo-nao-fizemos-um-bom-jogo/6af994880cf2cb2507aa8b2a",
+  "https://cnnportugal.iol.pt/videos/site-da-asae-alvo-de-ciberataque-vulnerabilidades-da-plataforma-masterlink-sao-conhecidas/6af9ae790cf2aafa0453e935",
+  "https://cnnportugal.iol.pt/madrid/comboios/linha-madrid-avila-cortada-apos-descarrilamento-de-comboio/20261115/6af9aadbd34e5a653d73445c",
+  "https://cnnportugal.iol.pt/asae/ataque-informatico/asae-alvo-de-ataque-informatico-hacked-by-jose-socrates/20261115/6af9a88ad34e9ce6f1b44795"
  ]
 }
