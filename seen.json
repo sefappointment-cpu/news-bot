@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/12/opiniao/opiniao/ministro-ufano-orcamento-encolhido-2194588",
-  "https://www.publico.pt/2026/11/12/opiniao/opiniao/verdadeira-coragem-governo-ficou-gaveta-2194599",
   "https://www.publico.pt/2026/11/12/opiniao/cronica/mau-tempo-tempo-2194583",
   "https://www.publico.pt/2026/11/12/enter/noticia/ataque-informatico-worten-acederam-dados-clientes-prestadores-nao-dados-financeiros-2194673",
   "https://www.publico.pt/2026/11/11/mundo/noticia/edificio-tres-andares-desabou-nova-iorque-pessoa-presas-2194672",
@@ -499,19 +497,11 @@
   "https://www.publico.pt/2026/11/17/desporto/cronica_de_jogo/novo-7-salvou-portugal-cardiff-2195322",
   "https://www.publico.pt/2026/11/17/mundo/noticia/nao-ha-alerta-apagao-17-novembro-narrativa-falsa-redes-sociais-2195321",
   "https://www.publico.pt/2026/11/17/enter/reportagem/revolucionario-polemico-acido-grand-theft-auto-vi-promete-maiores-jogos-2195287",
-  "https://www.publico.pt/2026/11/17/p3/cronica/mae-nao-culpa-2195137"
+  "https://www.publico.pt/2026/11/17/p3/cronica/mae-nao-culpa-2195137",
+  "https://www.publico.pt/2026/11/17/ciencia/noticia/sellas-life-sciences-dispara-156-apos-divulgacao-dados-vacina-cancro-2195324",
+  "https://www.publico.pt/2026/11/17/mundo/noticia/indigenas-awa-isolados-maranhao-pedem-comida-encontro-raro-relata-survival-international-2195323"
  ],
  "Observador": [
-  "https://observador.pt/programas/as-historias-da-biblia/o-irmao-de-jesus-e-o-inicio-judaico-do-cristianismo",
-  "https://observador.pt/programas/portugues-suave/como-sao-escolhidos-os-nomes-das-tempestades",
-  "https://observador.pt/programas/operacao-stop/carros-que-sofrem-com-a-chuva-eis-o-que-fazer-e-nao-fazer",
-  "https://observador.pt/programas/fora-do-baralho/e-agora-quem-no-partido-democrata-vai-liderar",
-  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2564",
-  "https://observador.pt/programas/em-40-minutos/goncalo-lopes-ainda-temos-a-tempestade-dentro-de-nos",
-  "https://observador.pt/opiniao/a-cruzada-ridicula-da-ue-por-kits-de-sobrevivencia",
-  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2578",
-  "https://observador.pt/programas/amiga-faz-parte/quase-desisti-do-ironman-c-claudia-dias",
-  "https://observador.pt/2026/11/15/pequim-proibe-posse-de-drones-em-nome-da-seguranca-publica",
   "https://observador.pt/2026/11/15/eua-perdem-estatuto-de-pais-livre-de-sarampo-apos-numero-recorde-de-casos",
   "https://observador.pt/2026/11/15/emmanuel-macron-pede-unidade-e-consenso-antes-da-eleicao-do-lider-da-francofonia",
   "https://observador.pt/2026/11/15/mil-juizes-e-outros-profissionais-reunidos-para-assinalar-50-anos-do-conselho-da-magistratura",
@@ -1001,17 +991,19 @@
   "https://observador.pt/2026/11/17/o-all-in-de-um-viking-nao-e-mesmo-um-all-in-qualquer-noruega-vence-dinamarca-com-reviravolta-nos-descontos-e-segue-em-frente",
   "https://observador.pt/2026/11/17/resultados-da-nvidia-surpreendem-receitas-e-lucros-do-gigante-tecnologico-duplicaram-no-espaco-de-um-ano",
   "https://observador.pt/2026/11/17/cabeca-de-serie-a-jogar-a-segunda-mao-em-casa-e-com-tres-adversarios-possiveis-o-caminho-de-portugal-na-liga-das-nacoes",
-  "https://observador.pt/2026/11/17/o-dia-em-que-a-mae-de-forbs-tera-ficado-contente-com-o-golo-deste-numero-7-a-cronica-do-pais-de-gales-portugal"
+  "https://observador.pt/2026/11/17/o-dia-em-que-a-mae-de-forbs-tera-ficado-contente-com-o-golo-deste-numero-7-a-cronica-do-pais-de-gales-portugal",
+  "https://observador.pt/2026/11/17/acampada-de-lisboa-determina-mobilizacao-permanente-nos-restauradores-e-marca-assembleia-popular-junto-ao-parlamento-no-sabado",
+  "https://observador.pt/2026/11/17/igualdade-primeira-ia-nao-so-discriminou-como-amplificou-a-discriminacao",
+  "https://observador.pt/programas/sem-falta/gales-x-portugal-neto-e-bem-expulso",
+  "https://observador.pt/especiais/e-depois-das-agressoes-de-que-precisa-a-vitima-e-o-que-devem-fazer-os-agressiores-e-os-pais",
+  "https://observador.pt/2026/11/17/eua-faa-suspende-instalacao-de-routers-ligados-a-suspensao-do-trafego-aereo",
+  "https://observador.pt/programas/relat-rio-de-jogo/gales-x-portugal-exibicao-defensiva-deficitaria",
+  "https://observador.pt/2026/11/17/novo-vw-t-roc-r-e-o-desportivo-que-vai-bater-o-golf-r",
+  "https://observador.pt/2026/11/17/israel-ameaca-retaliar-apos-reino-unido-sancionar-oito-empresas-ligadas-a-colonatos-na-cisjordania",
+  "https://observador.pt/2026/11/17/israel-candidato-apoiado-por-bloco-de-eisenkot-e-partidos-arabes-eleito-presidente-do-knesset",
+  "https://observador.pt/2026/11/17/mondlane-acusa-juizes-de-gincana-e-de-pequeno-favor-a-pgr-para-a-acusacao-nao-cair-por-terra"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/empresas-ferroviarias/microsoft/empresas-ferroviarias-registam-atrasos-nas-comunicacoes-devido-a-falha-nos-servicos-da-microsoft/20261113/6af6e6cbd34e5a653d734112",
-  "https://cnnportugal.iol.pt/cop31/cimeira-do-clima/do-abandono-dos-combustiveis-fosseis-ao-reforco-do-financiamento-para-adaptacao-cop31-divulga-propostas-para-acordo-climatico/20261113/6af70778d34e9ce6f1b444bb",
-  "https://cnnportugal.iol.pt/teatro-d-maria-ii/governo/trabalhadores-do-teatro-d-maria-ii-acusam-governo-de-grave-ingerencia-em-processo-negocial/20261113/6af7066dd34e9ce6f1b444b8",
-  "https://cnnportugal.iol.pt/microsoft/falha-global/microsoft-afirma-que-as-plataformas-estao-a-ser-gradualmente-restabelecidas-estes-foram-os-servicos-mais-afetados/20261113/6af7022cd34e5a653d734165",
-  "https://cnnportugal.iol.pt/tentativa-de-homicidio/policia-judiciaria/tera-tentado-atropelar-ex-namorada-e-atual-companheiro-duas-vezes-foi-detido-em-matosinhos/20261113/6af7025ed34e5a653d734167",
-  "https://cnnportugal.iol.pt/el-nino/vortice-polar/neste-inverno-e-vortice-polar-contra-el-nino-o-primeiro-confronto-comeca-agora/20261113/6af6ff60d34e9ce6f1b444ac",
-  "https://cnnportugal.iol.pt/russia/ucrania/novo-ataque-novo-alvo-explosao-de-carro-em-moscovo-fere-gravemente-antigo-porta-voz-de-ex-primeiro-ministro-ucraniano/20261113/6af6f379d34e5a653d73413e",
-  "https://cnnportugal.iol.pt/videos/alteracoes-climaticas-sao-um-tema-urgente-e-ate-proveitoso-nao-temos-nenhuma-razao-para-hesitar/6af6f71d0cf2051820fb1915",
   "https://cnnportugal.iol.pt/videos/reuniao-de-seguro-com-os-manifestantes-mostra-que-o-poder-politico-ao-mais-alto-nivel-esta-atento/6af6f5ac0cf2cb2507aa88f8",
   "https://cnnportugal.iol.pt/videos/a-presenca-de-um-representante-europeu-na-mesa-de-negociacoes-para-a-paz-na-ucrania-implica-retroceder-nas-medidas-restritivas/6af6c4c40cf235b99ef50d4b",
   "https://cnnportugal.iol.pt/videos/operacao-golpe-final-apanha-dois-suspeitos-e-recupera-bens-de-furto-milionario/6af6f38a0cf2cb2507aa88f5",
@@ -1503,6 +1495,14 @@
   "https://cnnportugal.iol.pt/videos/uma-parte-da-boa-performance-economica-de-portugal-e-comida-pela-inflacao/6afcc8910cf2aafa0453edaa",
   "https://cnnportugal.iol.pt/parlamento-israelita/israel/candidato-da-oposicao-eleito-presidente-do-parlamento-israelita/20261117/6afccc96d34e9ce6f1b44b9b",
   "https://cnnportugal.iol.pt/carlos-moedas/presidente-da-camara-de-lisboa/carlos-moedas-quer-criar-empresa-metropolitana-de-habitacao-para-responder-a-crise-em-lisboa/20261117/6afcc8cad34e9ce6f1b44b8c",
-  "https://cnnportugal.iol.pt/ministerio-publico/inquerito/ministerio-publico-abre-inquerito-tutelar-educativo-sobre-agressao-a-aluna-numa-escola-em-lisboa/20261117/6afcbf06d34e9ce6f1b44b76"
+  "https://cnnportugal.iol.pt/ministerio-publico/inquerito/ministerio-publico-abre-inquerito-tutelar-educativo-sobre-agressao-a-aluna-numa-escola-em-lisboa/20261117/6afcbf06d34e9ce6f1b44b76",
+  "https://cnnportugal.iol.pt/videos/cf7-alguns-colegas-brincaram-comigo-mas-tudo-na-desportiva/6afce1a80cf2cb2507aa8fb3",
+  "https://cnnportugal.iol.pt/videos/quenda-revela-dura-de-jesus-estava-a-falar-para-mim-e-eu-a-olhar-para-tras/6afce0bf0cf2cb2507aa8fb1",
+  "https://cnnportugal.iol.pt/videos/normalmente-um-jogador-que-desarma-no-chao-arrisca-se-a-levar-amarelo/6afcda710cf2051820fb2040",
+  "https://cnnportugal.iol.pt/videos/goncalo-ramos-respeito-muito-aqueles-jogadores-que-tem-estatuto-de-carreira/6afcd9f90cf2cb2507aa8fae",
+  "https://cnnportugal.iol.pt/videos/sorteio-nao-estou-preocupado-os-adversarios-e-que-devem-ficar/6afcd9240cf2cb2507aa8fac",
+  "https://cnnportugal.iol.pt/videos/aquele-winger-que-estava-do-nosso-lado-direito-estava-nos-a-complicar/6afcd7ce0cf2aafa0453edce",
+  "https://cnnportugal.iol.pt/videos/jorge-jesus-hoje-o-treinador-bellamy-quis-enganar-me/6afcd7b40cf2cb2507aa8faa",
+  "https://cnnportugal.iol.pt/videos/jorge-jesus-analisa-o-que-correu-nos-primeiros-6-jogos-na-selecao/6afcd6e40cf2aafa0453edca"
  ]
 }
