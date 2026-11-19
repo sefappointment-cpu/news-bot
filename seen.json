@@ -1,11 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/12/sociedade/noticia/alunos-pais-avos-professores-ler-durante-24-horas-escola-mundo-2194241",
-  "https://www.publico.pt/2026/11/12/enter/noticia/zombie-data-fuga-dados-fica-realmente-passado-2194804",
-  "https://www.publico.pt/2026/11/12/economia/noticia/fim-ciclo-jensen-huang-estilhacar-mito-2194809",
-  "https://www.publico.pt/2026/11/12/p3/cronica/escola-prisao-2194746",
-  "https://www.publico.pt/2026/11/12/culturaipsilon/noticia/dino-dsantiago-vence-grammy-latino-2194823",
-  "https://www.publico.pt/2026/11/12/desporto/noticia/inglaterra-harry-kane-avanca-quartosdefinal-liga-nacoes-2194819",
   "https://www.publico.pt/2026/11/12/desporto/noticia/benfica-alcanca-segundo-triunfo-liga-campeoes-feminina-2194822",
   "https://www.publico.pt/2026/11/13/sociedade/noticia/charles-ipma-anteviu-desagravamento-18h-dia-anterior-excluir-totalmente-cenarios-gravosos-2194825",
   "https://www.publico.pt/2026/11/13/opiniao/opiniao/tradicao-market-2194791",
@@ -499,20 +493,15 @@
   "https://www.publico.pt/2026/11/19/sociedade/noticia/crises-sucessivas-geracao-preparada-exige-lugar-mesa-decisoes-2195126",
   "https://www.publico.pt/2026/11/19/sociedade/noticia/duplicou-numero-jovens-proximos-conflito-activo-2195129",
   "https://www.publico.pt/2026/11/19/enter/noticia/gta-vi-febre-polemicas-volta-jogo-aguardado-mundo-2195448",
-  "https://www.publico.pt/2026/11/19/opiniao/opiniao/cartas-director-2195405"
+  "https://www.publico.pt/2026/11/19/opiniao/opiniao/cartas-director-2195405",
+  "https://www.publico.pt/2026/11/19/enter/noticia/grand-theft-auto-vi-epico-americano-impressionante-vai-roubarte-coracao-2195443",
+  "https://www.publico.pt/2026/11/19/sociedade/noticia/quase-74-diferenca-salarial-mulheres-homens-nao-explicacao-2195388",
+  "https://www.publico.pt/2026/11/19/politica/entrevista/tome-pinto-desafia-seguro-ir-homenagem-militares-25-novembro-nao-hade-aparecer-2195367",
+  "https://www.publico.pt/2026/11/19/sociedade/noticia/recurso-consultora-apoiar-execucao-plano-emergencia-saude-levanta-duvidas-tribunal-2195462",
+  "https://www.publico.pt/2026/11/19/economia/noticia/lactogal-pascual-preparam-fusao-criar-gigante-iberico-lacticinios-2195449",
+  "https://www.publico.pt/2026/11/19/mundo/noticia/cimeira-trump-putin-xi-reuniao-losers-2195398"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/17/governo-nega-intervencao-na-saida-de-luisa-meireles-da-lusa-e-na-escolha-de-diana-ramos",
-  "https://observador.pt/2026/11/17/dois-estrangeiros-detidos-pela-pj-por-abuso-de-cartao-bancario-e-fraude-informatica",
-  "https://observador.pt/2026/11/17/projeto-maos-ao-chao-vai-representar-portugal-na-bienal-de-arquitetura-de-veneza-2027",
-  "https://observador.pt/2026/11/17/temperatura-da-agua-do-estuario-do-rio-sado-podera-aumentar-dois-graus-ate-2100",
-  "https://observador.pt/opiniao/o-abraco-de-meca",
-  "https://observador.pt/opiniao/a-fadiga-da-empatia-na-vida-social-e-politica",
-  "https://observador.pt/programas/noticiario/as-noticias-das-00h-2475",
-  "https://observador.pt/opiniao/defesa-nacional-o-ministro-penumbra-do-chega-e-a-politica-da-indignacao-permanente",
-  "https://observador.pt/opiniao/o-santo-oficio-da-esquerda-e-a-heresia-de-votar-a-direita",
-  "https://observador.pt/opiniao/a-falencia-nao-devia-ser-uma-pena-perpetua-para-o-pequeno-empresario",
-  "https://observador.pt/opiniao/a-inteligencia-artificial-e-a-estupidez-natural",
   "https://observador.pt/opiniao/lideranca-feminina-uma-vantagem-competitiva-na-era-da-ia",
   "https://observador.pt/opiniao/o-lugar-da-psicologia-no-mundo-dos-negocios",
   "https://observador.pt/opiniao/devia-ter-emigrado",
@@ -1001,13 +990,20 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-2h-2473",
   "https://observador.pt/2026/11/19/duplicar-imi-para-casas-nao-arrendadas-de-nao-residentes-em-zonas-de-pressao-da-pouca-receita-adicional-ao-estado",
   "https://observador.pt/programas/noticiario/as-noticias-das-4h-2463",
-  "https://observador.pt/programas/a-hist-ria-do-dia/pode-um-debate-salvar-pedro-sanchez"
+  "https://observador.pt/programas/a-hist-ria-do-dia/pode-um-debate-salvar-pedro-sanchez",
+  "https://observador.pt/liveblogs/quatro-greves-ate-2-de-dezembro-podem-fechar-escolas-em-todo-o-pais",
+  "https://observador.pt/programas/resposta-pronta/rui-caetano-se-o-paredes-ganhar-no-dragao-sera-inedito",
+  "https://observador.pt/programas/vamos-a-bola/na-prova-rainha-caetano-pede-dia-mau-ao-fcp",
+  "https://observador.pt/programas/conferencia-de-imprensa/quatro-greves-em-duas-semanas-escolas-devem-fechar",
+  "https://observador.pt/liveblogs/putin-trump-e-xi-vao-reunir-se-antes-presidente-norte-americano-encontrou-se-com-homologo-russo-e-chines",
+  "https://observador.pt/programas/noticiario/as-noticias-das-6h-2557",
+  "https://observador.pt/programas/as-historias-da-biblia/havia-casas-no-eden-ou-a-arquitetura-so-veio-depois",
+  "https://observador.pt/programas/a-nossa-cultura/bugatti-com-quase-100-anos-introduz-periodo-historico-da-f1",
+  "https://observador.pt/programas/tratar-da-saude/frieiras-porque-aparecem-e-como-podemos-evita-las",
+  "https://observador.pt/programas/a-historia-das-historias/a-historia-antiga-de-fraguas-vila-nova-de-paiva",
+  "https://observador.pt/programas/agenda-cultural-sintrense/dos-radio-macau-a-musica-para-bebes-uma-semana-em-sintra"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/santos-silva/eleicoes/santos-silva-admite-que-legislativas-podem-ser-antes-de-2029-devido-a-desgaste-do-governo/20261114/6af88506d34e5a653d73437f",
-  "https://cnnportugal.iol.pt/clima/ambiente/governo-sauda-acordo-sobre-licencas-de-emissao-de-carbono-dirigidas-a-industria-europeia/20261114/6af883d9d34e9ce6f1b446cb",
-  "https://cnnportugal.iol.pt/videos/situacao-absolutamente-insustentavel-na-habitacao-do-ponto-de-vista-do-diagnostico-ja-esta-tudo-feito/6af881c50cf235b99ef50f9a",
-  "https://cnnportugal.iol.pt/clima/carbono/foi-assim-que-a-ilha-privada-de-marlon-brando-inspirou-um-plano-para-retirar-a-poluicao-por-carbono-da-atmosfera/20261114/6af1a1c3d34e9ce6f1b43ae2",
   "https://cnnportugal.iol.pt/videos/joana-montenegro-classifica-como-lamentavel-a-atitude-que-montenegro-face-aos-protestos-pela-habitacao/6af88dcf0cf235b99ef50fa7",
   "https://cnnportugal.iol.pt/videos/portugal-precisa-de-muita-construcao-o-mais-rapido-possivel-e-preciso-que-mais-rapidamente-haja-mais-oferta/6af88cb50cf2051820fb1b12",
   "https://cnnportugal.iol.pt/avioes/aviacao/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa/20261114/6af89fcad34e9ce6f1b446e8",
@@ -1503,6 +1499,10 @@
   "https://cnnportugal.iol.pt/videos/documentos-sobre-os-elevadores-de-lisboa-nao-estao-guardados-na-gaveta-nao-ha-uma-ma-intencao-declarada/6afe305d0cf2aafa0453ef86",
   "https://cnnportugal.iol.pt/podcast/almirante-gouveia-e-melo/podcast-entre-dois-mundos-com-almirante-gouveia-e-melo/20260604/6a21600ed34e28842c84d2ad",
   "https://cnnportugal.iol.pt/anthropic/bolsa/anthropic-fixa-preco-de-oferta-publica-inicial-em-83-dolares-por-acao-segundo-a-imprensa/20261118/6afe3830d34e9ce6f1b44da7",
-  "https://cnnportugal.iol.pt/videos/gouveia-e-melo-diz-que-europa-devia-estar-representada-na-cimeira-da-apec/6afe29f90cf2cb2507aa914f"
+  "https://cnnportugal.iol.pt/videos/gouveia-e-melo-diz-que-europa-devia-estar-representada-na-cimeira-da-apec/6afe29f90cf2cb2507aa914f",
+  "https://cnnportugal.iol.pt/manteigas/cheias/cheias-em-manteigas-obrigam-a-suspensao-das-aulas-no-pre-escolar-e-ensino-primario/20261119/6afe9850d34e00c0c0612f2f",
+  "https://cnnportugal.iol.pt/donald-trump/eua/nenhum-presidente-fez-isso-a-pompa-e-linda-trump-sublinha-tratamento-historico-na-visita-a-china-dispensado-por-xi-jinping/20261119/6afe97b0d34e5c259ebb6d07",
+  "https://cnnportugal.iol.pt/videos/quem-e-aquele-e-o-meu-amigo-o-momento-em-que-trump-e-putin-encontram-se-na-china/6afe95d90cf2778fa9ca6f96",
+  "https://cnnportugal.iol.pt/donald-trump/vladimir-putin/trump-esteve-reunido-em-privado-com-o-amigo-putin-antes-do-encontro-trilateral-com-a-china/20261119/6afe906dd34e5c259ebb6cff"
  ]
 }
