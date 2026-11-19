@@ -1,14 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/13/impar/noticia/cultas-vinho-verde-rita-nabais-2194893",
-  "https://www.publico.pt/2026/11/13/p3/noticia/42-mil-jovens-pediram-consultas-psicologia-nutricionista-gratuitas-desde-julho-2194875",
-  "https://www.publico.pt/2026/11/13/azul/noticia/depressao-charles-trouxe-recorde-absoluto-precipitacao-madeira-2194905",
-  "https://www.publico.pt/2026/11/13/impar/noticia/policia-investigar-acusacoes-conduta-sexual-impropria-david-walliams-2194921",
-  "https://www.publico.pt/2026/11/13/fugas/noticia/feijoada-dialogo-sabor-partilha-brasil-portugal-2194337",
-  "https://www.publico.pt/2026/11/13/mundo/noticia/onde-vai-africa-sul-decadencia-politica-partido-mandela-2194721",
-  "https://www.publico.pt/2026/11/13/sociedade/noticia/governo-ignora-perguntas-partidos-fim-proteccao-rui-pinto-2194925",
-  "https://www.publico.pt/2026/11/13/mundo/noticia/justica-espanhola-manda-encerrar-grupo-neonazi-portavoz-16-armas-casa-2194935",
-  "https://www.publico.pt/2026/11/13/publico-brasil/opiniao/lula-intencao-reposicionar-brasil-agenda-mundial-ia-2194938",
   "https://www.publico.pt/2026/11/13/economia/noticia/ip-previsao-reabertura-tunel-alcantara-2194915",
   "https://www.publico.pt/2026/11/13/politica/noticia/montenegro-reafirma-confianca-ministra-saude-apesar-polemicas-sns-2194926",
   "https://www.publico.pt/2026/11/13/sociedade/noticia/personalidades-pedem-seguro-ajude-defender-democracia-escola-publica-2194918",
@@ -499,16 +490,18 @@
   "https://www.publico.pt/2026/11/19/sociedade/noticia/exames-9-ano-passam-publicos-provas-moda-sao-antecipadas-abril-2195606",
   "https://www.publico.pt/2026/11/19/publico-brasil/noticia/brasileirao-tera-tecnico-portugues-campeao-neste-ano-vencedor-sair-sabado-2195609",
   "https://www.publico.pt/2026/11/19/p3/noticia/acores-alentejo-maiores-prevalencias-comportamentos-adictivos-jovens-2195559",
-  "https://www.publico.pt/2026/11/19/ciencia/noticia/nova-variante-sarscov2-contagiosa-vacina-actual-eficaz-sabemos-2195596"
+  "https://www.publico.pt/2026/11/19/ciencia/noticia/nova-variante-sarscov2-contagiosa-vacina-actual-eficaz-sabemos-2195596",
+  "https://www.publico.pt/2026/11/19/culturaipsilon/noticia/dois-mil-tal-anos-manosfera-arder-inferno-carolina-bianchi-2195233",
+  "https://www.publico.pt/2026/11/19/video/mudou-ano-crise-climatica-dez-paises-dez-perguntas-20261118-143312",
+  "https://www.publico.pt/2026/11/19/mundo/noticia/reabertura-debate-brexit-divide-partido-trabalhista-governo-burnham-2195574",
+  "https://www.publico.pt/2026/11/19/mundo/noticia/burnham-busca-parceria-resiliencia-economica-ue-2195601",
+  "https://www.publico.pt/2026/11/19/p3/opiniao/tourada-rtp-independencia-editorial-nao-ficar-merce-politico-2195538",
+  "https://www.publico.pt/2026/11/19/azul/noticia/producao-estimada-mundial-vinho-2026-mantemse-perto-minimos-historicos-2195497",
+  "https://www.publico.pt/2026/11/19/fugas/noticia/portowashington-nova-rota-tap-estreiase-primavera-2195624",
+  "https://www.publico.pt/2026/11/19/impar/noticia/britanica-joanne-young-drogada-violada-varios-homens-convite-marido-2195616",
+  "https://www.publico.pt/2026/11/19/desporto/noticia/arbitros-lisboa-denunciam-violencia-2195625"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/17/porto-post-doc-alarga-13-a-edicao-a-matosinhos-e-braga-e-traz-121-filmes",
-  "https://observador.pt/2026/11/17/associacoes-protestam-sabado-em-lisboa-contra-industrializacao-que-ameaca-territorios",
-  "https://observador.pt/2026/11/17/camara-de-ilhavo-nega-poluicao-na-praia-da-barra-apos-aparecer-faixa-de-areia-preta",
-  "https://observador.pt/2026/11/17/diretor-da-psp-diz-que-uso-da-forca-e-sempre-o-ultimo-recurso",
-  "https://observador.pt/programas/caf-espanha/esquerda-refem-e-direita-dividida-nos-impostos-em-espanha",
-  "https://observador.pt/programas/noticiario/as-noticias-das-18h-2191",
-  "https://observador.pt/2026/11/17/europa-e-a-regiao-com-maior-prevalencia-de-tabagismo-adulto-no-mundo-e-lidera-uso-de-cigarros-eletronicos-entre-adolescentes",
   "https://observador.pt/2026/11/17/hospitais-privados-acordam-aumento-de-120-euros-em-2-anos-para-9-500-trabalhadores",
   "https://observador.pt/2026/11/17/tripulantes-de-cabine-da-azores-airlines-vao-fazer-greve-em-dezembro",
   "https://observador.pt/2026/11/17/pcp-propoe-concursos-publicos-para-presidencias-das-unidades-locais-de-saude",
@@ -1001,12 +994,16 @@
   "https://observador.pt/2026/11/19/fundada-associacao-de-vitimas-e-dos-seus-familiares-de-violencia-politica-e-violacao-dos-direitos-humanos",
   "https://observador.pt/programas/gabinete-de-guerra/putin-marca-pontos-por-estar-sentado-na-mesma-mesa",
   "https://observador.pt/especiais/rita-matias-nao-quero-que-soe-a-graxa-mas-andre-ventura-e-o-portugues-da-decada",
-  "https://observador.pt/2026/11/19/vivo-com-uma-dor-dificil-de-descrever-quatro-homens-condenados-por-violarem-mulher-drogada-pelo-marido-ao-longo-de-13-anos"
+  "https://observador.pt/2026/11/19/vivo-com-uma-dor-dificil-de-descrever-quatro-homens-condenados-por-violarem-mulher-drogada-pelo-marido-ao-longo-de-13-anos",
+  "https://observador.pt/2026/11/19/governo-britanico-brinca-com-o-novo-bond-e-aproveita-piada-sobre-pattinson-para-promover-90-000-empregos-para-jovens",
+  "https://observador.pt/2026/11/19/primeiro-black-hawk-assinala-em-tancos-regresso-do-exercito-a-aviacao-militar",
+  "https://observador.pt/programas/noticiario/as-noticias-das-21h-1822",
+  "https://observador.pt/2026/11/19/isencao-de-mais-valia-nas-vendas-de-segundas-casas-ate-300-mil-euros-ou-na-amortizacao-do-credito-a-habitacao-conforme-proposto-pelo-ps",
+  "https://observador.pt/2026/11/19/comissao-de-trabalhadores-da-rtp-diz-que-transmissao-de-touradas-e-atentado-a-autonomia-e-intromissao-bafienta",
+  "https://observador.pt/2026/11/19/sindicato-exige-demissao-do-diretor-geral-de-reinsercao-e-dos-servicos-prisionais",
+  "https://observador.pt/2026/11/19/coimbra-celebra-fim-de-ano-com-concertos-de-jose-cid-e-diogo-picarra"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/aldeia/macedonia-do-norte/uma-aldeia-da-macedonia-do-norte-pede-que-seja-declarado-o-estado-de-crise-devido-a-invasao-de-mais-de-mil-vacas/20261116/6af75dd6d34e5a653d734236",
-  "https://cnnportugal.iol.pt/ucrania/russia/ricardo-silvestre-a-paz-dos-chantagistas/20261116/6afabbb4d34e9ce6f1b44882",
-  "https://cnnportugal.iol.pt/comissoes-bancarias/credito-a-habitacao/ps-garante-fim-das-comissoes-bancarias-por-reembolso-antecipado-do-credito-a-habitacao-a-partir-de-2027/20261116/6afab76bd34e9ce6f1b44881",
   "https://cnnportugal.iol.pt/escola-nacional-de-bombeiros/bombeiros/escola-nacional-de-bombeiros-admite-atrasos-nos-pagamentos-a-formadores-estao-por-liquidar-175-mil-euros/20261116/6afab36ed34e9ce6f1b4487e",
   "https://cnnportugal.iol.pt/educacao-fisica/notas/notas-maximas-a-educacao-fisica-no-ensino-secundario-sao-quase-tres-vezes-mais-frequentes-no-privado-professores-pedem-investigacao/20261116/6afab124d34e5a653d73454b",
   "https://cnnportugal.iol.pt/videos/da-discussao-em-bruxelas-para-o-reforco-do-apoio-a-ucrania-ao-pedido-de-investigacao-as-notas-de-educacao-fisica-estas-sao-as-5-noticias-que-vao-marcar-o-dia/6afaa3f80cf2051820fb1c18",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/pedro-sanchez/alberto-nunez-feijoo/veja-esta-noite-em-direto-na-cnn-portugal-o-unico-debate-entre-os-candidatos-a-primeiro-ministro-de-espanha/20261119/6aff47fa0cf2e35d2614a25b",
   "https://cnnportugal.iol.pt/coligacao-negativa/coligacoes-negativas/oe2027-governo-preocupado-com-coligacao-negativa-e-coligacao-de-defice-entre-ps-e-chega/20261119/6aff5d4ed34e00c0c06131bb",
   "https://cnnportugal.iol.pt/eurodreams/eurodreams-hoje/eurodreams-esta-e-a-chave-desta-quinta-feira/20261119/6aff5896d34e00c0c06131b3",
-  "https://cnnportugal.iol.pt/videos/carlos-moedas-corre-o-risco-de-perder-o-mandato-segundo-os-advogados-das-familias-das-vitimas-sandra-felgueiras-explica-porque/6aff4d890cf25a4e1b1ad707"
+  "https://cnnportugal.iol.pt/videos/carlos-moedas-corre-o-risco-de-perder-o-mandato-segundo-os-advogados-das-familias-das-vitimas-sandra-felgueiras-explica-porque/6aff4d890cf25a4e1b1ad707",
+  "https://cnnportugal.iol.pt/pedro-sanchez/pp/sanchez-reconhece-erros-mas-promete-avancos-face-ao-retrocesso-do-pp-e-vox/20261119/6aff69dfd34e00c0c06131cb",
+  "https://cnnportugal.iol.pt/videos/relatorios-sobre-ascensores-de-lisboa-foram-sonegados-a-vereacao-da-oposicao-e-aos-lisboetas-em-geral/6aff51260cf2398804d6d893",
+  "https://cnnportugal.iol.pt/ciberataque/ataque-informatico/imt-alvo-de-varios-ciberataques-todos-os-servicos-em-baixo-temporariamente-por-precaucao/20261119/6aff6252d34e00c0c06131bf"
  ]
 }
