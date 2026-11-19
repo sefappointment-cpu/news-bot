@@ -1,8 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/13/culturaipsilon/noticia/rui-torrinha-novo-director-teatro-municipal-porto-2194812",
-  "https://www.publico.pt/2026/11/13/opiniao/opiniao/mau-tempo-passou-problema-politico-2194756",
-  "https://www.publico.pt/2026/11/13/mundo/noticia/oito-mortos-duas-criancas-colapso-predio-nova-iorque-2194829",
   "https://www.publico.pt/2026/11/13/local/noticia/literacia-inclusao-debate-encontro-bibliotecas-comunitarias-2194830",
   "https://www.publico.pt/2026/11/13/culturaipsilon/opiniao/legalidade-legitimidade-ensinadas-criancinhas-2194399",
   "https://www.publico.pt/2026/11/13/politica/noticia/identidade-genero-human-rights-watch-pede-parlamento-rejeite-revisao-lei-2194774",
@@ -499,16 +496,12 @@
   "https://www.publico.pt/2026/11/19/mundo/noticia/novo-plano-transferir-migrantes-ruanda-revela-obsessao-europa-retorno-2195451",
   "https://www.publico.pt/2026/11/19/sociedade/noticia/matou-rosalina-historia-duarte-lima-versao-brasileira-2192925",
   "https://www.publico.pt/2026/11/19/sociedade/noticia/matou-rosalina-historia-duarte-lima-2192315",
-  "https://www.publico.pt/2026/11/19/ciencia/opiniao/ciencia-portugal-anuncios-menos-condicoes-investigar-2195185"
+  "https://www.publico.pt/2026/11/19/ciencia/opiniao/ciencia-portugal-anuncios-menos-condicoes-investigar-2195185",
+  "https://www.publico.pt/2026/11/19/impar/entrevista/tania-graca-nao-odeio-homens-odeio-sistema-patriarcal-2195410",
+  "https://www.publico.pt/2026/11/19/newsletter/despertador",
+  "https://www.publico.pt/2026/11/19/publico-brasil/noticia/aima-impediu-ir-enterro-irmao-mae-imigrante-2195463"
  ],
  "Observador": [
-  "https://observador.pt/programas/e-o-resto-e-historia/de-gaulle-o-homem-que-era-maior-do-que-os-outros",
-  "https://observador.pt/programas/a-historia-das-historias/um-passeio-pela-arqueologia-de-fornos-de-algodres",
-  "https://observador.pt/programas/a-nossa-cultura/equipamento-de-treino-transformado-em-armadura-feminina",
-  "https://observador.pt/programas/tratar-da-saude/tonturas-repentinas-sera-uma-quebra-de-tensao",
-  "https://observador.pt/2026/11/17/voces-vao-vencer-a-guerra-principe-harry-faz-discurso-motivacional-em-quarta-visita-a-ucrania",
-  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2580",
-  "https://observador.pt/programas/tres-toques/brasil-ancelotti-reage-aos-ataques-de-romario-a-selecao",
   "https://observador.pt/programas/no-se-fala-de-outra-coisa/de-vampiro-a-james-bond-robert-pattinson-e-o-novo-007",
   "https://observador.pt/2026/11/17/bolsas-mais-valor-em-saude-para-quatro-unidades-locais-de-saude-do-sns",
   "https://observador.pt/2026/11/17/lider-norte-coreano-visita-fronteira-com-a-china-pais-que-podera-visitar-esta-semana",
@@ -1001,15 +994,16 @@
   "https://observador.pt/programas/gabinete-de-guerra/o-que-esperar-da-reuniao-entre-xi-jinping-trump-e-putin",
   "https://observador.pt/2026/11/19/governo-britanico-pede-a-google-que-elimine-conta-de-russell-brand-no-youtube-mulher-do-ator-usou-a-para-partilhar-mensagem-da-prisao",
   "https://observador.pt/programas/resposta-pronta/alexandra-leitao-moedas-nao-pode-continuar-a-esconder-se",
-  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2568"
+  "https://observador.pt/programas/noticiario/as-noticias-das-7h-2568",
+  "https://observador.pt/2026/11/19/festival-porto-post-doc-arranca-esta-quinta-feira-traz-121-filmes-e-o-ciclo-no-pais-dos-outros",
+  "https://observador.pt/2026/11/19/flamengo-de-leonardo-jardim-a-um-triunfo-do-bis-no-brasileirao",
+  "https://observador.pt/programas/e-o-vencedor-e/ps-e-chega-juntam-se-no-oe-adeus-bonus-ola-meias-no-natal",
+  "https://observador.pt/2026/11/19/anthropic-devera-bater-recorde-da-spacex-com-encaixe-de-724-mil-milhoes-na-entrada-em-bolsa",
+  "https://observador.pt/programas/noticiario/as-noticias-das-9h-2536",
+  "https://observador.pt/2026/11/19/trump-pondera-atacar-irao-apos-receber-informacoes-de-que-teerao-pode-estar-a-desenvolver-armas-biologicas",
+  "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/isaltino-deve-achar-que-em-portugal-vale-tudo"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/jorge-jesus-distribui-fotos-e-cumprimentos-na-partida-da-selecao-para-o-estadio/6af8a4200cf2051820fb1b21",
-  "https://cnnportugal.iol.pt/fotografia/belas-artes/ele-reimaginou-o-retrato-de-casamento-dos-pais-invertendo-os-papeis/20261114/6ae9eee2d34e9ce6f1b42ccd",
-  "https://cnnportugal.iol.pt/videos/jogadores-de-portugal-vao-homenagear-cristiano-ronaldo-com-esta-camisola/6af8a0550cf235b99ef50faf",
-  "https://cnnportugal.iol.pt/videos/selecao-hino-com-coro-e-homenagem-o-estadio-a-cristiano-ronaldo/6af8bd340cf2cb2507aa8ada",
-  "https://cnnportugal.iol.pt/videos/jogadores-da-selecao-entram-em-campo-com-o-7-de-cristiano-ronaldo-nas-costas/6af8bc4d0cf2aafa0453e8d0",
-  "https://cnnportugal.iol.pt/eurovisao/asia/filipinas-vencem-a-primeira-eurovisao-asia-veja-aqui-a-atuacao/20261114/6af8b7e8d34e9ce6f1b446fd",
   "https://cnnportugal.iol.pt/videos/assistimos-a-uma-das-maiores-manifestacoes-de-sempre-protestos-pela-habitacao-voltam-as-ruas/6af8bded0cf235b99ef50fbf",
   "https://cnnportugal.iol.pt/autoeuropa/volkswagen/comissao-de-trabalhadores-da-autoeuropa-prioridades-sao-defesa-do-emprego-e-garantir-o-futuro-da-fabrica/20261114/6af8c0e5d34e9ce6f1b4470b",
   "https://cnnportugal.iol.pt/paula-lebre/beatriz-lebre/beatriz-foi-brutalmente-assassinada-aos-22-anos-para-a-mae-paula-o-luto-e-continuo-como-as-ondas-do-mar-nao-tem-fim/20261114/6ae897aad34e5a653d7327b8",
@@ -1503,6 +1497,12 @@
   "https://cnnportugal.iol.pt/manteigas/enxurrada/principais-ruas-de-manteigas-foram-limpas-durante-a-noite-apos-enxurrada/20261119/6afea1d0d34e5c259ebb6d0d",
   "https://cnnportugal.iol.pt/anthropic/spacex/anthropic-prepara-se-para-protagonizar-uma-das-maiores-estreias-em-bolsa-de-sempre-com-angariacao-de-79-4-mil-milhoes-de-dolares/20261119/6afe9f79d34e00c0c0612f32",
   "https://cnnportugal.iol.pt/juntos-contra-a-depressao/podcast/podcast-juntos-contra-a-depressao/20261119/6a9826fad34ed0733ba8310c",
-  "https://cnnportugal.iol.pt/videos/quem-e-aquele-e-o-meu-amigo-o-momento-em-que-trump-e-putin-se-encontram-na-china/6afe95d90cf2778fa9ca6f96"
+  "https://cnnportugal.iol.pt/videos/quem-e-aquele-e-o-meu-amigo-o-momento-em-que-trump-e-putin-se-encontram-na-china/6afe95d90cf2778fa9ca6f96",
+  "https://cnnportugal.iol.pt/videos/vladimir-putin-e-um-criminoso-de-guerra-e-trump-insiste-em-tiradas-um-pouco-macabras/6afeb45f0cf25a4e1b1ad575",
+  "https://cnnportugal.iol.pt/videos/a-russia-e-uma-potencia-regional-em-bicos-de-pes-vladimir-putin-foi-a-china-apenas-para-estar-na-fotografia/6afeb3f50cf2e35d2614a0b1",
+  "https://cnnportugal.iol.pt/videos/este-e-um-concerto-do-mundo-feito-numa-logica-do-poder-china-e-russia-sao-duas-potencias-amarguradas-com-a-historia/6afebfc10cf2778fa9ca6fad",
+  "https://cnnportugal.iol.pt/videos/podemos-fazer-tudo-o-que-quisermos-dentro-do-jogo-o-novo-gta-vi-da-rockstar-promete-muito/6afeb5bc0cf25a4e1b1ad576",
+  "https://cnnportugal.iol.pt/videos/as-imagens-impressionantes-da-enxurrada-em-manteigas-apos-chuva-intensa/6afeb18d0cf2778fa9ca6f99",
+  "https://cnnportugal.iol.pt/comissao-europeia/ciberataque/comissao-europeia-alvo-de-ciberataque-que-podera-ter-exposto-uma-quantidade-significativa-de-dados-pessoais/20261119/6afeb4ecd34e5c259ebb6d1d"
  ]
 }
