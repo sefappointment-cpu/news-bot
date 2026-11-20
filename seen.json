@@ -1,9 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/15/sociedade/noticia/noite-tranquila-restauradores-lisboa-cerca-40-tendas-montadas-2195028",
-  "https://www.publico.pt/2026/11/15/enter/noticia/italia-multa-meta-805-milhoes-euros-acesso-dados-utilizadores-2195027",
-  "https://www.publico.pt/2026/11/15/publico-brasil/noticia/embaixada-brasil-lisboa-celebra-70-anos-sertao-veredas-2195003",
-  "https://www.publico.pt/2026/11/15/mundo/noticia/milei-confirma-recandidatura-presidencia-argentina-eleicoes-2027-2195026",
   "https://www.publico.pt/2026/11/15/enter/noticia/outlook-sistema-trafego-aereo-ma-semana-tecnologia-2195024",
   "https://www.publico.pt/2026/11/15/sociedade/noticia/csm-denuncia-accoes-descredibilizar-juizes-processos-mediaticos-2195031",
   "https://www.publico.pt/2026/11/15/publico-brasil/noticia/ronaldinho-gaucho-volta-46-anos-drible-bonito-voltar-jogar-2195029",
@@ -499,16 +495,13 @@
   "https://www.publico.pt/2026/11/20/video/pai-natal-consumismo-missao-sustainaclaus-cop31-20261120-173129",
   "https://www.publico.pt/2026/11/20/azul/noticia/barroso-desce-capital-janeiro-manifestacao-minas-litio-2195677",
   "https://www.publico.pt/2026/11/20/impar/noticia/90-anos-norteamericana-annette-aulas-fitness-actividade-abracou-75-2195733",
-  "https://www.publico.pt/2026/11/20/politica/noticia/oposicao-consegue-aprovar-obras-saude-financiamentos-2195579"
+  "https://www.publico.pt/2026/11/20/politica/noticia/oposicao-consegue-aprovar-obras-saude-financiamentos-2195579",
+  "https://www.publico.pt/2026/11/20/economia/noticia/moodys-sobe-rating-portugal-a2-2195806",
+  "https://www.publico.pt/2026/11/20/p3/cronica/covas-barroso-vive-terra-paga-preco-transicao-verde-europeia-2195740",
+  "https://www.publico.pt/2026/11/20/economia/noticia/anthropic-nvidia-arrastam-nasdaq-perda-5-2195796",
+  "https://www.publico.pt/2026/11/20/culturaipsilon/noticia/renovadas-salas-museu-arte-antiga-luxo-seculos-vai-altar-cama-2195794"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/18/ciberataque-afeta-milhares-de-clientes-de-cooperativas-de-credito-na-irlanda",
-  "https://observador.pt/2026/11/18/ultimo-dia-de-greve-total-na-metro-transportes-do-sul-decorre-com-forte-adesao",
-  "https://observador.pt/programas/porque-sim-nao-e-resposta/ja-nao-conseguimos-pensar-em-profundidade",
-  "https://observador.pt/2026/11/18/roterdao-anuncia-ultimo-fim-de-semana-no-cais-do-sodre-altura-de-nos-despedirmos-e-continuarmos-a-ser-felizes-afirma-gerente-do-espaco",
-  "https://observador.pt/2026/11/18/mal-humorado-e-teimoso-biden-critica-zelensky-no-seu-livro-de-memorias",
-  "https://observador.pt/2026/11/18/nova-variante-da-covid-19-esta-a-espalhar-se-e-ja-chegou-a-europa-o-que-se-sabe",
-  "https://observador.pt/2026/11/18/bentley-nao-fabricou-um-unico-torcal-electrico-mas-ja-vendeu-todos",
   "https://observador.pt/2026/11/18/camara-de-lisboa-aprova-reforco-de-182-milhoes-de-euros-para-reabilitacao-de-bairros-municipais",
   "https://observador.pt/2026/11/18/pilar-del-rio-comissaria-da-candidatura-de-obidos-a-capital-portuguesa-da-cultura-2028",
   "https://observador.pt/2026/11/18/opus-diversidades-acredita-que-ue-pode-sancionar-portugal-se-reverter-direitos-lgbtqia",
@@ -1001,14 +994,16 @@
   "https://observador.pt/2026/11/20/maior-sindicato-da-psp-contra-proposta-do-governo-de-aumentos-de-salarios-em-2027",
   "https://observador.pt/2026/11/20/greve-fechou-oito-escolas-e-afetou-funcionamento-de-outras-40-na-madeira",
   "https://observador.pt/especiais/nem-dia-mais-curto-de-votacoes-impede-que-chega-e-ps-continuem-a-contrariar-governo-propinas-ficam-congeladas",
-  "https://observador.pt/programas/capitaes-na-america/leonor-simas-almeida-nunca-me-arrependi-de-ter-ido"
+  "https://observador.pt/programas/capitaes-na-america/leonor-simas-almeida-nunca-me-arrependi-de-ter-ido",
+  "https://observador.pt/programas/a-guerra-traduzida/ataque-aereo-massivo-provoca-estragos-em-pontes-e-cortes-de-energia-em-kiev",
+  "https://observador.pt/programas/a-guerra-traduzida/donald-trump-defende-reducao-de-arsenais-nucleares-entre-estados-unidos-russia-e-china",
+  "https://observador.pt/2026/11/20/oe2027-congelamento-das-propinas-e-fracasso-politico-do-governo-diz-academica-de-coimbra",
+  "https://observador.pt/programas/noticiario/as-noticias-das-21h-1823",
+  "https://observador.pt/programas/gabinete-de-guerra/a-russia-deixou-de-ser-uma-superpotencia",
+  "https://observador.pt/2026/11/20/estados-unidos-confirmam-falta-de-consenso-sobre-futuro-lider-da-onu-apos-nova-ronda-de-votacao",
+  "https://observador.pt/2026/11/20/moodys-melhora-rating-da-divida-portuguesa-com-confianca-na-reducao-da-divida"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/quando-as-coisas-estao-a-correr-bem-jorge-jesus-entra-numa-euforia-quando-comecam-a-correr-mal-afunda-se-com-a-equipa/6afb93f10cf235b99ef51255",
-  "https://cnnportugal.iol.pt/o-trigo-do-joio/podcast/podcast-o-trigo-do-joio/20260526/6a15e52ed34e28842c847f5c",
-  "https://cnnportugal.iol.pt/videos/a-russia-continua-a-lancar-o-terror-sobre-a-populacao-ucraniana/6afb92ec0cf235b99ef51254",
-  "https://cnnportugal.iol.pt/videos/como-pode-o-governo-resolver-o-problema-da-habitacao-centeno-da-uma-ideia/6afb8f500cf235b99ef51251",
-  "https://cnnportugal.iol.pt/videos/tem-havido-uma-paciencia-para-ana-paula-martins-que-chega-a-um-momento-em-que-ja-nao-vai-dar-mais/6afb8cf30cf2aafa0453eb74",
   "https://cnnportugal.iol.pt/videos/as-imagens-dos-ataques-russos-que-atingiram-duas-pontes-em-kiev/6afb8acb0cf2cb2507aa8d7b",
   "https://cnnportugal.iol.pt/videos/agressao-a-uma-jovem-numa-escola-de-lisboa-quem-e-que-estava-a-supervisionar-porque-e-que-nao-havia-um-adulto-ali/6afb89290cf2cb2507aa8d79",
   "https://cnnportugal.iol.pt/guardas-prisionais/greve/greve-dos-guardas-prisionais-ate-3-de-janeiro-pode-deixar-maioria-dos-reclusos-fechada-nas-celas-22-horas-por-dia/20261117/6afbf3a3d34e5a653d7346ed",
@@ -1503,6 +1498,11 @@
   "https://cnnportugal.iol.pt/oe2027/orcamento-do-estado-2027/governo-tera-de-rever-modelo-de-dispensa-de-genericos-nas-farmacias/20261120/6b00b6770cf22114c9128594",
   "https://cnnportugal.iol.pt/sismo-oeste-de-sines/cascais-sismo/dois-sismos-a-oeste-de-sines-sentidos-em-cascais/20261120/6b00b8ee0cf2c0fc744b70b2",
   "https://cnnportugal.iol.pt/manteigas/alerta-municipal/as-previsoes-preocupam-nos-manteigas-decreta-situacao-de-alerta-municipal-a-partir/20261120/6b00b56e0cf29f111c0f4200",
-  "https://cnnportugal.iol.pt/protecao-civil/anepc/protecao-civil-alerta-populacao-para-chuva-persistente-e-vento-forte-sobretudo-no-norte-e-centro/20261120/6b00b3e20cf22114c9128591"
+  "https://cnnportugal.iol.pt/protecao-civil/anepc/protecao-civil-alerta-populacao-para-chuva-persistente-e-vento-forte-sobretudo-no-norte-e-centro/20261120/6b00b3e20cf22114c9128591",
+  "https://cnnportugal.iol.pt/moody-s/rating-de-portugal/moody-s-sobe-rating-de-portugal-para-a2-com-perspetiva-estavel/20261120/6b00c55f0cf22114c91285ae",
+  "https://cnnportugal.iol.pt/nvidia/acoes-nvidia/acoes-da-nvidia-cairam-quase-14-esta-sexta-feira-empresa-regista-queda-de-32-7-nas-ultimas-duas-semanas/20261120/6b00c75c0cf2c0fc744b70d3",
+  "https://cnnportugal.iol.pt/donald-trump/apagoes-informaticos/trump-afirma-que-as-falhas-informaticas-nos-eua-nao-estiveram-relacionadas-entre-si/20261120/6b00bdbd0cf294b9345eb2e7",
+  "https://cnnportugal.iol.pt/aviso-vermelho/chuva-persistente/coimbra-viseu-e-guarda-passam-a-aviso-vermelho-devido-a-chuva-persistente/20261120/6b00c2b30cf2c0fc744b70c3",
+  "https://cnnportugal.iol.pt/cancro-do-pancreas/tumores/e-o-maior-avanco-que-vimos-em-decadas-medicamento-para-tratar-cancro-do-pancreas-reduziu-e-ate-eliminou-doenca/20261120/6b0093e80cf22114c912855d"
  ]
 }
