@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/15/desporto/noticia/fc-porto-conquista-terceira-taca-continental-hoquei-patins-2195052",
-  "https://www.publico.pt/2026/11/15/local/entrevista/catia-bruno-amadora-microcosmos-universo-especifico-brotou-meio-cimento-2193082",
   "https://www.publico.pt/2026/11/15/desporto/noticia/judoca-rochele-nunes-conquista-bronze-grand-prix-zagreb-2195053",
   "https://www.publico.pt/2026/11/15/mundo/noticia/ue-apela-israel-permita-entrada-urgente-ajuda-humanitaria-gaza-apos-inundacoes-2195047",
   "https://www.publico.pt/2026/11/15/local/noticia/junta-exigiu-retirada-normas-mercado-natal-proibiam-protestos-rossio-2195059",
@@ -499,11 +497,11 @@
   "https://www.publico.pt/2026/11/21/sociedade/noticia/ausencia-bodycams-psp-pos-dois-policias-camaras-gopro-captar-imagens-2195709",
   "https://www.publico.pt/2026/11/21/ciencia/entrevista/reitores-nao-estao-acordo-pare-fcttenure-programa-alianca-2195775",
   "https://www.publico.pt/2026/11/21/politica/opiniao/governo-assustado-2195701",
-  "https://www.publico.pt/2026/11/21/ciencia/opiniao/regresso-passado-2195755"
+  "https://www.publico.pt/2026/11/21/ciencia/opiniao/regresso-passado-2195755",
+  "https://www.publico.pt/2026/11/21/politica/noticia/isaltino-quer-ocupar-centro-arrisca-agravar-fragmentacao-quer-combater-2195654",
+  "https://www.publico.pt/2026/11/21/publico-brasil/noticia/costela-rainha-novo-menu-bono-lisboa-lado-baiao-dois-2195604"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/18/parlamento-marca-para-18-de-dezembro-eleicoes-do-cfsirp-e-da-lusa-apos-dois-adiamentos-na-sessao-legislativa",
-  "https://observador.pt/2026/11/18/estado-compra-bracelete-da-rainha-dona-amelia-em-leilao-em-genebra-por-220-mil-euros-pregadeira-da-monarca-ficou-de-fora-da-compra",
   "https://observador.pt/2026/11/18/jose-luis-carneiro-pedro-nuno-nao-e-um-fantasma-no-ps-e-mais-criativo-do-que-passos",
   "https://observador.pt/programas/noticiario/as-noticias-das-21h-1821",
   "https://observador.pt/2026/11/18/ganancia-david-beckham-exige-36-milhoes-de-euros-a-empresa-que-vende-os-seus-perfumes-em-lojas-de-desconto-e-bombas-de-gasolina",
@@ -1001,13 +999,11 @@
   "https://observador.pt/programas/m-quinas-que-pensam/ate-onde-pode-ir-a-guerra-eua-vs-china-sobre-ia",
   "https://observador.pt/programas/a-hist-ria-do-dia/quem-vai-pagar-a-fatura-do-orcamento-que-ai-vem",
   "https://observador.pt/programas/noticiario/as-noticias-das-7h-2570",
-  "https://observador.pt/opiniao/a-escola-dos-20-valores-e-dos-relatorios-em-serie"
+  "https://observador.pt/opiniao/a-escola-dos-20-valores-e-dos-relatorios-em-serie",
+  "https://observador.pt/programas/conversas-do-fim-do-mundo/de-paredes-de-coura-para-o-mundo",
+  "https://observador.pt/programas/noticiario/as-noticias-das-8h-2584"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/nvidia/jensen-huang/a-critica-e-nova-verdade-que-explica-a-posicao-de-trump-em-todo-o-caso-nvidia/20261117/6afc0d0bd34e9ce6f1b44a23",
-  "https://cnnportugal.iol.pt/turquia/istambul/turquia-invade-televisao-da-oposicao-em-istambul-detem-funcionarios-e-nomeia-administrador-judicial/20261117/6afc0bf4d34e5a653d7346fb",
-  "https://cnnportugal.iol.pt/videos/robert-pattinson-como-james-bond-a-escolha-esta-a-dividir-opinioes/6afc037e0cf2051820fb1e08",
-  "https://cnnportugal.iol.pt/deutsche-bank/oligarcas-russos/documentos-secretos-revelam-que-o-deutsche-bank-privilegiou-lucros-com-oligarcas-russos-apesar-dos-alertas-internos/20261117/6afc2dfad34e5a653d734725",
   "https://cnnportugal.iol.pt/guerra/ucrania/navio-carregado-de-propano-afunda-se-no-mar-negro-apos-ser-atingido-por-drones/20261117/6afc309dd34e9ce6f1b44a5c",
   "https://cnnportugal.iol.pt/videos/ataque-a-ponte-de-kerch-a-ucrania-percebe-que-a-sua-janela-temporal-e-relativamente-curta/6afc2b280cf2aafa0453ebd8",
   "https://cnnportugal.iol.pt/portugal/defice/aviso-de-bruxelas-este-ano-ainda-deve-haver-excedente-mas-portugal-pode-entrar-em-defice-em-breve/20261117/6afc2ae2d34e5a653d734723",
@@ -1503,6 +1499,10 @@
   "https://cnnportugal.iol.pt/videos/alguma-medida-aprovada-por-ps-e-chega-fara-a-diferenca-no-orcamento-das-familias-nao-diz-o-economista-joao-loureiro/6b00cae20cf2c0fc744b70db",
   "https://cnnportugal.iol.pt/videos/xi-quis-humilhar-a-europa-e-putin-com-a-cimeira-trilateral/6b00cb120cf2c0fc744b70dc",
   "https://cnnportugal.iol.pt/videos/nao-foi-biden-que-disse-que-acabava-com-a-guerra-da-ucrania-em-24-horas-e-passado-dois-anos-ca-estamos/6b00cb400cf22114c91285b6",
-  "https://cnnportugal.iol.pt/videos/desvalorizar-o-paredes-isso-comigo-nao-e-possivel/6b00eb780cf22114c91285de"
+  "https://cnnportugal.iol.pt/videos/desvalorizar-o-paredes-isso-comigo-nao-e-possivel/6b00eb780cf22114c91285de",
+  "https://cnnportugal.iol.pt/fbi/ataque-informatico/fbi-volta-a-ser-alvo-de-ciberataque-desta-vez-a-sua-base-de-dados-criminal/20261121/6b0158850cf22114c91285fc",
+  "https://cnnportugal.iol.pt/ameaca/bomba/policia-ja-identificou-o-autor-da-falsa-ameaca-de-atentado-a-bomba-no-congresso-do-chega/20261121/6b0157edd34e08e17ee2c27b",
+  "https://cnnportugal.iol.pt/podcast/contrapoder/podcast-contrapoder/20260425/65789e10d34e371fc0bade48",
+  "https://cnnportugal.iol.pt/violencia/escola/episodios-de-violencia-estao-a-aumentar-nas-escolas-estamos-a-criar-verdadeiros-delinquentes-comportamentais/20261121/6aff1886d34e00c0c061315f"
  ]
 }
