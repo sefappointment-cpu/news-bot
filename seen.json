@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/16/mundo/noticia/russia-abate-1336-drones-ucranianos-maiores-ataques-conflito-2195071",
-  "https://www.publico.pt/2026/11/16/sociedade/noticia/escola-nacional-bombeiros-dificuldades-financeiras-pagar-formacao-2195070",
   "https://www.publico.pt/2026/11/16/publico-brasil/noticia/startup-lusa-unese-gigante-ifood-decifrar-mesa-brasileira-2194998",
   "https://www.publico.pt/2026/11/16/economia/noticia/salario-minimo-aproximarse-salario-medio-ritmo-lento-2195046",
   "https://www.publico.pt/2026/11/16/azul/noticia/portugal-15-dias-provar-bruxelas-proteger-golfinhos-2194899",
@@ -499,18 +497,11 @@
   "https://www.publico.pt/2026/11/21/sociedade/noticia/maior-sindicato-psp-proposta-governo-aumentos-salarios-2027-2195817",
   "https://www.publico.pt/2026/11/21/politica/noticia/psp-identificou-autor-ameaca-bomba-convencao-chega-2195816",
   "https://www.publico.pt/2026/11/21/azul/noticia/so-paises-oficialmente-ricos-pagar-accao-climatica-2195496",
-  "https://www.publico.pt/2026/11/21/sociedade/noticia/apoio-educativo-escolas-92-considera-trabalha-demasiado-salario-recebe-2195680"
+  "https://www.publico.pt/2026/11/21/sociedade/noticia/apoio-educativo-escolas-92-considera-trabalha-demasiado-salario-recebe-2195680",
+  "https://www.publico.pt/2026/11/21/sociedade/noticia/supremo-confirma-pena-quase-15-anos-prisao-atropelamento-mortal-lisboa-2195821",
+  "https://www.publico.pt/2026/11/21/video/robert-pattinson-novo-007-memes-nao-perdoam-20261121-103003"
  ],
  "Observador": [
-  "https://observador.pt/programas/a-guerra-traduzida/eua-avisam-ultima-oportunidade-para-negociar-acordo",
-  "https://observador.pt/2026/11/18/chega-da-a-mao-ao-ps-para-converter-eventual-bonus-de-2027-nas-pensoes-em-aumento-permanente",
-  "https://observador.pt/programas/resposta-pronta/moedas-fugiu-a-apurar-a-verdade-sobre-o-elevador-da-gloria",
-  "https://observador.pt/especiais/como-matar-as-bacterias-que-se-escondem-dentro-das-nossas-celulas",
-  "https://observador.pt/2026/11/18/vigaristas-vao-prestar-contas-democratas-ameacam-trump-com-investigacoes-apos-vitoria-nas-intercalares",
-  "https://observador.pt/2026/11/18/camara-de-oeiras-aprova-orcamento-de-377-milhoes-de-euros-com-prioridade-para-educacao-e-habitacao",
-  "https://observador.pt/2026/11/18/ue-quer-paises-a-cederem-patriot-a-ucrania-recebendo-em-troca-misseis-encomendados-por-kiev",
-  "https://observador.pt/programas/noticiario/as-noticias-das-23h-2212",
-  "https://observador.pt/2026/11/18/manteigas-chuva-intensa-arrasta-pedras-e-lama-pelas-ruas",
   "https://observador.pt/2026/11/18/acusacoes-a-tapia-falhas-na-despedida-e-a-marca-de-cervejas-que-foi-a-gota-de-agua-messi-proibe-afa-de-utilizar-o-seu-nome-e-imagem",
   "https://observador.pt/2026/11/18/marinha-resgata-passageiro-americano-de-83-anos-com-dificuldades-respiratorias-a-bordo-de-navio-entre-os-acores-e-a-madeira",
   "https://observador.pt/2026/11/18/acores-sob-aviso-amarelo-sao-miguel-e-santa-maria-com-chuva-forte-e-trovoada-a-partir-desta-quinta-feira",
@@ -1001,14 +992,18 @@
   "https://observador.pt/programas/atualidade/andre-ventura-discursa-na-abertura-do-6-o-congresso-do-chega-emissao-especial",
   "https://observador.pt/2026/11/21/numero-de-armas-apreendidas-pela-gnr-cresce-496-no-primeiro-semestre",
   "https://observador.pt/especiais/depois-do-fim-da-historia-as-memorias-de-francis-fukuyama",
-  "https://observador.pt/programas/atualidade/todos-os-discursos-da-vii-convencao-nacional-do-chega-emissao-especial"
+  "https://observador.pt/programas/atualidade/todos-os-discursos-da-vii-convencao-nacional-do-chega-emissao-especial",
+  "https://observador.pt/2026/11/21/cinco-distritos-com-aviso-vermelho-do-ipma-para-chuva-forte-leiria-e-santarem-juntam-se-a-coimbra-guarda-e-viseu",
+  "https://observador.pt/2026/11/21/autor-da-ameaca-de-bomba-e-portugues-de-51-anos",
+  "https://observador.pt/programas/noticiario/as-noticias-das-12h-2503",
+  "https://observador.pt/programas/emissao-especial/estamos-a-chegar-ventura-pede-uniao-no-partido-para-ganhar-o-pais",
+  "https://observador.pt/programas/noticiario/as-noticias-das-11h-1339",
+  "https://observador.pt/programas/o-desporto-em-duas-geracoes/ha-poucas-modalidades-em-que-se-possa-jogar-durante-60-anos",
+  "https://observador.pt/programas/e-o-vencedor-e/ameaca-de-bomba-panico-real-ou-estrategia-do-chega",
+  "https://observador.pt/2026/11/21/costa-propoe-corte-de-10-face-a-proposta-inicial-para-orcamento-da-ue-ate-2034",
+  "https://observador.pt/2026/11/21/supremo-confirma-pena-de-quase-15-anos-de-prisao-por-atropelamento-mortal-em-lisboa"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/videos/este-cancro-pode-evoluir-durante-anos-sem-sintomas-quais-sao-os-sinais-de-alerta/6afc2e900cf2cb2507aa8df7",
-  "https://cnnportugal.iol.pt/videos/franca-volta-as-ruas-contra-o-custo-de-vida-aumento-do-salario-minimo-nao-convence-sindicatos/6afc38220cf235b99ef512fe",
-  "https://cnnportugal.iol.pt/videos/colisao-entre-dois-comboios-em-praga-faz-dezenas-de-feridos-quatro-em-estado-grave/6afc37d20cf2cb2507aa8e32",
-  "https://cnnportugal.iol.pt/videos/portugal-pode-voltar-aos-defices-temos-perdido-margem-de-manobra/6afc532b0cf2051820fb1f20",
-  "https://cnnportugal.iol.pt/florida/turbulencia/turbulencia-forte-faz-varios-feridos-em-voo-nos-eua/20261117/6afc580a0cf2051820fb1f22",
   "https://cnnportugal.iol.pt/videos/violencia-nas-escolas-queremos-antecipar-queremos-mitigar-nao-queremos-ter-resultados-destes/6afc52a20cf2051820fb1f1d",
   "https://cnnportugal.iol.pt/espanha/salario-minimo/funcao-publica-vai-ser-aumentada-em-4-5-em-espanha-salario-minimo-sobe-para-1-286-euros/20261117/6afc55b20cf235b99ef5138b",
   "https://cnnportugal.iol.pt/reforma/idade-da-reforma/governador-do-banco-de-portugal-avisa-e-imperativo-que-a-idade-da-reforma-continue-a-subir/20261117/6afc54310cf2aafa0453ec78",
@@ -1503,6 +1498,11 @@
   "https://cnnportugal.iol.pt/videos/portugueses-nao-querem-solucoes-para-amanha-precisam-delas-ja-cgtp-volta-as-ruas-este-sabado/6b0174150cf294b9345eb365",
   "https://cnnportugal.iol.pt/videos/rio-atmosferico-cada-vez-mais-perto-de-portugal-proximas-seis-horas-merecem-grande-atencao/6b016bd60cf294b9345eb35c",
   "https://cnnportugal.iol.pt/musica/anos-90/a-banda-sonora-de-um-filme-dos-anos-90-que-ainda-faz-bater-rapido-o-coracao-dos-millennials/20261121/6afee014d34e00c0c06130fe",
-  "https://cnnportugal.iol.pt/chega/ameaca-de-bomba/ventura-agradece-a-psp-apos-ameaca-de-bomba-na-convencao-do-chega/20261121/6b0178870cf22114c912863d"
+  "https://cnnportugal.iol.pt/chega/ameaca-de-bomba/ventura-agradece-a-psp-apos-ameaca-de-bomba-na-convencao-do-chega/20261121/6b0178870cf22114c912863d",
+  "https://cnnportugal.iol.pt/aviso-vermelho/chuva-intensa/chuva-intensa-viseu-guarda-e-coimbra-sob-aviso-vermelho-ate-as-18-00/20261121/6b018d250cf294b9345eb390",
+  "https://cnnportugal.iol.pt/jose-luis-carneiro/luis-montenegro/ps-acusa-primeiro-ministro-de-estar-a-ser-ingrato-e-de-mostrar-desespero/20261121/6b018a720cf22114c9128658",
+  "https://cnnportugal.iol.pt/andre-ventura/chega/ventura-pede-unidade-no-chega-e-diz-estar-na-curva-da-historia-para-governar/20261121/6b0189ae0cf2c0fc744b7145",
+  "https://cnnportugal.iol.pt/vacinas/vacina/esta-a-espera-de-um-novo-neto-entao-e-melhor-consultar-o-seu-medico-antes-que-ele-nasca/20261121/6afc5832d34e5a653d734787",
+  "https://cnnportugal.iol.pt/videos/assembleia-da-republica-esta-a-tentar-entrar-na-esfera-do-poder-executivo-e-governar/6b017e170cf29f111c0f428d"
  ]
 }
