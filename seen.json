@@ -1,7 +1,5 @@
 {
  "Público": [
-  "https://www.publico.pt/2026/11/17/local/noticia/deputado-municipal-porto-detido-entrada-assembleia-violencia-domestica-2195202",
-  "https://www.publico.pt/2026/11/17/opiniao/opiniao/uls-corrupcao-eterno-problema-cartao-partidario-2195098",
   "https://www.publico.pt/2026/11/16/mundo/noticia/falha-informatica-united-airlines-atrasa-418-voos-eua-dias-paralisacao-faa-2195200",
   "https://www.publico.pt/2026/11/16/mundo/noticia/avigdor-lieberman-preside-comissao-defesa-israel-vai-avaliar-isencao-militar-ultraortodoxos-2195196",
   "https://www.publico.pt/2026/11/16/desporto/noticia/sporting-volta-golear-vence-grupo-b-taca-intercontinental-futsal-2195199",
@@ -499,20 +497,11 @@
   "https://www.publico.pt/2026/11/22/mundo/opiniao/vayase-senor-sanchez-2195681",
   "https://www.publico.pt/2026/11/22/culturaipsilon/entrevista/hector-parra-opera-hoje-saber-expressar-iguais-2195260",
   "https://www.publico.pt/2026/11/22/enter/noticia/hoje-ha-rali-electricos-lisboa-2195865",
-  "https://www.publico.pt/2026/11/22/desporto/noticia/max-verstappen-vence-gp-las-vegas-formula-1-2195866"
+  "https://www.publico.pt/2026/11/22/desporto/noticia/max-verstappen-vence-gp-las-vegas-formula-1-2195866",
+  "https://www.publico.pt/2026/11/22/mundo/noticia/recuperados-sete-sacos-restos-mortais-apos-incendio-fabrica-doces-indonesia-2195868",
+  "https://www.publico.pt/2026/11/22/desporto/noticia/mexico-anuncia-apoio-gianni-infantino-fifa-2195867"
  ],
  "Observador": [
-  "https://observador.pt/2026/11/19/ventura-quer-governar-e-considera-que-o-crescimento-do-chega-ainda-nao-e-suficiente-para-mudar-o-sistema-politico",
-  "https://observador.pt/programas/noticiario/as-noticias-das-13h-2510",
-  "https://observador.pt/2026/11/19/anthropic-ja-tocou-o-sino-no-nasdaq-amodei-diz-se-otimista-em-relacao-ao-futuro-mas-volta-a-alertar-para-riscos",
-  "https://observador.pt/programas/palavra-de-inovador/granter-e-humanos-agentes-de-ia-e-o-controlo-do-risco-total-2",
-  "https://observador.pt/programas/noticiario/as-noticias-das-15h-2521",
-  "https://observador.pt/programas/palavra-de-inovador/granter-e-humanos-agentes-de-ia-e-o-controlo-do-risco-total",
-  "https://observador.pt/programas/boa-moeda-ma-moeda/edp-comercial-aumenta-precos-da-eletricidade-em-4",
-  "https://observador.pt/2026/11/19/combustiveis-fosseis-desaparecem-do-projeto-de-texto-final-da-cop31",
-  "https://observador.pt/2026/11/19/peres-jepchirchir-campea-mundial-de-maratona-e-suspensa-tres-anos-por-uso-de-epo",
-  "https://observador.pt/2026/11/19/obras-do-barroco-brasileiro-aleijadinho-chegam-pela-primeira-vez-aos-museus-vaticanos",
-  "https://observador.pt/2026/11/19/tribunal-internacional-de-justica-determina-que-myanmar-cometeu-genocidio-contra-os-rohingya",
   "https://observador.pt/2026/11/19/greve-de-guardas-prisionais-ameaca-fecho-ate-ao-fim-do-ano-de-ala-problematica-da-cadeia-de-lisboa",
   "https://observador.pt/2026/11/19/ministerio-do-ambiente-aprova-protecoes-de-captacoes-de-agua-que-servem-mais-de-900-pessoas-no-alto-minho",
   "https://observador.pt/2026/11/19/presidente-do-supremo-alerta-que-estado-de-direito-de-nada-serve-se-cidadaos-nao-confiam",
@@ -1001,12 +990,20 @@
   "https://observador.pt/programas/noticiario/as-noticias-das-9h-2539",
   "https://observador.pt/especiais/resistir-aos-abalos-o-ecossistema-antissistema-de-alexandre-estrela-em-veneza",
   "https://observador.pt/programas/em-40-minutos/joao-reis-tento-nao-passar-o-meu-pessimismo-aos-meus-filhos",
-  "https://observador.pt/programas/manual-de-instrues-para-humanos/especial-sono-insonia-turnos-e-bebes-as-suas-perguntas"
+  "https://observador.pt/programas/manual-de-instrues-para-humanos/especial-sono-insonia-turnos-e-bebes-as-suas-perguntas",
+  "https://observador.pt/2026/11/22/byd-ja-vende-veiculo-que-recolhe-volante-para-ganhar-espaco",
+  "https://observador.pt/2026/11/22/projeto-de-acordo-da-cop31-reafirma-a-obrigacao-financeira-dos-paises-ricos-mas-sem-valores",
+  "https://observador.pt/2026/11/22/mexico-anuncia-apoio-a-gianni-infantino-na-corrida-pela-fifa",
+  "https://observador.pt/2026/11/22/alemanha-e-franca-rejeitam-o-inaceitavel-novo-projeto-de-acordo-da-cop31",
+  "https://observador.pt/2026/11/22/ministro-sul-coreano-da-educacao-demite-se-devido-a-medidas-contra-a-ia-em-exame-nacional",
+  "https://observador.pt/programas/noticiario/as-noticias-das-10h-2533",
+  "https://observador.pt/liveblogs/andre-ventura-em-entrevista-na-convencao-do-chega",
+  "https://observador.pt/2026/11/22/sondagens-anunciam-governo-pp-vox-a-uma-semana-de-legislativas-ideologicas-em-espanha",
+  "https://observador.pt/2026/11/22/eisenkot-diz-que-ataques-de-colonos-na-cisjordania-sao-terrorismo-judaico",
+  "https://observador.pt/2026/11/22/autoridades-indonesias-dizem-que-tres-pessoas-morreram-e-36-estao-desaparecidas-em-incendio-em-jacarta",
+  "https://observador.pt/2026/11/22/incendio-numa-habitacao-em-vale-de-cambra-provoca-quatro-desalojados-e-um-ferido"
  ],
  "CNN Portugal": [
-  "https://cnnportugal.iol.pt/presidencia-aberta/antonio-jose-seguro/seguro-realiza-segunda-presidencia-aberta-entre-lisboa-e-o-alentejo-dedicada-a-coesao-social/20261118/6afd7348d34e5a653d7348c0",
-  "https://cnnportugal.iol.pt/videos/as-imagens-da-chegada-de-trump-a-china/6afd713d0cf235b99ef514ea",
-  "https://cnnportugal.iol.pt/videos/tem-camaras-de-vigilancia-em-casa-o-aviso-de-um-especialista-sobre-os-riscos-que-pode-estar-a-correr/6afd606c0cf2aafa0453ede3",
   "https://cnnportugal.iol.pt/videos/ataque-a-ponte-da-crimeia-isto-pode-virar-se-contra-kiev-se-putin-souber-jogar-a-sua-narrativa-com-trump/6afd59be0cf2051820fb2054",
   "https://cnnportugal.iol.pt/videos/xanana-gusmao-e-um-dos-momentos-mais-divertidos-numa-importante-cimeira-foi-assim/6afd6e4d0cf2cb2507aa8fde",
   "https://cnnportugal.iol.pt/habitacao/porto/governo-vai-receber-dois-grupos-da-acampada-do-porto/20261118/6afd6d64d34e9ce6f1b44bfe",
@@ -1503,6 +1500,9 @@
   "https://cnnportugal.iol.pt/videos/russia-e-ucrania-podem-chegar-a-paz-ate-janeiro-nao-estamos-a-ver-um-desanuviamento-do-conflito-mas-sim-uma-escalada/6b02ae800cf2c0fc744b7212",
   "https://cnnportugal.iol.pt/videos/nova-variante-da-covid-19-liga-se-muito-mais-facilmente-as-celulas-humanas-e-ja-esta-na-europa/6b02a33c0cf2c0fc744b7205",
   "https://cnnportugal.iol.pt/esqueleto/sarcofago/esqueleto-misterioso-num-sarcofago-romano-da-abadia-de-westminster-pode-finalmente-ter-um-nome/20261122/6af4c000d34e5a653d733e29",
-  "https://cnnportugal.iol.pt/videos/as-imagens-da-destruicao-em-kiev-depois-de-mais-uma-noite-de-ataques-russos/6b02a4170cf22114c912871a"
+  "https://cnnportugal.iol.pt/videos/as-imagens-da-destruicao-em-kiev-depois-de-mais-uma-noite-de-ataques-russos/6b02a4170cf22114c912871a",
+  "https://cnnportugal.iol.pt/videos/kiev-atinge-exclave-russo-muito-perto-do-centro-da-europa-os-ataques-ucranianos-sao-cada-vez-mais-ousados/6b02c2150cf294b9345eb44c",
+  "https://cnnportugal.iol.pt/videos/chuva-intensa-ja-deixou-o-pais-e-o-sol-volta-a-brilhar-hoje-teremos-um-dia-idilico-bom-para-arejar-as-casas/6b02ba170cf294b9345eb446",
+  "https://cnnportugal.iol.pt/psicologo-responde/motivacao-para-estudar/luis-filipe-o-psicologo-responde-como-os-pais-podem-motivar-para-estudar/20261122/6b007dc80cf22114c91284fb"
  ]
 }
